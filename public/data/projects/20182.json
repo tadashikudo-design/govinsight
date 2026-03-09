@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20182",
+  "name": "国債関係システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本システムは、国債入札を確実かつ円滑に行い、必要とされる財政資金を確実に調達することを目的としている。",
+  "situation": "今後も大量の国債発行が見込まれる中、市場のニーズ・動向も踏まえた国債の発行を確実かつ円滑に行うことが重要である。",
+  "overview": "本システムは、国債等の入札事務処理や管理事務（発行した国債に関する様々な情報をデータベース化）など、国債関係業務全般に幅広く利用している。／※国債の利払・償還については、日本銀行金融ネットワークシステム（日銀ネット）において実施されている。",
+  "category": "前年度事業",
+  "startYear": "2008",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 423602204.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": 423602000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 96529000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社データストレージ",
+      "corporate_number": "9010902025663",
+      "amount": 76000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社データストレージ",
+      "corporate_number": "9010902025663",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＸワンビシアーカイブズ",
+      "corporate_number": "4010401065760",
+      "amount": 45000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＸワンビシアーカイブズ",
+      "corporate_number": "4010401065760",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 176000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 326776000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

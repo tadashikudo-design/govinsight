@@ -1,0 +1,193 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5556",
+  "name": "国家公務員身分証共通発行管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「『日本再興戦略』改訂2015」（平成27年6月30日閣議決定）及び「世界最先端IT国家創造宣言」（平成27年6月30日閣議決定）において、マイナンバーカードの普及・利活用の促進のため「2016年1月から国家公務員身分証との一体化」を進めることが位置付けられた。本事業は、マイナンバーカードと国家公務員身分証の一体化を進めることを通じ、それまで各府省庁で区々となっていた国家公務員身分証の規格の統一化を実現するとともに、これに伴う国家公務員身分証の発行業務及び発行システムの共通化による運用コスト削減を図ることを目的に実施する。",
+  "situation": "令和５年度に対象とする全ての府省で導入が開始された本システムは、国の重要なセキュリティの位置役を担うものであり、社会情勢の変化等に対応しつつ、継続的かつ安定的な稼働が求められる。",
+  "overview": "国家公務員身分証に必要な職員情報等の設定・管理等の機能を持つ共通発行管理システム等の安定稼働のため、各府省からのカード発行業務におけるシステム操作支援、入退館ゲートシステムの導入や更改への支援、サーバへのパッチ適用の設計及び作業、サポート切れソフトウェアの切替え対応等を実施する。また、より効率的なシステム運営を実施するために、最新の環境への移行を実施する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 239939764.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 60715820.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 160446000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 68000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 39994000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 983000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 995000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": 18744000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイプルジヤパン",
+      "corporate_number": "7010401004278",
+      "amount": 13095000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイプルジヤパン",
+      "corporate_number": "7010401004278",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000462523",
+      "name": "国家公務員身分証共通発行管理システムの今後の改修等に向けた調査研究",
+      "awardDate": "2024-08-30",
+      "price": 36358000.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000487049",
+      "name": "令和７年度国家公務員身分証共通発行管理システムの運用・保守業務等の請負",
+      "awardDate": "2025-03-10",
+      "price": 40210020.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000531391",
+      "name": "国家公務員身分証共通発行管理システムの失効リスト掲載数増加への恒久対応等に関する改修",
+      "awardDate": "2025-07-28",
+      "price": 127271744.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000559154",
+      "name": "令和８年度国家公務員身分証共通発行管理システムの運用・保守業務等の請負",
+      "awardDate": "2026-03-04",
+      "price": 36100000.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20091",
+  "name": "科学的介護情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "科学的介護情報システム（以下「LIFE」という。）を通じて介護事業所より高齢者の状態やケアの内容等の情報を収集・分析し、エビデンスの構築及び事業所へのフィードバック等により介護現場でのPDCAサイクルを促進することで、科学的効果の裏付けされた自立支援の実現を目指す。",
+  "situation": "科学的裏付けに基づく質の高い介護サービスの実現のため、入力項目等の精査や事業所の入力負担を軽減等を行い、LIFEをさらに普及していく必要がある。",
+  "overview": "介護施設・事業所に介護サービス利用者の状態や、行っているケアの計画・内容などを一定の様式で提出していただき、入力内容を集計・分析し、当該施設や利用者にフィードバックする。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2026",
+  "rsUrl": "https://www.mhlw.go.jp/stf/shingi2/0000198094_00037.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 608279760.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 608279000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 488911500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 119368260.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 108431400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｓｋｙ株式会社",
+      "corporate_number": "6120001056148",
+      "amount": 9812110.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｓｋｙ株式会社",
+      "corporate_number": "6120001056148",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ライトクルー株式会社",
+      "corporate_number": "1010501029404",
+      "amount": 25164370.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ライトクルー株式会社",
+      "corporate_number": "1010501029404",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣビジネスインテリジェンス株式会社",
+      "corporate_number": "4010401043667",
+      "amount": 4681050.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣビジネスインテリジェンス株式会社",
+      "corporate_number": "4010401043667",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

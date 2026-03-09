@@ -1,0 +1,376 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20461",
+  "name": "近畿地方整備局行政情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "国土交通省　近畿地方整備局は、河川、道路、国営公園、官庁施設等、近畿地方（大阪府、京都府、福井県、滋賀県、兵庫県、和歌山県および三重県の一部）における社会資本の整備や維持管理、自然災害発生時の対応等の業務を行っている。／近畿地方整備局行政情報システムは、当該業務を遂行するために必要な資料作成、職員間の情報共有ならびに一般国民への情報提供等の機能を提供するものである。",
+  "situation": "国土交通省行政情報基盤システムへの機能統合やサーバのクラウド化等により、災害や情報セキュリティに強いシステムを構築しつつ、システムのコスト縮減を実施する必要がある。次期基盤システムへの移行動向も踏まえ、効率的な整備や運用方法を検討する。",
+  "overview": "近畿地方整備局行政情報システムは、行政事務を遂行するために必要な資料作成、職員間の情報共有ならびに一般国民への情報提供等の機能を提供するものである。",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1014771000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 1014771471.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": 476208583.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "みずほ東芝リース株式会社",
+      "corporate_number": "4010701026198",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 265287000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 82876000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 75118989.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社メディア・クラフト",
+      "corporate_number": "6180001065671",
+      "amount": 67851000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社メディア・クラフト",
+      "corporate_number": "6180001065671",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社メディア・クラフト",
+      "corporate_number": "6180001065671",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社オプテージ",
+      "corporate_number": "9120001062589",
+      "amount": 18373894.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オプテージ",
+      "corporate_number": "9120001062589",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社オプテージ",
+      "corporate_number": "9120001062589",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": 13676245.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 8276400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": 3521760.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 2195380.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社堀通信",
+      "corporate_number": "9130001041286",
+      "amount": 1087020.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社堀通信",
+      "corporate_number": "9130001041286",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社アプセル",
+      "corporate_number": "6120001114681",
+      "amount": 299200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アプセル",
+      "corporate_number": "6120001114681",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

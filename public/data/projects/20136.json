@@ -1,0 +1,194 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20136",
+  "name": "特殊車両通行許可システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "全国同水準のサービスレベルによる特殊車両通行手続きのオンライン利用の提供及び特殊車両の通行手続きの迅速化に貢献することを目的とする。",
+  "situation": "物流2024年問題解決に向けた特殊車両通行制度の利便性向上や、後年度予算の平準化が課題である。",
+  "overview": "道路法第47条の2に基づき、特殊車両通行許可申請書の作成、オンラインによる申請受付、申請者の審査等をシステムにて実施し、道路構造の保全・交通の危険防止を目的に特殊車両通行許可システムを整備・運用している。／また、令和4年4月施行の改正道路法第47条の4～10に基づき、大型車両の通行に係る手続きの合理化を図るため、寸法、重量等に係る一定の限度を超える車両（限度超過車両）を通行させようとするものが、あらかじめ国の登録を受けた車両について、通行が可能な経路をオンラインで即時に確認し、通行できることを目的に特殊車両通行確認システム及び特殊車両モニタリングシステムを整備・運用している。",
+  "category": "前年度事業",
+  "startYear": "2003",
+  "endYear": "2028",
+  "rsUrl": "https://www.mlit.go.jp/road/tokusya/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1729217000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 1729217000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本デジタル道路地図協会",
+      "corporate_number": "2010005018910",
+      "amount": 50638000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本デジタル道路地図協会",
+      "corporate_number": "2010005018910",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本デジタル道路地図協会",
+      "corporate_number": "2010005018910",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": 568732000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 136974000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "指名競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": 597872000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 35860000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "Ｒ５特殊車両通行確認システム他改良業務建設技術研究所・日立製作所共同提案体",
+      "corporate_number": "9999999999999",
+      "amount": 339141000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｒ５特殊車両通行確認システム他改良業務建設技術研究所・日立製作所共同提案体",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

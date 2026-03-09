@@ -1,0 +1,280 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "18",
+  "name": "政府共通ネットワーク（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "政府共通ネットワーク担当",
+  "purpose": "政府専用の情報通信ネットワークの基盤として、通信サービス、ＤＮＳ（名前解決）サービス、電子メール中継サービス、時刻同期サービス、総合行政ネットワークシステム（ＬＧＷＡＮ）との相互接続サービス等を提供する。",
+  "situation": "政府共通ネットワークは、令和5年12月末に後継のネットワークであるGSS G-Netへの移行を完了し、令和5年度末で運用を終了する予定であったが、政府共通プラットフォームの運用延長に伴い、政府共通ネットワークについても令和６年度まで運用を継続することとなった。このため令和6年度の運用終了まで安定的な運用を行う必要がある。／また運用終了に合わせて、令和6年度中に各利用機関、メインセンター及びバックアップセンターの機器・回線等の撤去作業及び原状回復を行う必要がある。",
+  "overview": "政府共通ＰＦへの政府情報システムの統合・集約化の推進等に伴う情報流通量の増大や、次世代の通信規約であるIPv6 への対応といった新たな情報通信ニーズを踏まえ、政府共通ＰＦとの整合性を確保した政府専用の情報通信ネットワーク基盤として整備された政府共通ネットワークの運用。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2024",
+  "rsUrl": "",
+  "totalAmount": 272574000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 209192000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 2801123152.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 2570000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1753000000.0,
+      "exec_rate": 1.09085,
+      "total": 1607000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": 80262000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 38017947.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": 29041648.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通エフネッツサポート株式会社",
+      "corporate_number": "7020001065934",
+      "amount": 9240000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通エフネッツサポート株式会社",
+      "corporate_number": "7020001065934",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通エフネットサービス株式会社",
+      "corporate_number": "7020001077194",
+      "amount": 1045000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通エフネットサービス株式会社",
+      "corporate_number": "7020001077194",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 5500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイエスエイプラン",
+      "corporate_number": "7010401064446",
+      "amount": 6291450.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイエスエイプラン",
+      "corporate_number": "7010401064446",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ミツイワ株式会社",
+      "corporate_number": "9011001022577",
+      "amount": 2750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ミツイワ株式会社",
+      "corporate_number": "9011001022577",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＡＬＪＯＹ株式会社",
+      "corporate_number": "7010001205383",
+      "amount": 4257000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＬＪＯＹ株式会社",
+      "corporate_number": "7010001205383",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": 128930000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 11380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": 2935000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000459939",
+      "name": "令和６年度政府共通ネットワーク（LGWAN相互接続機能）の更改に係る設計支援業務",
+      "awardDate": "2024-08-23",
+      "price": 272574000.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

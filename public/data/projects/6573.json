@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6573",
+  "name": "政府共通決済基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "政府共通決済基盤担当",
+  "purpose": "政府が共通で利用することのできる決済基盤（政府共通決済基盤）の整備・運用を通じて、行政機関に対する申請等に係る手数料等の納付手段のキャッシュレス化を支援することによって、利用者の利便性を向上させ、行政の業務を効率化し、情報システム経費の費用対効果の最大化を図る。",
+  "situation": "利用者の利便性向上の観点から、行政の手続におけるキャッシュレス化が推進されているが、各府省庁が独自にキャッシュレス納付のためのシステムを整備すると、政府全体としてコスト面で最適であるとはいえない。また、支払件数の少ない手続等については、費用対効果の観点から、各府省庁が独自にシステムを整備することは困難であり、キャッシュレス納付の円滑な導入を妨げている。",
+  "overview": "政府が共通で利用することのできる決済基盤の整備・運用を行う。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 1404031350.0,
+  "vendorCount": 6,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 22398000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 12013100.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": 10097000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ヤマトシステム開発株式会社",
+      "corporate_number": "9010601029263",
+      "amount": 12301000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ヤマトシステム開発株式会社",
+      "corporate_number": "9010601029263",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000447753",
+      "name": "政府共通決済基盤のPCI DSS準拠継続に向けた審査等に係る支援業務",
+      "awardDate": "2024-04-17",
+      "price": 9179400.0,
+      "vendorName": "ＴＩＳ株式会社",
+      "corporateNumber": "2010001134133",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000472728",
+      "name": "政府共通決済基盤のサービス事務及びシステム運用保守に係る委託業務",
+      "awardDate": "2024-12-02",
+      "price": 11182500.0,
+      "vendorName": "ヤマトシステム開発株式会社",
+      "corporateNumber": "9010601029263",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000484662",
+      "name": "令和７年度 政府共通決済基盤のサービス事務及びシステム運用保守に係る委託業務",
+      "awardDate": "2025-02-20",
+      "price": 33075000.0,
+      "vendorName": "ヤマトシステム開発株式会社",
+      "corporateNumber": "9010601029263",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000491139",
+      "name": "令和７年度 政府共通決済基盤のPCIDSS準拠継続に向けた審査等に係る支援業務",
+      "awardDate": "2025-02-26",
+      "price": 7444250.0,
+      "vendorName": "株式会社ユービーセキュア",
+      "corporateNumber": "4011001071298",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000517202",
+      "name": "令和７年度 政府共通決済基盤に係るプロジェクト管理支援業務",
+      "awardDate": "2025-05-12",
+      "price": 110000000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000518182",
+      "name": "令和７年度 政府共通決済基盤における国庫納付機能の実装整備事業",
+      "awardDate": "2025-05-30",
+      "price": 453381000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000549523",
+      "name": "令和８年度 政府共通決済基盤のPCIDSS準拠継続に向けた審査等に係る支援業務",
+      "awardDate": "2026-02-10",
+      "price": 7500000.0,
+      "vendorName": "ＴＩＳ株式会社",
+      "corporateNumber": "2010001134133",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000543891",
+      "name": "令和８年度 政府共通決済基盤における国庫納付機能の実装整備事業",
+      "awardDate": "2026-03-02",
+      "price": 636119200.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000543904",
+      "name": "令和８年度 政府共通決済基盤に係るプロジェクト管理支援業務",
+      "awardDate": "2026-03-05",
+      "price": 136150000.0,
+      "vendorName": "株式会社三菱総合研究所",
+      "corporateNumber": "6010001030403",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

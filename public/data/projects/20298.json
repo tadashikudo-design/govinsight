@@ -1,0 +1,404 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20298",
+  "name": "防衛省ＯＡシステム基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "行政情報化（行政情報化推進基本計画(平成6 年12 月25 日閣議決定)）推進のため，防衛省におけるＯＡシステムの合理化，一般行政事務の効率化及び情報連携の強化を目的とする。また，省ＯＡを共通基盤として，同種の情報システムを対象に段階的な集約（スモールスタート）を行うことで，ハードウェア統合を図ることを目的とする。／省ＯＡシステム基盤においては，厳しさを増す安全保障環境において防衛省・自衛隊の能力を最大限発揮するための環境を実現しつつ，行政事務の合理化・効率化を図るための基盤的なシステムとして更なるシステムの安定運用を追求する。",
+  "situation": "【現状】／○省ＯＡシステム基盤は，令和３年度時点での集約対象システムを前提とした共通リソースを確保し，以降の年度における集約対象システムについては段階的な集約（スモールスタート）を行う。／○省ＯＡシステム基盤は，令和３年度時点での集約対象システムや端末台数等を前提とし，運用役務を調達している。／○省OAシステム基盤は市ヶ谷地区で運用している。／〇本システムにおいては令和8年9月までの運用とし，令和8年10月より次期システムの運用を計画している。／／【課題】／○令和５年度以降に集約される情報システムが必要とするリソースに対して，現在の省ＯＡシステム基盤において不足するリソース分の増設を行う必要がある。／○令和５年度以降の情報システム集約において生じる運用役務の作業範囲を踏まえ，現在の運用役務で賄えない範囲について追加調達を行う必要がある。／○令和５年度に集約される情報システムが必要とするリソースに対して，省ＯＡシステム基盤の増設に必要な区画及び電源容量を確保するための調達を行う。／○本システムへの更改に当たっては，現行システムの改善点や，「政府情報システムにおけるクラウドサービスの利用に係る基本方針」に基づくクラウド・バイ・デフォルト原則及び防衛省クラウド整備指針等，昨今の情勢を踏まえた上で，より効率的なシステムが求められている。",
+  "overview": "本省地区におけるコンピュータ・ネットワークを活用した行政事務の基盤的なシステムとしての運用のほか，省ＯＡシステムをベースとして，省内の情報システムを集約するための基盤機能を持つ防衛省ＯＡシステム基盤整備事業を計画し，令和３年度から事業を開始した。",
+  "category": "前年度事業",
+  "startYear": "1997",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 7678105000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 7678105000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 2926845000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 2591874000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 900680000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 569219000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 335286000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": 214207000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "グラビス・アーキテクツ株式会社",
+      "corporate_number": "6430001049574",
+      "amount": 129073000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グラビス・アーキテクツ株式会社",
+      "corporate_number": "6430001049574",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "グラビス・アーキテクツ株式会社",
+      "corporate_number": "6430001049574",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アルテリア・ネットワークス株式会社",
+      "corporate_number": "8010401123151",
+      "amount": 2948000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アルテリア・ネットワークス株式会社",
+      "corporate_number": "8010401123151",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 2431000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "7010001063732",
+      "amount": 2186000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "7010001063732",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本郵便オフィスサポート株式会社",
+      "corporate_number": "9010401091760",
+      "amount": 1583000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本郵便オフィスサポート株式会社",
+      "corporate_number": "9010401091760",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｔｏｏ",
+      "corporate_number": "4010901024712",
+      "amount": 1633000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｔｏｏ",
+      "corporate_number": "4010901024712",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

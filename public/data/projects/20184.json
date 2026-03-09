@@ -1,0 +1,103 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20184",
+  "name": "海自造修整備補給システム（オープン系）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "わが国の海上防衛の主力である艦船、航空機等の即応体制の維持に寄与するため、装備品等の維持整備を的確に実施するとともに、部隊が要求する艦船、航空機用の部品、弾薬等を、必要な時、必要な場所へ、所要の時間内に補給することを目的とする。",
+  "situation": "システム内のデータが品質が不十分であり、属人的な業務処理により、継続的な機能向上が困難である。",
+  "overview": "事業の目的を達成するため、海自造修整備補給システム（オープン系）を維持整備する。",
+  "category": "前年度事業",
+  "startYear": "2013",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1018995000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 1018995000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 1005486000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エイクラ株式会社",
+      "corporate_number": "6120101069306",
+      "amount": 13509000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エイクラ株式会社",
+      "corporate_number": "6120101069306",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

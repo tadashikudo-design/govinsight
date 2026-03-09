@@ -1,0 +1,120 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6555",
+  "name": "電子掲示板システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "政府共通ネットワーク担当",
+  "purpose": "政府共通ネットワークの利用機関及び総合行政ネットワークの参加団体における情報流通・情報共有を図る。",
+  "situation": "電子掲示板システムは令和5年度末で運用を終了し、新電子掲示板システムが令和6年からGSSの一部システムとしてガバメントクラウド上に構築され運用されている。",
+  "overview": "政府共通ネットワーク、総合行政ネットワーク等に関する情報を案内するほか、テーマ別及び目的別のフォーラムの場を利用機関に提供し、府省間、若しくは府省自治体間の情報共有に活用されている電子掲示板システムの運用。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2023",
+  "rsUrl": "",
+  "totalAmount": 239220000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 81455000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 19305000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 62150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "フォーシーズンズ株式会社",
+      "corporate_number": "9030001049868",
+      "amount": 5610000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フォーシーズンズ株式会社",
+      "corporate_number": "9030001049868",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": 19789000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000467328",
+      "name": "電子掲示板システムの運用の請負",
+      "awardDate": "2024-12-20",
+      "price": 239220000.0,
+      "vendorName": "ＮＴＴアドバンステクノロジ株式会社",
+      "corporateNumber": "9011101028202",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

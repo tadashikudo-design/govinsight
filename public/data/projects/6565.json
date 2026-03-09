@@ -1,0 +1,432 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6565",
+  "name": "生活用データ連携基盤及びＷｅｌｌ－Ｂｅｉｎｇ指標管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "デジタル公共財担当",
+  "purpose": "新しい地方経済・生活環境創生を実現するため、各地域において、市民や事業者など様々な関係者の協力の下、医療や交通などの複数の生活サービスを連携して個々人のニーズにあった新たなサービスを創出し、地域幸福度の向上を図るための基盤を整備する。",
+  "situation": "各地域でのデータ連携基盤の整備については、重複投資を排除したオープンなデータ連携基盤の統一的・効率的な整備を促進する必要があるため、2022 年（令和４年）７月からデータ連携基盤のコアとなるデータ仲介機能をオープンソースで提供しており、引き続き新しい地方経済・生活環境創生交付金デジタル実装型TYPE Vの取組等を通じ、各地域における導入の支援を進める。併せて、データ利活用促進のためのサービス間の相互運用性を高めるため、データ連携基盤の共同利用を進める必要がある。地域幸福度（Well-Being）指標については、デジタル田園都市国家構想交付金TYPE2/3等の採択団体をはじめとする意欲ある自治体における、地域幸福度（Well-Being）指標を用いた住民の幸福度の評価・分析を促進する。",
+  "overview": "現状・課題を踏まえ、各地域において、市民や事業者など様々な関係者の協力の下、医療や交通などの複数の生活サービスを連携して個々人のニーズにあった新たなサービスを創出し、地域幸福度の向上を図るための基盤の導入の支援を進めるとともに、基盤の共同利用の促進にかかる支援を実施する。また、地域幸福度（Well-Being）指標の分析に係るツールやサイトを提供することで、地方公共団体におけるデータ連携基盤や地域幸福度（Well-Being）指標の導入を支援し、各地方公共団体における新しい地方経済・生活環境創生の実現のための取組を推進する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation/",
+  "totalAmount": 103848075.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 439053000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 278180052.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "一般社団法人データ社会推進協議会",
+      "corporate_number": "4011005007414",
+      "amount": 66000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人データ社会推進協議会",
+      "corporate_number": "4011005007414",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 30800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": 15910000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 8140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社パルシス",
+      "corporate_number": "6013301022838",
+      "amount": 4678000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社パルシス",
+      "corporate_number": "6013301022838",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファインネットコミュニケーション",
+      "corporate_number": "8020001045836",
+      "amount": 6468000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファインネットコミュニケーション",
+      "corporate_number": "8020001045836",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 2024000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳシステムサービス株式会社",
+      "corporate_number": "1180001105176",
+      "amount": 5940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳシステムサービス株式会社",
+      "corporate_number": "1180001105176",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 3190000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 38940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 6598000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 191572000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ラトナ株式会社",
+      "corporate_number": "9011001121627",
+      "amount": 71500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ラトナ株式会社",
+      "corporate_number": "9011001121627",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "リベラ株式会社",
+      "corporate_number": "2010001135288",
+      "amount": 47465000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リベラ株式会社",
+      "corporate_number": "2010001135288",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテージリサーチ",
+      "corporate_number": "6012701004917",
+      "amount": 8690000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテージリサーチ",
+      "corporate_number": "6012701004917",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "慶應義塾",
+      "corporate_number": "4010405001654",
+      "amount": 1320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "慶應義塾",
+      "corporate_number": "4010405001654",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "慶應義塾",
+      "corporate_number": "4010405001654",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": 990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＵＦＪリサーチ＆コンサルティング株式会社",
+      "corporate_number": "3010401011971",
+      "amount": 65971000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＵＦＪリサーチ＆コンサルティング株式会社",
+      "corporate_number": "3010401011971",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人スマートシティ・インスティテュート",
+      "corporate_number": "9010405018140",
+      "amount": 5500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人スマートシティ・インスティテュート",
+      "corporate_number": "9010405018140",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": 627000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジチタイワークス",
+      "corporate_number": "6290001095609",
+      "amount": 1980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジチタイワークス",
+      "corporate_number": "6290001095609",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日経映像",
+      "corporate_number": "4010001025727",
+      "amount": 750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日経映像",
+      "corporate_number": "4010001025727",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテージ",
+      "corporate_number": "3010001152563",
+      "amount": 4730000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテージ",
+      "corporate_number": "3010001152563",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "リベラ株式会社",
+      "corporate_number": "2010001135288",
+      "amount": 26312000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リベラ株式会社",
+      "corporate_number": "2010001135288",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000437464",
+      "name": "デジタル田園都市国家構想実現に向けた地域幸福度（Well-Being）指標設計、地域幸福度（Well-Being）サイトサービスの提供及び導入支援業務",
+      "awardDate": "2024-04-18",
+      "price": 59973075.0,
+      "vendorName": "三菱ＵＦＪリサーチ＆コンサルティング株式会社",
+      "corporateNumber": "3010401011971",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000500638",
+      "name": "令和７年度Well-Being指標の活用のためのサイト改修・運用・保守業務",
+      "awardDate": "2025-03-24",
+      "price": 43875000.0,
+      "vendorName": "リベラ株式会社",
+      "corporateNumber": "2010001135288",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

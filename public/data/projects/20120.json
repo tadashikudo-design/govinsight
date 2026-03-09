@@ -1,0 +1,467 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20120",
+  "name": "国税電子申告・納税システム（ｅ－Ｔａｘ）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "納税者が自宅や事業所等からインターネットを利用して、申告・申請・届出・納税を行うことができるようにするためのシステムを提供することにより、納税者利便の向上を図る。",
+  "situation": "税務に関する手続は、多くの国民に関係する一方、複雑であることから、納税者にとって簡素で分かりやすくする必要がある。／このため、手続の一連の流れについて、納税者目線で業務・システムを一体で見直し、UI/UXの改善により納税者の利便性の向上を図る。／具体的には、e-Taxなど関連するシステムの機能を整理し、納税者が円滑に手続を完了できる環境を整備するほか、納税者の利便性の向上や現金管理に伴う社会全体のコスト削減等の観点から、キャッシュレス納付の更なる普及を図ることで、あらゆる納税者に対して効率的で使い勝手の良いサービスの提供を実現する。",
+  "overview": "・国税電子申告・納税システム（以下「e-Tax」という。）の機器の整備及び運用／・e-Taxのプログラム開発・修正／・納税者がシステムを利用するための、ヘルプデスクの機器等の整備及び運用／・税務署において納税者が電子申告を行うための機器の整備",
+  "category": "前年度事業",
+  "startYear": "2004",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 11442681169.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 11442681169.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 288647851.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": 33999240.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": 659041762.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": 146949501.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 104467210.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": 47620029.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 5652505026.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": 47928868.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ株式会社",
+      "corporate_number": "8010601034867",
+      "amount": 34201158.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ株式会社",
+      "corporate_number": "8010601034867",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ株式会社",
+      "corporate_number": "8010601034867",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ株式会社",
+      "corporate_number": "8010601034867",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ株式会社",
+      "corporate_number": "8010601034867",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 386946113.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": 83207124.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 501200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカモトヤ",
+      "corporate_number": "1010401006180",
+      "amount": 1089.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカモトヤ",
+      "corporate_number": "1010401006180",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": 258588.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 3951397010.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ多摩情報機器株式会社",
+      "corporate_number": "2012801003789",
+      "amount": 5009400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｄｙｎａｂｏｏｋ多摩情報機器株式会社",
+      "corporate_number": "2012801003789",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

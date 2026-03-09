@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20369",
+  "name": "国家公務員の災害に備える意識醸成eラーニングシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "災害に備える意識の醸成や防災知識・対応力の向上などを図ることにより、大規模災害時に、より多くの国の職員が的確かつ迅速に対応することが可能となる。",
+  "situation": "令和６年能登半島地震では、多くの国の職員が応援職員等で災害対応に携わった。しかし、国の職員の多くは、災害対応経験が少なく、防災知識が乏しいまま活動する者も多く、効果的な災害対応が図られていない可能性がある。このような中、今後想定される「南海トラフ地震」や「首都直下地震」等の大規模災害時には、より多くの国の職員が効果的に災害対応に当たる必要がある。そのため、国の職員の災害に備える意識の醸成等や防災知識・対応力の向上などを図ることが急務である。",
+  "overview": "国の職員を対象として、災害に備える意識の醸成や災害に関する基礎知識等に関する研修として「災害に備える意識醸成eラーニング」を整備・運用する。",
+  "category": "新規要求事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

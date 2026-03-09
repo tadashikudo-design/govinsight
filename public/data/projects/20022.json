@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20022",
+  "name": "財務会計ＤＸ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "会計業務の効率化／会計データの統合・利活用",
+  "situation": "政府内の財務会計システムは、基本的には共通システム化が図られており、歳出業務、歳入業務など、一連の業務が情報システムを利用することにより処理することが可能となっている。しかしながら、個々の事務に焦点を当てて、それを最適化することを目的としてシステム構築をしてきた結果、多数のシステムが乱立している状況にある。／また、業務全体を俯瞰したときに、同じ情報を複数のシステムへの入力が必要であったり、それぞれのシステム同士のデータ項目、粒度が揃っていない、紐付けができていない等により、データを活用しにくい状況である。",
+  "overview": "各府省庁で行われている予算管理手法の優良事例をモデルに、ワンスオンリーな入力で、各財務会計システムとのデータ連係の仕組みを構築することなどにより、会計業務の効率化やデータ活用促進、将来的なトータルコストの削減などを目指す。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 384505000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 95000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 190900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "Ｔａｋｒａｍ　Ｊａｐａｎ株式会社",
+      "corporate_number": "6011101047980",
+      "amount": 98605000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｔａｋｒａｍ　Ｊａｐａｎ株式会社",
+      "corporate_number": "6011101047980",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "サンアンドサンズコンサルティング株式会社",
+      "corporate_number": "1021001035552",
+      "amount": 17600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サンアンドサンズコンサルティング株式会社",
+      "corporate_number": "1021001035552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

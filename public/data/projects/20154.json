@@ -1,0 +1,572 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20154",
+  "name": "人事給与等業務システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "在外公館、在外勤務職員という特殊性により、当省独自に開発した「人事給与等業務システム」は人事事務、給与・諸手当支給事務に加え、一部共済事務を支援するための個別業務システムであり、現行システムの運用保守を継続しながら、システム刷新により現行業務及びシステムが抱えている諸課題の解決を目指している。次期人事給与業務システムを整備するにあたり、人事給与業務の見直し及びクラウドサービスの利用を行うことによって、具体的には①人事情報の一元化による外交力の推進、②人事・給与業務のデジタル化推進による業務効率化、③職員の働き方改革の促進、④システム保守費用の平準化の実現を目指す。",
+  "situation": "現行システムは昭和38年に構築され当時の設計思想のまま大きな見直しがされることなく運用を継続していることから、以下の様な課題・問題が発生している。／①人事担当者が異動案を立案する際に複数システムに跨がった職員の意向や身上事項を確認する必要があり、非効率な状態となっている。／②データの重複入力や紙への帳票出力、手作業による確認作業、長年にわたる運用・保守に伴う機能改修等により業務フローが複雑化しているなど業務担当者の負担要因が多重化した状態となっている。／③出勤しないとアクセス困難な環境上でシステムが稼動しているため、ワークライフバランスに即したテレワーク等の柔軟な働き方に対応していない。／④現在はフルスクラッチであるため、法令改正等による機能改修が発生する都度、保守経費が発生。／上記を解決するために、令和4年度に技術的対話を利用した総合評価落札方式による一般競争入札により、次期システムの調達を実施。令和7年10月の本稼動に向けて構築作業を進めている。",
+  "overview": "①当省独自の「人事給与等業務システム」の運用・保守業務／②次期人事給与業務システム導入のためのプロジェクト管理、設計・構築作業",
+  "category": "前年度事業",
+  "startYear": "1963",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1592185000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": 1584635000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 83160000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社クレスソフト",
+      "corporate_number": "2010001074742",
+      "amount": 10560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社クレスソフト",
+      "corporate_number": "2010001074742",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": 29304000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＲＡ",
+      "corporate_number": "9013301019435",
+      "amount": 20988000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＲＡ",
+      "corporate_number": "9013301019435",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": 108108.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": 816744.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": 30800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 7714608.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 2210604.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 52088520.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": 4884000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ・クリエイト",
+      "corporate_number": "1020001028459",
+      "amount": 16830000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ・クリエイト",
+      "corporate_number": "1020001028459",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 55912560.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｗｏｒｋｓ　Ｈｕｍａｎ　Ｉｎｔｅｌｌｉｇｅｎｃｅ",
+      "corporate_number": "1010401146357",
+      "amount": 171612650.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｗｏｒｋｓ　Ｈｕｍａｎ　Ｉｎｔｅｌｌｉｇｅｎｃｅ",
+      "corporate_number": "1010401146357",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｗｏｒｋｓ　Ｈｕｍａｎ　Ｉｎｔｅｌｌｉｇｅｎｃｅ",
+      "corporate_number": "1010401146357",
+      "amount": 1090755519.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｗｏｒｋｓ　Ｈｕｍａｎ　Ｉｎｔｅｌｌｉｇｅｎｃｅ",
+      "corporate_number": "1010401146357",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "パーソルワークスイッチコンサルティング株式会社",
+      "corporate_number": "5010601063381",
+      "amount": 1865600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルワークスイッチコンサルティング株式会社",
+      "corporate_number": "5010601063381",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ボンズテック株式会社",
+      "corporate_number": "9011601020922",
+      "amount": 7458000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ボンズテック株式会社",
+      "corporate_number": "9011601020922",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "匠メイツ株式会社",
+      "corporate_number": "8010001088984",
+      "amount": 14850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "匠メイツ株式会社",
+      "corporate_number": "8010001088984",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 6600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シルクロード",
+      "corporate_number": "9120001118341",
+      "amount": 2640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シルクロード",
+      "corporate_number": "9120001118341",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ディ・アイ・システム",
+      "corporate_number": "9999999999999",
+      "amount": 9954000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ディ・アイ・システム",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ボールド",
+      "corporate_number": "1010401056762",
+      "amount": 2706000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ボールド",
+      "corporate_number": "1010401056762",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "9999999999999",
+      "amount": 2607000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 11286000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": 8415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＭＥＴＡＴＥＡＭ株式会社",
+      "corporate_number": "5010401080362",
+      "amount": 15246000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＭＥＴＡＴＥＡＭ株式会社",
+      "corporate_number": "5010401080362",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アクロビジョン",
+      "corporate_number": "1013303001489",
+      "amount": 2541000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アクロビジョン",
+      "corporate_number": "1013303001489",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジーエフイー",
+      "corporate_number": "1012401024583",
+      "amount": 10560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジーエフイー",
+      "corporate_number": "1012401024583",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノプロ",
+      "corporate_number": "2010401069169",
+      "amount": 5280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノプロ",
+      "corporate_number": "2010401069169",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノバックス",
+      "corporate_number": "7013301019271",
+      "amount": 2607000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノバックス",
+      "corporate_number": "7013301019271",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社パートナー",
+      "corporate_number": "7013301020460",
+      "amount": 4950000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社パートナー",
+      "corporate_number": "7013301020460",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リベラル",
+      "corporate_number": "9999999999999",
+      "amount": 5016000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リベラル",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴファイナンス株式会社",
+      "corporate_number": "8010401005011",
+      "amount": 81840.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴファイナンス株式会社",
+      "corporate_number": "8010401005011",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 69166680.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 29988200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 408372.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "22024",
+  "name": "外国人就労管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "申請手続きのオンライン化、他システムとの情報連携、認定証の電子交付による国民・利用者の負担軽減（審査期間の短縮）を目指している。",
+  "situation": "認定証の交付に対しての作業に係る人的コスト、郵送費用などのコストが問題とされ、　これらの問題が解消されないと、今後の更なる申請数の増加に対応しきれず、審査の大幅な遅延が発生し、国民に負担を強いる結果をなることが予想される。",
+  "overview": "保守・運用コストを抑え、申請から認定までの円滑な処理や、就労を開始した特定技能外国人及び育成就労外国人の適正な就労監理をはかるために新たなシステム構築を行う。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [],
+  "procurements": []
+}

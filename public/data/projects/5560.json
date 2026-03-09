@@ -1,0 +1,206 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5560",
+  "name": "デジタル推進委員等環境整備事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "デジタル推進委員班",
+  "purpose": "「誰一人取り残されない、人に優しいデジタル社会」の実現に向け、デジタル機器やサービスに不慣れな方に対する国民の理解を深め、きめ細かなサポート等を行うことに関する国民の意識を高めるため、既に国、自治体、各種団体等が行っている事業や取組も含め、きめ細かなサポート等を行う意欲のある方を募集し、幅広く、横断的に「デジタル推進委員」に任命し、国民運動として展開する。",
+  "situation": "デジタル推進委員等の取組の充実を図ることに伴い、デジタル推進委員の取組を拡大する際の課題の構造的な整理や、デジタル推進委員同士の情報交換や優良事例の共有等を実施する必要がある。",
+  "overview": "デジタル推進委員等の取組の充実を図ることに伴い、応募者が増え、応募方法や取組内容について、国民、団体、企業等からの問合せも増加するため、デジタル推進委員等の受付及び登録情報の管理、問合せに対応する受付管理体制を構築し、令和４年12月から運用している。／また、積極的な横展開を行うことができるデジタル推進委員の活動の優良事例（モデル事例）及び国外類似制度・国内の類似の活動事例等について調査研究を実施し、デジタル推進委員が使用するコンテンツやマニュアルのブラッシュアップや戦略策定につなげる。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2023",
+  "rsUrl": "https://www.digital.go.jp/policies/digital_promotion_staff/",
+  "totalAmount": 62749122.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": "令和6年度要求は一括計上予算（デジタル推進委員ポータル）として要求したため減額"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 132891000.0,
+      "expenditure": 176333000.0,
+      "exec_rate": 0.66142,
+      "total": 266596000.0,
+      "note": "令和６年度要求は一括計上予算として要求するため減額"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 13000000.0,
+      "exec_rate": 0.08844,
+      "total": 147000000.0,
+      "note": "令和4年度新規事業であったものの、当初予算は計上していなかったが、事業開始後、新たに令和5年度予算が必要となったため。「重要政策推進枠」278"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": 147200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": 52140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 3515000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社セレブリックス",
+      "corporate_number": "5011101057080",
+      "amount": 2970000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セレブリックス",
+      "corporate_number": "5011101057080",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": 27500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 651000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 541000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社総合ＰＲ",
+      "corporate_number": "5070001000921",
+      "amount": 374000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社総合ＰＲ",
+      "corporate_number": "5070001000921",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人オープンバッジ・ネットワーク",
+      "corporate_number": "6011105009151",
+      "amount": 55000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人オープンバッジ・ネットワーク",
+      "corporate_number": "6011105009151",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000490008",
+      "name": "令和７年度デジタル推進委員等の受付及び管理等に係る委託業務",
+      "awardDate": "2025-03-19",
+      "price": 62749122.0,
+      "vendorName": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporateNumber": "5120001238738",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

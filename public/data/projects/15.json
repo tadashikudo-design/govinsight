@@ -1,0 +1,718 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "15",
+  "name": "電子政府の総合窓口システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "ＩＣＴ（情報通信技術）を活用して、行政機関のポータルサイトとして、各機関等がインターネットを通じて発信している行政情報を総合的・一元的に提供しているほか、各省庁に対する電子申請を24時間365日受け付ける窓口サービスを提供しているe-Govを運用することによって、行政機関等の諸活動に関する透明性を高め、開かれた行政を実現するとともに、国民の利便性の向上を図る。",
+  "situation": "現在、e-Govでは23機関等（道路占用許可申請の電子化を試行している地方公共団体を含む。）の行政手続の申請・届出が可能となっているが、主に事業者等の法人や団体が主体となる申請・届出等において、各機関等におけるe-Govを活用した行政手続のオンライン化の促進を図る必要がある。また、行政手続の原則オンライン化等により、今後、e-Govで申請可能となる手続数や申請件数の増加が見込まれることから、新システムの性能を活用して、更なるシステムの安定的な稼働を行う。",
+  "overview": "e-Govを通じて、各機関等に対する電子申請や意見提出を24時間365日受け付ける窓口サービスを提供しているほか、各府省庁の組織、業務、所管法令、パブリックコメント募集状況などの閲覧、そのほか各機関等がインターネットを通じて発信している行政情報を総合的・一元的に提供している。／また、各機関等における行政手続のオンライン化のためのe-Govの活用を推進し、申請者の利便性向上及び行政事務の効率化を図るため、申請受付から審査・決裁・文書保存に至る一連の業務プロセスを一貫して電子的に行うためのサービスを提供している。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3846437000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 3448244560.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 3589000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 2291000000.0,
+      "exec_rate": 2.3002,
+      "total": 996000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 250358000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通エフ・アイ・ピー株式会社",
+      "corporate_number": "6010601024969",
+      "amount": 625000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通エフ・アイ・ピー株式会社",
+      "corporate_number": "6010601024969",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": 4465000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "corporate_number": "7020001077145",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 93289000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 1173718000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 411400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": 25809000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 116303000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 53900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 35572000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 66933000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本デェイブレイク株式会社",
+      "corporate_number": "2010401022862",
+      "amount": 33330000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本デェイブレイク株式会社",
+      "corporate_number": "2010401022862",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本プロセス株式会社",
+      "corporate_number": "2010401055029",
+      "amount": 34320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本プロセス株式会社",
+      "corporate_number": "2010401055029",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフテック",
+      "corporate_number": "3490001006127",
+      "amount": 10902000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフテック",
+      "corporate_number": "3490001006127",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハイ・アベイラビリティ・システムズ",
+      "corporate_number": "4010401044772",
+      "amount": 13125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハイ・アベイラビリティ・システムズ",
+      "corporate_number": "4010401044772",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファイン・ネット",
+      "corporate_number": "9020001048615",
+      "amount": 9975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファイン・ネット",
+      "corporate_number": "9020001048615",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ランドコンピュータ",
+      "corporate_number": "1010701021061",
+      "amount": 42525000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ランドコンピュータ",
+      "corporate_number": "1010701021061",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": 50451000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣ　Ｃｏｒｐｏｒａｔｉｏｎ　Ｉｎｄｉａ　Ｐｒｉｖａｔｅ　Ｌｉｍｉｔｅｄ",
+      "corporate_number": "9999999999999",
+      "amount": 9900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣ　Ｃｏｒｐｏｒａｔｉｏｎ　Ｉｎｄｉａ　Ｐｒｉｖａｔｅ　Ｌｉｍｉｔｅｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 119378000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 760033000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 947974000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 106942000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 49464000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本プロセス株式会社",
+      "corporate_number": "2010401055029",
+      "amount": 58378000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本プロセス株式会社",
+      "corporate_number": "2010401055029",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本プロセス株式会社",
+      "corporate_number": "2010401055029",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジー・サーチ",
+      "corporate_number": "9010401053868",
+      "amount": 12491000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジー・サーチ",
+      "corporate_number": "9010401053868",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフテック",
+      "corporate_number": "3490001006127",
+      "amount": 62065000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフテック",
+      "corporate_number": "3490001006127",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフテック",
+      "corporate_number": "3490001006127",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハイ・アベイラビリティ・システムズ",
+      "corporate_number": "4010401044772",
+      "amount": 9558000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハイ・アベイラビリティ・システムズ",
+      "corporate_number": "4010401044772",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ランドコンピュータ",
+      "corporate_number": "1010701021061",
+      "amount": 11880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ランドコンピュータ",
+      "corporate_number": "1010701021061",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": 61035000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＳＴソフトウェア",
+      "corporate_number": "2010801020474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": 31410000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 17251000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 269098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＳＷ株式会社",
+      "corporate_number": "1011001017717",
+      "amount": 11109000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＳＷ株式会社",
+      "corporate_number": "1011001017717",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

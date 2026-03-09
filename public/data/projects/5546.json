@@ -1,0 +1,170 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5546",
+  "name": "職員認証サービス（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "ＧＩＭＡ担当",
+  "purpose": "職員認証サービス（以下「GIMA」という。）は、国家公務員等の利用する府省共通の政府情報システム等において、利用者の認証・認可に係る各種情報の管理を行い、利用者に対して認証機能の提供を行うこと等を目的としている。",
+  "situation": "現行GIMAは、稼働基盤を第一期政府共通プラットフォームから第二期政府共通プラットフォーム上に移行し、令和６年２月に運用が開始された。GIMAは令和９年度末に終局予定であり、後継システムへのスムーズな段階的移行が求められる。",
+  "overview": "現行GIMAの設計開発及び運用（令和４年３月から設計開発、令和５年４月から運用・保守にかかる事業を開始。）",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2027",
+  "rsUrl": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/349887b3-b9be-4ed5-b631-42d0ad0359e6/237cd52c/20230330_policies_assessment_outline_07.pdf",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 489322000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 880874000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 647000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 489315761.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101013017",
+      "amount": 65967000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101013017",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ライターム",
+      "corporate_number": "9011101039199",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ライターム",
+      "corporate_number": "9011101039199",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": 28336000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": 37250000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 5940.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

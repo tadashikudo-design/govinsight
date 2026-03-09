@@ -1,0 +1,1272 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20037",
+  "name": "登記情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "不動産登記、商業・法人登記等に関する事務を処理する上で不可欠な登記情報システムの安定的かつ効率的な運用を図ることにより、登記所における業務の適正かつ効率的な遂行を可能とするとともに、インターネットを利用した登記情報の提供や、最寄りの登記所から全国の登記事項証明書等の取得を可能とするなど、社会のニーズに対応した行政サービスを提供することにより、不動産取引・企業取引等の安全と円滑に資することを目的とする。",
+  "situation": "本システムは、不動産登記申請、商業・法人登記申請、登記事項証明書等の交付等の膨大な量の業務を処理しており、登記所における行政サービスの提供において必要不可欠なものとなっており、今後も安定的にその運用を行うとともに、必要な機能改修等の整備を行っていく必要がある。",
+  "overview": "不動産取引の安全と円滑に資する不動産登記、企業取引等の秩序の維持に資する商業・法人登記等に関する事務を処理する上で不可欠な登記情報システムの安定的な運用を図ることにより、登記所における適正かつ効率的な業務の遂行を維持するとともに、インターネットを利用した登記情報の提供や、最寄りの登記所から全国の登記事項証明書等の取得を可能とするなどの社会のニーズに対応した行政サービスを維持しつつ、更なる向上を図るため、本システムの運用・管理を適切に行う。",
+  "category": "前年度事業",
+  "startYear": "2006",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 25137608000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 25137608000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 15995000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "和歌山地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 2088000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "和歌山地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "奈良地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 13109000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "奈良地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "宇都宮地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 12258000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "宇都宮地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "山口地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 1436000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "山口地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "岡山地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 1348000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "岡山地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": 2332000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "熊本地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 5783000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "熊本地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "長崎地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 1602000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "長崎地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "長野地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 6579000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "長野地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "高松法務局",
+      "corporate_number": "9999999999999",
+      "amount": 8426000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "高松法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 16295000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 1760000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ブルーウイング株式会社",
+      "corporate_number": "3080001022727",
+      "amount": 2483000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ブルーウイング株式会社",
+      "corporate_number": "3080001022727",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 3418000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "太平ビルサービス株式会社",
+      "corporate_number": "2011101012138",
+      "amount": 1218000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "太平ビルサービス株式会社",
+      "corporate_number": "2011101012138",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": 6151000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 1397000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東京セフティ株式会社",
+      "corporate_number": "7470001002925",
+      "amount": 2105000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京セフティ株式会社",
+      "corporate_number": "7470001002925",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 29133000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 1650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "近畿ビルサービス株式会社",
+      "corporate_number": "1120101030783",
+      "amount": 5346000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "近畿ビルサービス株式会社",
+      "corporate_number": "1120101030783",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 21534000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 353792000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 70617000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": 90925000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 9662742000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": 37916000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 44946000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": 11296000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": 46272000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 14612629000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 113983000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

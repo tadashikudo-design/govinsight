@@ -1,0 +1,179 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "56",
+  "name": "マイキープラットフォーム関連システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "マイナンバーカードによる厳格な本人確認を経て発行される一意性が確保されたID（マイキーID）の発行・管理等を行うマイキープラットフォームの運用保守を通じ、自治体等がマイナンバーカードの本人認証機能を活用した様々な施策を展開することができる基盤を提供する。",
+  "situation": "マイキープラットフォームをデジタル庁システムとして活用できるよう運用保守を行う。／これまで、この基盤を使って国マイナポイント事業（マイナポイント第２弾）、自治体マイナポイント事業、マイナンバーカードと図書館カードの一体化、市民カード化構想が実施されている。／今後は、市民カード化構想を中心に自治体等が利用する基盤として発展させていく必要があり、利用団体の増加に伴う保守運用経費等の増額が見込まれる。",
+  "overview": "マイナンバーカードと図書館カードの一体化については、図書館の窓口端末にカードがかざされた際に、利用者証明用電子証明書のシリアルに紐付くサービスIDを返却する仕組みを自治体に提供している。／市民カード化構想の１つとして、様々な自治体の窓口サービスにおけるマイナンバーカードの利用基盤として活用できるように整備。また、マイナンバーカードの暗証番号の入力を省略する「かざし利用」を推進するため、マイキープラットフォーム本体から一部機能を分離させ、「部品化」して様々なサービスに提供している。／自治体マイナポイント事業については、自治体における給付事業との組み合わせよる施策の効果的な推進や地域経済の活性を推進。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 938276000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1553699000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 1988000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1089000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 938276000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": 15853000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": 8448000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ東日本",
+      "corporate_number": "1370001009911",
+      "amount": 11645000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ東日本",
+      "corporate_number": "1370001009911",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＳＤ",
+      "corporate_number": "1011101046616",
+      "amount": 24929000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＳＤ",
+      "corporate_number": "1011101046616",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

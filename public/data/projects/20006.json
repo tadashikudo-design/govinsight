@@ -1,0 +1,229 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20006",
+  "name": "環境省ネットワークシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "環境省職員の業務環境基盤として、端末、電子メール、オフィスアプリ、コラボレーション機能等を提供する。",
+  "situation": "現行の環境省ネットワークシステムは令和7年6月で運用を終了するが、運用終了まで引き続き安定稼働を維持していく。次期については、機能の大部分はGSSへ移行し、GSSで提供されない機能は環境省ネットワークシステムで整備、運用する。",
+  "overview": "環境省ネットワークシステムは、環境省内行政事務従事者1人1台のPC端末整備や省内基幹ネットワークを中心とした環境行政の遂行上必要不可欠なシステムである。本ネットワークシステムではリモートワークを全職員が安全に利用できる環境を提供している。",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3122271000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "環境省",
+      "corporate_number": "1000012110001",
+      "amount": 3122270000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "環境省",
+      "corporate_number": "1000012110001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 308120000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": 2621419000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝ＩＴサービス株式会社",
+      "corporate_number": "6010401078439",
+      "amount": 19008000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝ＩＴサービス株式会社",
+      "corporate_number": "6010401078439",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴドコモ",
+      "corporate_number": "6010401078439",
+      "amount": 3639000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴドコモ",
+      "corporate_number": "6010401078439",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング",
+      "corporate_number": "8010001144647",
+      "amount": 150715000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "学校法人岩崎学園",
+      "corporate_number": "4020005003182",
+      "amount": 999000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "学校法人岩崎学園",
+      "corporate_number": "4020005003182",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＴグローバルブレイン",
+      "corporate_number": "1010701039459",
+      "amount": 18370000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＴグローバルブレイン",
+      "corporate_number": "1010701039459",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

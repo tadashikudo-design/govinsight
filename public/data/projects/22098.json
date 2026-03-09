@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "22098",
+  "name": "医師等国家試験受験手続オンライン化事業（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "デジタル・ガバメント実行計画に沿って、令和７年度より国家試験の受験手続のオンライン化を開始し、令和８年度以降対象職種を拡大する。",
+  "situation": "医師及び歯科医師を除く20職種ほどがシステムが未構築なためオンライン化不可",
+  "overview": "各職種の受験手続をシステムにおいてどのようなフローとなるか整備し、既存の駆逐済みシステムと比較して未構築の部分を構築、検証しオンライン化を推進する。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 115720000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 115720000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

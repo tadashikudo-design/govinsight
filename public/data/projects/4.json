@@ -1,0 +1,109 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "4",
+  "name": "情報システムの整備（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "統括監理担当",
+  "purpose": "各府省庁が行う情報システムの整備・運用に関する各プロジェクトが、共通機能の活用等の政府方針に沿っているかという観点から、各府省庁と連携し一元的なプロジェクト監理を実施するとともに、この結果を予算要求や執行に反映させるため、デジタル庁が情報システム関係予算を段階的に一括計上する。／これらの取組を通じて「デジタルの活用により、一人ひとりのニーズに合ったサービスを選ぶことができ、多様な幸せが実現できる社会」を目指す。",
+  "situation": "デジタル庁の設置に伴い、各府省庁が整備・運用していた情報システムのうち、各府省庁が共通で利用するシステム、各府省庁がシステムを整備する上で基盤となるシステム、緊急性が高く、かつ、政策的に重要なシステム等がデジタル庁に移管されるとともに、新たな情報システムの検討・整備も始まった。しかし、政府情報システムは、これまでそれぞれ独自の方針等に基づき整備等が行われてきたもので、各情報システム間の関係、統合や機能の共通化の可能性等が十分に整理されておらず、重複や非効率が発生しているという課題がある。このため、各情報システムにおける業務改革（BPR）の推進、共通機能の活用の徹底等を図るため、政府情報システムの整備及び管理に関する共通ルールである「デジタル・ガバメント推進標準ガイドライン」の整備や、国の情報システムの一元的なプロジェクト監理を実施する。",
+  "overview": "国の行政機関が行う情報システムの整備及び管理に関する行政各部の事業の統括・監理／　デジタル庁が各府省と連携して、以下の取組を実施／　・年間を通じて、予算要求段階、執行段階の予算プロセスにおいて、プロジェクトの各フェーズに応じたレビューの実施／　・政府の共通ルールの整備／国の行政機関が行う情報システムの整備及び管理に関する事業／　・デジタル庁における情報システム関係予算の一括計上、配分",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/development_management/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 457280641000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 775712250410.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 480327293000.0,
+      "expenditure": 176020514575.0,
+      "exec_rate": 0.6533,
+      "total": 269432043050.0,
+      "note": "重要政策推進枠：128,761,683"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 481188000000.0,
+      "expenditure": 140392444788.0,
+      "exec_rate": 0.59552,
+      "total": 235746822420.0,
+      "note": "重要政策推進枠：118,773"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 460052000000.0,
+      "expenditure": 112919000000.0,
+      "exec_rate": 0.619,
+      "total": 182421000000.0,
+      "note": "重要政策推進枠：121,689"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 269944000000.0,
+      "expenditure": 58221000000.0,
+      "exec_rate": 0.17329,
+      "total": 335976000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [],
+  "procurements": []
+}

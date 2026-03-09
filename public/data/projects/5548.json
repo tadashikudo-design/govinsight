@@ -1,0 +1,205 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5548",
+  "name": "国家資格等情報連携・活用システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "医師、歯科医師、看護師等の約 30 の社会保障等に係る国家資格等及び社会保障等以外の分野を含めた約 50 の国家資格等について、デジタル社会形成整備法を踏まえた優先的な取組として、マイナンバーを利用した手続のデジタル化を進め、住民基本台帳ネットワークシステム及び情報提供ネットワークシステムとの連携等により資格取得・更新等の手続時の添付書類の省略を目指す。",
+  "situation": "各省庁が所管する各種免許・国家資格等の管理は、必ずしもデジタル化が進んでおらず、資格者の各種届出等が徹底されていない場合もある。また、対面や郵送での手続が必要となることや、紙ベースの処理が行われていること等、資格者の資格証明、行政機関等の資格確認の負担も少なくない。",
+  "overview": "令和３年度（2021 年度）に各種免許・国家資格等の範囲等についての調査を実施し、令和５年度（2023 年度）までに、資格管理者等が共同利用できる資格情報連携等に関するシステムの開発・構築を行ったところ、令和６年度（2024 年度）には、資格所持者が当該資格を所持していることを、マイナンバーカードの電子証明書等を活用して証明、提示できるようにする。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 2664532000.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3947827000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 3447181810.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 814000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": 3767845000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 179850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 119000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本マルチペイメントネットワーク運営機構",
+      "corporate_number": "9999999999999",
+      "amount": 12000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本マルチペイメントネットワーク運営機構",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社みずほ銀行",
+      "corporate_number": "6010001008845",
+      "amount": 1000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社みずほ銀行",
+      "corporate_number": "6010001008845",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000490027",
+      "name": "国家資格等情報連携・活用システムの改修等に係る設計・開発等業務（令和７年度）",
+      "awardDate": "2025-03-03",
+      "price": 1549000000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000492735",
+      "name": "国家資格等情報連携・活用システムの設計・開発等に係る工程管理等支援業務（令和７年度）",
+      "awardDate": "2025-03-24",
+      "price": 204540000.0,
+      "vendorName": "アクセンチュア株式会社",
+      "corporateNumber": "7010401001556",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000478492",
+      "name": "国家資格等情報連携・活用システムに係る運用保守業務（令和７年度）",
+      "awardDate": "2025-03-25",
+      "price": 910992000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

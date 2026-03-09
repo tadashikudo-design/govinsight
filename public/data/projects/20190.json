@@ -1,0 +1,236 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20190",
+  "name": "人事・給与情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "政府の最適化計画や改善計画を踏まえ策定された、防衛省人事・給与情報システムの整備等に関する基本方針（平成28年3月30日、防衛省人事・給与情報システム作業部会決定）に基づき、令和2年1月以降、3自衛隊の機能統合や業務間の連携を図る等の業務改善を行うことにより、関係職員の業務処理量の削減、給与等支払業務に係る事務手数料の削減及び各機関等で個別に整備及び運用していた人事業務及び給与業務等の各種情報システムの廃止を行い、防衛省として統合した人事・給与情報システムを構築し、一元的な運用を行うことによるシステム運用等経費の削減を実現することを本事業の目的としている。",
+  "situation": "＜現状＞／システム基盤の更新、ソフトウェアの改修等を行いシステムの可用性を向上した新しい人事・給与情報システムを令和７年１月より、運用している。／＜課題＞／1　基盤の換装に伴う情報セキュリティの確保／2　激甚災害対策サイト等の代替システムの構築・運用保守に係る経費の抑制／3　要件定義書に基づく要件定義のナレッジの欠如",
+  "overview": "課題に対する対応は以下のとおり。／1　対応済。今後は防衛省内のリスクマネジメントフレームワークに基づく考え方のもと、継続監視・将来対応を進めていく。／2　対応済。今後は年次の訓練で目標到達度を測定する。／3　官側の体制を増強することは難しいためプロジェクト管理等支援担当業者を調達し、支援を得る。／なお、上記３件に加え、ライフサイクルを考慮し、次期システムに関する検討も始めるところである。",
+  "category": "前年度事業",
+  "startYear": "2009",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 6910273000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 6910273000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 6244637000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 574130000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "トランス・コスモス株式会社",
+      "corporate_number": "3011001041302",
+      "amount": 87725000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "トランス・コスモス株式会社",
+      "corporate_number": "3011001041302",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "トランス・コスモス株式会社",
+      "corporate_number": "3011001041302",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 1013000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": 2768000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

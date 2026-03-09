@@ -1,0 +1,215 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20210",
+  "name": "行政情報システム（海上保安庁）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "当事業は、海上保安庁法第2条第1項に基づき、海上の安全及び治安の確保を図ることを任務とする海上保安庁における行政情報システムの整備、運用及び保守を目的とする。",
+  "situation": "海上保安庁は、上記「事業の目的」に掲げるとおり、海上の安全及び治安の確保を図るために行う法令の海上における励行、海難救助、海上における犯人の捜査及び逮捕等の事務を24時間体制で行っている。近年、厳しさを増す我が国周辺海域の情勢を踏まえ、多岐にわたる海上保安業務及びそれに係る各種行政事務を的確に遂行していく必要がある。",
+  "overview": "本事業は、海上保安業務及びそれにかかる行政事務を的確に遂行するため、行政情報システムの整備、運用及び保守を行うものである。",
+  "category": "前年度事業",
+  "startYear": "1997",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1025817000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "海上保安庁",
+      "corporate_number": "7000012100005",
+      "amount": 451317867.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "海上保安庁",
+      "corporate_number": "7000012100005",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 574499440.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 98455608.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 2161192.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 30430567.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": 78142900.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 106656000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 3395040.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＸ・ＴＣリース＆ファイナンス株式会社",
+      "corporate_number": "7010401157737",
+      "amount": 1755600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＸ・ＴＣリース＆ファイナンス株式会社",
+      "corporate_number": "7010401157737",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": 70986960.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": 59334000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

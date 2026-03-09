@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20934",
+  "name": "自治体のデジタルサービス実装に向けた調査研究事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "デジタル公共財担当",
+  "purpose": "「デジタル社会の実現に向けた重点計画」（令和７年６月13日閣議決定） に基づき、 Well-Being指標活用推進に係る取組の一環として、デジタル技術を活用した取組の更なる推進による地方創生2.0の実現に向けデジタル実装の取組を推進する。",
+  "situation": "自治体によるデジタル実装の取組は今後もさらに進んでいくが、サービス利用者である住民の巻き込み方を考慮しないままサービス実装を行うなど、多くの自治体においてサービス利用の実態を正確に捕捉のうえ分析することができていない現状にあり、実装したサービスの改善と更なる普及に課題を抱えている。",
+  "overview": "デジタル技術を活用した取組の更なる推進による地方創生2.0の実現に向け、利用が進まない自治体のデジタル実装の取組について、非効率性の排除、自治体サービスの自律的な改善を図る観点から、既存の優良事例の整理・分析を実施するとともに自治体でのデジタルサービスの実装を推進するため、廉価かつ有効なデータ計測機能、利活用の方法及び住民の参加促進手法についての調査・分析を実施し、その成果を自治体に提供する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 38192000.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 33000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 33000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "契約事業者",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "契約事業者",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000498547",
+      "name": "令和7年度自治体のデジタルサービス実装に向けた調査研究事業",
+      "awardDate": "2025-03-24",
+      "price": 29992000.0,
+      "vendorName": "ラトナ株式会社",
+      "corporateNumber": "9011001121627",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000541717",
+      "name": "令和７年度 社会のデジタル化意識に係る調査研究事業",
+      "awardDate": "2025-10-27",
+      "price": 8200000.0,
+      "vendorName": "株式会社インテージリサーチ",
+      "corporateNumber": "6012701004917",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

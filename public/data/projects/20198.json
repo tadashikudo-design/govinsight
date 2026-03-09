@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20198",
+  "name": "厚生労働省統計処理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "厚生労働省統計処理システムは、統計調査、業務統計、加工統計に係る業務処理を行うシステムであり、クライアントＰＣ及びサーバを用いて、サーバ上に配置したデータに対して、審査、集計及びデータの保管に関する業務を円滑に行うための情報基盤を整備するとともに、これらの運用・保守を通じて、適切なサービスを安定的かつ継続的に提供することを目的とする。",
+  "situation": "厚生労働省統計処理システムは、令和元年８月に策定された「厚生労働省統計改革ビジョン2019」において示されている統計処理システムの現行の課題解決、組織及び職員の役割等の見直しや最新のICTの活用によるシステムの見直し、「デジタル・ガバメント実行計画」（令和２年12月25日閣議決定）に基づき、クラウドサービスを利用したシステムの構築等、政府方針への対応を見据えた施策として、「ドキュメントの適正管理」、「クラウド利用の推進」、「ノンプログラミングツールの活用」、「データベース化」を中心とした更改を行うこととしている（令和８年１月の更改では、まず「クラウド利用の推進」を実現予定）。また、今後も基幹統計を始めとした各種統計を継続的に提供できるよう、新たな統計処理（汎用プログラミング言語及びツール）への移行に向けた検討を進めている。",
+  "overview": "厚生労働省統計処理システムは、主に厚生労働省政策統括官（統計・情報システム管理、労使関係担当）が所管する統計調査、業務統計、加工統計に係る業務処理を行うための情報基盤の整備、運用・保守を行うとともに、厚生労働省統合ネットワークを経由して厚生労働省ＬＡＮシステムの機器を効率的に活用したシステムとして整備している。",
+  "category": "前年度事業",
+  "startYear": "2018",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1386100903.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "",
+      "amount": 7083000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "",
+      "amount": 227799000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "",
+      "amount": 1647922000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 1647922000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 227799000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 7083000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

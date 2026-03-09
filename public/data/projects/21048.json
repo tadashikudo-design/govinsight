@@ -1,0 +1,257 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21048",
+  "name": "総合防災情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "総合防災情報システムは、災害情報を地理空間情報として共有するシステムであり、災害発生時に政府が被災状況等を早期に把握・推計し、迅速・的確な意志決定の支援を目的としている。",
+  "situation": "新しいGIS関連技術やアーキテクチャを用いることによる運用性、拡張性の向上のほか、公共機関等と災害情報を相互利活用可能な機能の付加を行いつつ、民間・研究機関含めた収集する情報の多様化など将来的な機能拡張に柔軟に対応できるシステムへの抜本的な見直しが求められ、令和6年度から次期の総合防災情報システム（Gen3Ver1）の運用を開始している。",
+  "overview": "総合防災情報システムは、災害情報を地理空間情報として共有するシステムであり、災害発生時に政府が被災状況等を早期に把握・推計し、迅速・的確な意志決定の支援を目的としている。／今後、システムの更なる利活用を図るため、令和６年能登半島地震の教訓等を踏まえてシステムの機能強化等を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "2028",
+  "rsUrl": "https://www.bousai.go.jp/taisaku/soboweb/index.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1274661000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "内閣府",
+      "corporate_number": "2000012010019",
+      "amount": 1941492000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内閣府",
+      "corporate_number": "2000012010019",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 5994000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "セック株式会社",
+      "corporate_number": "2010501032571",
+      "amount": 9548000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "セック株式会社",
+      "corporate_number": "2010501032571",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンクグループ株式会社",
+      "corporate_number": "1010401056795",
+      "amount": 488000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンクグループ株式会社",
+      "corporate_number": "1010401056795",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 13413000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 977218000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 1544000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社テイルウィンドシステム",
+      "corporate_number": "8012801006761",
+      "amount": 1980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テイルウィンドシステム",
+      "corporate_number": "8012801006761",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 53313000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＴｉ－ｃａｓｔ",
+      "corporate_number": "2370001042746",
+      "amount": 814551000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＴｉ－ｃａｓｔ",
+      "corporate_number": "2370001042746",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＴｉ－ｃａｓｔ",
+      "corporate_number": "2370001042746",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＴｉ－ｃａｓｔ",
+      "corporate_number": "2370001042746",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 63443000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

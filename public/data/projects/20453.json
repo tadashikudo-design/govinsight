@@ -1,0 +1,376 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20453",
+  "name": "防衛大学校共同利用電子計算機システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "事業の目的／防衛大学校は、将来陸上・海上・航空各自衛隊の幹部自衛官となるべき者の教育訓練をつかさどるとともに、それらに必要な研究を行う防衛省の施設等機関である。本事業は、教育・研究・事務業務を遂行するための共通インフラとして整備し、防衛大学校内に必要な各種サービスを提供することで、教育・研究の深化、事務業務の効率化を図るとともに、政府の方針でもあるクラウド・バイ・デフォルト原則を踏まえ、一般大学の教育環境現場を参考にしたクラウド等を活用して最先端の環境を提供し、本科学生等の識能の向上を図ることを目的とする。",
+  "situation": "現状・課題／〇　現状のシステム環境はオンプレミスで構築されているため、搭載している機器・ソフト等の内容が換装時期から更新できておらず、年々情報の陳腐化により教育・研究環境に影響を与えているため、換装後はクラウド環境を活用できる環境が必要／〇　システムを用いた学修環境が現状、電子計算機教場のみと限定されているため、学力向上に繋がる学修場所の拡大が必要／〇　施設の老朽化に伴う環境整備により新設された庁舎について、システムを用いた教育等への影響を極小化するべく、速やかに関連機器の導入・設定が必要",
+  "overview": "事業の概要／換装後は現状の環境を踏襲しつつ、課題で示した部分を改善／〇　教育・研究で利用するグループウェアをパブリッククラウド（Microsoft365）を活用し、教育環境の利便性を向上／〇　教育・研究で利用する高速演算装置をクラウド化し、最新のデジタル技術及び環境を提供／〇　教育で利用するe-learningシステムのクラウドサービスを活用し、最新の技術・情報を学べる環境を提供／〇　学生居室や教場において、クラウド環境を利用した学修が可能となるよう学生用の回線環境を整備／〇　クラウド環境の活用により通信量が増加し、通信速度の低下により教育・研究環境に影響を及ぼす恐れがあるため、安定した通信環境を提供するために通信路容量を増強／〇　新設された建物に対し、防衛大学校のシステム環境及び学生用教育環境を提供",
+  "category": "前年度事業",
+  "startYear": "1981",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1387779000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 1387779000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 778756000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 224314000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 155100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 123387000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 26015000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 23518000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 19006000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 11880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": 7261000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 6925000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東通ネットワーク株式会社",
+      "corporate_number": "6010001092261",
+      "amount": 1180000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東通ネットワーク株式会社",
+      "corporate_number": "6010001092261",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＵＳＥＮ",
+      "corporate_number": "5010401068812",
+      "amount": 3653000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＵＳＥＮ",
+      "corporate_number": "5010401068812",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 2749000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 2530000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 534000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 428000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "丸善雄松堂株式会社",
+      "corporate_number": "2010001034952",
+      "amount": 346000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "丸善雄松堂株式会社",
+      "corporate_number": "2010001034952",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "山仙株式会社",
+      "corporate_number": "9010901042107",
+      "amount": 4000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "山仙株式会社",
+      "corporate_number": "9010901042107",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＫＴＳ株式会社",
+      "corporate_number": "1290001106568",
+      "amount": 20000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＴＳ株式会社",
+      "corporate_number": "1290001106568",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人日本ネットワークインフォメーションセンター",
+      "corporate_number": "4010005004371",
+      "amount": 121000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人日本ネットワークインフォメーションセンター",
+      "corporate_number": "4010005004371",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯグローバルサイン株式会社",
+      "corporate_number": "1011001040181",
+      "amount": 44000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯグローバルサイン株式会社",
+      "corporate_number": "1011001040181",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": 8000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

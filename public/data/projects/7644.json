@@ -1,0 +1,165 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7644",
+  "name": "民間ビジネスにおけるマイナンバーカード利活用促進事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "デジタル社会の早期実現に向けて、安全・安心な「デジタル社会のパスポート」であるマイナンバーカードの利便性の向上を更に推進する。",
+  "situation": "マイナンバーカードの普及率が高まった現状において、国民の更なる利便性向上を図るため、マイナンバーカードの利活用シーンのさらなる拡大が求められる。",
+  "overview": "民間ビジネスを中心に、マイナンバーカードの利活用推進を図るため、マイナンバーカード利用シーン創出に向けた実証等を行うもの。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 365481349.0,
+  "vendorCount": 4,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 500000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 29793000.0,
+      "exec_rate": 0.07448,
+      "total": 400000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 30000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 21763000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日高国際特許事務所",
+      "corporate_number": "9999999999999",
+      "amount": 330000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日高国際特許事務所",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 7700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000469346",
+      "name": "令和６年度マイナンバーカード利用促進イベントの開催業務",
+      "awardDate": "2024-11-22",
+      "price": 225057349.0,
+      "vendorName": "株式会社スコープ",
+      "corporateNumber": "2011101010430",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000477183",
+      "name": "文教の分野におけるマイナンバーカードを活用した実証実験＜学割利用時本人確認＞",
+      "awardDate": "2024-11-27",
+      "price": 49950000.0,
+      "vendorName": "西日本旅客鉄道株式会社",
+      "corporateNumber": "1120001059675",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000510726",
+      "name": "令和７年度マイナンバーカード利活用促進事業支援業務",
+      "awardDate": "2025-03-26",
+      "price": 83000000.0,
+      "vendorName": "株式会社ＮＴＴデータ経営研究所",
+      "corporateNumber": "1010001143390",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000548629",
+      "name": "令和７年度デジタル社会におけるマイナンバーカードに関する意識調査業務",
+      "awardDate": "2025-11-14",
+      "price": 7474000.0,
+      "vendorName": "ネットエイジア株式会社",
+      "corporateNumber": "7010001126258",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

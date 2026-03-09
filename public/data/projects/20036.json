@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20036",
+  "name": "地図情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "登記所に備え付けられている地図及び地図に準ずる図面（以下「地図等」という。）並びに土地所在図等の各種図面に係る事務を処理する上で不可欠な地図情報システムの安定的かつ効率的な運用を図ることにより、登記所における地図管理業務の適正かつ効率的な遂行を可能とする。／また、登記記録を処理する登記情報システムと連携することで、登記情報と地図情報の一体的な処理を可能としつつ、インターネットを利用した地図等及び各種図面に係る情報の提供や、最寄りの登記所から全国の地図等及び各種図面の証明書の取得を可能にするなど、国民サービスの向上を図る。",
+  "situation": "本システムの確実かつ安定的な運用を維持しつつ、登記事務処理の効率化・迅速化による利用者の利便性向上を図る必要がある。／また、関連するシステムと適切に調整を図る必要がある。",
+  "overview": "登記記録と相まって、不動産取引の安全と円滑に資する不動産登記の根幹を支える地図等に関する事務を処理する上で不可欠な地図情報システムの安定的な運用を図ることにより、登記所における適正かつ効率的な業務の遂行を維持する。／なお、本事業に係る予算は令和３年度からデジタル庁に一括計上されている。",
+  "category": "前年度事業",
+  "startYear": "2006",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 4120797000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 4120797000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 17257000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 3412490000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 691050000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

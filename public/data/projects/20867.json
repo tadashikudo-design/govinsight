@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20867",
+  "name": "公共工事電子入札システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "公共事業入札システム・業務ＤＸ担当",
+  "purpose": "公共工事分野における電子入札システムの整備・運用等経費の削減を図るために各省電子入札システムの更改にあわせ、2027年度末を目標にシステム統合を行う。",
+  "situation": "現在、政府内に公共工事分野における公共調達の電子入札システムが複数存在している状況。",
+  "overview": "公共工事分野における電子入札システム統合に向けて、調査研究を実施し、関係省システムを統合するための要件整理等を行う。その後、ガバメントクラウドへ移行する国土交通省の電子入札システムを基礎として改修し、2027年度を目標に農林水産省、文部科学省、防衛省の公共工事分野における電子入札システムを統合し、運用開始する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2027",
+  "rsUrl": "",
+  "totalAmount": 69800000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 70000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 70000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000494587",
+      "name": "公共工事電子入札システムの統合に向けた調査研究業務一式",
+      "awardDate": "2025-03-10",
+      "price": 69800000.0,
+      "vendorName": "パシフィックコンサルタンツ株式会社",
+      "corporateNumber": "8013401001509",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

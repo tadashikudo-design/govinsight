@@ -1,0 +1,222 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20030",
+  "name": "全国医療機能・薬局機能情報提供システム（医政局分）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "医療機能情報提供制度及び薬局機能情報提供制度に基づく全国統一の情報提供システムの運用を通じて、都道府県、病院、薬局、国民等にとって利用しやすいシステムを実現することで、国民・患者による適切な病院等及び薬局の選択に資するとともに、国民・患者がかかりつけ医機能を十分に理解した上で、自ら適切に医療機関を選択できるよう、医療機能情報提供制度による国民・患者への情報提供の充実・強化を実現する。／また、令和７年度に創設する「かかりつけ医機能報告制度」に基づく医療機関からの報告内容をもとに、都道府県において地域でのかかりつけ医機能の確保のための具体的方策の検討・公表ができるよう、医療機関からの効率的な情報収集を実現する。",
+  "situation": "医療機能情報提供制度及び薬局機能情報提供制度に基づく情報提供システムは、令和５年度まで各都道府県において独自に運用され、検索機能や公表方法に差あったほか、外国語対応やスマホ対応等ができているところもあれば、そうでないところもあった。また、報告項目に関する細部の情報の標準化ができておらず、公表されている情報の粒度にバラツキが生じていた。このほか、規制改革実施計画（平成27 年6 月30 日閣議決定）において、医療機関の報告負担軽減が求められており医薬局で所管している薬局機能情報提供制度も同様の課題を抱えていた。／これを受けて、従来、都道府県ごとに個別に運用されていた情報提供システムとそのデータを集約して、全国統一的な情報提供システム（医療情報ネット）を構築し、令和６年４月から運用を開始した。運用開始後、更なる医療情報ネットの利便性向上に向けて、システムの保守、改修等を行う必要がある。／また、「全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律」に基づいてかかりつけ医機能が発揮される制度整備として以下の対応が求められている。／・国民・患者がかかりつけ医機能を十分に理解した上で、自ら適切に医療機関を選択できるよう、医療機能情報提供制度による国民・患者への情報提供の充実・強化。／・令和７年度に創設する「かかりつけ医機能報告制度」に基づく医療機関からの報告内容をもとに、都道府県において地域でのかかりつけ医機能の確保のための具体的方策の検討・公表。",
+  "overview": "医療機能・薬局機能情報提供制度の運用に係る全国統一システムの運用、保守、改修及び工程管理を行うとともに、既存プラットフォームを活用し、かかりつけ医機能が発揮される制度整備を行う。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 730961000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 730961000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 519750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 211211000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイ　リサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": 13912000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイ　リサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＬＥＧＡＬ　ＥＤＧＥ",
+      "corporate_number": "5010003028074",
+      "amount": 6429000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＬＥＧＡＬ　ＥＤＧＥ",
+      "corporate_number": "5010003028074",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": 3150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 95400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社シグマイン",
+      "corporate_number": "7010001100130",
+      "amount": 16621000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シグマイン",
+      "corporate_number": "7010001100130",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社リクルートスタッフィング",
+      "corporate_number": "4010001032038",
+      "amount": 27792000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リクルートスタッフィング",
+      "corporate_number": "4010001032038",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社高電社",
+      "corporate_number": "3120001005297",
+      "amount": 20237000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社高電社",
+      "corporate_number": "3120001005297",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 55146000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ中国",
+      "corporate_number": "1240001012853",
+      "amount": 5400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ中国",
+      "corporate_number": "1240001012853",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

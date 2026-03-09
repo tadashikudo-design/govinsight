@@ -1,0 +1,362 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20311",
+  "name": "北海道開発局行政情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "北海道開発行政事務遂行の継続と円滑化を実現するため、継続的に下記の対応を行うもの。／・BCP対応やWLB改善を求められており、この実現のため端末やネットワーク、通信回線の整備運用を行う。／・BCP対応と行政運営の継続のため、各種システムの整備運用を行う。／・行政運営の継続のため、必要なライセンス、セキュリテイ、運用支援の調達を行う。／・効率的な整備運用を求められており、この実現のため専門的知見を有する外部事業者に仕様検討を委託調達する。",
+  "situation": "北海道開発局の行政運営については、継続性や簡素化、効率化、BCP対応、WLB改善を求められている。これらに対応すべく行政情報システムを構築し、本省及び他地整の情報システムとも連携し運用を行っているところ。R4から本省にて運用開始された、第３期国土交通省行政情報基盤システムとの連携により、これらの改善に向けてクラウド活用を含めた環境が整備された。北海道開発局の行政運営の継続及び本省システム利用には北海道開発局で端末やネットワーク、各種システム、通信回線、ライセンス、セキュリティ、運用支援、更改検討等の整備運用を継続する必要がある。／また、第３期国土交通省行政情報基盤システムではクラウド基盤やリモートVPN機能が整備され、コラボレーションやテレワークにより行政運営上の様々な問題を解決する切り札となっている。これを有効活用するためには、特に利用端末や通信回線の整備運用、VPNに対応出来ないシステムの改修を行う必要がある。これらが解決出来ない場合、第３期国土交通省行政情報基盤システムの有効活用ができず、行政運営に支障を来す。",
+  "overview": "事業の目的を達成するため、各種整備運用やライセンス導入、運用支援、仕様検討を実施。",
+  "category": "前年度事業",
+  "startYear": "",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1878711000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "北海道開発局",
+      "corporate_number": "2000012100001",
+      "amount": 1878711000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "北海道開発局",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 201624000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本建設情報総合センター",
+      "corporate_number": "4010405010556",
+      "amount": 16170000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本建設情報総合センター",
+      "corporate_number": "4010405010556",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": 477309000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "大丸株式会社",
+      "corporate_number": "5430001009629",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本データーサービス株式会社",
+      "corporate_number": "9430001020986",
+      "amount": 9026000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本データーサービス株式会社",
+      "corporate_number": "9430001020986",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本データーサービス株式会社",
+      "corporate_number": "9430001020986",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本データーサービス株式会社",
+      "corporate_number": "9430001020986",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社札幌支店",
+      "corporate_number": "2010001016851",
+      "amount": 65560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社札幌支店",
+      "corporate_number": "2010001016851",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社札幌支店",
+      "corporate_number": "2010001016851",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社札幌支店",
+      "corporate_number": "2010001016851",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 256747000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 126769000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社岩崎",
+      "corporate_number": "7430001001757",
+      "amount": 18540000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社岩崎",
+      "corporate_number": "7430001001757",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社岩崎",
+      "corporate_number": "7430001001757",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社岩崎",
+      "corporate_number": "7430001001757",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": 361108000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 10382000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＦＬＣＳ株式会社",
+      "corporate_number": "2010001128507",
+      "amount": 335476000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＦＬＣＳ株式会社",
+      "corporate_number": "2010001128507",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＦＬＣＳ株式会社",
+      "corporate_number": "2010001128507",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

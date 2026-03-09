@@ -1,0 +1,205 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5551",
+  "name": "電子契約システム（工事・業務）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "「公共事業支援システム（官庁営繕業務を含む）の業務・システム最適化計画」（平成18年CIO連絡会議決定）において示されている①入札情報提供業務、②入札手続業務、③契約手続業務、④工事・業務成果品管理業務のうち、最適化が達成されていない③の契約手続業務を、平成29年度までに、受発注者間でインターネットを活用し電子による契約手続きを行う「電子契約システム（工事・業務）」を構築したところである。",
+  "situation": "『デジタル社会の実現に向けた重点計画』（令和７年６月13日閣議決定）において、システムの効率化と利用者の利便性向上による電子契約の更なる普及を目指した対応を進める、とされていることから利用者から寄せられた要望に対応するためのシステム改修を行っていく。また、ガバメントクラウドへの移行に必要な対応を進めていく。",
+  "overview": "本システムは、第１期政府共通プラットフォーム上で運用していたところ、令和３年度末で当該プラットフォームの運用が終了することとなった。このことから、本システムを令和４年度以降も継続して利用することを目的とし、システム更改作業及び移行作業等を実施した上で、令和９年度まで運用・アプリケーションプログラム保守作業、及び必要に応じて年次機能改良業務等を行うものである。なお、システム更改後の本システムは民間クラウドサービス上で構築している。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2027",
+  "rsUrl": "",
+  "totalAmount": 423598000.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 403621000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 387309000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 401000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": 285615000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 118006000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ライターム",
+      "corporate_number": "9011101039199",
+      "amount": 6123000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ライターム",
+      "corporate_number": "9011101039199",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 82275000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・スマートソーシング",
+      "corporate_number": "7011101032783",
+      "amount": 29817000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・スマートソーシング",
+      "corporate_number": "7011101032783",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": 33455000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000456149",
+      "name": "電子契約システム（工事・業務）の機能追加等業務（令和６年度）",
+      "awardDate": "2024-07-18",
+      "price": 107278000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000531691",
+      "name": "電子契約システム（工事・業務）更改に係る要件定義、概念設計及び概念実証等業務",
+      "awardDate": "2025-09-01",
+      "price": 270000000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000562807",
+      "name": "電子契約システム（工事・業務）の工程管理支援業務（令和８年度）",
+      "awardDate": "2026-03-05",
+      "price": 46320000.0,
+      "vendorName": "ＧＭＯコネクト株式会社",
+      "corporateNumber": "7011001095682",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

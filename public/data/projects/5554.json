@@ -1,0 +1,362 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5554",
+  "name": "マイナンバーカードの普及及び利活用シーンの拡大（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "デジタル社会の早期実現に向けて、安全・安心な「デジタル社会のパスポート」であるマイナンバーカードの普及促進強化及び利便性の向上を更に推進する。",
+  "situation": "マイナンバーカードの普及率が高まった現状において、マイナンバーカードの利活用シーンのさらなる拡大が求められる。",
+  "overview": "民間・行政におけるマイナンバーカードの利活用拡大を図るため、マイナンバーカード利用シーン拡大に向けた調査研究やマイナンバーカードを利用する行政サービスにおける環境整備を行うもの。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2024",
+  "rsUrl": "",
+  "totalAmount": 3535000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 290148000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 865868000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 182000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ドリームインキュベータ",
+      "corporate_number": "6010001141902",
+      "amount": 107250000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ドリームインキュベータ",
+      "corporate_number": "6010001141902",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ドリームインキュベータ",
+      "corporate_number": "6010001141902",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ経営研究所",
+      "corporate_number": "1010001143390",
+      "amount": 90805000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ経営研究所",
+      "corporate_number": "1010001143390",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ経営研究所",
+      "corporate_number": "1010001143390",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "西日本旅客鉄道株式会社",
+      "corporate_number": "1120001059675",
+      "amount": 54945000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "西日本旅客鉄道株式会社",
+      "corporate_number": "1120001059675",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゴルフダイジェスト・オンライン",
+      "corporate_number": "9010401040981",
+      "amount": 35453000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゴルフダイジェスト・オンライン",
+      "corporate_number": "9010401040981",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "政光意匠",
+      "corporate_number": "9999999999999",
+      "amount": 220000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "政光意匠",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラクス",
+      "corporate_number": "9120001097305",
+      "amount": 475000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラクス",
+      "corporate_number": "9120001097305",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": 1000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社川崎フロンターレ",
+      "corporate_number": "3020001070104",
+      "amount": 6050000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社川崎フロンターレ",
+      "corporate_number": "3020001070104",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社湘南ベルマーレ",
+      "corporate_number": "7021001036470",
+      "amount": 6050000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社湘南ベルマーレ",
+      "corporate_number": "7021001036470",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＤＤＩＸ",
+      "corporate_number": "4010401091880",
+      "amount": 13750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＤＤＩＸ",
+      "corporate_number": "4010401091880",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ｐｌａｙｇｒｏｕｎｄ株式会社",
+      "corporate_number": "8011001116677",
+      "amount": 29700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ｐｌａｙｇｒｏｕｎｄ株式会社",
+      "corporate_number": "8011001116677",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＮＰデータテクノ",
+      "corporate_number": "1050001028118",
+      "amount": 8500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＮＰデータテクノ",
+      "corporate_number": "1050001028118",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "特定非営利法人活動法人メディア・ユニバーサル・デザイン協会",
+      "corporate_number": "4040005002257",
+      "amount": 2880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "特定非営利法人活動法人メディア・ユニバーサル・デザイン協会",
+      "corporate_number": "4040005002257",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": 8500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大学共同利用機関法人情報・システム研究機構",
+      "corporate_number": "1012805001385",
+      "amount": 2220000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大学共同利用機関法人情報・システム研究機構",
+      "corporate_number": "1012805001385",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アイケーネット株式会社",
+      "corporate_number": "9010001087952",
+      "amount": 11550000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイケーネット株式会社",
+      "corporate_number": "9010001087952",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 2200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ポケットサイン株式会社",
+      "corporate_number": "1010001229149",
+      "amount": 1540000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ポケットサイン株式会社",
+      "corporate_number": "1010001229149",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000468755",
+      "name": "令和６年度マイナンバーカードの普及と利活用の状況に関するインターネットによるアンケート調査",
+      "awardDate": "2024-09-27",
+      "price": 3535000.0,
+      "vendorName": "ネットエイジア株式会社",
+      "corporateNumber": "7010001126258",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

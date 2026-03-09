@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20512",
+  "name": "生成ＡＩを活用した開示請求等事務の効率化（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "①行政文書及び個人情報の開示請求に係る審査事務（以下「開示請求事務」という。）、②開示決定に対する審査請求に係る審査事務（以下「審査請求事務」という。）、③その他行政不服審査法に基づく不服申立てに係る審理手続事務（以下「審理手続事務」という。）は、いずれも厚生労働省が所管する広範な制度の理解が必要であり、参照すべき関係法令・制度が多岐にわたるため、国民サービスの低下を招く事務処理の遅延解消には、その効率化が喫緊の課題であり、そのた対策として生成AIを用いることで、業務効率化を実現する。",
+  "situation": "開示請求事務においては、膨大な対象文書の検索や広範な関係法令等の確認を行う必要があるが、その検索・確認作業を手作業で行っているために時間を要し、事務処理遅延の原因となっている。このため開示請求においては、請求の約半数が法定の決定期限までに開示決定等が困難となっており、期限延長手続きなど付随する手続きによる事務処理の増大なども生じている。また、審査請求事務及び審理手続事務については、法律等による期限は定められていないが、同様の理由により事務処理期間が長期化しており、国民サービスの低下を招いている。",
+  "overview": "生成AIによる高度な検索機能等を活用し、年間約2.6万件を超える情報公開法・個人情報保護法に基づく開示請求等、行政不服審査法に基づく審査請求等の事務の効率化・迅速化を図り、国民サービスの向上等に寄与する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2029",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

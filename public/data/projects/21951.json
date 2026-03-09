@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21951",
+  "name": "財務省「源内」（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "生成AIを利活用して情報の探索を行うことを通じて、資料探索等に要する職員の業務負担を軽減し、企画・立案への注力を可能とすることで、行政事務の高付加価値化を図る。",
+  "situation": "デジタル庁は、行政目的の効率的・効果的な実現や企画立案能力の向上等の利益を実現するため、生成AIプラットフォーム「源内」を各府省庁に提供し、政府による生成AIの利活用を着実に進展させることを目指している。財務省においても、膨大な行政資料や政策関連文書を効率的に検索・活用するニーズが高まっており、資料から必要な情報を探索し、読み解くために多くの業務時間を割いている。財務省大臣官房文書課業務企画室は、財務省の行政情報化に関する事務の総合調整に関する業務を行っているところ、その一環として源内等を活用し、安心・安全な生成AIサービスを職員に提供する必要がある。",
+  "overview": "生成AIを活用し、法令や執務資料などを格納したデータベースと連携させ、職員の各種業務における不明点等を迅速にチャット形式で確認できる仕組みや、申請書などを読み取りCSVデータに変換される仕組みなどを利用できる環境を整備する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

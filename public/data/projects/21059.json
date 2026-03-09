@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21059",
+  "name": "出産なび（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "妊婦の方々が安心して出産・子育てをできる環境の整備を進める観点から、分娩取扱施設の費用・サービスの情報提供を行うウェブサイト「出産なび」について、検討会等での議論を踏まえ、機能の拡充及び産前・産後も含めた妊婦にとって必要な情報の充実を図るとともに、「出産なび」を通じた出産費用等の見える化の効果検証等を行うこと。",
+  "situation": "令和６年度から運用を開始した見える化ウェブサイト「出産なび」には、分娩取扱施設の費用・サービスが掲載されており、開設以降200万超のPVがあったところ。／しかしながら、現状としては以下のような課題が存在する。／・掲載情報が分娩取扱施設の費用・サービスについてのみに限定されているため、妊婦の方々が必要とする詳細な情報を得るためには複数のサイトや関係機関を調べる必要があり、結果として情報が散逸している状況にあること。／・すでに把握している分娩取扱施設の費用・サービスについて、最新の情報にアップデートしていく必要があること。／・妊婦に対する経済的支援の在り方の検討に資する「見える化」の効果検証等を行う必要があること。",
+  "overview": "見える化ウェブサイトの抜本的拡充（産前産後ケアの提供体制や自治体独自補助についての情報の掲載に伴う企画、情報収集及びウェブサイト改修）／見える化ウェブサイトに掲載した分娩取扱施設情報の再収集・更新／見える化ウェブサイトの企画及び保守・運用／見える化ウェブサイトの効果検証・調査分析",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "https://www.mhlw.go.jp/stf/birth-navi/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｎｎｅｈｉｔｏ株式会社",
+      "corporate_number": "4010401097671",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｎｎｅｈｉｔｏ株式会社",
+      "corporate_number": "4010401097671",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

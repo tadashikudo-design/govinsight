@@ -1,0 +1,196 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6566",
+  "name": "自治体等共用ＳａａＳ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "本事業は、国が構築する給付支援サービスの活用を促進することで、自治体毎にシステム対応を行うことを不要とし、迅速な給付を実現することを目的とする。",
+  "situation": "コロナの経験により、抜本的なデジタル化の必要性が明らかになり、特別定額給付金や持続化給付金などの各種給付金の事務処理において、給付の意思確認や口座の確認等に時間を要するなどの課題が把握された。／給付金の申請受付や意思確認のフローが完全にデジタル化されていないことや自治体ごとに個別にシステム対応を行うなど、給付に時間や費用を要するといった課題がある。",
+  "overview": "給付金の申請から振り込みまでのプロセスをデジタル完結するシステムを構築・運用",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://services.digital.go.jp/benefits/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 753451000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1307133300.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": 753346000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": 13500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": 65000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社プロジェクトカンパニー",
+      "corporate_number": "1010401174457",
+      "amount": 7800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社プロジェクトカンパニー",
+      "corporate_number": "1010401174457",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": 100800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 25700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": 9600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 2420000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": 38100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

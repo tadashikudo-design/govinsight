@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6554",
+  "name": "研修ＬＡＮシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "人事担当",
+  "purpose": "各府省庁は、政府デジタル人材（IT・セキュリティに関する一定の専門性と、所掌事務に関する十分な知識・経験を有し、政策の企画立案部局や事業実施部局等における DX や、IT ガバナンス、情報システムの開発・運用、サイバーセキュリティ対策、業務改革（BPR）、データの利活用等に中核となって取り組む人材）の計画的な確保・育成を図るため、各府省庁が策定するデジタル人材確保・育成計画（※）等に基づく取組を実施している。デジタル庁は、これらの人材育成の取組に係る支援の一環として、政府デジタル人材の育成等に資するため、情報システム統一研修を実施。／※各府省庁は、政府機関におけるデジタル化の推進や、情報システムの適切な開発・運用とサイバーセキュリティ対策及びこれらと一体となった業務改革（BPR）等の担い手となる人材の充実を、中長期的な計画の下で進めるため、各府省庁は、組織規模や所管する情報システムの実情を踏まえつつ、「デジタル人材確保・育成計画」を策定・改定している。",
+  "situation": "府省共通システム（SEABIS、EASY、GEPS等）の担当が実施する各システムの操作研修の実施環境として、研修室及び研修LANシステムを提供することにより、各システム担当における研修実施に係るコスト、業務負担等の軽減に寄与。／他方で、コロナ禍を契機にオンラインでの研修も根付いてきたところであり、次期システムは調達しないこととし、令和8年2月末をもってシステムを廃止する。",
+  "overview": "情報システム統一研修のうち対面で実施する集合研修や、府省共通システムの操作研修に利用する研修LANシステムの保守・運用に係る業務を実施することとしている。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 16317000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 16317000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 16317000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 3783000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

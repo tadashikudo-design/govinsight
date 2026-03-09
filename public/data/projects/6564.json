@@ -1,0 +1,388 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6564",
+  "name": "産業用データ連携基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "データ戦略担当",
+  "purpose": "公平かつ競争力のあるデジタル経済の実現や産業データの有効活用を通じた国際競争力の強化、（ドローン、自動運転をはじめとした新たなモビリティサービス等）デジタルを活用した様々な技術のサービス実装を実現するために、企業をまたがるデータ交換を容易に行う仕組みを構築する。",
+  "situation": "現在、産業用データ連携基盤のアーキテクチャは整備されつつあるが、そのアーキテクチャが普及に適したものか、検証が必要な状況にある。／海外では、こうした検証を経て、着々と実装に向けた準備が進められているところであり、欧州のデータスペースと相互接続する等、海外の取組と連携していく必要があるが、日本のポリシーの下、安全にデータを管理できる仕組みを早急に構築する必要がある。",
+  "overview": "企業間の様々なデータ交換を実現する産業用データ連携基盤の実装に向け、コネクタ、認証、カタログなどのデータ交換に必要なコンポーネント類を調達あるいは開発し、それらが安全にデータを管理できるものとなっているか検証することで、日本にとって適切なデータ連携システムを構築する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2024",
+  "rsUrl": "",
+  "totalAmount": 179358864.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 539341000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 645648000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "一般社団法人データ社会推進協議会",
+      "corporate_number": "4011005007414",
+      "amount": 179358000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人データ社会推進協議会",
+      "corporate_number": "4011005007414",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "コベルコシステム株式会社",
+      "corporate_number": "7140001007718",
+      "amount": 6776000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コベルコシステム株式会社",
+      "corporate_number": "7140001007718",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 14941000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立情報通信エンジニアリング",
+      "corporate_number": "9020001007959",
+      "amount": 13596000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立情報通信エンジニアリング",
+      "corporate_number": "9020001007959",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": 13943000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 13683000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コベルコソフトサービス株式会社",
+      "corporate_number": "6140001007719",
+      "amount": 5244000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コベルコソフトサービス株式会社",
+      "corporate_number": "6140001007719",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エス・ジー",
+      "corporate_number": "1010401004572",
+      "amount": 4800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エス・ジー",
+      "corporate_number": "1010401004572",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 6761000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人京都スマートシティ推進協議会",
+      "corporate_number": "6130005015405",
+      "amount": 279950000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人京都スマートシティ推進協議会",
+      "corporate_number": "6130005015405",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アイサンテクノロジー株式会社",
+      "corporate_number": "5180001049428",
+      "amount": 30470000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイサンテクノロジー株式会社",
+      "corporate_number": "5180001049428",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 52250000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 15290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ダッソー・システムズ株式会社",
+      "corporate_number": "6010401032932",
+      "amount": 18500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ダッソー・システムズ株式会社",
+      "corporate_number": "6010401032932",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＦＵＴＵＲＥ",
+      "corporate_number": "3130001072007",
+      "amount": 15290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＦＵＴＵＲＥ",
+      "corporate_number": "3130001072007",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": 20350000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コムウェア株式会社",
+      "corporate_number": "4010401032249",
+      "amount": 20460000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コムウェア株式会社",
+      "corporate_number": "4010401032249",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴコムエンジニアリング株式会社",
+      "corporate_number": "3010401089298",
+      "amount": 31790000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴコムエンジニアリング株式会社",
+      "corporate_number": "3010401089298",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 79993000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本情報経済社会推進協会",
+      "corporate_number": "1010405009403",
+      "amount": 14300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本情報経済社会推進協会",
+      "corporate_number": "1010405009403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アールイー株式会社",
+      "corporate_number": "4010101012294",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アールイー株式会社",
+      "corporate_number": "4010101012294",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ファイサム合同会社",
+      "corporate_number": "8010403007765",
+      "amount": 5500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ファイサム合同会社",
+      "corporate_number": "8010403007765",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000461009",
+      "name": "産業領域におけるデータ連携基盤等の社会実装事業",
+      "awardDate": "2024-08-19",
+      "price": 179358864.0,
+      "vendorName": "一般社団法人データ社会推進協議会",
+      "corporateNumber": "4011005007414",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

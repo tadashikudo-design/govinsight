@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21203",
+  "name": "外務省業務合理化ＡＩ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "これまで外務省において多くの作業時間を要していた各種文書作成等の補助に生成AIを活用し、可能な業務をデジタル化することを通じて、外務省全体の業務合理化を実現させる。",
+  "situation": "外務省業務合理化AIは、全ての本省及び在外公館等の職員が、生成AIの利用を通じて、外交関連文書の翻訳・要約・起案等をはじめとする各種業務をデジタル化・合理化するとともに、生産性を向上させること等を目指している。2024年度から運用を開始した当該生成AIの利用に関し、ユーザー数の拡大等を通じて、外務省全体の業務の更なる合理化及び生産性向上を図るともに、外交力の抜本的な強化を目指す。",
+  "overview": "外交力の抜本的な強化のため、外務省職員（在外公館等の職員を含む）が生成AIの業務利用を通じて、更なる業務合理化・生産性向上等を図れるよう、外務省業務合理化AIを継続運用する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

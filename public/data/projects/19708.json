@@ -1,0 +1,148 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "19708",
+  "name": "不動産登記ベース・レジストリ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "ベース・レジストリ担当",
+  "purpose": "国民の利便性向上や行政運営の効率化等を図るため、不動産登記ベース・レジストリ※として、不動産登記関係データベースの整備又は改善を行う。／※ベース・レジストリとは、住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータからなるデータベースであって、整備を行うことで国民の利便性向上や行政運営の効率化等に資するもの",
+  "situation": "不動産登記に関するデータは、制度横断的に多数の手続で参照されるものの、行政機関等において、そのデータは十分に利用されていない。",
+  "overview": "制度横断的に多数の手続で参照される不動産登記関係のデータベースを整備し、行政機関等による利用を促進する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 190909000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 88236000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 88236000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "イグニション・ポイント株式会社",
+      "corporate_number": "1011001100423",
+      "amount": 13096000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イグニション・ポイント株式会社",
+      "corporate_number": "1011001100423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニーズウェル",
+      "corporate_number": "3011101025642",
+      "amount": 7700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニーズウェル",
+      "corporate_number": "3011101025642",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 363000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＬＬＦＯＲＳ",
+      "corporate_number": "9010401149749",
+      "amount": 5632000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＬＬＦＯＲＳ",
+      "corporate_number": "9010401149749",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000490321",
+      "name": "不動産登記ベース・レジストリ本番システムの設計・開発等事業（令和７年度）",
+      "awardDate": "2025-03-26",
+      "price": 190909000.0,
+      "vendorName": "ＳＢテクノロジー株式会社",
+      "corporateNumber": "7011101033773",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

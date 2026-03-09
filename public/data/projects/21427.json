@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21427",
+  "name": "Visit Japan Webの利用促進のための周知等に係る経費",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "訪日旅行者にVisit Japan Webを安定的に利用していただけるよう、その認知度を高めるための取組を国内外で効果的に行うための経費",
+  "situation": "日本への入国等に係るCIQ手続については、水際対策の効率的な実施と利用者の利便性向上を図る観点から、デジタル庁は、令和3年（2021年）12月より「Visit Japan Web」の運用を開始し、日本のCIQ手続として安定的に利用されている。／他方で、訪日外国人旅行者向けの消費税免税制度（輸出物品販売場制度）の改正（令和8年度）や電子渡航認証システム（JESTA）導入（令和10年度）など、Visit Japan Webを取り巻く環境に変化が生じてきており、そのような環境の変化の中であってもVisit Japan Webが安定的に利用される必要がある。",
+  "overview": "Visit Japan Webの利用促進のため、航空会社等に対する周知活動等を行うもの",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 11000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [],
+  "procurements": []
+}

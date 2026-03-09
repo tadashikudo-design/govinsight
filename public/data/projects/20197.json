@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20197",
+  "name": "運転者管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本システムは、都道府県公安委員会が交付した運転免許に関する情報を警察庁で一元的に管理することで、運転免許証の即日交付、不正取得の防止、点数制度に基づく適正な行政処分の実施等を可能とするシステムである。",
+  "situation": "免許情報確認やオンラインによる本籍変更手続などのマイナポータルを利用した手続や、オンラインによる更新時講習を可能とするなど、個人番号カードと運転免許証を一体化した者の利便性向上が課題である。",
+  "overview": "運転免許証に関する情報を検索、運転免許証の更新の適否を即時に確認する等により、運転免許証の不正取得を防止する。また、危険運転者の早期排除のため、交通違反及び交通事故に関する情報を検索し、点数制度に基づく処分を的確に行う。／運転免許証と個人番号カードの一体化や住所変更ワンストップサービス等を実現するための機能を運転者管理等業務用プログラムに追加することで、国民の利便性の向上、個人番号カードの利用促進等を図るものである。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 5160219000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": 5160219052.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 5132269252.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ドーン",
+      "corporate_number": "9140001018622",
+      "amount": 27940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ドーン",
+      "corporate_number": "9140001018622",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ドーン",
+      "corporate_number": "9140001018622",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "警察庁職員Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 9800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁職員Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

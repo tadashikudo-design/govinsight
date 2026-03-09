@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20841",
+  "name": "産業用データ連携推進事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "公平かつ競争力のあるデジタル経済の実現や産業データの有効活用を通じた国際競争力の強化、（ドローン、自動運転をはじめとした新たなモビリティサービス等）デジタルを活用した様々な技術のサービス実装を実現するために、複数ロボットの分散協調運行のための共通技術の改良を実施する。",
+  "situation": "現在、産業用データ連携基盤のアーキテクチャは整備されつつあるが、そのアーキテクチャが普及に適したものか、検証が必要な状況にある。サービスロボットの高度利用に繋がる開発・実装を促進するため、複数モビリティ（サービスロボット等）間でのデータ交換を含めた協調制御技術の検討を行い、ハード・ソフトの仕様・ルール等を検討する必要がある。",
+  "overview": "複数ロボットの分散協調運行における民間事業者間の共通技術の改良に向けて、分散協調アーキテクチャの詳細化、仕様書・OSS作成、実装に向けた普及活動、ビジネス実証等を実施する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 100000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 100000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20055",
+  "name": "医療機関等情報支援システム（Ｇ－ＭＩＳ）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "医療機関等情報支援システム（G-MIS）の運用に必要な年間保守を行うもの。",
+  "situation": "現在、医療機関等が行う報告・届出や、医療機関等に対する調査は厚生労働省内のそれぞれの部局課室が独自に実施しており、様々な報告経路があることから医療機関等の負担となっている。これらをG-MISで実施し、医療機関等の負担を軽減することを図る。",
+  "overview": "医療機関等情報支援システム（G-MIS）は、新型コロナウイルス感染症流行下における感染症対策の一環として、構築し運用されている。今後は感染症対策のみならず、地域における効率的で質の高い医療提供体制構築の支援に資するシステムとして、長期的に活用をしていく。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2752299000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 2752299000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 2752299000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

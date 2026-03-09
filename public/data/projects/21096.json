@@ -1,0 +1,458 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21096",
+  "name": "デジタル施策に関する広報経費",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "広報・コミュニケーション担当",
+  "purpose": "・「誰一人取り残されないデジタル社会の実現」に向け、デジタル行政サービスを促進する。／・デジタル行政サービスを促進するにあたり、社会のデジタル化に適応することに一定のためらい等が存在し、デジタル行政サービスに対する信頼度また満足度も高くない状況にある。そのため、デジタル庁の取り組みによってどのように社会生活がポジティブに変化するのかを、正確かつわかりやすく国民に伝え、ためらい等を払拭する必要がある。そのために、デジタル庁の取組にこれまで興味関心がなかった方にも訴求できるよう、短時間で多くの情報を伝えられる動画制作およびオフライン/オンライン広告による発信の事業を行う。",
+  "situation": "・デジタル庁は、国民に対する政策・サービスの正確な情報提供の強化に取り組んでいるが、令和６年度の意識調査によれば、多くの国民が、社会のデジタル化への適応に「ついていけていない」と回答しており、また、デジタル行政サービスへの信頼度・満足度の向上についても改善の余地がある。／また、生活者の認知手段としては依然「テレビ」が主流である中、生活者は「インターネットでの情報発信」や「世代に応じた発信」を求めており、既存の広報手法だけでは十分な対応が難しい状況にある。こうした情報格差と受信者ニーズの乖離が、行政広報の到達度と効果に課題を生んでいる。／・令和６年12月２日に健康保険証の新規発行が停止されたほか、令和７年３月にマイナ免許証の運用が始まるなど、デジタル行政サービスの利用を推進する必要性が高まっている。一方で、社会のデジタル化やデジタル行政サービスの意識調査の結果、社会のデジタル化に適応できていると回答した方の割合は29.8％となった。",
+  "overview": "・デジタル庁が提供する国民向けサービス等について、これまで特段の興味関心がなかったような方にもリーチし、デジタル化への適応に対するためらい等を払拭するような動画制作を行なう。／・デジタル庁が提供する国民向けサービス等を訴求する動画やコンテンツを非デジタル媒体での展開やオンライン広告を活用して、より広くリーチすることで、低中関心層の方への認知と理解を高める。／・自治体と連携した広報活動やオフラインとオンラインを組み合わせた適切なコンテンツおよび広告投下により、デジタル行政サービスの認知と理解を高め、利用促進につなげる。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 44597000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 44597000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "太陽企画株式会社",
+      "corporate_number": "3010001184243",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "太陽企画株式会社",
+      "corporate_number": "3010001184243",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "未定広告代理店",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "未定広告代理店",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "スカリー株式会社",
+      "corporate_number": "3010401095288",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "スカリー株式会社",
+      "corporate_number": "3010401095288",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソニーＰＣＬ株式会社",
+      "corporate_number": "8010701005314",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソニーＰＣＬ株式会社",
+      "corporate_number": "8010701005314",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "有限会社プログレッシブ",
+      "corporate_number": "6010402014979",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社プログレッシブ",
+      "corporate_number": "6010402014979",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "有限会社縁",
+      "corporate_number": "5050001029161",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社縁",
+      "corporate_number": "5050001029161",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アキイロ",
+      "corporate_number": "8010901038304",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アキイロ",
+      "corporate_number": "8010901038304",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アーク・システム",
+      "corporate_number": "4012401007172",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アーク・システム",
+      "corporate_number": "4012401007172",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社イー・スピリット",
+      "corporate_number": "3010401048568",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社イー・スピリット",
+      "corporate_number": "3010401048568",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカザキユウヤ",
+      "corporate_number": "6010901054261",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカザキユウヤ",
+      "corporate_number": "6010901054261",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社スペース百貨",
+      "corporate_number": "7013201003061",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社スペース百貨",
+      "corporate_number": "7013201003061",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社石川広告制作室",
+      "corporate_number": "5010401098826",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社石川広告制作室",
+      "corporate_number": "5010401098826",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社長添組",
+      "corporate_number": "6010901042712",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社長添組",
+      "corporate_number": "6010901042712",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＥＲＩＳＥ",
+      "corporate_number": "6040001119978",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＥＲＩＳＥ",
+      "corporate_number": "6040001119978",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇｏｏ　Ｓｕｎ",
+      "corporate_number": "3010901032419",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇｏｏ　Ｓｕｎ",
+      "corporate_number": "3010901032419",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｈｅｌｉｘｅｓ",
+      "corporate_number": "1010001158307",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｈｅｌｉｘｅｓ",
+      "corporate_number": "1010001158307",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＫｏｚａａａＦＰＶ",
+      "corporate_number": "9180001165270",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＫｏｚａａａＦＰＶ",
+      "corporate_number": "9180001165270",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＲＥＥ　Ｄｉｇｉｔａｌ　Ｓｔｕｄｉｏ",
+      "corporate_number": "1011001046897",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＲＥＥ　Ｄｉｇｉｔａｌ　Ｓｔｕｄｉｏ",
+      "corporate_number": "1011001046897",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "石崎智也",
+      "corporate_number": "5810124336365",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "石崎智也",
+      "corporate_number": "5810124336365",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＪＦＥ東日本ジーエス株式会社",
+      "corporate_number": "1020001072119",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＪＦＥ東日本ジーエス株式会社",
+      "corporate_number": "1020001072119",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｉ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｉ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "未定広告代理店",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "未定広告代理店",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

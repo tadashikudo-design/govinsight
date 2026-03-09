@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21991",
+  "name": "新防災ホームページシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "災害等の情報提供を新防災ホームページ上で行うことにより、正確で迅速な情報提供を可能とし、ひいては「国民の命と暮らしを守り抜く」ことを目的とする。",
+  "situation": "内閣府の一部局である内閣府政策統括官（防災担当）が運用している内閣府 防災情報のページで防災情報等を公開しているが、近年、異常気象等による災害が頻発していることから、防災情報の更なる充実・強化を目指し、新たなホームページシステムを整備する。",
+  "overview": "正確で迅速な防災情報の発信は、国民の命と暮らしを守り抜くために必要であることから、その発信手段となるホームページシステムを整備する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2030",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

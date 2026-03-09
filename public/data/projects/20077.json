@@ -1,0 +1,362 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20077",
+  "name": "矯正総合情報通信ネットワークシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "矯正総合情報通信ネットワークシステム（ 以下「コーネット」という。）により、矯正施設の運営及び被収容者の処遇等に関する事務処理等の合理化・効率化を図る。",
+  "situation": "矯正官署の基幹システムであるコーネットは、法務省矯正局及び矯正施設等の全国２８３拠点のＬＡＮ並びに東西の集約センターを法務省統合情報基盤の統合ＷＡＮで結び、インターネットに接続しない閉鎖的な広域ネットワークを構成している。／平成８年から運用しているところ、行政情報化の推進に伴い、コーネットの利用機会と重要性の増大から、矯正行政にとって極めて重要なインフラとなっている。／このため、コーネットの安定稼働及び矯正運営の更なるデジタル化の推進を実現するためには、サーバ等機器及びライセンスを計画的に整備・更新し、セキュリティ対策を行った上で、その他各種運用保守を適切に実施しなければならない。",
+  "overview": "・データベース機能、グループウェア機能、ユーザアカウント管理機能等を有しており、東西拠点に、それぞれ集約センターを配置し、各種サービスのサーバ等が設置されている（クラウドサービスに移行後、サーバ等撤去予定）。／・ バックアップセンターにおいて、ヘルプデスク、ユーザアカウント管理及び端末・サーバ監視等の運用支援を行っている。",
+  "category": "前年度事業",
+  "startYear": "1996",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1347973000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 1347973000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 18291000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 34316000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": 13695000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 27709000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 5390000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 85251000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 124080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": 23213000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 519405000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 327803000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＦＩＣＴ株式会社",
+      "corporate_number": "9020001075667",
+      "amount": 630000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＦＩＣＴ株式会社",
+      "corporate_number": "9020001075667",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 113668000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 38913000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": 5841000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＸ・ＴＣリース＆ファイナンス株式会社",
+      "corporate_number": "7010401157737",
+      "amount": 9768000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＸ・ＴＣリース＆ファイナンス株式会社",
+      "corporate_number": "7010401157737",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

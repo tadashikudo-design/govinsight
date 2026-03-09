@@ -1,0 +1,278 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20359",
+  "name": "北陸地方整備局行政情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "北陸地方整備局（旧建設）は管内の直轄道路、河川、ダム、砂防の整備及び維持管理、建設業や不動産業（宅地建物取引業）の許認可に関する業務や指導監督業務、建設関連の資格の取得に関わる行政機能などを所管しており、当該行政事務を遂行する目的で北陸地方整備局行政情報システムを整備・運用している。",
+  "situation": "年々高騰している人件費によるシステムの運用・保守経費等の増加や、通信回線等の強化、システム管理のあり方、管理データの増加に伴うファイル管理の手法検討などの課題に対応するため、コスト縮減を実施しながら効率的な整備を検討する。",
+  "overview": "各種業務を行うためのシステムサーバや文書編集などを行うパーソナルコンピュータ等の端末装置、それらをつなぐネットワーク設備等を整備し、セキュリティ対策を含めた設備稼働のための管理運用を行うものである。",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1013218000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 1013218066.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 542941641.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 219217798.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 95287740.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": 84405540.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": 8117010.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 9269579.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富山電脳社",
+      "corporate_number": "6230001004541",
+      "amount": 1087680.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社富山電脳社",
+      "corporate_number": "6230001004541",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富山電脳社",
+      "corporate_number": "6230001004541",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富山電脳社",
+      "corporate_number": "6230001004541",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社立業社・ビジネス・マシンズ",
+      "corporate_number": "1230001003523",
+      "amount": 976800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社立業社・ビジネス・マシンズ",
+      "corporate_number": "1230001003523",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "双峰通信工業株式会社",
+      "corporate_number": "9110001002892",
+      "amount": 913836.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "双峰通信工業株式会社",
+      "corporate_number": "9110001002892",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 51000442.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

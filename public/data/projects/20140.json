@@ -1,0 +1,320 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20140",
+  "name": "官庁会計システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "官庁会計システムは、国の会計事務における予算の執行から決算の過程までの各種会計情報を電子化し、統一的に処理することにより、会計事務の適正化・効率化を図ることを目的としている。また、歳入金電子納付システムは、電子申請・届出等に係る行政手数料等の電子納付を実現することにより、国民等の利便性の向上を図るとともに、行政運営の簡素化・効率化の向上に資することを目的としている。",
+  "situation": "官庁会計システム等の業務効果（ユーザ入力事務等の負担軽減、ユーザニーズへの対応及びサービスレベルの向上）及びシステム効果（システム稼働率）における目標達成を阻害しないよう、利用者のニーズや利用状況等に応じた適切な対応が必要である。また、令和９年１月にはOS・ミドルウェアのサポート期限到来に伴い、ソフトウェアのバージョンアップ等が必要となっている。さらに、将来的なガバメントクラウドの利用やシステムの最適化に向けた取組みも必要となっている。",
+  "overview": "官庁会計システムは、各官署に整備されている職員用パソコン等とをネットワーク回線で結び、国の会計事務を一括集中処理するシステムであり、当該システムの整備及び管理・運用を行っている。また、歳入金電子納付システムは、民間収納インフラ（マルチペイメントネットワーク）を活用し、納付の原因の確認を行うための各府省の共同利用型システムであり、当該システムの整備及び管理・運用を行っている。",
+  "category": "前年度事業",
+  "startYear": "1977",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3532643000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": 3532643000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 3339409000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 106304000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 39600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 18820000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 22337000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": 3674000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｊストリーム",
+      "corporate_number": "4010401089388",
+      "amount": 825000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｊストリーム",
+      "corporate_number": "4010401089388",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ファイナンスプリント株式会社",
+      "corporate_number": "4021001041770",
+      "amount": 699000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ファイナンスプリント株式会社",
+      "corporate_number": "4021001041770",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 13000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社徳河",
+      "corporate_number": "9013301008743",
+      "amount": 148000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社徳河",
+      "corporate_number": "9013301008743",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社秋山商会",
+      "corporate_number": "8010001036398",
+      "amount": 477000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社秋山商会",
+      "corporate_number": "8010001036398",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社秋山商会",
+      "corporate_number": "8010001036398",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＸワンビシアーカイブズ",
+      "corporate_number": "4010401065760",
+      "amount": 228000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＸワンビシアーカイブズ",
+      "corporate_number": "4010401065760",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本マルチペイメントネットワーク運営機構",
+      "corporate_number": "9999999999999",
+      "amount": 110000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本マルチペイメントネットワーク運営機構",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

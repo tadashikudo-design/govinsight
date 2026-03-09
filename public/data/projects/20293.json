@@ -1,0 +1,201 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20293",
+  "name": "指定難病患者データベースシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "指定難病及び小児慢性特定疾病にかかる指定医による診断書のオンライン登録を図り、事業全体の効率化を進め、不要な紙資料の削減を進める。",
+  "situation": "診断書のオンライン登録が令和６年度より本格的に始まったところであるが、システムの稼働初年度ということもありオンライン登録率は10%未満という状況のため、更なる利用率の向上に向けた検討を行う必要がある。",
+  "overview": "当該システムの活用により診断書作成、記載の簡素化、効率化を進める。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1513554740.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 1513554740.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 663771740.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "国立研究開発法人医薬基盤・健康・栄養研究所",
+      "corporate_number": "9120905002657",
+      "amount": 557128000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国立研究開発法人医薬基盤・健康・栄養研究所",
+      "corporate_number": "9120905002657",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "国立研究開発法人医薬基盤・健康・栄養研究所",
+      "corporate_number": "9120905002657",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 226600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "国立研究開発法人国立成育医療研究センター",
+      "corporate_number": "6010905002126",
+      "amount": 66055000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国立研究開発法人国立成育医療研究センター",
+      "corporate_number": "6010905002126",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ・クリエイト",
+      "corporate_number": "1020001028459",
+      "amount": 283572300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ・クリエイト",
+      "corporate_number": "1020001028459",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 3630000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーコム",
+      "corporate_number": "8230001012880",
+      "amount": 86086957.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーコム",
+      "corporate_number": "8230001012880",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": 55095652.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "corporate_number": "5020001028100",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": 219188200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

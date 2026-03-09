@@ -1,0 +1,62 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21895",
+  "name": "デジタル社会推進標準ガイドラインの改定",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "統括監理担当",
+  "purpose": "デジタル庁は「デジタル社会の実現に向けた重点計画」において、政府情報システムの整備及び管理に関する共通ルールであるデジタル・ガバメント推進標準ガイドライン等の改定を行うこととされている。本事業は、こうしたガイドライン等の策定・改定に向けた検討に必要となる政府情報システムに関する調査、分析、評価等の業務を実施するものである。",
+  "situation": "年間を通じて標準ガイドライン群の策定・改定を予定しており、そのための内部検討会等の開催、各省への意見照会・協議を実施を実施する必要がある。",
+  "overview": "ガイドライン等の策定・改定に向けた検討に必要となる政府情報システムに関する調査、分析、評価等の業務を実施する。",
+  "category": "前年度事業",
+  "startYear": "2014",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/resources/standard_guidelines",
+  "totalAmount": 39300000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 37400000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 37400000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 34980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000550359",
+      "name": "職員確認ガイドラインに関する調査研究",
+      "awardDate": "2025-12-19",
+      "price": 39300000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

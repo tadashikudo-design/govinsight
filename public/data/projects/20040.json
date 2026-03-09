@@ -1,0 +1,173 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20040",
+  "name": "動産・債権譲渡登記システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "動産・債権譲渡登記制度は、法人がする動産及び債権の譲渡について、民法の第三者対抗要件（動産については引渡し、債権については債務者に対する確定日付ある証書による通知又は債務者の承諾）の特例として、登記によって、容易かつ明確に第三者対抗要件を備えることを可能とすることにより、動産及び債権の譲渡による企業の資金調達の円滑化に資することを目的とする。",
+  "situation": "動産・債権譲渡登記については、年間5万件程度申請を受け付けており（令和5年度法務省司法法制部統計）、当該申請の内容を審査し、適正・迅速に登記記録へ反映する必要がある。",
+  "overview": "動産・債権譲渡登記に関する事務並びにこれらの登記に係る情報を公示するための登記事項証明書等の交付に関する事務を法務局（動産譲渡登記所及び債権譲渡登記所）において実施しており、これらの登記申請及び登記事項証明書等の交付請求に係る事務を円滑かつ効率的に処理するためのシステムである動産・債権譲渡登記システムを運用している。",
+  "category": "前年度事業",
+  "startYear": "1998",
+  "endYear": "",
+  "rsUrl": "https://www.moj.go.jp/MINJI/minji06_00154.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 684243000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 684243000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "奈良地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": 289000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "奈良地方法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": 466000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": 696000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "corporate_number": "6020001077096",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": 59000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リコー",
+      "corporate_number": "2010801012579",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 683488000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,250 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20203",
+  "name": "厚生労働省ＬＡＮシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "厚生労働省LANシステムにおいては、国民が安心して行政サービスを利用できる環境を実現するため、「利便性とセキュリティの両立」、「新たな働き方への対応」、「高い業務継続性と緊急時の柔軟性の確保」を実現する情報基盤を、遅滞なくかつ業務に影響を与えることなく運用を開始できるよう整備し、運用・保守段階においては、利用者などからの要望収集やセキュリティ対策の運用状況等を踏まえた継続的改善活動の徹底により、内的要因（利用者ニーズ及び運用面のニーズ）や外的要因（政府方針や新たなサイバー攻撃等）が変化した場合においても、それらに柔軟に対応し、適切なサービスを継続的に提供することを目的とする。",
+  "situation": "厚生労働省LANシステムは、高いセキュリティ性を維持しつつ、利用者の利便性を向上することにより、職員の生産性向上に寄与する「新たな働き方」を支える基盤の実現を目指し、令和４年度にシステム更改を行ったところである。厚生労働省の業務効率化等が引き続き求められていることから、事業の目的に沿った対応を引き続き検討していく必要がある。",
+  "overview": "厚生労働省LANシステムは、各種事務処理の効率的及び効果的な遂行を目的に、中央合同庁舎第5号館を中心とした厚生労働省の情報化の基盤として、1人1台のパソコン整備、電子メールや電子掲示板等のグループウェアの構築、LAN設備機器や無線LAN等といった省内外との迅速な情報連携等の基盤として整備している。",
+  "category": "前年度事業",
+  "startYear": "2000",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 10480567000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 10480567000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "オーク設備工業株式会社",
+      "corporate_number": "4010001024448",
+      "amount": 847000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "オーク設備工業株式会社",
+      "corporate_number": "4010001024448",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 346208000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": 310149000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝ビジネスエキスパート株式会社",
+      "corporate_number": "2020001030397",
+      "amount": 1254000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝ビジネスエキスパート株式会社",
+      "corporate_number": "2020001030397",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東芝ビジネスエキスパート株式会社",
+      "corporate_number": "2020001030397",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・ラーニング",
+      "corporate_number": "1010001081896",
+      "amount": 473000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・ラーニング",
+      "corporate_number": "1010001081896",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・ラーニング",
+      "corporate_number": "1010001081896",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社クマヒラ",
+      "corporate_number": "1010001108872",
+      "amount": 231000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社クマヒラ",
+      "corporate_number": "1010001108872",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフトキャンパス",
+      "corporate_number": "5420001010380",
+      "amount": 1468000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフトキャンパス",
+      "corporate_number": "5420001010380",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 9713000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": 9810147000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人国立印刷局",
+      "corporate_number": "6010405003434",
+      "amount": 69000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人国立印刷局",
+      "corporate_number": "6010405003434",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "公益財団法人統計情報研究開発センター",
+      "corporate_number": "1010005018944",
+      "amount": 8000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "公益財団法人統計情報研究開発センター",
+      "corporate_number": "1010005018944",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

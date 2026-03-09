@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20054",
+  "name": "ワクチン接種円滑化システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "ワクチン接種円滑化システムを整備し、新型コロナワクチンの供給量に応じた効率的なワクチン等の分配、ワクチン接種を実施する医療機関等の調整、国民（希望者）が混乱なく接種予約できる体制を構築し、多くの方への接種を円滑に実施することを目的とする。",
+  "situation": "2023年度末をもって新型コロナワクチンの特例臨時接種が終了したため、2024年度からは再び感染症危機等が発生した場合に備えて、システム維持のための運用を行う。",
+  "overview": "上記目的のため、ワクチン接種円滑化システムの有する機能は以下のとおり。／①供給量に応じた効率的かつ公平なワクチン分配量の決定と配送指示の実施／②医療機関が速やかにワクチン接種を開始できるよう集合契約機能を実装／③公開サイトによるワクチン接種可能な医療機関や予約受付情報等の公開",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 65560000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 65560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 65560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

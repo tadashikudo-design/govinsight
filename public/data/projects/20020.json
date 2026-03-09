@@ -1,0 +1,838 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20020",
+  "name": "出入国管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "・出入国在留管理業務における利便性の向上／・出入国管理システムにおける運用経費の削減／・出入国在留管理行政の効率化",
+  "situation": "・在留カードとマイナンバーカードの両方を所持する外国人は、在留カードに関する手続は地方出入国在留管理局、マイナンバーカードに関する手続は市町村の役所に赴く必要があり、煩雑な手続を余儀なくされている。／・外国人が在留諸申請を行う際は、申請書と併せて当庁に提出する添付書類の準備のため複数の公的機関等に赴く必要があり、申請人の負担となっている。／・米国のグローバル・エントリー・プログラム（ＧＥＰ）と日本のトラスティド・トラベラー・プログラム（ＴＴＰ）に関する日米間の相互協力が行われているところ、これまで登録者数の上限を設けて暫定運用を行っていたが、2024年11月27日からの当該上限を撤廃した本格運用開始に伴い、申請件数の大幅増加が見込まれ、相当数の申請に対処するため、日米間の情報連携をシステム上で行うことが必要である。／・出入国管理システムは、基幹システムである外国人出入国情報システムのほか、複数のサブシステムによって構成されているところ、多くのサブシステムがそれぞれにオンプレミスで基盤が構築されていることから、運用経費が高くなっている。／・行政機関における生産性やセキュリティ向上を図るため、政府共通の標準的な業務実施環境を構築するサービスとしてガバメントソリューションサービス（ＧＳＳ）が運用を開始しているところ、当庁の業務実施環境システムである出入国在留管理庁通信ネットワークシステム（入管ＷＡＮ）は未だこれに移行していない。",
+  "overview": "・マイナンバーカードと在留カードの一体化／・マイナンバーを活用した情報連携の実現／・日米両国で情報連携のためのシステムを整備し、両国間での情報連携を自動で行う。／・プライベートクラウドを構築することによる各基盤の統合／・入管WANのGSS移行",
+  "category": "前年度事業",
+  "startYear": "2018",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 21005019000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "出入国在留管理庁",
+      "corporate_number": "7000012030004",
+      "amount": 21005019000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "出入国在留管理庁",
+      "corporate_number": "7000012030004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 793504000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 426526000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三井住友トラスト・パナソニックファイナンス株式会社",
+      "corporate_number": "1010001146146",
+      "amount": 271397000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三井住友トラスト・パナソニックファイナンス株式会社",
+      "corporate_number": "1010001146146",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "三井住友トラスト・パナソニックファイナンス株式会社",
+      "corporate_number": "1010001146146",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三井住友トラスト・パナソニックファイナンス株式会社",
+      "corporate_number": "1010001146146",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三井住友トラスト・パナソニックファイナンス株式会社",
+      "corporate_number": "1010001146146",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 1562750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 1969732000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 534979000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 11379678000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 256584000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 1207377000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 1797700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": 329115000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "仙台出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 2067000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "仙台出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "入国者収容所大村入国管理センター",
+      "corporate_number": "9999999999999",
+      "amount": 1083000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "入国者収容所大村入国管理センター",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "入国者収容所東日本入国管理センター",
+      "corporate_number": "9999999999999",
+      "amount": 1544000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "入国者収容所東日本入国管理センター",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "名古屋出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 21035000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "名古屋出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大阪出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 77125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大阪出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "広島出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 3947000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "広島出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "札幌出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 8125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "札幌出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 272617000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "福岡出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 85306000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "福岡出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "高松出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": 2828000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "高松出入国在留管理局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 127896000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 33053000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "成田国際空港株式会社",
+      "corporate_number": "9040001044645",
+      "amount": 86392000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "成田国際空港株式会社",
+      "corporate_number": "9040001044645",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本空港ビルデング株式会社",
+      "corporate_number": "7010801014496",
+      "amount": 25411000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本空港ビルデング株式会社",
+      "corporate_number": "7010801014496",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 24735000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": 46677000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コームラ",
+      "corporate_number": "5200001001939",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 38961000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 11268000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": 10820000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": 61929000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "関西エアポート株式会社",
+      "corporate_number": "9120001194911",
+      "amount": 8535000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "関西エアポート株式会社",
+      "corporate_number": "9120001194911",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

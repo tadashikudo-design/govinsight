@@ -1,0 +1,170 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5509",
+  "name": "公金受取口座登録業務支援経費",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "公金受取口座の登録の仕組みの実現",
+  "situation": "2025年度以降は公金受取口座登録システムの事業にて予算要求・執行に伴い、2024年度をもって本事業単体での管理は終了とする。／※2025年４月１日より金融機関及び預金保険機構への委託業務開始。",
+  "overview": "内閣総理大臣は金融機関及び預金保険機構に対し、公金受取口座の登録等の受付に関する事務を委託することとされている。本件は同委託業務に生じる経費である。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "2024",
+  "rsUrl": "https://www.digital.go.jp/policies/account_registration/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": "2025年度以降は公金受取口座登録システムの事業にて予算要求・執行するため、本事業単体での予算計上は行わないため。"
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 118133000.0,
+      "expenditure": 54514000.0,
+      "exec_rate": 0.46146,
+      "total": 118133000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 231000000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 231000000.0,
+      "note": "令和6年度から、全国金融機関を対象として、通年で本事業を実施するため。"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": "「重要政策推進枠」30"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "預金保険機構",
+      "corporate_number": "2010005002591",
+      "amount": 54514000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "預金保険機構",
+      "corporate_number": "2010005002591",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 18016000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 5577000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アグレックス",
+      "corporate_number": "3011101000686",
+      "amount": 164000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アグレックス",
+      "corporate_number": "3011101000686",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キヤノンＩＴソリューションズ株式会社",
+      "corporate_number": "6010701025982",
+      "amount": 1363000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンＩＴソリューションズ株式会社",
+      "corporate_number": "6010701025982",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 545000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21122",
+  "name": "ＮＩＳＣ統合ＬＡＮシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "ＮＩＳＣ統合ＬＡＮシステムの活用を通じ、適切なシステム運用を行うことにより、引き続き効果的・効率的な行政事務の遂行を目的とする。",
+  "situation": "ＮＩＳＣ統合ＬＡＮシステムは、従前の「NISC情報収集システム」及び「NISC情報分析・共有システム」を統合して、令和3年3月から運用を開始している。／また、「デジタル社会の実現に向けた重点計画」（令和6年6月21日閣議決定）に基づき、令和8年1月にデジタル庁が整備するガバメントソリューションサービス環境への移行を予定している。",
+  "overview": "ＮＩＳＣ統合ＬＡＮシステムは、NCO等職員が政策の企画立案・総合調整等を行う際に、電子メールや電子掲示板、インターネット等を効率的に活用し、情報の収集や分析、情報共有、情報発信等を実施するための基盤システムである。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": 921125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 915564000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": 5561000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

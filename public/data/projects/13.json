@@ -1,0 +1,498 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "13",
+  "name": "共通情報検索システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "ｅーＬＡＷＳ／共通情報検索システム担当",
+  "purpose": "①正確で信頼性が高い法令データのベースレジストリとして法令データを整備しe-Gov法令検索を通じて国民に提供すること／②法制執務のデジタル化による合理化・効率化を実現すること",
+  "situation": "法制事務デジタル化及び法令データの利活用促進に向け、中期的課題について技術検証を行い、法制事務の業務フローの見直し、法令編集機能や法令APIの改善等、優先順位を付けて順次開発・実装を行うとともに、法令データを利活用したサービスの開発の促進を行う。",
+  "overview": "上記目的のためのシステムの運用・改修等",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 948245000.0,
+  "vendorCount": 4,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1173111940.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1319558864.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 597000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 262000000.0,
+      "exec_rate": 1.5503,
+      "total": 169000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 66000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京官書普及株式会社",
+      "corporate_number": "1010001034053",
+      "amount": 106000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京官書普及株式会社",
+      "corporate_number": "1010001034053",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": 528000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人国立印刷局",
+      "corporate_number": "6010405003434",
+      "amount": 151800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人国立印刷局",
+      "corporate_number": "6010405003434",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "第一法規株式会社",
+      "corporate_number": "7010401017486",
+      "amount": 1105000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "第一法規株式会社",
+      "corporate_number": "7010401017486",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コンフィック",
+      "corporate_number": "2012801014142",
+      "amount": 420942500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コンフィック",
+      "corporate_number": "2012801014142",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": 283943000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 66000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": 66000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アイビー・システム株式会社",
+      "corporate_number": "9430001000237",
+      "amount": 55000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイビー・システム株式会社",
+      "corporate_number": "9430001000237",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "イーコーポレーションドットジェーピー株式会社",
+      "corporate_number": "1010001067375",
+      "amount": 20350000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イーコーポレーションドットジェーピー株式会社",
+      "corporate_number": "1010001067375",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "クリエーションライン株式会社",
+      "corporate_number": "1010001122898",
+      "amount": 7920000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "クリエーションライン株式会社",
+      "corporate_number": "1010001122898",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "サン・ライズ・システムズ株式会社",
+      "corporate_number": "8180001053682",
+      "amount": 77000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サン・ライズ・システムズ株式会社",
+      "corporate_number": "8180001053682",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソシオメディア株式会社",
+      "corporate_number": "1011101031469",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソシオメディア株式会社",
+      "corporate_number": "1011101031469",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢｅｅＸ",
+      "corporate_number": "4010001173996",
+      "amount": 20146500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢｅｅＸ",
+      "corporate_number": "4010001173996",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＥＧテスティングサービス株式会社",
+      "corporate_number": "2013301036024",
+      "amount": 14850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＧテスティングサービス株式会社",
+      "corporate_number": "2013301036024",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "マーコール株式会社",
+      "corporate_number": "3010401130094",
+      "amount": 3465000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "マーコール株式会社",
+      "corporate_number": "3010401130094",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 4400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": 770000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｋｉｅｉ",
+      "corporate_number": "6011103012727",
+      "amount": 13510000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｋｉｅｉ",
+      "corporate_number": "6011103012727",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": 40672500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社コンフィック",
+      "corporate_number": "2012801014142",
+      "amount": 182688000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コンフィック",
+      "corporate_number": "2012801014142",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "アイビスジャパン株式会社",
+      "corporate_number": "8013301016292",
+      "amount": 19932000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイビスジャパン株式会社",
+      "corporate_number": "8013301016292",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アイビー・システム株式会社",
+      "corporate_number": "9430001000237",
+      "amount": 39600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイビー・システム株式会社",
+      "corporate_number": "9430001000237",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢｅｅＸ",
+      "corporate_number": "4010001173996",
+      "amount": 5940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢｅｅＸ",
+      "corporate_number": "4010001173996",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000443073",
+      "name": "共通情報検索システムの機能向上開発等に係るプロジェクト管理支援業務の請負",
+      "awardDate": "2024-04-18",
+      "price": 60000000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000437705",
+      "name": "法令編集・管理機能等に係る共通情報検索システムの機能向上開発",
+      "awardDate": "2024-04-22",
+      "price": 382675000.0,
+      "vendorName": "株式会社コンフィック",
+      "corporateNumber": "2012801014142",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000515161",
+      "name": "共通情報検索システムの機能向上開発等に係るプロジェクト管理支援業務の請負",
+      "awardDate": "2025-04-25",
+      "price": 100000000.0,
+      "vendorName": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporateNumber": "6010001107003",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000515065",
+      "name": "法令編集・管理機能等に係る共通情報検索システムの機能向上開発",
+      "awardDate": "2025-05-15",
+      "price": 368090000.0,
+      "vendorName": "株式会社コンフィック",
+      "corporateNumber": "2012801014142",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000522847",
+      "name": "共通情報検索システムに掲載する告示のXMLデータ作成等業務",
+      "awardDate": "2025-06-27",
+      "price": 37480000.0,
+      "vendorName": "株式会社ぎょうせい",
+      "corporateNumber": "1010001100425",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

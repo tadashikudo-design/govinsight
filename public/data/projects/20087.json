@@ -1,0 +1,149 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20087",
+  "name": "厚生労働省統合ネットワーク（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「コスト適正化」、「信頼性の確保」、「利便性の向上」及び「安全性の確保」の観点に留意しつつ、利用者や厚生労働省統合ネットワークを利用する情報システム等へ広域ネットワーク基盤の安定した提供を目的とする。",
+  "situation": "厚生労働省統合ネットワークは、「厚生労働省ネットワーク（共通システム）最適化計画」（2005年（平成17年）5月27日厚生労働省行政情報化推進会議決定）に基づき平成20年4月から運用を開始した本省と地方支分部局等を接続する複数の個別ネットワークを統合する厚生労働省共通の基盤である。厚生労働省統合ネットワークを利用する個別システムは、雇用保険、労災保険、年金等の給付業務や、感染症対策、輸入食品の検疫等、国民生活に密接に影響する重要な業務を支える情報システム基盤である。これらの個別システムは個人情報を含む多くの重要情報を扱っていることから、厚生労働省統合ネットワークには、安定稼働が求められている。",
+  "overview": "厚生労働省統合ネットワークは、WAN 回線の統合、基本システムの統一、政府共通ネットワーク及びLGWAN の活用等の最適化を実施し、全国に点在する利用拠点を広域回線サービスで接続し、運用管理を一元化したネットワークである。具体的には、約２,１００ の利用拠点を対象として、帯域確保や通信暗号化等の機能を備えつつ、増設・増強可能な規模・性能要件、２系統のネットワーク網及び複数のデータセンタによる信頼性を実現している。／また、ネットワーク基盤を提供するだけでなく、ファイアウォール機能、統合ログ分析機能、ふるまい検知機能といったセキュリティ基盤としての機能も提供している。",
+  "category": "前年度事業",
+  "startYear": "2005",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 6465380000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 6465380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 6435394000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 29986000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

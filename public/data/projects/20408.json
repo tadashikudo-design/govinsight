@@ -1,0 +1,481 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20408",
+  "name": "財務局行政情報化ＬＡＮシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "行政情報の電子化による事務・事業の簡素化・効率化を推進するための基盤として、財務局全体の情報通信基盤を構築する。",
+  "situation": "財務局行政情報化LAN システム（以下「財務局LAN」という。）は、財務局職員が利用するLANシステムであり、財務局の行政事務等を担う基盤システムである。現行の財務局 LAN（以下「現行財務局 LAN」という。）における機器の賃貸借や運用保守の期限が令和 9年1月末に到来することに伴い、「デジタル社会の実現に向けた重点計画」（2024年（令和6年）6月21日閣議決定  ）に基づき、ガバメントソリューションサービスへ移行する。",
+  "overview": "財務局職員が行政事務の遂行に利用する端末、サーバ、プリンタ及びその他情報機器を接続し、財務局職員が作成した情報資産を共有する機能を提供すると共に、各種行政事務を行うために利用する個別業務システムの利用基盤として必要な機能を提供する。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 9944026000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "関東財務局ほか",
+      "corporate_number": "9999999999999",
+      "amount": 9944026000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "関東財務局ほか",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "みずほリース株式会社",
+      "corporate_number": "3010401094447",
+      "amount": 430077000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほリース株式会社",
+      "corporate_number": "3010401094447",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 34134000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 105202000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三井情報株式会社",
+      "corporate_number": "6010401078785",
+      "amount": 8814000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三井情報株式会社",
+      "corporate_number": "6010401078785",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本コムシス株式会社",
+      "corporate_number": "4010701022825",
+      "amount": 216328000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本コムシス株式会社",
+      "corporate_number": "4010701022825",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 12583000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 6672779000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": 2384000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社筑波総合研究所",
+      "corporate_number": "3010001146879",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＲＡ",
+      "corporate_number": "9013301019435",
+      "amount": 29295000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＲＡ",
+      "corporate_number": "9013301019435",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 71762000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 92423000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": 2195670000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "corporate_number": "3010401151289",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "エス・エー・エス株式会社",
+      "corporate_number": "9010401049503",
+      "amount": 816000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エス・エー・エス株式会社",
+      "corporate_number": "9010401049503",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 3156000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ジェイテック株式会社",
+      "corporate_number": "5122001023905",
+      "amount": 2619000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ジェイテック株式会社",
+      "corporate_number": "5122001023905",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "有限会社太陽商工",
+      "corporate_number": "3180002009795",
+      "amount": 11612000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社太陽商工",
+      "corporate_number": "3180002009795",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "有限会社太陽商工",
+      "corporate_number": "3180002009795",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社太陽商工",
+      "corporate_number": "3180002009795",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社太陽商工",
+      "corporate_number": "3180002009795",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 1732000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビックカメラ",
+      "corporate_number": "9013301010402",
+      "amount": 586000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビックカメラ",
+      "corporate_number": "9013301010402",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フジモト",
+      "corporate_number": "9290801003255",
+      "amount": 1822000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フジモト",
+      "corporate_number": "9290801003255",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ホクユーサプライ",
+      "corporate_number": "7430001026837",
+      "amount": 8409000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ホクユーサプライ",
+      "corporate_number": "7430001026837",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ホクユーサプライ",
+      "corporate_number": "7430001026837",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": 4124000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社創文堂",
+      "corporate_number": "7220001003766",
+      "amount": 4837000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社創文堂",
+      "corporate_number": "7220001003766",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 29705000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社青柳",
+      "corporate_number": "4470001000295",
+      "amount": 3160000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社青柳",
+      "corporate_number": "4470001000295",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社青柳",
+      "corporate_number": "4470001000295",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社青柳",
+      "corporate_number": "4470001000295",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

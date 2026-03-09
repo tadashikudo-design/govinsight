@@ -1,0 +1,112 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20209",
+  "name": "電子政府利用支援センター（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "e-Gov利用者サポートデスクを通じて、国民等利用者から寄せられるe-Govの操作方法や申請届出の進捗状況等に関する問合せに総合的・一元的に対応することにより、国民等利用者の利便性向上を図るとともに、e-Govの安定的なサービス提供に資することを目的とする。",
+  "situation": "行政手続の原則オンライン化等を踏まえ、e-Govで取り扱う手続は拡充し電子申請件数は今後更に増加することが想定され、それに伴い、e-Gov利用者サポートデスクへの問合せ数の増加・問合せ内容の複雑化が進むと見込まれている。そのため、より機能的なシステムやクラウド技術等を活用するなどの対策を行い、効率的・効果的な問合せ対応を行う必要がある。",
+  "overview": "国民等利用者から寄せられるe-Govの操作方法や申請届出の進捗状況等に関する問合せに総合的・一元的に対応するe-Gov利用者サポートデスクの運営・管理を行っている。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 387339000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 309175000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 34404000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・スマートソーシング",
+      "corporate_number": "7011101032783",
+      "amount": 316217000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・スマートソーシング",
+      "corporate_number": "7011101032783",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 36718000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

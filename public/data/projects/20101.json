@@ -1,0 +1,159 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20101",
+  "name": "農林水産省ＧＳＳ独自サービス等（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "農林水産省の全職員の情報共有基盤として様々な業務で幅広く利用される府省内LANシステムの整備及び運営を行うもの。（ガバメントソリューションサービス（以降、GSSと言う。）への移行完了に伴い、GSSでは対応不可なものに対して措置するもの。）",
+  "situation": "旧システムのLANケーブル・ラックの撤去・廃棄等を予定。",
+  "overview": "農林水産省職員が利用するメール、スケジュール、電子掲示板、チャット、ウェブ会議、ファイル共有、大容量ファイル転送、ウェブサイト閲覧、ウェブサイト公開等の機能、Officeアプリ、端末等を提供。（GSS移行完了後は、名称を農林水産省行政情報システムから、農林水産省GSS独自サービス等に変更し、電子計算機室の空調機器の保守やウェブ会議用インターネット回線、ウェブ会議ツール等を提供）",
+  "category": "前年度事業",
+  "startYear": "",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 15414000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 15414000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソレキア株式会社",
+      "corporate_number": "1010801004073",
+      "amount": 1315000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソレキア株式会社",
+      "corporate_number": "1010801004073",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "大成温調株式会社",
+      "corporate_number": "3010701005946",
+      "amount": 828000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大成温調株式会社",
+      "corporate_number": "3010701005946",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ティム・プラニング",
+      "corporate_number": "6013301007723",
+      "amount": 10769000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ティム・プラニング",
+      "corporate_number": "6013301007723",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": 411000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 283000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "2013101000205",
+      "amount": 1804000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "2013101000205",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "2013101000205",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

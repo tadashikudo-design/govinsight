@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21425",
+  "name": "耐量子計算機暗号（PQC）への移行に係る調査検討業務",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "量子計算機技術等の進展が見込まれる将来においても、電子署名法に基づく特定認証業務に関する認定制度の円滑な実施を図るために必要な対策を講じる。",
+  "situation": "量子計算機技術の進展に伴い、現行暗号の一部の危殆化が懸念されている。電子署名法に基づく特定認証業務においても危殆化が懸念される暗号技術を利用しており、特定認証業務に関する認定の制度の円滑な実施を図るため、暗号移行方針の策定が必須である。",
+  "overview": "・認定認証事業者及びブリッジ認証局のPQCに関する検討状況の調査、 並びにPQC移行における課題の洗い出しを実施。／・上記調査結果を踏まえて、「認定認証業務におけるPQC移行方針」の骨子案を検討",
+  "category": "新規要求事業",
+  "startYear": "2026",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [],
+  "procurements": []
+}

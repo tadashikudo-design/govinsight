@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20205",
+  "name": "防衛医科大学校情報処理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "防衛医科大学校情報処理システムは、管理運営、教育・訓練、研究活動及び診療の支援をし、高度で安全な医療を提供しつつ自衛隊の医療・衛生活動並びに地域医療に貢献し、優れた自衛隊医官・看護官等を育成する。",
+  "situation": "防衛医科大学校は防衛省（医官・看護官育成等）としての側面と民間的（大学校・病院）な側面の両面をもつ機関であり、システム内において複数のセキュリティセグメントを適切に整備・管理し、防衛、教育、診療の任務を利便性を担保しつつ効率的・効果的に継続して実施できるようにすることが課題である。",
+  "overview": "次期システムの換装では、令和16年度の新病院を考慮したシステム基盤とし拡張性を有するよう整備する。整備範囲は防衛医科大学校情報処理システム全体（基盤、管理運営、教育・研究、医療情報）である。併せて、新病院を考慮したシステム設計と安全かつ迅速に任務を遂行できる情報運用基盤の提供、組織内における時間創出を目的として、先進的デジタル化技術を用いたDX(デジタルトランスフォーメーション)を実現する。",
+  "category": "前年度事業",
+  "startYear": "",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 950552000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 950552000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 838860000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 61606000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シグマスタッフ",
+      "corporate_number": "9140001049147",
+      "amount": 13216000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シグマスタッフ",
+      "corporate_number": "9140001049147",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビー・エム・サプライズほか",
+      "corporate_number": "",
+      "amount": 17840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビー・エム・サプライズほか",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム環境研究所",
+      "corporate_number": "7290001013750",
+      "amount": 19030000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム環境研究所",
+      "corporate_number": "7290001013750",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21195",
+  "name": "クリアランス管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "特定秘密保護法に基づく適性評価の管理システムについて、外務省クローズドLANでの運用を維持し、利用者にとっての利便性を向上させるとともに、担当者による集計・統計作業等、適性評価管理業務の効率化を実現する。これに加え、令和７年度から新たに重要経済安保情報保護活用法に基づく適性評価及び外務省独自のクリアランス制度が導入されることを受け、外務省員のクリアランス（適性評価とクリアランス双方を含む）保有状況を適切かつ効率的に管理するために現行システムの機能改修を行い、クリアランス関連情報の一元的な管理を実現する。",
+  "situation": "現行システムは特定秘密保護法に基づく適性評価に係る機能のみの仕様となっており、新たに導入される重要経済安保情報保護活用法に基づく適性評価、外務省クリアランス制度に対応したものになっていないため、これらを一括して管理できるシステムに機能改修する必要がある。日本を取り巻く安全保障環境が一層厳しさを増す中、米国等外国政府等と秘匿性の高い情報の交換を円滑に進める上で、我が国の情報保全制度を諸外国と実質同等レベルに強化することは喫緊の課題。特定秘密及び重要経済安保情報の適性評価、外務省クリアランスの管理を同システムで一元化することが必要。",
+  "overview": "クリアランス管理システムの運用保守・機能改修業務／（特定秘密の適性評価管理機能の運用保守・改修、重要経済安保情報の適性評価管理機能の追加、外務省クリアランス制度管理機能の追加）",
+  "category": "新規要求事業",
+  "startYear": "2026",
+  "endYear": "",
+  "rsUrl": "https://www.cas.go.jp/jp/tokuteihimitsu/index.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

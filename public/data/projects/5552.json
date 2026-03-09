@@ -1,0 +1,194 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5552",
+  "name": "ＶｉｓｉｔＪａｐａｎＷｅｂ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "日本への入国等に係る一連の手続（検疫、入国審査及び税関申告（CIQ手続））について、水際対策の効率的な実施と利用者の利便性向上を図る観点から、スマートフォン等の利用を通じたデジタル化を進めるとともに、入国手続以外においても活用することで、更なる利便性向上を図るもの。",
+  "situation": "訪日外国人等が急増する中、引き続きVisit Japan Webの安定的な運用を行う必要がある。",
+  "overview": "本事業は、CIQ手続について、水際対策の効率的な実施と利用者の更なる利便性向上を図る観点から、2021年12月に運用を開始した。入国者等はVisit Japan Webを利用することで、CIQ手続をスムーズに行うことができる。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 357489246.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 341222000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 341849608.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 385000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 341222000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ北陸",
+      "corporate_number": "8220001001455",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ北陸",
+      "corporate_number": "8220001001455",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ先端技術株式会社",
+      "corporate_number": "7010001130664",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ先端技術株式会社",
+      "corporate_number": "7010001130664",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルシステム２４",
+      "corporate_number": "2010001159015",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルシステム２４",
+      "corporate_number": "2010001159015",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社北陸ソフタス",
+      "corporate_number": "6230001012189",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社北陸ソフタス",
+      "corporate_number": "6230001012189",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社高志インテック",
+      "corporate_number": "7230001005373",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社高志インテック",
+      "corporate_number": "7230001005373",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000475787",
+      "name": "令和７年度Visit Japan Web（フェイズ２）の運用・保守",
+      "awardDate": "2025-03-14",
+      "price": 357489246.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

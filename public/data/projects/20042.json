@@ -1,0 +1,117 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20042",
+  "name": "登記情報提供システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "登記情報をより簡易かつ迅速に利用することができるよう、インターネットにより登記情報を閲覧することを可能とするサービスを提供しており、これに必要な登記情報提供システムの安定的な運用・管理を行うことにより、不動産取引・企業取引等の安全と円滑に資することを目的とする。",
+  "situation": "登記情報提供サービスの利用件数は、平成１２年９月の稼働後、増加傾向となっており、令和５年度には約１億６，４００万件の利用があるなど、不動産取引を始めとする我が国の社会経済活動において重要な役割を担っていることから、今後も利用者の負担軽減や満足度の向上に資するシステム改善に取り組みつつ、システムの安定的な運用を確保する必要がある。",
+  "overview": "登記所が保有する登記情報をインターネットを通じてパソコンの画面上に表示することによって、利用者が自宅や会社に居ながらにして最新の登記情報を確認することが可能なサービスを提供する。これにより、国民が登記情報を確認するための時間と手間が大幅に縮減される。／なお、電気通信回線による登記情報の提供に関する法律（平成11年法律第226号）第3条に基づく指定法人として、一般財団法人民事法務協会が登記情報提供業務を行っている。",
+  "category": "前年度事業",
+  "startYear": "2000",
+  "endYear": "",
+  "rsUrl": "https://www1.touki.or.jp/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1012032000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 1012032000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アイビーシー株式会社",
+      "corporate_number": "6010001080514",
+      "amount": 824000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アイビーシー株式会社",
+      "corporate_number": "6010001080514",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 466840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 544368000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

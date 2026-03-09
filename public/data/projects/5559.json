@@ -1,0 +1,352 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5559",
+  "name": "サイバーセキュリティ対策等事業費",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "セキュリティ危機管理担当",
+  "purpose": "国家を背景とする組織によるものを含め、システムの脆弱性やバックドア等を利用した高度な攻撃等によるセキュリティインシデントが深刻化する中、デジタル庁においても、情報システムの設計・開発段階を含めてセキュリティの強化を図ることは重要である。／特に、刻々と進化するハッカーの手法に対抗するため、ハッカーの思想も踏まえて企画から運用まで一貫したセキュリティ対策を実施する考え方（セキュリティ・バイ・デザイン）に基づきシステムを開発・運用するとともに、運用・保守段階含めシステムの脆弱性を未然に発見・防止するなど、システムライフサイクル全体で対策を確実に実行することが重要である。／また、デジタル庁が整備・運用するシステム対し、セキュリティポリシー等に準拠して適切な運用が行われているか等の検証・監査やCSIRT要員への研修等によりセキュリティ確保に必要な体制を整備する。",
+  "situation": "社会全体へ浸透するDXやAI・量子技術等の進展により、サイバー空間を巡るリスクが急速に変化する中、国家を背景とする組織による高度なサイバー攻撃が行われ、サイバー攻撃により重要インフラが停止するなど、我が国の経済社会、国民生活及び安全保障に及ぼす影響は深刻さを増しており、国民の生活や経済活動の基盤となる政府等の情報システムにおける対策の重要性はますます大きくなっているところである。「誰一人取り残されない人に優しいデジタル化」に向けて、デジタルを活用した良質な利用者体験の実現と併せて、デジタル化の進展に伴う負の側面の影響を最小化することが必要であり、脅威が増大しているサイバーセキュリティの確保が求められている。",
+  "overview": "デジタル庁の情報システムの企画・開発・整備・運用に携わる職員が各工程でセキュリティ・バイ・デザインの考え方を理解し、実務で活かすことを目的にセキュリティ知識等の習得機会の確保を行うとともに、デジタル庁CSIRT要員が、インシデント対応に必要な識能を部外研修により習得する。／デジタル庁内のシステムの整備・運用に際して、安全性を確保するため、ソフトウェア構成管理の活用等により脆弱性・バックドアへの対策を実施するとともに、 デジタル庁が整備・運用するシステムについて、セキュリティポリシーに準拠した運用管理規程の策定及び当該運用管理規程に準拠した運用管理が行われているか等、セキュリティ確保に関する取組の検証・監査・調査等を実施する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 127555000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 127555000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 127235000.0,
+      "expenditure": 103580000.0,
+      "exec_rate": 0.81408,
+      "total": 127235000.0,
+      "note": "デジタル庁が整備・運用するシステムへの疑似的なサイバー攻撃を通じて、サイバー攻撃への組織的な検知・対応を検証し、デジタル庁全体の組織的な対応能力の向上を図る必要があることから増額要求を行うもの。"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 125000000.0,
+      "expenditure": 111641000.0,
+      "exec_rate": 0.89313,
+      "total": 125000000.0,
+      "note": "デジタル庁システムのサイバーセキュリティ確保のために必要な監査業務及び研修経費の増。"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 120000000.0,
+      "expenditure": 75000000.0,
+      "exec_rate": 0.625,
+      "total": 120000000.0,
+      "note": "デジタル庁システムのサイバーセキュリティ確保のために必要な各種研修の更なる拡充のための増額。また、統一基準における「自己点検」や「情報セキュリティ監査」の位置付けである脆弱性診断を、デジタル庁の職員で不足無く実施することは困難であるため、外部のセキュリティ専門事業者と連携して行う新規委託費用分の増額。「重要政策推進枠」36"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ケイテック",
+      "corporate_number": "7021001009856",
+      "amount": 21728575.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケイテック",
+      "corporate_number": "7021001009856",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 35689500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": 20933000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "エディフィストラーニング株式会社",
+      "corporate_number": "8010001012283",
+      "amount": 924000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エディフィストラーニング株式会社",
+      "corporate_number": "8010001012283",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "エディフィストラーニング株式会社",
+      "corporate_number": "8010001012283",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "グローバルセキュリティエキスパート株式会社",
+      "corporate_number": "2010401086255",
+      "amount": 952600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グローバルセキュリティエキスパート株式会社",
+      "corporate_number": "2010401086255",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "グローバルセキュリティエキスパート株式会社",
+      "corporate_number": "2010401086255",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "グローバルセキュリティエキスパート株式会社",
+      "corporate_number": "2010401086255",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "グローバルセキュリティエキスパート株式会社",
+      "corporate_number": "2010401086255",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": 1595000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ラック",
+      "corporate_number": "7010001134137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＣＯＤＥ　ＢＬＵＥ",
+      "corporate_number": "",
+      "amount": 196000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣＯＤＥ　ＢＬＵＥ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": 638000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 15400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＴＣ",
+      "corporate_number": "2013401002198",
+      "amount": 3696000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＴＣ",
+      "corporate_number": "2013401002198",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アシュアード",
+      "corporate_number": "9011001143811",
+      "amount": 1870000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アシュアード",
+      "corporate_number": "9011001143811",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アシュアード",
+      "corporate_number": "9011001143811",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "フューチャー株式会社",
+      "corporate_number": "6010701018466",
+      "amount": 1320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フューチャー株式会社",
+      "corporate_number": "6010701018466",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": 1716000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクストセット",
+      "corporate_number": "8010001152781",
+      "amount": 617573.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクストセット",
+      "corporate_number": "8010001152781",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクストセット",
+      "corporate_number": "8010001152781",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

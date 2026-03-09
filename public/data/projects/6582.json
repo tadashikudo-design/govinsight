@@ -1,0 +1,122 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6582",
+  "name": "Trusted Web実装等推進事業",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "様々な社会活動のデジタル化が進む一方、特定のプラットフォームによるデータの囲い込みや勝者総取りによる富の偏在、データの取扱いに対する不安が問題となる中、インターネットにおける新たな信頼の枠組みの構築（Trusted Web）に向けて、本事業を通じて、具体的に解決される課題を「見える化」するとともに、さまざまな産業分野におけるユースケースを創出し、 Trusted Webの具現化及び国際標準化、ひいてはDFFT（信頼性のある自由なデータ流通）の実現につなげる。",
+  "situation": "2020年6月のデジタル市場競争会議における「デジタル市場競争に係る中期展望レポート」の提言を受け、DFFTの具現化も視野に、2020年10月「Trusted Web推進協議会」が発足し、2021年3月に、内外の様々な関係者と協力・連携していくため、「Trusted Webホワイトペーパーｖｅｒ1.0」がとりまとめられた。その後、事例の机上検討を踏まえてTrusted Webのアーキテクチャーについて検討し、2022年8月に「Trusted Webホワイトペーパーｖｅｒ2.0」へ改訂、2023年11月には更なる検討を踏まえて「Trusted Webホワイトペーパーｖｅｒ3.0」へ改訂を行った。こうした取組を通して、Trusted Webの実現に向けた考え方や論点を発信しているが、そのメリットについて、国内外のステークホルダー、特にユーザーとなる企業等の理解を更に広げていくといった課題がある。",
+  "overview": "本事業では、Trusted Webを2030年（令和12年）頃にインターネット全体で実現していくために、社会的にインパクトのあるメリットの可視化やTrusted webの機能・実装に向けた課題等の抽出に向けて、国内外のさまざまな産業分野における実装例を早期に創出するため、国内外のユースケースの分析を行う。また、民間主導でのTrusted Webの社会実装や標準化を進めるため、学識者や産業界を巻き込んだ体制や活動強化を図るとともに、機運醸成のための情報発信等の普及啓発を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "2024",
+  "rsUrl": "https://trustedweb.go.jp/",
+  "totalAmount": 49917617.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 54843000.0,
+      "exec_rate": 0.98338,
+      "total": 55770000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 56000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 54843000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 3575000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｃｅｄａｒ",
+      "corporate_number": "9011101099160",
+      "amount": 3600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｃｅｄａｒ",
+      "corporate_number": "9011101099160",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000459427",
+      "name": "令和６年度Trusted Web実装等推進事業に係る調査研究",
+      "awardDate": "2024-08-02",
+      "price": 49917617.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

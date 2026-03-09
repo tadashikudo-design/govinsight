@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20866",
+  "name": "電子署名・電子委任状の利活用促進事業",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "事業者等がDXを進める際に必要となる電子署名等のトラストサービスを普及することにより、成長力に資する国内投資促進に取り組むための環境整備を進める。",
+  "situation": "・電子署名法に基づく特定認証業務の認定基準について、法施行後、大きな改正が行われておらず、近年の技術動向等に対応出来ていない。利用しやすい電子署名サービスの幅を広げ、経済活動等のデジタル化を進めるために、認定基準の早急なモダナイズ化が必要。／・これに限らず、経済活動等のデジタル化を進めるために、電子委任状等のデジタル社会におけるトラストに関する取組についても推進することが必要。",
+  "overview": "電子署名法に基づく認証業務の認定基準の見直し等を通じ、同法の認定を受けた高い信頼性を伴うものも含め、電子署名サービスの活用を推進する。そのほか、電子委任状等のデジタル社会におけるトラストに関する取組についても推進する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 50000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 50000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本情報経済社会推進協会",
+      "corporate_number": "1010405009403",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本情報経済社会推進協会",
+      "corporate_number": "1010405009403",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

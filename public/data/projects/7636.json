@@ -1,0 +1,201 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7636",
+  "name": "常時リスク診断・対処（ＣＲＳＡ）システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "総合運用・監視システム／常時リスク診断・対処システム",
+  "purpose": "本事業において、各府省の政府情報システムの情報資産管理状況やシステムの状態・ソフトウェアの状況等を常時かつ継続的に監査・監視することができる常時リスク診断・対処（CRSA）システムの開発・構築を行い、各府省に同システムの順次展開を進めることで、政府全体のサイバーセキュリティリスクの早期検知を可能とし、サイバー攻撃リスクの低減を図る。",
+  "situation": "各府省の政府情報システムの状況把握は、隔年監査や都度問い合わせ等で行っており、システム的な診断統計データ収集による政府横断での状況把握実現が困難な状況にある。／また、脆弱性対応等については、運用事業者依存となっており、正確な状況把握実現が困難な状況にある。",
+  "overview": "令和６年度に整備したCRSAシステムにより、ガバメントソリューションサービス（GSS）におけるデジタル庁の業務端末の脆弱性等を対象にリスク診断を開始したところであり、令和７年度においては検知した脆弱性等のリスクに対処するとともに、GSSを利用する他の府省庁を順次リスク診断の対象とし、またガバメントクラウド上の政府情報システムをはじめとするデジタル庁が運用するGSS以外の政府情報システムも段階的にリスク診断の対象とする。／CRSAシステムにより政府情報システムのリスク診断を行いリスクの状態を可視化して把握したうえで、必要な対処を優先的に実施することで全体のリスクを効率的に低減する。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/security/crsa",
+  "totalAmount": 486080000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 624942000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 159500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 16553680.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 448888000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社パワーソフト",
+      "corporate_number": "5230001002554",
+      "amount": 1112650.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社パワーソフト",
+      "corporate_number": "5230001002554",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケイ・シー・シー",
+      "corporate_number": "8010001042966",
+      "amount": 217580.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケイ・シー・シー",
+      "corporate_number": "8010001042966",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 3151830.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｓｏｌａ株式会社",
+      "corporate_number": "5010001121335",
+      "amount": 22885313.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｓｏｌａ株式会社",
+      "corporate_number": "5010001121335",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムアルテ",
+      "corporate_number": "2010701004338",
+      "amount": 48327387.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムアルテ",
+      "corporate_number": "2010701004338",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000451025",
+      "name": "CRSAシステムの開発・構築業務",
+      "awardDate": "2024-07-01",
+      "price": 408080000.0,
+      "vendorName": "富士通株式会社",
+      "corporateNumber": "1020001071491",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000485414",
+      "name": "令和７年度CRSAシステム運用・保守業務",
+      "awardDate": "2025-02-28",
+      "price": 78000000.0,
+      "vendorName": "富士通株式会社",
+      "corporateNumber": "1020001071491",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

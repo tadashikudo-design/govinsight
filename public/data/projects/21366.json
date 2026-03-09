@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21366",
+  "name": "保健医療福祉分野の公開鍵基盤システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "厚生労働省では、平成18年から公的資格の確認機能を有する電子署名や電子認証を行う基盤であるHPKIルート認証局を運用しており、このHPKIルート認証局によって認証されたサブ認証局が医師等の医療従事者の資格を証明できるHPKI電子証明書を発行している。／現在、ルート認証局で使用しているRSA2048の112ビットセキュリティについては、CRYPTRECによる設定基準に2030年で適合しなくなるため、早期の暗号化移行の対応が求められているため、暗号化移行に伴い認証局を新規構築する。",
+  "situation": "暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準を満たさない場合は、電子政府推奨暗号リストの暗号技術を利用していると見なされないので、暗号化移行する必要がある。／時間の経過とともに危胎化リスクが高まるため、早急に暗号化移行し、セキュリティ強化を図る必要がある。",
+  "overview": "暗号化移行に伴いHPKIルート認証局の新規構築を実施する。",
+  "category": "新規要求事業",
+  "startYear": "2026",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

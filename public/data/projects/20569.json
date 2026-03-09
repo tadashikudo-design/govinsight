@@ -1,0 +1,131 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20569",
+  "name": "研究開発支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本事業の目的は、現行の研究開発支援システムのセキュリティ機能を段階的に向上させセキュアな運用を実現するとともに、次期システムに求められる機能性能を明確にし、令和１１年３月１日に政府指針（デジタル・ガバメント標準ガイドライン）に基づく効率化及び効果的なシステムの整備と運用基盤の構築を完了させることにある。これに対応できる情報セキュリティ分野の人材には限りがあり、予算を積み増せば期間が短縮できるという性質の業務ではないため、令和７年度から実施するものである。政府目標の経費削減の達成は、プロジェクトの推進に当たっての要件であり、コスト効果は、予算管理により低減を図る。",
+  "situation": "・現行システムの換装に際して対応できなかったRMF管理策の完遂／現行システムの換装に際しては、予算要求の時期、システム構想設計の時期に要求されていたセキュリティレベルが旧基準であったため、ＲＭＦ管理策の要求を完全には満足させることが困難であった。本事業においては、ＲＭＦ管理策のなかで現在対応できていない管理策について、段階的な実現を推進する。",
+  "overview": "現行の研究開発支援システムのセキュリティ機能を段階的に向上させセキュアな運用を実現するとともに、次期システムに求められる機能性能を明確とし、令和１１年３月１日に政府指針（デジタル・ガバメント標準ガイドライン）に基づく効率化及び効果的なシステムの整備と運用基盤の構築を完了させる。",
+  "category": "前年度事業",
+  "startYear": "",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1829173000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 1829173000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 1739151000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 90022000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

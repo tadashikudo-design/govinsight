@@ -1,0 +1,215 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20187",
+  "name": "クローズドＬＡＮ及びオープンＬＡＮで利用する端末に係る運用経費（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "外務本省及び在外公館において円滑な外交事務遂行のために／必要不可欠である本官用パソコン及び本官用プリンタ等の運用・管理業務、また当該端末における省外対応などを行う。",
+  "situation": "「骨太の方針２０２３」ではサイバー安全保障分野において、政府外の機関との連携の強化を含む対外発信、人的情報を含む情報収集・分析に係る我が国の体制と能力を強化することが求められているところ、対外発信、情報収集・分析を支える通信インフラである本件ＬＡＮの維持・管理には万全を期する必要がある。また、国家による盗聴や情報監視等、在外公館は常にサイバーのターゲットであり、近年、高度化、巧妙化するサイバー攻撃に対応するためにも、本件ＬＡＮに接続する端末、ソフトウェアは常に最新の状態を維持することが求められている。",
+  "overview": "クローズドＬＡＮ及びオープンＬＡＮは、外務本省と在外公館間及び外国政府との間で、迅速且つ確実に外交情報を伝達するために必要不可欠且つ重要な通信インフラであり、本件は、本件ＬＡＮに接続するパソコン、プリンタ等の端末及びソフトウェアに係る運用経費である。",
+  "category": "前年度事業",
+  "startYear": "2007",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1612436000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": 296942000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 30353000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "キャノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キャノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "サン株式会社",
+      "corporate_number": "2010001155047",
+      "amount": 4372000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サン株式会社",
+      "corporate_number": "2010001155047",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": 46092000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコーリース株式会社",
+      "corporate_number": "7010601037788",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 67212000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "交友物産株式会社",
+      "corporate_number": "3010401081239",
+      "amount": 29000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "交友物産株式会社",
+      "corporate_number": "3010401081239",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 53424000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "コスモピア株式会社",
+      "corporate_number": "6010001145622",
+      "amount": 95080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コスモピア株式会社",
+      "corporate_number": "6010001145622",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "コスモピア株式会社",
+      "corporate_number": "6010001145622",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

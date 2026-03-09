@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21894",
+  "name": "Ｗｅｂ３．０の推進に向けた環境整備",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "Ｗｅｂ３．０担当",
+  "purpose": "事業の目的／ブロックチェーン技術を基盤とするNFT（非代替性トークン）やDAO（分散型自律組織）等のイノベーションにより、中小・小規模企業や個人であっても、グローバル市場と直結することで、グローバル水準の高い価格設定ができる可能性がある。こうしたイノベーションが到来していることを踏まえ、Web3.0の推進に向けた環境整備を進める。",
+  "situation": "デジタル社会においては、デジタル技術の応用によるユーザーの利便性増大や我が国産業の国際競争力の強化のため、デジタル関連技術の研究開発が重要であるところ、現状、分散台帳技術を用いたデジタル資産の市場が、急速に拡大し、新たな経済のフロンティアとして注目されている。一方、暗号資産の漏洩や障害、詐欺による消費者被害、海賊版による権利者の被害、資金洗浄やテロ支援への悪用などの事例も報告されており、その対応が課題となっている。",
+  "overview": "事業の概要／デジタル資産について、本事業と並行して実施されるWeb3.0研究会の議論を踏まえつつ、デジタル資産に係る法的位置づけ、国内外での利用実態、各国の制度整備等について調査を行う。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2024.pdf",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 76311000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 76311000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

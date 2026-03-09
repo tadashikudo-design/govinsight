@@ -1,0 +1,159 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20147",
+  "name": "確定申告書等作成コーナー（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "当該事業は、個人の納税者の所得税及び復興特別所得税、消費税及び地方消費税並びに贈与税の申告書等について、インターネット等を利用して作成できるシステムを開発・提供することで、広く一般の個人納税者（税理士非関与、会計ソフト未利用者等）が自発的に自宅等から申告手続を履行できる環境を提供することを目的とする。",
+  "situation": "確定申告書等作成コーナーは同システムを利用して作成した申告書をe-Taxにて送信することができ、一般の個人納税者が自宅等からe-Taxを利用するための重要なツールとなっている。／このため、利用者が簡便かつ適正に自宅等からのe-Taxによる申告手続を履行できるよう、システムのUI/UXの向上を図っていく必要がある。／また、確定申告は申告期限があり、かつ、短期間に多くの納税者が利用するという特性に鑑み、システムの安定稼働に万全に期す必要がある。",
+  "overview": "・確定申告書等作成コーナーのプログラム開発・修正／・確定申告書等作成コーナーの機器の整備・運用",
+  "category": "前年度事業",
+  "startYear": "2002",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 4709762322.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 4709762322.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 9783400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイリックコーポレーション",
+      "corporate_number": "6010001065944",
+      "amount": 28058146.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイリックコーポレーション",
+      "corporate_number": "6010001065944",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": 1852510000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 2472232950.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": 347177826.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社クロスキャット",
+      "corporate_number": "5010701002818",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

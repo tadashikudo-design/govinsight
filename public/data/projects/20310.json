@@ -1,0 +1,92 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20310",
+  "name": "総務省における生成ＡＩ利用環境（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "総務省職員向けに生成AI利用環境を提供することで、総務省職員が実際の業務において生成AIを利用して課題を解決し、業務効率化や行政サービスの向上を実現できるようにする。",
+  "situation": "生成AIの活用は、職員を定型的業務から解放し、創造的な業務に注力できるようにし、業務効率化や行政サービス向上につながり得るものである。／総務省において過去に実施した生成AIの試行導入では、アイデア出しや文案作成といった業務に生成AIが有用であることが確認された一方、利用できる職員の範囲や取り扱うことのできる情報の範囲が限定されている状態では効果は限定的であるとの課題も明らかとなった。／本事業は、こうした課題を踏まえ、業務効率化や行政サービスの質の向上を目的として、広く総務省職員が利用できる安心・安全な生成AI利用環境を構築するものである。",
+  "overview": "総務省職員が生成AIを業務に効果的に活用できるよう、省内生成AI利用環境を整備する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 35963637.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000518200",
+      "name": "法制事務における生成AIの活用等に関する技術検証",
+      "awardDate": "2025-05-16",
+      "price": 35963637.0,
+      "vendorName": "Ｐｏｌｉｍｉｌｌ株式会社",
+      "corporateNumber": "5010401158530",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

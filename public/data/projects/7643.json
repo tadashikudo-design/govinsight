@@ -1,0 +1,294 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7643",
+  "name": "CIQ手続効率化推進事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "日本への入国に係るCIQの手続（検疫、入国審査、税関申告）について、訪日外国人等の更なる増加が想定される中、諸外国におけるCIQ手続の電子化・デジタル化、ワンストップ化の事例等を把握し、それらの成功事例を取り込めるように諸外国のCIQ手続きの現状等について調査を行い、日本のCIQ手続きの最適化を検討していくもの。",
+  "situation": "日本への入国等に係るCIQ手続きについては、水際対策の効率的な実施と利用者の利便性向上を図る観点から、デジタル庁は、令和3年(2021年)12月より「Visit Japan Web」の運用を開始し、日本のCIQ手続きとして定着しつつある。今後、インバウントの拡大を含む観光立国の取組において、日本への入国等に係る一連のCIQ手続（検疫、入国審査、税関申告）の更なる利便性向上は喫緊の課題となっている。",
+  "overview": "諸外国におけるCIQ手続の電子化・デジタル化、ワンストップ化の事例等を把握し、それらの成功事例も取りこんでいくため、諸外国におけるCIQ手続きの事例を調査等を行う事業を委託するもの。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "2024",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 89085000.0,
+      "exec_rate": 0.64343,
+      "total": 138454000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 138454000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日本経済社",
+      "corporate_number": "6010001062000",
+      "amount": 50682000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本経済社",
+      "corporate_number": "6010001062000",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｔｒｉｐｌｏ　Ｍ’ｓ　ｓ．Ａ．",
+      "corporate_number": "9999999999999",
+      "amount": 17880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｔｒｉｐｌｏ　Ｍ’ｓ　ｓ．Ａ．",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＡＬブランドコミュニケーション",
+      "corporate_number": "7010701015248",
+      "amount": 7590000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＡＬブランドコミュニケーション",
+      "corporate_number": "7010701015248",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＡ　Ｘ株式会社",
+      "corporate_number": "8010401127771",
+      "amount": 5940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＡ　Ｘ株式会社",
+      "corporate_number": "8010401127771",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＲＹＤＥＥＮ　Ｃｏ．，Ｌｔｄ．",
+      "corporate_number": "9999999999999",
+      "amount": 997000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＲＹＤＥＥＮ　Ｃｏ．，Ｌｔｄ．",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": 996000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 986000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｓｋｅｔｃｈ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": 969000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｓｋｅｔｃｈ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＲＹＤＥＥＮ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": 897000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＲＹＤＥＥＮ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": 743000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 528000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｋｒｏｒｍａ　Ｔｏｕｒｓ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": 413000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｋｒｏｒｍａ　Ｔｏｕｒｓ　Ｃｏ．，Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アーバン・コネクションズ",
+      "corporate_number": "2011001000473",
+      "amount": 233000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アーバン・コネクションズ",
+      "corporate_number": "2011001000473",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 193000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターグループ",
+      "corporate_number": "8120001060882",
+      "amount": 39000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターグループ",
+      "corporate_number": "8120001060882",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハッピー・ジャパン",
+      "corporate_number": "4010001065657",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハッピー・ジャパン",
+      "corporate_number": "4010001065657",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

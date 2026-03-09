@@ -1,0 +1,150 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21310",
+  "name": "経営所得安定対策情報管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "経営所得安定対策情報管理システムは、本制度の交付金を全国約36万人の農業者に対して、国から直接支払うことを可能とするシステムであり、申請情報データの登録、審査、交付決定までの一連の処理を行うシステムである。",
+  "situation": "制度運営において申請項目、様式が多岐に渡り、申請処理に係る協議会担当者と当省県拠点担当者の業務が煩雑化している。",
+  "overview": "県拠点と協議会の業務を効率化するため、令和７年度にSaaS型クラウドサービスを導入、業務効率化を目的とした統合ツール（仮称）を構築する。",
+  "category": "前年度事業",
+  "startYear": "",
+  "endYear": "",
+  "rsUrl": "https://www.maff.go.jp/j/seisaku_tokatu/antei/keiei_antei.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 522039000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": 130053000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": 125942000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 22550000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 235464000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": 8030000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

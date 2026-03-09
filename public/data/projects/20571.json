@@ -1,0 +1,124 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20571",
+  "name": "統合気象システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "統合気象システムのハードウェア性能要件を見直し、気象衛星ひまわりの換装に適切に適合させるとともに、代替サーバーを設置して衛生機能の向上及び冗長性の確保を実現する。",
+  "situation": "平成31年３月から、既存のシステム運用器材に気象衛星ひまわりの換装に伴う適合化に向けてプログラムの改修等を実施して、現在の統合気象システム（ＪＷＳ－Ⅲ）を運用している。次期システム（仮称ＪＷＳ－Ⅳ）では空自クラウドシステム上で個別サービス化し、令和６年９月から運用を開始する。その際、全国各地の基地における端末を適切に稼働させる必要がある。",
+  "overview": "現有の統合気象システム（ＪＷＳ－Ⅲ）の維持運用に係る通信機器の借上げ及び時期換装に向けた撤去を実施する。",
+  "category": "前年度事業",
+  "startYear": "2019",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1045129000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 1045129000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社シー・キューブド・アイ・システムズ",
+      "corporate_number": "8010401012610",
+      "amount": 634947000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シー・キューブド・アイ・システムズ",
+      "corporate_number": "8010401012610",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社・シーキューブド・アイ・システムズ",
+      "corporate_number": "8010401012610",
+      "amount": 154246000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社・シーキューブド・アイ・システムズ",
+      "corporate_number": "8010401012610",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電信電話株式会社",
+      "corporate_number": "7010001065142",
+      "amount": 22186000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電信電話株式会社",
+      "corporate_number": "7010001065142",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": 233750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,245 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5545",
+  "name": "ベース・レジストリ共通費（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "ベース・レジストリ担当",
+  "purpose": "国民の利便性向上や行政運営の効率化等を図るため、ベース・レジストリとして、様々なデータベースの整備又は改善を行うとともに、ベース・レジストリ横断で必要なデータの標準化に係る基準に係る検討を行う。／※ベース・レジストリとは、住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータからなるデータベースであって、整備を行うことで国民の利便性向上や行政運営の効率化等に資するもの。",
+  "situation": "住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータについて、連携する仕組みがない、データの標準化がなされていない等の理由によって、行政機関等での利用が十分に図られていない。",
+  "overview": "ベース・レジストリとして、様々なデータベースの整備又は改善を行うとともに、ベース・レジストリ横断で必要なデータの標準化に係る基準に係る検討を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 340219640.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 173813200.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 139754760.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 91999000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "5200001003514",
+      "amount": 57420000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "5200001003514",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": 49423000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＹＮＳ",
+      "corporate_number": "2030001059279",
+      "amount": 961400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＹＮＳ",
+      "corporate_number": "2030001059279",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフト技研",
+      "corporate_number": "5011001012920",
+      "amount": 645480.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフト技研",
+      "corporate_number": "5011001012920",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": 15400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣ　Ｊａｐａｎ有限責任監査法人",
+      "corporate_number": "8010005011876",
+      "amount": 15200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣ　Ｊａｐａｎ有限責任監査法人",
+      "corporate_number": "8010005011876",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノプロジエクト",
+      "corporate_number": "6280001000494",
+      "amount": 24430000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノプロジエクト",
+      "corporate_number": "6280001000494",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "データ・マネージメント株式会社",
+      "corporate_number": "9010401018474",
+      "amount": 9525000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "データ・マネージメント株式会社",
+      "corporate_number": "9010401018474",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ブライトノア",
+      "corporate_number": "2011101088946",
+      "amount": 8100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ブライトノア",
+      "corporate_number": "2011101088946",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アスコエパートナーズ",
+      "corporate_number": "9010001130423",
+      "amount": 18971590.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アスコエパートナーズ",
+      "corporate_number": "9010001130423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

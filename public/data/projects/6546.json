@@ -1,0 +1,598 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6546",
+  "name": "情報提供等記録開示システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "マイナポータルは特に国民の利便性の向上に資する行政手続をオンラインで行う際に原則として利用されることを目的とする。",
+  "situation": "マイナポータルのアカウント登録者数は2025年3月末時点で7,800万人を超えており、重要な社会的インフラとなっている。／この多くの利用者の「見つける」「確かめる」「忘れない」をサポートできるように、今後も絶えずサービスを改善し、手続に当たって迷うことがなく、また利用したいという新たな体験も提供できるように、UI・UXの継続的な改善に取り組む必要がある。",
+  "overview": "マイナポータルにおいて、行政手続のオンライン申請を可能とすることや、行政機関等が保有する自分の税情報や医療情報などを取得・閲覧すること、行政機関同士の情報連携を確認し、自分の情報のやり取りがどのように行われたかを確認すること、行政機関からのお知らせを確認することなどのサービスの提供を目的とする。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://myna.go.jp/html/about_mynaportal.html",
+  "totalAmount": 15400000000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 12719684000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 8399359300.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 7046864000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": 120510568.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "レビックコンサルティング株式会社",
+      "corporate_number": "8010901026787",
+      "amount": 76620620.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "レビックコンサルティング株式会社",
+      "corporate_number": "8010901026787",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": 109282085.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社分析屋",
+      "corporate_number": "3021001046135",
+      "amount": 55722935.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社分析屋",
+      "corporate_number": "3021001046135",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニボシ",
+      "corporate_number": "5380001034153",
+      "amount": 44740085.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニボシ",
+      "corporate_number": "5380001034153",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＡＣＰ有限有限責任事業組合",
+      "corporate_number": "9999999999999",
+      "amount": 105832522.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＣＰ有限有限責任事業組合",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アバナード株式会社",
+      "corporate_number": "4010401058525",
+      "amount": 83628549.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アバナード株式会社",
+      "corporate_number": "4010401058525",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コムチュアネットワーク株式会社",
+      "corporate_number": "7010701024752",
+      "amount": 7725300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュアネットワーク株式会社",
+      "corporate_number": "7010701024752",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ダイレクトウェイヴ",
+      "corporate_number": "5011001034205",
+      "amount": 1931325.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ダイレクトウェイヴ",
+      "corporate_number": "5011001034205",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 170940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミライロ",
+      "corporate_number": "4120001144623",
+      "amount": 10078420.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミライロ",
+      "corporate_number": "4120001144623",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフォアクシア",
+      "corporate_number": "2010001118994",
+      "amount": 3393720.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフォアクシア",
+      "corporate_number": "2010001118994",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アライド・ブレインズ株式会社",
+      "corporate_number": "9010001093298",
+      "amount": 2913950.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アライド・ブレインズ株式会社",
+      "corporate_number": "9010001093298",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コンピューターサイエンス株式会社",
+      "corporate_number": "8010701019066",
+      "amount": 71355583.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コンピューターサイエンス株式会社",
+      "corporate_number": "8010701019066",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ジャパニアス株式会社",
+      "corporate_number": "6020001036275",
+      "amount": 27985660.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ジャパニアス株式会社",
+      "corporate_number": "6020001036275",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムロード",
+      "corporate_number": "8370001005235",
+      "amount": 12986716.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムロード",
+      "corporate_number": "8370001005235",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＭＥＲＣＩＴ",
+      "corporate_number": "6400001015991",
+      "amount": 10475000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＭＥＲＣＩＴ",
+      "corporate_number": "6400001015991",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社コアコンセプト・テクノロジー",
+      "corporate_number": "4010001127738",
+      "amount": 30000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コアコンセプト・テクノロジー",
+      "corporate_number": "4010001127738",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ボンズテック株式会社",
+      "corporate_number": "9011601020922",
+      "amount": 111700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ボンズテック株式会社",
+      "corporate_number": "9011601020922",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワンズパワー",
+      "corporate_number": "8012403001161",
+      "amount": 18000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワンズパワー",
+      "corporate_number": "8012403001161",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＡＣＰ有限責任事業組合",
+      "corporate_number": "9999999999999",
+      "amount": 28483400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＣＰ有限責任事業組合",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｋ２パートナーリングソリューションズ株式会社",
+      "corporate_number": "1010401080440",
+      "amount": 5854226.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｋ２パートナーリングソリューションズ株式会社",
+      "corporate_number": "1010401080440",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": 6706342.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニボシ",
+      "corporate_number": "5380001034153",
+      "amount": 3849440.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニボシ",
+      "corporate_number": "5380001034153",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コンピューターサイエンス株式会社",
+      "corporate_number": "8010701019066",
+      "amount": 75805427.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コンピューターサイエンス株式会社",
+      "corporate_number": "8010701019066",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ジャパニアス株式会社",
+      "corporate_number": "6020001036275",
+      "amount": 19550220.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ジャパニアス株式会社",
+      "corporate_number": "6020001036275",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "シンプレクス株式会社",
+      "corporate_number": "9010401127151",
+      "amount": 1815734250.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "シンプレクス株式会社",
+      "corporate_number": "9010401127151",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "Ｘｓｐｅａｒ　Ｃｏｎｓｕｌｔｉｎｇ株式会社",
+      "corporate_number": "1010001103304",
+      "amount": 119075000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｘｓｐｅａｒ　Ｃｏｎｓｕｌｔｉｎｇ株式会社",
+      "corporate_number": "1010001103304",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムロード",
+      "corporate_number": "8370001005235",
+      "amount": 7315224.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムロード",
+      "corporate_number": "8370001005235",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＭＥＲＣＩＴ",
+      "corporate_number": "6400001015991",
+      "amount": 13978521.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＭＥＲＣＩＴ",
+      "corporate_number": "6400001015991",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社フリースタイル",
+      "corporate_number": "4370001014264",
+      "amount": 9794061.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フリースタイル",
+      "corporate_number": "4370001014264",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社テックビズ",
+      "corporate_number": "3011001129824",
+      "amount": 4427037.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テックビズ",
+      "corporate_number": "3011001129824",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": 238700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 123272300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 7590.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 3376000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000449746",
+      "name": "情報提供等記録開示システムバックエンド機能の再構築及び運用保守業務一式",
+      "awardDate": "2024-06-06",
+      "price": 15400000000.0,
+      "vendorName": "アクセンチュア株式会社",
+      "corporateNumber": "7010401001556",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

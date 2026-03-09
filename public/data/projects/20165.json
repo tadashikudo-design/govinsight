@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20165",
+  "name": "ＮＩＳＣホームページ基盤システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "NISC独自でホームページ基盤システムを運用管理し、NISCが主体となって運用管理ができる体制を確保することにより、国民への情報提供に支障を生じさせないことを目的とする。",
+  "situation": "現行のNISCホームページは、内閣官房内の他部署が運用するホームページ基盤システムを間借りする形で構築されている。現状の運用体制では、NISCが主体となって運用管理ができず、サイバーセキュリティに関する国民への機動的な情報提供に支障を生じ得るという課題がある。",
+  "overview": "令和７年度においては、令和８年度に予定しているシステムの構築に先立ち、必要な機能の検討、課題と解決方法の整理、調達仕様書の作成等（以下、「検討等業務」という。）を実施する。本事業は、検討等業務を円滑に遂行するための支援を行うものである。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2031",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内閣官房",
+      "corporate_number": "3000012010001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

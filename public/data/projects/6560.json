@@ -1,0 +1,273 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6560",
+  "name": "システム検証・監査及びインシデント対応等事業費（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "セキュリティ危機管理担当",
+  "purpose": "国家を背景とする組織による高度なサイバー攻撃を含め、サイバー空間を巡るリスクが急速に変化する中にあっても、デジタル庁が整備･運用するシステムについて、運用・保守段階含め検証・監査等を実施しシステムの脆弱性を未然に発見・防止するなど、システムライフサイクル全体で対策を行う環境を整備するとともに、サイバー攻撃によるインシデントが発生した場合にも迅速に初動対応を行う環境を予め構築することで、被害を最小限にとどめる等、レジリエンスを向上させたセキュリティ対応態勢を構築する。",
+  "situation": "社会全体へ浸透するDXやAI・量子技術等の進展により、サイバー空間を巡るリスクが急速に変化する中、国家を背景とする組織による高度なサイバー攻撃が行われ、サイバー攻撃により重要インフラが停止するなど、我が国の経済社会、国民生活及び安全保障に及ぼす影響は深刻さを増しており、国民の生活や経済活動の基盤となる政府等の情報システムにおける対策の重要性はますます大きくなっている。「誰一人取り残されない人に優しいデジタル化」に向けて、デジタルを活用した良質な利用者体験の実現と併せて、デジタル化の進展に伴う負の側面の影響を最小化することが必要であり、脅威が増大しているサイバーセキュリティの確保が求められている。",
+  "overview": "昨今のサイバー攻撃事案のリスクの高まりを踏まえ、セキュリティ専門チームが自らが、デジタル庁システム等のレジリエンスを向上させたセキュリティ対応態勢を確保するため、脅威インテリジェンスの収集及び分析を実施できる環境を構築し、脆弱性検証等を実施するために必要なソフトウェア・機器等を調達・更新し、必要な環境を整備する。／また、デジタル庁が整備・運用するシステムについて、安定的・継続的な稼働の確保等の観点から、情報システム整備方針等に従ってシステムの整備・運用等が行われるかを確認するため、独立行政法人情報処理推進機構（IPA）等の外部機関とも連携しながらシステム監査を実施するとともに、システムの品質向上のための枠組みとして、第三者による検証体制の構築を進める。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 522785000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 477912226.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": 50000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "アンカーテクノロジーズ株式会社",
+      "corporate_number": "2011001149856",
+      "amount": 495000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アンカーテクノロジーズ株式会社",
+      "corporate_number": "2011001149856",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "テガラ株式会社",
+      "corporate_number": "3080401003319",
+      "amount": 511500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テガラ株式会社",
+      "corporate_number": "3080401003319",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ムードゥー株式会社",
+      "corporate_number": "8020001104402",
+      "amount": 202400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ムードゥー株式会社",
+      "corporate_number": "8020001104402",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ムードゥー株式会社",
+      "corporate_number": "8020001104402",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社プラスラボ",
+      "corporate_number": "3120001251528",
+      "amount": 458620.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社プラスラボ",
+      "corporate_number": "3120001251528",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社朝日ネット",
+      "corporate_number": "9010001035779",
+      "amount": 100606.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社朝日ネット",
+      "corporate_number": "9010001035779",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "武正株式会社",
+      "corporate_number": "7030001060307",
+      "amount": 970220.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "武正株式会社",
+      "corporate_number": "7030001060307",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "武正株式会社",
+      "corporate_number": "7030001060307",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＡＩデータ株式会社",
+      "corporate_number": "8010401117533",
+      "amount": 4992900.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＩデータ株式会社",
+      "corporate_number": "8010401117533",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＡＩデータ株式会社",
+      "corporate_number": "8010401117533",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ａ",
+      "corporate_number": "",
+      "amount": 23138500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ｂ",
+      "corporate_number": "",
+      "amount": 297000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ｂ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ｃ",
+      "corporate_number": "",
+      "amount": 40920000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者Ｃ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人情報処理推進機構",
+      "corporate_number": "5010005007126",
+      "amount": 68475330.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "独立行政法人情報処理推進機構",
+      "corporate_number": "5010005007126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "バルテス株式会社",
+      "corporate_number": "3120001253929",
+      "amount": 85470000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "バルテス株式会社",
+      "corporate_number": "3120001253929",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

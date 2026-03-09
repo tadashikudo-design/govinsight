@@ -1,0 +1,312 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "26",
+  "name": "法人共通認証基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "デジタル社会の実現に向け、国民目線のデジタル・ガバメントを推進し、事業者の意思決定の迅速化、生産性向上を図る方策の一つとして、利便性の高い行政サービスシステムを提供するため、法人及び事業を行う個人（個人事業主）向け本人確認（認証）システムの整備をすすめる。",
+  "situation": "急速な利用者数の増大により、法人共通認証基盤（GビズIDシステム）のアップデートが必要となっている。具体的には、委任機能拡充により代理申請を容易にするとともに、新たな認証機能の追加等により、GビズIDが国内であまねく利用される認証サービスとなることを目指す。",
+  "overview": "電子的な行政手続の対象者を一元的に認証することで、法人の代表者や従業員、個人事業主が一つのID及びパスワードを用いて複数の行政手続システムにアクセスできる認証システムを整備する。これにより、事業者のアカウント管理に係るコストを低減するとともに、ワンストップ、ワンスオンリーな手続の実現に寄与する。各府省及び各自治体の行政手続における利用を引き続き推進する。／（※本事業はR3年9月デジタル庁の新設に伴い、内閣官房より同庁へ移管された。）",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://gbiz-id.go.jp",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2596465000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 2468118244.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 2429000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1980000000.0,
+      "exec_rate": 0.82226,
+      "total": 2408000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 1184700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴビジネスソリューションズ株式会社",
+      "corporate_number": "2180001016265",
+      "amount": 880000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴビジネスソリューションズ株式会社",
+      "corporate_number": "2180001016265",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマキン",
+      "corporate_number": "1180001023056",
+      "amount": 359000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマキン",
+      "corporate_number": "1180001023056",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 128238000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 403168000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": 11880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーコム",
+      "corporate_number": "8230001012880",
+      "amount": 2367000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーコム",
+      "corporate_number": "8230001012880",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベテック",
+      "corporate_number": "3010401116449",
+      "amount": 237000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベテック",
+      "corporate_number": "3010401116449",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノメディアラボ",
+      "corporate_number": "5010401081212",
+      "amount": 23760000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テクノメディアラボ",
+      "corporate_number": "5010401081212",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": 63796000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＣＴＣシステムマネジメント株式会社",
+      "corporate_number": "5010001118554",
+      "amount": 13032000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣＴＣシステムマネジメント株式会社",
+      "corporate_number": "5010001118554",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ａｕｔｈｌｅｔｅ",
+      "corporate_number": "4011401018931",
+      "amount": 5924000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ａｕｔｈｌｅｔｅ",
+      "corporate_number": "4011401018931",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ブランコ株式会社",
+      "corporate_number": "4290001052207",
+      "amount": 15000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ブランコ株式会社",
+      "corporate_number": "4290001052207",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": 382800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "corporate_number": "5120001238738",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": 41880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "マンパワーグループ株式会社",
+      "corporate_number": "5020001016039",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

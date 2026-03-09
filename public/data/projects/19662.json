@@ -1,0 +1,124 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "19662",
+  "name": "窓口ＤＸＳａａＳ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "情報連携基盤刷新担当　窓口ＤＸ推進チーム",
+  "purpose": "本事業では、基礎自治体における「書かないワンストップ窓口」を実現することで、地方自治体窓口の「誰一人取り残されない、人に優しいデジタル化」の実現を目指す。／　具体的には、デジタル3原則（「デジタルファースト」「ワンスオンリー」「ワンストップ」）の考え方に基づき、窓口業務とともにバックヤード業務までを自治体が自ら業務改革（ＢＰＲ）を行い、保有情報やマイナンバーカード等のデジタルの力を最大限活用することで、「書かないワンストップ窓口」（「書かない」「待たない」「回らない」）を実現し、行政サービスを享受する住民、行政サービスを提供する自治体職員、双方の課題の解決を図る。",
+  "situation": "業務改革が進んでいない多くの基礎自治体窓口では、行政サービスを享受する住民、行政サービスを提供する自治体職員のそれぞれが課題を抱えている。／　手続を行う住民が抱える課題として、「何度も同じ項目を書かされる」「都度、窓口で待たされる」「複数の窓口に回される」などがあり、自治体職員が抱える課題には、「申請書ごとに記入方法の説明が求められる」「記入内容の確認作業が多岐に渡る」「業務の複雑化に伴い、業務が属人化する」などがある。",
+  "overview": "本事業では、基礎自治体において「書かないワンストップ窓口」を実現するため以下３つの取組を実施する。／・窓口ＢＰＲアドバイザー派遣事業（システム導入の前提となる業務改革を支援）／・窓口ＢＰＲアドバイザー育成事業（自治体のＢＰＲ人材を育成）／・ガバメントクラウド上での「窓口DXに資するパッケージシステム（＝窓口DXSaaS）」の提供",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 31301000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社アトリス",
+      "corporate_number": "1010901016209",
+      "amount": 20262000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アトリス",
+      "corporate_number": "1010901016209",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 3168000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケイズ",
+      "corporate_number": "9270001003231",
+      "amount": 1056000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケイズ",
+      "corporate_number": "9270001003231",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社北見コンピューター・ビジネス",
+      "corporate_number": "6460301000259",
+      "amount": 3168000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社北見コンピューター・ビジネス",
+      "corporate_number": "6460301000259",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢＳＮアイネット",
+      "corporate_number": "5110001004686",
+      "amount": 3168000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢＳＮアイネット",
+      "corporate_number": "5110001004686",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

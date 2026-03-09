@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21095",
+  "name": "国税犯則調査手続システム（ＣＩＰシステム）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "犯則調査手続は、刑訴法上の捜査手続に類似する手続であることから、刑事手続のみがデジタル化することによる非効率さを避け、査察調査プロセスから告発・起訴・公判まで、検察庁や裁判所と一気通貫したデジタル化を実現する。また、将来的な査察事務全般のDX化の第一歩として、書面特有の事務コストの削減を図り、段階的にデジタル化を進め、効率化した事務量を困難事案への対応等に充てることで、査察の使命を果たしていくことを目的とする。",
+  "situation": "現在、犯則調査手続に係る調書等は紙で作成し、物理的に関係機関（検察庁、裁判所）に運搬した上で、告発及び令状請求等を行っている。「デジタル社会の実現に向けた重点計画」（令和6年6月21日閣議決定）においては、「刑事手続のデジタル化との一体性に配慮し、可及的速やかに犯則調査手続のデジタル化に対応するための法令及びIT基盤の整備を実現する」とされており、犯則調査手続をデジタル化に対応させるため、システム整備等を行う必要がある。",
+  "overview": "犯則調査手続において、作成する調書等を電子データで作成・管理し、告発や令状請求等の場面において検察庁・裁判所との間で円滑かつ安全に電子データのやり取りを行うことができる環境整備を構築するもの。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

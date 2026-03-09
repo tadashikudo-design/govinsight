@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20151",
+  "name": "予算編成支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "予算編成支援システムは、国の予算編成業務及び決算作成業務の複雑多様化、予算書・決算書等の国会への早期提出、限られた人員での事務処理等に対処するため、効率性及び信頼性の高いシステムを構築することにより、国の予算編成業務、決算作成業務等の効率化・合理化を図ることを目的としている。",
+  "situation": "予算編成支援システムは、幾度のシステム改善を経たことによる課題が顕在化したところであるが、これら課題の解消や、システム効率化の促進、及び政府目標である運用経費3割削減を実現すべく、令和2年度・令和7年度にシステム刷新を行い、現在は8次システムとして運用を行っている。／引き続き更なる業務やシステムの効率化を図る必要があるほか、9次システムではガバメントクラウドへの完全移行を予定していることから、早い段階から計画・準備を進める必要がある。",
+  "overview": "予算編成支援システムは、財務省主計局と各省庁を、GSS G-Net等で結び、／１．予算編成業務／　　概算要求～決定までの計数管理・集計、予算書等の作成／２．決算作成業務／　　官庁会計システム(ADAMSⅡ)で管理されている各省庁の歳入・歳出データ等を活用し、決算数値の集計、決算書等の作成／  等を行うものである。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3411332000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": 3405791000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "財務省",
+      "corporate_number": "8000012050001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 826259000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 2437841000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 41965000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 26180000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": 73546000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

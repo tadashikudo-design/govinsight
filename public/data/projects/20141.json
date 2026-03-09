@@ -1,0 +1,411 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20141",
+  "name": "法人番号システム等（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "マイナンバー制度に基づき、効率的な情報の管理、利用及び迅速な情報連携のための基盤となる法人番号を提供するとともに、法人番号及びマイナンバーを利用することで、国民の利便性の向上及び行政の効率化を実現する。",
+  "situation": "事業の目的に向け、法人番号の指定、公表等を開始した平成27年以降、指定件数、公表サイト利用数等は概ね年々増加。／「法人番号の指定件数（累計）」／　平成27年度：4,391千件、平成28年度：4,531千件、平成29年度：4,669千件、平成30年度：4,802千件、令和元年度：4,941千件／　令和２年度：5,078千件、令和３年度：5,229千件、令和４年度：5,379千件、令和５年度：5,542千件、令和６年度：5,700千件／「法人番号公表・情報提供サイトのWeb-API機能の利用件数」／　平成27年度：766千件、平成28年度：31,927千件、平成29年度：62,425千件、平成30年度：84,444千件、令和元年度：73,770千件／　令和２年度：118,771千件、令和３年度：232,906千件、令和４年度：701,316千件、令和５年度：527,672千件、令和６年度：549,084千件／※Web-API機能とは、利用者のシステムからリクエストを送信することで、リクエストに応じた法人番号等の情報が提供される機能。",
+  "overview": "国税庁は、法人番号の付番機関として、設立登記法人については法務省からの情報を基に、法人等に対して法人番号を指定し通知するとともに、当該法人等の名称、本店所在地及び法人番号等を国税庁法人番号公表サイトで公表、国税庁法人番号情報提供サイトで行政機関等に情報提供する。また、番号を利用して、番号付き納税申告書、法定調書等の税務関係書類の受付、入力、読込等を行うほか、マイナンバー制度の導入を契機とした納税者利便の向上や行政事務の効率化のための施策を行う。",
+  "category": "前年度事業",
+  "startYear": "2015",
+  "endYear": "",
+  "rsUrl": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/index.htm",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3087060003.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 3087061000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 27037764.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": 19417068.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 26360675.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 261704730.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 59313697.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": 17878925.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": 382461000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 189287455.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 1838837937.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 145059648.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": 15886440.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 988295.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 11935943.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "情報技術開発株式会社",
+      "corporate_number": "7011001106943",
+      "amount": 3499218.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "情報技術開発株式会社",
+      "corporate_number": "7011001106943",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 4744300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 79695000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 2951908.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,502 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20224",
+  "name": "気象資料総合処理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本事業は自然災害による被害を軽減し、国民生活の向上、交通安全の確保、産業の発展に寄与する気象情報提供という課題に対し、国の機関として実施すべき様々な気象業務の根幹を担う気象、地震・津波、火山等の観測データの収集、編集、中継を24時間停止することなく行うとともに、各種防災気象情報を地方自治体等へ迅速かつ確実に提供し、加えて航空気象情報を航空関係機関や民間航空事業者等に迅速かつ確実に提供することを目的とする。",
+  "situation": "気象情報の確実な収集、編集、中継のため、稼働率99.99%で業務を実施している。また、提供するサービスの迅速化と一層の充実等のためシステム更新、増強を行う事で、より大容量のデータを提供する状態を作る。",
+  "overview": "気象庁では、この通信処理を行うシステムを24時間停止することなく運用しており、その基幹的なシステムとなるものが「気象資料総合処理システム」である。／本システムのメインシステムである「気象情報伝送処理システム」では、国の機関として実施すべき様々な気象業務の根幹を担うため、気象情報の収集・編集、中継を行い、防災気象情報提供業務では、各種防災気象情報を地方自治体等へ迅速かつ確実に情報提供を行い、航空気象情報提供業務では航空関係機関や民間航空事業者等に迅速かつ確実に航空気象情報を提供する。／また、サブシステムとして、「気象データ交換動作環境」や「WMO情報システム」がある。「気象データ交換動作環境」ではインターネットを用いた研究機関等との気象情報の交換をよりセキュアな環境の下で実施する。「WMO情報システム」では国際的に交換されている各種気象データやそのメタデータを受信・展開・変換を行い、データ及びデータカタログをユーザに提供する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1804882000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": 1804882139.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 651189297.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 409938805.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京コンピュータサービス株式会社",
+      "corporate_number": "3010001005226",
+      "amount": 164947200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京コンピュータサービス株式会社",
+      "corporate_number": "3010001005226",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 65128800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 54845276.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＧＴＴ－ＥＭＥＡ　Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": 12756132.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＴＴ－ＥＭＥＡ　Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "イー・エル・アール・コンサルティング（株）",
+      "corporate_number": "",
+      "amount": 495000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イー・エル・アール・コンサルティング（株）",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リースアップシステム",
+      "corporate_number": "5040001046208",
+      "amount": 582560.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リースアップシステム",
+      "corporate_number": "5040001046208",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "オープンテキスト株式会社",
+      "corporate_number": "4010401033115",
+      "amount": 129600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "オープンテキスト株式会社",
+      "corporate_number": "4010401033115",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "千種土建株式会社",
+      "corporate_number": "",
+      "amount": 84700.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "千種土建株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "大丸サービス（株）",
+      "corporate_number": "",
+      "amount": 385000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大丸サービス（株）",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "安積電気通信興業株式会社　仙台オフィス",
+      "corporate_number": "",
+      "amount": 237600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "安積電気通信興業株式会社　仙台オフィス",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "晋豊建設（株）",
+      "corporate_number": "",
+      "amount": 172700.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "晋豊建設（株）",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社　圭電工業",
+      "corporate_number": "",
+      "amount": 99000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社　圭電工業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社トオヤマ",
+      "corporate_number": "",
+      "amount": 106700.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トオヤマ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "谷川電気商会　谷川哲也",
+      "corporate_number": "",
+      "amount": 24090.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "谷川電気商会　谷川哲也",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "（株）宮田電設工業",
+      "corporate_number": "",
+      "amount": 229570.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "（株）宮田電設工業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "（株）石田文具",
+      "corporate_number": "",
+      "amount": 261030.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "（株）石田文具",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＪＥＳＣＯ　ＳＵＧＡＹＡ株式会社",
+      "corporate_number": "",
+      "amount": 49500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＪＥＳＣＯ　ＳＵＧＡＹＡ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 5912000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本コムシス株式会社",
+      "corporate_number": "4010701022825",
+      "amount": 309542908.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本コムシス株式会社",
+      "corporate_number": "4010701022825",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本コムシス株式会社",
+      "corporate_number": "4010701022825",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 103144800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサスソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": 24619320.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサスソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

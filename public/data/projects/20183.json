@@ -1,0 +1,271 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20183",
+  "name": "農業農村整備事業総合支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "農業農村整備事業を効率的かつ効果的に実施していくため、事業実施に係る各種業務を支援するためのシステムの整備、保守、運用を行うものである。／　１　農業農村整備ＣＡＬＳ／ＥＣの推進／　　農業農村整備ＣＡＬＳ／ＥＣの推進に必要なシステムの検討・整備・保守・運用を行う。／　２　電子政府の実現／　　公共事業支援システムの業務・システム最適化計画に基づき、農業農村整備ＣＡＬＳ／ＥＣシステム全体の最適化のための検討及び整備等を行う。",
+  "situation": "農業農村整備事業の現場において、近年、日本が直面している「少子高齢化に伴う生産年齢人口の減少」「働くスタイルの多様化」などの課題・変化の対応が喫緊の課題であり、加えて環境配慮や働き方改革推進等の施策により、施設設計及び工事への配慮、工事材料・工法の多様化、週休の拡大などへの対応を行っており、実務が多様・複雑化し人手不足の大きな要因となっている。／　また、地球温暖化に伴う豪雨災害等の激甚化や、巨大地震、新たな感染症流行への対応から、業務システムの高い可用性、遠隔地から運用を行えるテレワーク可能なシステムが求められている。／　さらに、本システムを構成する各サブシステムは、平成15～21年度にかけて、個別業務の支援ツールとして開発され、利用されているが、横断的なデータ活用（組織内での情報共有や個別システム間のデータ連携）が、現在求められるレベルになく、施策や事業実施に必要な既存データを含めた情報を活用できていない。システム自体も度重なる改修により複雑化しているため、昨今の改修では改修工期・費用がかかり、利用者の要望に柔軟かつ適期に対応できない状況となっている。",
+  "overview": "農業農村整備事業総合支援システムは、事業のライフサイクル全体を考慮し、事業実施段階を主体に「情報化（システム化）」により工事・業務の発注事務作業等をサポートするものである。",
+  "category": "前年度事業",
+  "startYear": "1997",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 724588000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 724588000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中国四国農政局",
+      "corporate_number": "5000012080001",
+      "amount": 6527000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中国四国農政局",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "沖縄総合事務局",
+      "corporate_number": "2000012010019",
+      "amount": 1087000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖縄総合事務局",
+      "corporate_number": "2000012010019",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "農村振興局",
+      "corporate_number": "5000012080001",
+      "amount": 7942000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農村振興局",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "関東農政局",
+      "corporate_number": "5000012080001",
+      "amount": 709032000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "関東農政局",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 1207000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キヤノン電子テクノロジー株式会社",
+      "corporate_number": "3010401089133",
+      "amount": 1087000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノン電子テクノロジー株式会社",
+      "corporate_number": "3010401089133",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人農業農村整備情報総合センター",
+      "corporate_number": "8010005005688",
+      "amount": 657591000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人農業農村整備情報総合センター",
+      "corporate_number": "8010005005688",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本建設情報総合センター",
+      "corporate_number": "4010405010556",
+      "amount": 9039000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本建設情報総合センター",
+      "corporate_number": "4010405010556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本建設情報総合センター",
+      "corporate_number": "4010405010556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 8707000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマイチテクノ",
+      "corporate_number": "5120001048039",
+      "amount": 6380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマイチテクノ",
+      "corporate_number": "5120001048039",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 3788000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 35927000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": 862000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "corporate_number": "6010001135680",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

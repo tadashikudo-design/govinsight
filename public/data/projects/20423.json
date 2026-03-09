@@ -1,0 +1,1104 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20423",
+  "name": "領事業務情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本事業は、領事業務情報システムを「外務省改革の一環としての「領事業務の抜本的改革」や行政手続等の電子化推進・電子政府構築計画、あるいは「デジタル社会の実現に向けた重点計画」に基づき、領事業務における国民サービスの向上、業務の効率化を目指す」情報システム基盤として維持管理することを目的とする。",
+  "situation": "これまでは、「領事業務の業務・システム最適化計画」 に基づき領事システムを整備してきたが、引き続き「デジタル社会の実現に向けた重点計画」に基づいた、利用者主体の効率的な領事業務サービスの提供、領事手続のデジタル化を推進していく。",
+  "overview": "「旅券発給管理システム」「査証システム」、在留届データ、短期渡航者登録データ（「たびレジ」データ）等を管理する「領事ポータル・システム」、「海外安全ホームページ」、「領事メール」等、領事業務に係る統合的なサービスを提供する「領事業務情報システム」の維持管理（安定的な運用）。",
+  "category": "前年度事業",
+  "startYear": "2011",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 8205409000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": 8205409000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 344992000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 399304000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "カルチュアルライフ株式会社",
+      "corporate_number": "1010001191596",
+      "amount": 935000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "カルチュアルライフ株式会社",
+      "corporate_number": "1010001191596",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 395036000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 2556022000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 188000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社美貴本",
+      "corporate_number": "9120901008501",
+      "amount": 35748000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社美貴本",
+      "corporate_number": "9120901008501",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": 873692000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｌｔテクノロジーサービス株式会社",
+      "corporate_number": "2010401039799",
+      "amount": 7436000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｌｔテクノロジーサービス株式会社",
+      "corporate_number": "2010401039799",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 4066000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 1650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "協立ソリューションズ株式会社",
+      "corporate_number": "9011101005507",
+      "amount": 75000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "協立ソリューションズ株式会社",
+      "corporate_number": "9011101005507",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 40150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": 8949000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 27135000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 1511958000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 1040000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社データストレージ",
+      "corporate_number": "9010902025663",
+      "amount": 482000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社データストレージ",
+      "corporate_number": "9010902025663",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社秋山商会",
+      "corporate_number": "8010001036398",
+      "amount": 62000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社秋山商会",
+      "corporate_number": "8010001036398",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 6473000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 149665000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＭＰＮ",
+      "corporate_number": "2010405010772",
+      "amount": 13000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＭＰＮ",
+      "corporate_number": "2010405010772",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 153029000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 451750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社みずほ銀行",
+      "corporate_number": "6010001008845",
+      "amount": 4000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社みずほ銀行",
+      "corporate_number": "6010001008845",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": 1624000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 564124000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": 69570000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "沖電気工業株式会社",
+      "corporate_number": "7010401006126",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 1500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 674125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＥＬＣ",
+      "corporate_number": "7021001047229",
+      "amount": 8600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＥＬＣ",
+      "corporate_number": "7021001047229",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンクグループジャパン株式会社",
+      "corporate_number": "4010401054854",
+      "amount": 25424000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンクグループジャパン株式会社",
+      "corporate_number": "4010401054854",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 10586000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": 194000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＣＳ",
+      "corporate_number": "5010401006994",
+      "amount": 1597000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＣＳ",
+      "corporate_number": "5010401006994",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "協立ソリューションズ株式会社",
+      "corporate_number": "9011101005507",
+      "amount": 898000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "協立ソリューションズ株式会社",
+      "corporate_number": "9011101005507",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "能美防災株式会社",
+      "corporate_number": "5010001008739",
+      "amount": 309000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "能美防災株式会社",
+      "corporate_number": "5010001008739",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

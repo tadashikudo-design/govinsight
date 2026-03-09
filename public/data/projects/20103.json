@@ -1,0 +1,229 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20103",
+  "name": "国税総合管理システム（オープンシステム）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "申告納税制度の下において、税務行政を円滑に推進するため、国民各層・納税者の方々の理解と信頼を得ることを基本に、「内国税の適正かつ公平な賦課及び徴収の実現」を図る。",
+  "situation": "国税総合管理システム（オープンシステム）は、平成13年に全国運用を開始したが、経年により肥大化・複雑化し、データの活用や最新技術の導入が困難となっていた。そのため、令和８年度の本格稼働に向け、「納税者の利便性の向上」及び「課税・徴収の効率化・高度化」を実現するインフラとして、次世代システムの開発を行っている。",
+  "overview": "国税総合管理システム（オープンシステム）は、全国の国税局と税務署をネットワークで結び、申告・納税の事績や各種の情報を入力することにより、国税債権などを一元的に管理するとともに、これらを分析して税務調査や滞納整理に活用するなど、地域や税目を越えた情報の一元的な管理をするコンピュータシステムである。",
+  "category": "前年度事業",
+  "startYear": "2005",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 6695630719.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 6695630719.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": 1100719612.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": 40920000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 822335936.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 1281561047.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": 3257753.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーイーシー",
+      "corporate_number": "5011101008364",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 1564874927.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 1814670.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 1880146774.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

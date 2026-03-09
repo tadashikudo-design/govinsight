@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21231",
+  "name": "国際法関連業務合理化ＡＩ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "ＡＩを活用しつつ、国際法関連業務におけるより高い正確性の確保及び業務負荷の大幅な軽減の両立を図る。",
+  "situation": "外国語の条約案やその和文の作成、その他国際法関連資料作成といった国際法関連業務においては、使用される用語や解釈の国際法上及び国内法上の整合性を担保する観点から、既存の締結済みの条約はもちろんのこと、第三国間の条約、国内法令、国際判例などを調査しつつ、作業を行なっている。当該作業については、間違いが許されない一方、膨大な文書作成・確認業務が発生しており、人手のみによる作業には限界が生じている。",
+  "overview": "国際法関連業務におけるより高い正確性の確保及び業務負荷の大幅な軽減を目指し、AIを活用した国際法関連資料作成について、検証・実証作業を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "外務省",
+      "corporate_number": "9000012040001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

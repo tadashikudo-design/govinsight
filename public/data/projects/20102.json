@@ -1,0 +1,341 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20102",
+  "name": "法務省統合情報基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "法務本省と所管各庁及びその出先機関を接続する広域ネットワークである「統合ＷＡＮ」と、法務本省等職員が行政事務を遂行するために利用する基幹ＬＡＮである「基盤システム」を整備・運用管理することにより、法務本省等職員の情報の共有や流通の迅速化及び事務のペーパーレス化等を実現することを目的とする。",
+  "situation": "＜現状＞／法務省統合情報基盤は、法務省の基盤となる情報システムであり、令和２年度に本格運用を開始した以降にも、テレワークの推進に伴うリモートアクセス環境の増強やウェブ会議サービスの導入に伴う拡張等の段階的な追加整備を行ってきた。／＜課題＞／構成機器等の製品保守の終了等に伴い、次期システムへの整備・移行等を計画する必要がある。",
+  "overview": "「デジタル社会の実現に向けた重点計画」に基づき、令和６年度から令和７年度にかけて順次、デジタル庁により提供されている「ガバメントソリューションサービス（GSS)」への移行を進め、GSSが提供する機能では対応できない一部機能については更新整備する。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "2028",
+  "rsUrl": "https://www.moj.go.jp/content/001416000.pdf",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3253688000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 3253688000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "三菱電機ビルソリューションズ株式会社",
+      "corporate_number": "5010001030412",
+      "amount": 21320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱電機ビルソリューションズ株式会社",
+      "corporate_number": "5010001030412",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本アイ・ビー・エム株式会社",
+      "corporate_number": "1010001128061",
+      "amount": 105415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本アイ・ビー・エム株式会社",
+      "corporate_number": "1010001128061",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": 1792259000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "corporate_number": "9010001045803",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社トータル・サポート・システム",
+      "corporate_number": "7050001004757",
+      "amount": 4507000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トータル・サポート・システム",
+      "corporate_number": "7050001004757",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニューテック",
+      "corporate_number": "4010401039731",
+      "amount": 14692000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニューテック",
+      "corporate_number": "4010401039731",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 225185000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "8120001036965",
+      "amount": 7746000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "8120001036965",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 161741000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 838389000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": 82434000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

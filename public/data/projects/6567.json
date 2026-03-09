@@ -1,0 +1,509 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6567",
+  "name": "職員ＩＤ基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "職員ＩＤ基盤担当",
+  "purpose": "現状の個々に構築されたID基盤・認証サービスのアーキテクチャを刷新し、職員ID基盤を実現する。／職員ID基盤は、デジタル社会の実現に向けて、職員等が情報システムで業務を行う際のIDと認証機能を共通機能として提供する基盤である。／職員ID基盤を整備することにより、次の効果を期待している。／　①　ID・認証機能を共通機能として提供することにより、個々のID・認証機能の整備が不要になり、システムの短期間での構築に資することができる。／　②　一元管理された職員IDを基にした認証機能を提供することにより、複数の情報システムを利用する職員の業務が効率化できる。／　③　政府・自治体職員、公務関連の民間事業者等について、本人の一意性を確保したIDを用いることにより、リボルビングドアを含めた多様な働き方に対応した人材管理が可能となる。また、情報保全強化の観点からも一元管理された職員IDは有益と考える。／　④　統合的な職員ID基盤により、複数の情報システムでのID利用者の操作に対する運用監視が高度化され、職員IDを乗っ取った侵入者の検知を容易にする。",
+  "situation": "これまで、政府職員の属性情報は、各府省の基盤情報システムで管理され、各府省の情報システムの認証に利用したり、府省横断で属性情報を利用したい場合には職員認証サービス（GIMA）に属性情報が登録され、人事・給与関係業務情報システムや電子決裁システム等の政府共通システムなどで利用されている。各府省での政府職員の基盤情報システムやGIMAにおいては、政府職員を自然人として本人確認した情報や一意に識別する情報がなく、同一の自然人が異なる府省庁として複数のアカウントを保有している場合もある。",
+  "overview": "2023年度の調査研究を踏まえ、2024年度から職員ID基盤（GPAS）のシステム整備を開始した。／2026年度にデジタル庁職員向けに一部の情報システムとの連携を開始した試行を行い、段階的に利用者の拡大を目指す。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 990000000.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1279306000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 84690540.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 934825000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩ＆Ｃ",
+      "corporate_number": "3010001003551",
+      "amount": 132660000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩ＆Ｃ",
+      "corporate_number": "3010001003551",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": 93665000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ先端技術",
+      "corporate_number": "7010001130664",
+      "amount": 70972000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ先端技術",
+      "corporate_number": "7010001130664",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｄｉｒｂａｔｏ",
+      "corporate_number": "8010401140394",
+      "amount": 57805000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｄｉｒｂａｔｏ",
+      "corporate_number": "8010401140394",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": 44000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": 33000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 18480000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 15642000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": 6500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社フラックス・エージェント",
+      "corporate_number": "",
+      "amount": 1155000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フラックス・エージェント",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アジアクエスト株式会社",
+      "corporate_number": "",
+      "amount": 5940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アジアクエスト株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ベンチュリーコンサルティング株式会社",
+      "corporate_number": "",
+      "amount": 7425000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ベンチュリーコンサルティング株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アクロフロンティア",
+      "corporate_number": "",
+      "amount": 6435000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アクロフロンティア",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社キーワードジャパン",
+      "corporate_number": "",
+      "amount": 8415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社キーワードジャパン",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社テックビズ",
+      "corporate_number": "",
+      "amount": 7920000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テックビズ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社永産システム開発",
+      "corporate_number": "",
+      "amount": 6930000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社永産システム開発",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＩＳＨＷＥＬＬ",
+      "corporate_number": "",
+      "amount": 1980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＩＳＨＷＥＬＬ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソリューション・ワン",
+      "corporate_number": "",
+      "amount": 11138000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソリューション・ワン",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "テックベース株式会社",
+      "corporate_number": "",
+      "amount": 6930000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テックベース株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーサムアクティブ",
+      "corporate_number": "",
+      "amount": 8415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーサムアクティブ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンクチュアリＩＴ",
+      "corporate_number": "",
+      "amount": 10560000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンクチュアリＩＴ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エーピーコミュニケーションズ",
+      "corporate_number": "",
+      "amount": 17600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エーピーコミュニケーションズ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": 307800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": 99000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京デジタルアイディアーズ株式会社",
+      "corporate_number": "3010901044232",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京デジタルアイディアーズ株式会社",
+      "corporate_number": "3010901044232",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 11457600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 5895120.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社カオナビ",
+      "corporate_number": "6011201014757",
+      "amount": 2365000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カオナビ",
+      "corporate_number": "6011201014757",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｍｉｃｒｏｓｏｆｔ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "corporate_number": "8700150090374",
+      "amount": 16963000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｍｉｃｒｏｓｏｆｔ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "corporate_number": "8700150090374",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000494676",
+      "name": "職員ID 基盤の実現に向けたβ版システム整備事業",
+      "awardDate": "2025-03-17",
+      "price": 720000000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000498786",
+      "name": "職員ID基盤の実現に向けたβ版システム整備に係る工程管理等の支援業務",
+      "awardDate": "2025-04-11",
+      "price": 270000000.0,
+      "vendorName": "合同会社デロイトトーマツ",
+      "corporateNumber": "3010001076738",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20981",
+  "name": "ＡＩを活用した海賊版サイトの検知システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "マンガ、アニメをはじめとする日本のコンテンツの世界的な人気により、コンテンツ産業の輸出規模は4.7兆円（2021年）にのぼり、鉄鋼産業や半導体産業と比肩する規模となっている。実際、知的財産（IP）の世界売上高トップ10のうち、5つが日本のコンテンツである。一方、その人気に合わせて、海賊版の被害も甚大となり、特に、令和６年夏以降は、新たな海賊版サイトの出現等によりアクセス数は倍増しており、9月の海賊版マンガトップ20サイトへのアクセスは、日本向けサイトで5.5億アクセス／月、英語版で5.9億アクセス／月を超え、合計11.4億アクセス／月、被害額は推定年間2兆円と深刻な状況であり、早急な対策が急務である。",
+  "situation": "コンテンツを保有する各社は、個別に海賊版の検知を実施しているが、現状は目視やタイトル検索中心の人海戦術で、対応が増加し続ける被害に追い付いておらず、より実効性の高い海賊版防止策が必要である。",
+  "overview": "より実効性の高い海賊版予防策の構築に向け、実証的にAIによる海賊版検知システムを構築する。構築にあたっては、海賊版被害の実態を把握分析した上で海賊版対策を実施する。具体的には、AI学習による海賊版サイトの検知、コンテンツ単位の画像検知、AI翻訳による文字検知等、多様な検知手段を採用し、性能やコストを検証する。また、自動検知された海賊版サイトについて、言語、地域、コンテンツ内容等を分析しながら、運用体制の試行等を実施し、実効性の高い海賊版サイト対策を構築する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

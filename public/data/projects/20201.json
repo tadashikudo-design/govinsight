@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20201",
+  "name": "カードＡＰ搭載システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「デジタル社会の実現に向けた重点計画」においては、令和６年度末までに個人番号カードと運転免許証の一体化を実現し、住所変更手続のワンストップ化等を可能とすることとされており、令和４年通常国会では、一体化の方法等に関する規定を盛り込んだ道路交通法の一部を改正する法律が成立した。／個人番号カードと運転免許証の一体化に必要となる、個人番号カードへのアプリケーションの搭載、削除、管理を可能とするためのシステムを導入する。",
+  "situation": "個人番号カードと運転免許証の一体化を行うために、運転免許業務において安定的に個人番号カードへのアプリケーションの搭載、削除、管理を可能とするためのシステムが必要である。",
+  "overview": "警察共通基盤システムを活用した個人番号カードと運転免許証の一体化に必要となる、個人番号カードへのアプリケーションの搭載、削除、管理を可能とするためのシステムを導入する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 571457000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": 571457150.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 571457150.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

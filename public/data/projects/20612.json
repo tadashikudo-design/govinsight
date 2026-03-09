@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20612",
+  "name": "事務共通システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "航空自衛隊における後方支援業務及び基地等内の各種管理業務を効果的かつ効率的に実施すること",
+  "situation": "・省内及び省外の関係部署との適切な調整",
+  "overview": "後方支援に関する総務、監理、会計、人事計画、補任、服務、警務、厚生、援護、衛生、教育訓練、編成、業務計画、情報保全、施設、輸送、装備計画、調達、補給、整備、安全に関する業務などの機能を有しするとともに、本システムの維持管理、運営に必要となる業務を行っている。",
+  "category": "前年度事業",
+  "startYear": "2018",
+  "endYear": "2025",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 225489000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 225489000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": 225489000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本通運株式会社",
+      "corporate_number": "4010401022860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

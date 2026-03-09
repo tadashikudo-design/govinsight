@@ -1,0 +1,621 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6569",
+  "name": "フロントサービスＡＰＩ基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "本事業は、国、地方公共団体及び民間事業者が提供する各種行政手続において、オンライン申請時に必要となる各種機能を提供するAPI基盤（フロントサービスAPI基盤）を整備することによって、国民がマイナンバーカードを用いてオンラインで行政手続を行う際の利便性・利用者体験の向上や行政機関職員の業務効率化を実現し、行政関連手続における「スマートフォンで 60 秒で手続が完結」を実現することを目的とする。／フロントサービスAPI基盤は、マイナポータルと連携することで各種機能を提供する予定であるほか、国・地方公共団体等が独自に整備したシステムや民間事業者が提供する各種サービスからも容易に利用できる環境を合わせて整備する。",
+  "situation": "国民が市区町村等の行政機関に提出する申請・届出については、マイナポータルや各種電子申請システムを通じたオンライン提出が可能となっているが、利用者自らが申請時に住所・氏名・連絡先や申請内容の各項目を申請ごとに入力する必要があり、申請に時間を要する原因となっている。また、利用者が入力した内容を行政機関職員が申請の都度審査する必要があり、審査に時間を要している。／さらに、国・地方公共団体等において電子申請システムを構築する際には、各団体においてそれぞれシステム構築を行う必要があり、共通的に利用可能な機能についても、団体ごとでそれぞれ投資が必要となっている。",
+  "overview": "フロントサービスAPI基盤は、申請者が入力する情報を最小化するため、「公共サービスメッシュ」等と連携することにより申請者が行政手続を行う際に自治体等が保持する情報を申請書に転記する機能や、申請者が任意に登録した連絡先等の情報を申請書に転記する機能、行政機関職員の申請受付や審査の業務を支援する機能等を提供することで、申請者の利便性・利用者体験の向上や行政機関職員の業務効率化を実現する。／また、フロントサービスAPI基盤を機能単位で国、地方公共団体及び独立行政法人並びに民間事業者へ提供することで、国、地方公共団体等のシステム整備に係る投資の効率化や民間事業者とのAPI連携を促進する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/administrative_procedures_online",
+  "totalAmount": 290906000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1644813000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1649019000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 859100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 431850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": 159892000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": 17846000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "合同会社Ｎ‐Ｗｏｒｋｓ",
+      "corporate_number": "4011003013579",
+      "amount": 35860000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社Ｎ‐Ｗｏｒｋｓ",
+      "corporate_number": "4011003013579",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｍｉｃｒｏＣＭＳ",
+      "corporate_number": "5011101081691",
+      "amount": 1540000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｍｉｃｒｏＣＭＳ",
+      "corporate_number": "5011101081691",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 27610000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 110926000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ先端技術株式会社",
+      "corporate_number": "7010001130664",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ先端技術株式会社",
+      "corporate_number": "7010001130664",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ・フロンティア",
+      "corporate_number": "9010401023053",
+      "amount": 6585000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ・フロンティア",
+      "corporate_number": "9010401023053",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ九州",
+      "corporate_number": "3290001012491",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ九州",
+      "corporate_number": "3290001012491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーシス",
+      "corporate_number": "5010001162742",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーシス",
+      "corporate_number": "5010001162742",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": 33650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータグループ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 6585000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＤＣソフト株式会社",
+      "corporate_number": "8011001014542",
+      "amount": 27616000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＤＣソフト株式会社",
+      "corporate_number": "8011001014542",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "テクバン株式会社",
+      "corporate_number": "9010401018565",
+      "amount": 7000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テクバン株式会社",
+      "corporate_number": "9010401018565",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "テックベース株式会社",
+      "corporate_number": "5013301045633",
+      "amount": 4333000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テックベース株式会社",
+      "corporate_number": "5013301045633",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム設計事務所",
+      "corporate_number": "8010001019683",
+      "amount": 7000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム設計事務所",
+      "corporate_number": "8010001019683",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社トランプソフト",
+      "corporate_number": "4010401038898",
+      "amount": 7000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トランプソフト",
+      "corporate_number": "4010401038898",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクサスウィング",
+      "corporate_number": "6010001102177",
+      "amount": 4085000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクサスウィング",
+      "corporate_number": "6010001102177",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｄｉｒｂａｔｏ",
+      "corporate_number": "8010401140394",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｄｉｒｂａｔｏ",
+      "corporate_number": "8010401140394",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＴＳ",
+      "corporate_number": "9010401018458",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤＴＳ",
+      "corporate_number": "9010401018458",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 5098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ・フロンティア",
+      "corporate_number": "9010401023053",
+      "amount": 57288000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ・フロンティア",
+      "corporate_number": "9010401023053",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 6972000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＤＣソフト株式会社",
+      "corporate_number": "8011001014542",
+      "amount": 57388000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＤＣソフト株式会社",
+      "corporate_number": "8011001014542",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アジアクエスト株式会社",
+      "corporate_number": "2010901030183",
+      "amount": 1117000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アジアクエスト株式会社",
+      "corporate_number": "2010901030183",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "テクバン株式会社",
+      "corporate_number": "9010401018565",
+      "amount": 12936000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テクバン株式会社",
+      "corporate_number": "9010401018565",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社トランプソフト",
+      "corporate_number": "4010401038898",
+      "amount": 13904000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トランプソフト",
+      "corporate_number": "4010401038898",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクサスウィング",
+      "corporate_number": "6010001102177",
+      "amount": 47817000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネクサスウィング",
+      "corporate_number": "6010001102177",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムフロア",
+      "corporate_number": "4010401013232",
+      "amount": 30096000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システムフロア",
+      "corporate_number": "4010401013232",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": 3850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": 3850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "",
+      "amount": 3850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "",
+      "amount": 2200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社テラテック",
+      "corporate_number": "4010003044048",
+      "amount": 3168000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社テラテック",
+      "corporate_number": "4010003044048",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000423195",
+      "name": "令和６年度フロントサービスAPI基盤に係る工程管理支援業務",
+      "awardDate": "2024-04-08",
+      "price": 127270000.0,
+      "vendorName": "合同会社デロイトトーマツ",
+      "corporateNumber": "3010001076738",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000491633",
+      "name": "令和７年度フロントサービスAPI基盤に係る工程管理支援業務",
+      "awardDate": "2025-03-19",
+      "price": 163636000.0,
+      "vendorName": "合同会社デロイトトーマツ",
+      "corporateNumber": "3010001076738",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

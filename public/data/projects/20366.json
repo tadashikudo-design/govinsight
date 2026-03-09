@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20366",
+  "name": "人事基本情報DBシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "人事基本情報をセキュアな環境の下で一元管理し、多くの事務負担と重複作業による無駄を軽減することにより、効率的・効果的な人事管理を行うことを目的とする。",
+  "situation": "プロパー職員、他省庁や民間等出向者、非常勤職員等の氏名・所属・役職・給与等の人事基本情報の確認、入力、更新作業に多くの事務負担と重複作業による無駄が生じている。また、人事基本情報がそれぞれの業務の目的に応じて分散管理されている状況にある。",
+  "overview": "人事管理に伴う事務作業と連携した人事基本情報データベースを構築する。",
+  "category": "新規要求事業",
+  "startYear": "2025",
+  "endYear": "2029",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "システム開発事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

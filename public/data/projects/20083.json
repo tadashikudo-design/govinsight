@@ -1,0 +1,201 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20083",
+  "name": "電子入札システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "国土交通省は、国土交通省CALS/EC推進施策の一つとして、国土交通省電子入札システムを開発・整備することとした。入札にかかる事務手続き全般を電子化し、インターネットを介して工事及び建設コンサルタント業務にかかる直轄事業全案件に対して施行することで、利用者の事務手続き削減や移動によるコスト削減等に寄与している。",
+  "situation": "現在、『デジタル社会の実現に向けた重点計画（令和5年6月9日閣議決定）』において、ガバメントクラウドへの移行をR7年度迄に実施することが示されており、それに向けて検討・構築を進める予定である。／なお、R7年度に統合に向けた調査研究をデジタル庁が実施した上で各関係府省電子入札システムの更改にあわせて統合を進めることから②システムとなる。",
+  "overview": "電子入札は、従来の紙による入札情報（調達案件内容）の入手や入開札までの一連の行為と制度的に同じことを手元のパソコンからインターネットを介して行います。これにより、場所や時間の制約を最小限として競争参加資格確認申請から入札参加者への落札決定の通知までの業務が電子的に実現されます。／／〔電子入札の効果〕／／・競争性の向上／　参加条件を満たす者は容易に参加でき、競争性が高まります。／・コストの縮減／　応札者の人件費、移動コストが減少し、建設コストの縮減につながります。／・事務の効率化／　公示、応札案件情報提供、技術提案書提出および開札行為の電子化により、事務負担の軽減及び業務の効率化が図れます。",
+  "category": "前年度事業",
+  "startYear": "2003",
+  "endYear": "",
+  "rsUrl": "https://www.e-bisc.go.jp/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1498036000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 1498036000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中国地方整備局",
+      "corporate_number": "",
+      "amount": 416350000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中国地方整備局",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "北海道開発局",
+      "corporate_number": "",
+      "amount": 58966000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "北海道開発局",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "四国地方整備局",
+      "corporate_number": "",
+      "amount": 989832000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "四国地方整備局",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "国土地理院",
+      "corporate_number": "",
+      "amount": 1514000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土地理院",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "国土技術政策総合研究所",
+      "corporate_number": "",
+      "amount": 3923000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土技術政策総合研究所",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大臣官房官庁営繕部",
+      "corporate_number": "",
+      "amount": 6950000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大臣官房官庁営繕部",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "関東地方整備局",
+      "corporate_number": "",
+      "amount": 20501000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "関東地方整備局",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 1081686000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 416350000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

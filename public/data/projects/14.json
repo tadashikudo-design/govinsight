@@ -1,0 +1,221 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "14",
+  "name": "政府認証基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "国民等が電子的に申請等を行う際の電子文書の真正性の担保に必要不可欠な認証局等の政府情報システム基盤を一元的に構築・運用し、政府全体としてのシステム経費の効率化や共通・横断的に対策を実施することで有効なセキュリティの向上を図る。",
+  "situation": "政府認証基盤（以下「GPKI」という。）については、「政府機関等の情報システムにおいて使用されている暗号アルゴリズムの移行について」（2023年6月30日事務連絡デジタル庁、内閣サイバーセキュリティセンター（NISC））に即し、2030年までに現行よりもセキュリティ強度の高い暗号への移行をしなければならないことから、必要な対応を行うこととされている。",
+  "overview": "GPKIの暗号移行検証環境構築を前倒しして整備することで、GPKIと相互認証を行っている認証局及び情報システム側のシステム改修や動作検証の実施を可能にし、暗号の高度化の早期実現を図る。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.gpki.go.jp/",
+  "totalAmount": 20550500.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2047064840.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1728874253.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 1550000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1012000000.0,
+      "exec_rate": 1.35294,
+      "total": 748000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": 1306179000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "corporate_number": "9010005005761",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": 677205000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "corporate_number": "8010401021784",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": 54947000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 8734000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000441356",
+      "name": "政府認証基盤の監査等の請負",
+      "awardDate": "2024-04-02",
+      "price": 7940000.0,
+      "vendorName": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporateNumber": "6010001107003",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000500825",
+      "name": "政府認証基盤の監査等の請負",
+      "awardDate": "2025-03-07",
+      "price": 7770000.0,
+      "vendorName": "ＥＹ新日本有限責任監査法人",
+      "corporateNumber": "1010005005059",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000539689",
+      "name": "政府認証基盤のUSBトークンの購入",
+      "awardDate": "2025-09-19",
+      "price": 4840500.0,
+      "vendorName": "株式会社フォー",
+      "corporateNumber": "8012401012945",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

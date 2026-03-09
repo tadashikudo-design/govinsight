@@ -1,0 +1,219 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "74",
+  "name": "法人データ連携基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "（旧）基準・標準担当",
+  "purpose": "法人データ連携基盤の整備を、実証事業として進めていたところ、ベース・レジストリの検討及びその法律（情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法）の成立を踏まえ、実証事業としては終了し、当該法律に基づく「情報交換システム」として整備を検討する。",
+  "situation": "少子高齢化の中で、限られた人的資源の下でも質の高い行政サービスを遂行し、国民の利便性向上と行政運営の簡素化・効率化を図るためには、デジタルファースト（デジタルによる手続完結）に加え、行政機関等が円滑なデータ連携を行い、手続において一度限りの情報提出（ワンスオンリー）とすることや複数の手続が一カ所で実現（コネクテッド・ワンストップ）できる環境の整備が必要。",
+  "overview": "APIを通じた行政システム・データの連携や、法人申請者の実在性をオンラインで認証しデータへのアクセス管理を実現するデジタルプラットフォームの構築を推進すべく、多対多のシステムがセキュアかつ迅速にデータ連携するための法人データ連係基盤として、「Gビズコネクト」を整備・運用することで、法人向け行政手続のワンスオンリーを推進する。（※本事業は令和3年9月デジタル庁の新設に伴い、内閣官房より同庁へ移管された。）／なお、実証事業としては、令和６年度で終了し、R６年度以降は、「情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法」に基づく「情報交換システム」としての整備を検討していく。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2023",
+  "rsUrl": "https://github.com/gbizconnect/gbizconnect-node",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 201841200.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 89000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 51000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 201841000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東海ソフト株式会社",
+      "corporate_number": "1180001031538",
+      "amount": 38280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東海ソフト株式会社",
+      "corporate_number": "1180001031538",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東海ソフト株式会社",
+      "corporate_number": "1180001031538",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＭＣ　Ｓｏｌｕｔｉｏｎｓ",
+      "corporate_number": "7180001059053",
+      "amount": 15840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＭＣ　Ｓｏｌｕｔｉｏｎｓ",
+      "corporate_number": "7180001059053",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズールドットネット",
+      "corporate_number": "2010001153331",
+      "amount": 7568000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズールドットネット",
+      "corporate_number": "2010001153331",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": 7150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本科学技術研修所",
+      "corporate_number": "5011001017564",
+      "amount": 3696000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本科学技術研修所",
+      "corporate_number": "5011001017564",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パーソルクロステクノロジー株式会社",
+      "corporate_number": "3180001032055",
+      "amount": 3098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルクロステクノロジー株式会社",
+      "corporate_number": "3180001032055",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウクリエイティブ",
+      "corporate_number": "7030002052179",
+      "amount": 825000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウクリエイティブ",
+      "corporate_number": "7030002052179",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

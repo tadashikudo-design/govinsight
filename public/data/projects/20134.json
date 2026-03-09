@@ -1,0 +1,236 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20134",
+  "name": "免税販売管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "免税店が外国人旅行者などに免税販売を行う際、購入記録票を作成し、免税購入対象者の旅券等に、当該購入記録票を貼付・割印するなど、煩雑な手続きとなっていたため、手続きの簡略化、電子化を目的として本システムを構築、運用している。",
+  "situation": "・電子化された購入記録情報を活用した税関検査により、購入金額１億円以上の購入者の９割超が検査の際に物品を所持していないなど、不正な免税適用が行われている実態が把握されているが、不正を行おうとする多くの者は、税関への旅券提示を回避するなどにより、税関検査を逃れている実態が確認されている。／・制度の不正利用を排除するため、令和７年度に国外への持ち出し確認できた場合に免税適用となるリファンド方式へ見直す法改正（令和８年11月施行）が行われたが、同方式の運用を実現するに当たり、システム面での対応も求められている。／・政府情報システムについては、マネージドサービスの活用等による運用経費削減等のメリットを享受するため、クラウド移行への検討が求められている。",
+  "overview": "・リファンド方式への制度移行に伴い、税関で実施された持ち出し確認結果を登録する機能、登録された税関確認結果を免税店に提供する機能の開発を行い、持ち出しが確認された場合のみ免税適用とする制度運用が可能となるよう免税販売管理システムの整備を行う。／・免税販売管理システムについては、令和７年度に定期リプレースを予定していることから、その更改に併せて、オンプレミスからガバメントクラウドへの移行を進める。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1916686184.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": 1916686184.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国税庁",
+      "corporate_number": "7000012050002",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": 1574425.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "corporate_number": "6010601032609",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 84998100.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人流通システム開発センター",
+      "corporate_number": "1010405010410",
+      "amount": 396000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人流通システム開発センター",
+      "corporate_number": "1010405010410",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "三菱電機デジタルイノベーション株式会社",
+      "corporate_number": "2010401059681",
+      "amount": 23643400.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱電機デジタルイノベーション株式会社",
+      "corporate_number": "2010401059681",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": 8439445.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": 43993125.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 1846746.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 987592036.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": 14322127.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＳＭＳ",
+      "corporate_number": "2010601032678",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 749880780.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

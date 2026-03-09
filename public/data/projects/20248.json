@@ -1,0 +1,306 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20248",
+  "name": "関東地方整備局行政情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "国土交通省関東地方整備局は、河川・道路・国営公園・官庁施設などの社会資本の整備や維持管理、自然災害発生時の対応等の業務を行っている。関東地方整備局行政情報システムは、当該業務を遂行するために必要な資料作成・情報共有等の機能を提供するものである。",
+  "situation": "国土交通省行政情報基盤システムへの機能統合やサーバ統廃合等により、災害や情報セキュリティに強いシステムを構築しつつコスト縮減を実施。次期基盤システムの動向も踏まえ、効率的な整備や運用方法を検討する。",
+  "overview": "本事業は、関東地方整備局における業務を遂行するために必要な資料作成・情報共有等の機能を提供するため、行政用クライアントPC、共通ソフトウェアのライセンス、行政システムサーバやデータサーバ等の賃貸借、インターネット情報提供や回線接続、行政情報システム運営管理等を行うものである。",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1773011000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 1773011067.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 659915848.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 387508868.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東芝ＩＴサービス株式会社",
+      "corporate_number": "6010401078439",
+      "amount": 274200961.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝ＩＴサービス株式会社",
+      "corporate_number": "6010401078439",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝ＩＴサービス株式会社",
+      "corporate_number": "6010401078439",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 7491594.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "応用技術株式会社",
+      "corporate_number": "9120001121031",
+      "amount": 10149810.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "応用技術株式会社",
+      "corporate_number": "9120001121031",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社カントー",
+      "corporate_number": "2030001017798",
+      "amount": 1306555.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カントー",
+      "corporate_number": "2030001017798",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社カントー",
+      "corporate_number": "2030001017798",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダ電機",
+      "corporate_number": "2140001051761",
+      "amount": 10756619.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダ電機",
+      "corporate_number": "2140001051761",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 166727057.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 215050455.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ビバコンピュータ株式会社",
+      "corporate_number": "7120001057962",
+      "amount": 2068000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ビバコンピュータ株式会社",
+      "corporate_number": "7120001057962",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": 10871300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サンネット",
+      "corporate_number": "1240001012779",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社",
+      "corporate_number": "2010001016851",
+      "amount": 26964000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本工営株式会社",
+      "corporate_number": "2010001016851",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21267",
+  "name": "衛星通信設備（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "首都直下地震発生等が発生し、一般の回線による通信が困難な場合において、衛星通信設備を活用して非常時優先業務の実施を可能とする体制を構築するものである。",
+  "situation": "政府の地震調査委員会において、首都直下地震は今後30年以内に発生する確率が70％とされている中、農林水産省では、農林水産省業務継続計画（以下「省BCP」という。）において、農林水産省として維持すべき必須の機能に該当する業務として非常時優先業務を決定するとともに、非常時優先業務の対応方針、実施に必要な執行体制、執務環境、資源の確保、指揮系統の明確化等について必要な措置を講ずることにより、農林水産省としての業務継続を確保することを目的に必要な取組を定めている。／省BCPでは、本省庁舎が被災し、被災等により使用不能となった場合、農林水産省緊急自然災害対策本部の機能を代替庁舎に移転することとされており、単に庁舎の確保だけでなく、代替庁舎における通信手段を含む執務環境の整備を早急に進める必要がある。",
+  "overview": "首都直下地震発生等に、一般の回線による通信が困難な場合において、衛星通信設備を活用することにより、円滑な非常時優先業務の実施を図る。",
+  "category": "新規要求事業",
+  "startYear": "2026",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20356",
+  "name": "改正物流効率化法に基づく特定事業者監督業務等支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "改正物流効率化法に基づく事業者の取組状況については、国が必要に応じて指導・助言を行うとともに、中長期計画に基づく取組の実施状況が不十分な場合には、勧告・命令を実施することとしており、監督システムの構築を行い、保守・運用を適切に行うことにより、各事業者の指導歴・勧告歴などを継続的に把握し、国の業務を的確に遂行する。",
+  "situation": "物流効率化法改正に伴うシステム構築及び運用・保守が適切に行われない場合、特定事業者の指導・監督の履歴を継続的に把握することが困難になり、職員が事務処理に忙殺され、本来行うべき公務が行えず、国民サービスの低下につながる可能性がある。",
+  "overview": "物流の停滞が懸念される「2024年問題」の解決に向けた改正物流法のうち、改正物流効率化法では、一定規模以上の事業者を特定事業者として指定し、物流効率化に向けた中長期計画の作成や定期報告などを義務付ける。／これらの事業者の取組状況については、国が必要に応じて指導・助言を行うとともに、中長期計画に基づく取組の実施状況が不十分な場合には、勧告・命令を実施することとしており、各事業者の指導歴・勧告歴などを継続的に把握し、国の業務を的確に遂行するための監督システムを令和7年度中に構築する。令和8年度以降、本システムを継続的に適切に活用するために、運用・保守が必要となる。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000029.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

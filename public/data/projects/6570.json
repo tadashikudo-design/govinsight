@@ -1,0 +1,187 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6570",
+  "name": "総合運用・監視システム（ＣＯＳＭＯＳ）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "総合運用・監視システム／常時リスク診断・対処システム",
+  "purpose": "本事業において、デジタル庁における統一的なポリシーに基づいた運用監視サービスの提供体制を整備し、総合運用・監視システムを構築する。これにより、政府情報システムの構築運用を担当するデジタル庁として、ITガバナンスのための運用監視や、小規模ITマネジメントの運用監視の支援を実現させるとともに、国民がアクセスするインターネット上のシステムの外形監視、政府職員が利用するクラウドサービス・ネットワークの稼働状況の監視を行うことで、システム全体のインシデントの予防・早期発見・早期復旧を実現させる。",
+  "situation": "デジタル庁の発足以降、多くのシステムが稼働しサービスを提供しているが、各サービスにおいては、それぞれ独自にシステムに対する運用・監視が行われており、デジタル庁として全体を俯瞰した統一的な運用・監視は行われておらず、ITガバナンスの体制が整っていない状態にある。また、インシデント発生や災害などの場合に、デジタル庁幹部が各サービスの稼働状況を即座に把握し、素早く状況判断することができる体制ができていないため、早期復旧に向けた対応が困難な状況にある。",
+  "overview": "2024年度に整備した総合運用・監視システム（COSMOS）により、デジタル庁が運用する政府情報システムの横断的な稼働監視を開始しデジタル庁全体のITガバナンスを向上させシステムの状況の可視化を図ったところであり、2025年度以降はシステムの稼働状況等に合わせて監視対象を拡大し、さらに分析の高度化、ログを含めた必要な情報の収集等により監視機能を段階的に強化拡充していくことで、インシデント対応能力やレジリエンスなどを強化する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/security/comprehensive-operational-synthetic-monitoring-system",
+  "totalAmount": 650206710.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 580394000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 78100000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 560406000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 9240000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": 224411000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ",
+      "corporate_number": "8010701019462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジャパンテクニカルソフトウェア",
+      "corporate_number": "1010401014423",
+      "amount": 19580000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ジャパンテクニカルソフトウェア",
+      "corporate_number": "1010401014423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイコウ",
+      "corporate_number": "9010401120882",
+      "amount": 715550.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイコウ",
+      "corporate_number": "9010401120882",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズジェント",
+      "corporate_number": "7010001035673",
+      "amount": 4510000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズジェント",
+      "corporate_number": "7010001035673",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": 19987824.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000445792",
+      "name": "総合運用・監視システム（COSMOS）の整備等の調達",
+      "awardDate": "2024-05-30",
+      "price": 585206710.0,
+      "vendorName": "株式会社日立製作所",
+      "corporateNumber": "7010001008844",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000490268",
+      "name": "令和７年度総合運用・監視システム（COSMOS）の運用保守及び総合運用監視業務の請負",
+      "awardDate": "2025-04-15",
+      "price": 65000000.0,
+      "vendorName": "デロイトトーマツサイバー合同会社",
+      "corporateNumber": "4010003029619",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

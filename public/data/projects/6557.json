@@ -1,0 +1,84 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6557",
+  "name": "マイナンバーカード関係システム事業費補助金（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "マイナンバーカード関係システム(カード管理システムおよびJPKIシステム）の開発・運用に係る経費に対して補助金を交付することを通じて、同システムの安全かつ安定的な運用を図る。／様々な関連システムの対応等に十分考慮し、極力、早期の次期マイナンバーカードの導入を目指す。",
+  "situation": "地方公共団体情報システム機構（J-LIS）において運営するカード管理システム、JPKIシステム設置運用経費（国負担分）に対する補助金について予算措置するもの。／　従来、市町村がJ-LISに交付する交付金に対する補助金として、総務省において予算計上していたが、デジタル社会の実現に向けた改革の基本方針（令和２年12月25日閣議決定）を踏まえ、国の業務システムを一括して統括・監理するデジタル庁に予算計上し、デジタル庁からJ-LISに支出することとされた。／　このほか、次期個人番号カードタスクフォース最終とりまとめにおいて、極力、早期の次期マイナンバーカードの導入を目指すこととされていることから、カード仕様策定及び関連システムの改修に係る要件定義等を行う必要がある。",
+  "overview": "J-LISにおいて運営する、マイナンバーカード関係システム事業の安定的な運営・システム開発のため、補助金を支出する。／次期個人番号カードタスクフォースの最終とりまとめを踏まえ、次期マイナンバーカードに係る仕様策定及び関連システムの改修に係る要件定義等を行う。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 24452982000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 16735871430.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 24452982000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "補助金等交付",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

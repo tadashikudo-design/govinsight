@@ -1,0 +1,1207 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5543",
+  "name": "ガバメントクラウド（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "ガバメントクラウド担当",
+  "purpose": "本事業は、クラウドサービスの利点を最大限に活用することで迅速、柔軟、セキュアかつコスト効率の高いシステムを構築し、利用者にとって利便性の高いサービスを提供するため、デジタル庁において、複数のクラウドサービスの利用環境であるガバメントクラウドを整備するとともにその利用に対する支援体制を構築することを目的とする。",
+  "situation": "第216回国会で成立した情報通信技術を活用した行政の推進等に関する法律の一部を改正する法律（令和七年法律第四号）により、行政機関等のガバメントクラウド利用の検討に関する義務・努力義務が規定されたところ、ガバメントクラウドの利用に当たっては、「政府情報システムにおけるクラウドサービスの適切な利用に係る基本方針」への準拠、クラウドCoE（Center of Excellenceの略。専門家を中心としたBPR・クラウド活用推進組織）による支援体制の確保がガバメントクラウド利用の前提となっているが、スマートなクラウド利用を実現するためのモダン化のシステム開発経費（イニシャルコスト）が高額となり、限られた予算の中で一気呵成にガバメントクラウドへの移行を進めることや、各府省庁において専門人材を確保することが困難であることが課題となっている。／そのため、今後約1400（令和６年度末時点）ある政府情報システムのガバメントクラウドへの移行に向けて、システムの規模や性質の分析等を通じた効果的な支援を行っていく必要がある。／また、原則全ての自治体が、令和７年度末までに、標準化基準に適合する標準準拠システムへ移行するため、移行に係る人的、技術的な課題を洗い出し、自治体やベンダに対して効果的な支援を行っていく必要がある。なお、事業者のリソースひっ迫などの事情により、令和８年度以降の移行とならざるを得ないことが具体化したシステムについては、概ね５年以内に移行できるよう、国として積極的に支援を行っていく。",
+  "overview": "本事業は、ガバメントクラウドの環境整備及びガバメントクラウドへの移行支援を行う事業である。／主な実施内容は、①GCAS（GovernmentCloudAssistantSystem）の整備、②テンプレート開発、③ガバメントクラウドへの移行支援、④ガバメントクラウド利用に係るマニュアル・ドキュメント類の整備、⑤ガバメントクラウドへの移行促進支援、⑥セキュリティ監視体制構築支援、⑦BYOKシステム構築、⑧マルチクラウドネットワーク設計開発、⑧請求支払管理システム設計開発の８つである。／このうち、①、②及び③は令和4年度から、④は令和3年度から令和5年度まで、⑤は令和5年度から実施。⑥～⑧は令和6年度から実施。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/gov_cloud/",
+  "totalAmount": 946924940.0,
+  "vendorCount": 6,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 18644710000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 7580113264.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 2470000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": 154789000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": 1077825000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "corporate_number": "9700150104216",
+      "amount": 11576938000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "corporate_number": "9700150104216",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｍｉｃｒｏｓｏｆｔ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "corporate_number": "8700150090374",
+      "amount": 116873000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｍｉｃｒｏｓｏｆｔ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "corporate_number": "8700150090374",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 144008000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 1182276000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": 14245000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社プロフェース・システムズ",
+      "corporate_number": "2010001127112",
+      "amount": 4544000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社プロフェース・システムズ",
+      "corporate_number": "2010001127112",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 52176000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": 8000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 15180000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": 11551000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ソフトバンク株式会社",
+      "corporate_number": "9010401052465",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 842000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "弁護士ドットコム株式会社",
+      "corporate_number": "7010401059818",
+      "amount": 59000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "弁護士ドットコム株式会社",
+      "corporate_number": "7010401059818",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノースサンド",
+      "corporate_number": "6010601048200",
+      "amount": 1330000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノースサンド",
+      "corporate_number": "6010601048200",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "2010401018720",
+      "amount": 742000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "2010401018720",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "2010401018720",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＤＫソリューションズ",
+      "corporate_number": "8120001092926",
+      "amount": 10098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＤＫソリューションズ",
+      "corporate_number": "8120001092926",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社グランドユニット",
+      "corporate_number": "9010501031600",
+      "amount": 24491000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社グランドユニット",
+      "corporate_number": "9010501031600",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＩＴｂｏｏｋ株式会社",
+      "corporate_number": "2010001089484",
+      "amount": 29156000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＩＴｂｏｏｋ株式会社",
+      "corporate_number": "2010001089484",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 133064000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": 1328000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 139623000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 1527900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": 5109000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ウルシステムズ株式会社",
+      "corporate_number": "1010001142673",
+      "amount": 10000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ウルシステムズ株式会社",
+      "corporate_number": "1010001142673",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": 13800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": 5000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社カジトル",
+      "corporate_number": "8010001210738",
+      "amount": 5017000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カジトル",
+      "corporate_number": "8010001210738",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 254905000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": 288882000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 99937000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": 13138000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 132000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": 260859000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士フイルムシステムサービス株式会社",
+      "corporate_number": "2011401007325",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": 27249000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "インディゴ株式会社",
+      "corporate_number": "4010901017039",
+      "amount": 46170000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "インディゴ株式会社",
+      "corporate_number": "4010901017039",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サーバーワークス",
+      "corporate_number": "1011101054073",
+      "amount": 59400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サーバーワークス",
+      "corporate_number": "1011101054073",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビッグツリーテクノロジー＆コンサルティング",
+      "corporate_number": "2010001193831",
+      "amount": 76087000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビッグツリーテクノロジー＆コンサルティング",
+      "corporate_number": "2010001193831",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇ‐ｇｅｎ",
+      "corporate_number": "9010001101432",
+      "amount": 59400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇ‐ｇｅｎ",
+      "corporate_number": "9010001101432",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "三菱総研ＤＣＳ株式会社",
+      "corporate_number": "1010701016549",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱総研ＤＣＳ株式会社",
+      "corporate_number": "1010701016549",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社佐賀電算センター",
+      "corporate_number": "1300001000513",
+      "amount": 22409000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社佐賀電算センター",
+      "corporate_number": "1300001000513",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ａｒｉｎｏｓ",
+      "corporate_number": "8011701015146",
+      "amount": 21600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ａｒｉｎｏｓ",
+      "corporate_number": "8011701015146",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇ‐ｇｅｎ",
+      "corporate_number": "9010001101432",
+      "amount": 87516000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｇ‐ｇｅｎ",
+      "corporate_number": "9010001101432",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 6600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "クラウドエース株式会社",
+      "corporate_number": "1010001179419",
+      "amount": 54461000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "クラウドエース株式会社",
+      "corporate_number": "1010001179419",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": 492200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "さくらインターネット株式会社",
+      "corporate_number": "3120001079845",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": 48342000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＲＩセキュアテクノロジーズ株式会社",
+      "corporate_number": "8010401084443",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": 20101000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": 19695000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": 19800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツリスクアドバイザリー合同会社",
+      "corporate_number": "2010001081417",
+      "amount": 6534000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツリスクアドバイザリー合同会社",
+      "corporate_number": "2010001081417",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "三菱総研ＤＣＳ株式会社",
+      "corporate_number": "1010701016549",
+      "amount": 55000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱総研ＤＣＳ株式会社",
+      "corporate_number": "1010701016549",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": 109890000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 26103000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイシーエス",
+      "corporate_number": "5400001000020",
+      "amount": 35724000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイシーエス",
+      "corporate_number": "5400001000020",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイネス",
+      "corporate_number": "2020001030067",
+      "amount": 8800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイネス",
+      "corporate_number": "2020001030067",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 7656000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 35778000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 42900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算",
+      "corporate_number": "1100001002083",
+      "amount": 42724000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算",
+      "corporate_number": "1100001002083",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＫＫＣＳ",
+      "corporate_number": "2330001000063",
+      "amount": 23100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＲＫＫＣＳ",
+      "corporate_number": "2330001000063",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＫＣ",
+      "corporate_number": "5060001002844",
+      "amount": 54199000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＫＣ",
+      "corporate_number": "5060001002844",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "西日本電信電話株式会社",
+      "corporate_number": "7120001077523",
+      "amount": 2112000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "西日本電信電話株式会社",
+      "corporate_number": "7120001077523",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": 5744000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠テクノソリューションズ株式会社",
+      "corporate_number": "2010001010788",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社オービーシステム",
+      "corporate_number": "5120001030401",
+      "amount": 6050000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オービーシステム",
+      "corporate_number": "5120001030401",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 8470000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社熊本計算センター",
+      "corporate_number": "8330001001378",
+      "amount": 12771000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社熊本計算センター",
+      "corporate_number": "8330001001378",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 6543000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": 119301000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グーグル・クラウド・ジャパン合同会社",
+      "corporate_number": "6010003022051",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": 121000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本オラクル株式会社",
+      "corporate_number": "4010401078085",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": 107800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "corporate_number": "2010401092245",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "corporate_number": "9700150104216",
+      "amount": 84251000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "corporate_number": "9700150104216",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000451080",
+      "name": "ガバメントクラウドのAWSテンプレート開発業務（令和６年度）",
+      "awardDate": "2024-05-24",
+      "price": 54000000.0,
+      "vendorName": "株式会社サーバーワークス",
+      "corporateNumber": "1011101054073",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000461026",
+      "name": "ガバメントクラウドのデータ分析設計開発業務（令和６年度）",
+      "awardDate": "2024-08-01",
+      "price": 49510100.0,
+      "vendorName": "クラウドエース株式会社",
+      "corporateNumber": "1010001179419",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000514418",
+      "name": "ガバメントクラウドに係るGCAS開発業務(令和７年度)",
+      "awardDate": "2025-04-03",
+      "price": 189000000.0,
+      "vendorName": "株式会社ミラボ",
+      "corporateNumber": "7010001157823",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000516482",
+      "name": "ガバメントクラウド請求支払管理システムの改善開発業務（令和７年度）",
+      "awardDate": "2025-04-10",
+      "price": 75185000.0,
+      "vendorName": "株式会社Ｇ‐ｇｅｎ",
+      "corporateNumber": "9010001101432",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000530895",
+      "name": "ガバメントクラウド利用システム情報の評価に係る支援業務（令和7年度）",
+      "awardDate": "2025-07-07",
+      "price": 470470920.0,
+      "vendorName": "ＰｗＣコンサルティング合同会社",
+      "corporateNumber": "1010401023102",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000547795",
+      "name": "e-Govデータポータルサービスのガバメントクラウド移行に関する調査研究",
+      "awardDate": "2025-11-19",
+      "price": 53880000.0,
+      "vendorName": "富士通株式会社",
+      "corporateNumber": "1020001071491",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000550862",
+      "name": "ガバメントクラウド開発環境提供サービスの構築業務（令和７年度）",
+      "awardDate": "2025-12-19",
+      "price": 54878920.0,
+      "vendorName": "クラウドエース株式会社",
+      "corporateNumber": "1010001179419",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5421",
+  "name": "デジタル臨時行政調査会事務局の運営等経費",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "デジタル改革企画２：法制・制度担当",
+  "purpose": "デジタル臨時行政調査会は、デジタル改革、規制改革及び行政改革を一体的に実行することにより、我が国のデジタル化を阻害する規制を一掃することを目的として、令和3年11月に創設された。調査会では、「国民や地域に寄り添う」とともに「個人や事業者がその能力を最大限発揮」できる社会をデジタルの力で実現していくに当たり、令和3年12月に、デジタル改革、行政改革、規制改革の全てに通底する５つの原則からなる「構造改革のためのデジタル原則」（①デジタル完結・自動化原則、②アジャイルガバナンス原則、③官民連携原則、④相互運用性確保原則、⑤共通基盤利用原則）を共通の指針として策定した。デジタル改革、行政改革、規制改革を計画的かつ効果的に進め、規制・制度のデジタル原則への適合の実現を目指す。",
+  "situation": "「アナログ規制の点検・見直し」については、令和4年12月末に、法令約1万条項に関する「デジタル原則を踏まえたアナログ規制の見直しに係る工程表」を確定した。また、法改正による対応が必要なアナログ規制の見直しについて措置するデジタル規制改革推進の一括法が第211回国会で成立している。同法案では、テクノロジーマップの公表・活用に関連する規定も措置しており、今後テクノロジーマップ等の整備に向けた取組を進めていく必要がある。また、見直し工程表の決定により現在のアナログ規制の一掃にメドが付き、今後はこれまでの取組を土台として、国民が利便性を実感できる｢官民デジタル完結｣の徹底と｢AI・データ等を徹底活用できる社会づくり｣へ重点をシフトしていく。",
+  "overview": "○デジタル臨時行政調査会等各種会議の開催／○テクノロジーマップ・技術カタログ等の更新・拡充、利活用の促進／デジタル庁が、アナログ規制の見直しに活用可能な新技術の動向調査、アナログ規制のデジタル化促進に資する知見の整理、安全性・実効性等の観点から確認が必要な技術の検証等を実施し、最新の技術情報を反映したテクノロジーマップ、技術カタログ等を整備し、コンソーシアム等で共有することで、規制所管省庁、技術保有企業等のテクノロジーマップ、技術カタログ等を利活用したアナログ規制の見直しを促進する。／○デジタル原則に照らした規制の一括見直しプラン（令和4年6月3日デジタル臨時行政調査会決定）等に基づくその他の取組／規制の見直し、地方の取組支援、技術的検証、法令等のデジタル原則適合性の確認、行政・民間分野における「デジタル完結」の加速化、AI時代の官民データ整備・制度対応、国・地方のデジタル関係の基盤の構築等",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2023",
+  "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 44000000.0,
+      "expenditure": 3395173000.0,
+      "exec_rate": 0.74603,
+      "total": 4551000000.0,
+      "note": "【主な増減理由】-"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 49000000.0,
+      "exec_rate": 0.01076,
+      "total": 4556000000.0,
+      "note": "「重要政策推進枠」113"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 3386400508.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 379238274.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": 132020350.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": 161622512.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フツパー",
+      "corporate_number": "7120001228357",
+      "amount": 85475532.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フツパー",
+      "corporate_number": "7120001228357",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラテクドローン",
+      "corporate_number": "6010701039462",
+      "amount": 68503174.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラテクドローン",
+      "corporate_number": "6010701039462",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社モルフォＡＩソリューションズ",
+      "corporate_number": "4010001206194",
+      "amount": 95523205.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社モルフォＡＩソリューションズ",
+      "corporate_number": "4010001206194",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 64321107.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｒｉｄｇｅ‐ｉ",
+      "corporate_number": "9010001177423",
+      "amount": 68828226.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｒｉｄｇｅ‐ｉ",
+      "corporate_number": "9010001177423",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": 193306296.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 200605633.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 281600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "いであ株式会社",
+      "corporate_number": "7010901005494",
+      "amount": 41624000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "いであ株式会社",
+      "corporate_number": "7010901005494",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 249314837.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イームズロボティクス株式会社",
+      "corporate_number": "8380001026668",
+      "amount": 19979828.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イームズロボティクス株式会社",
+      "corporate_number": "8380001026668",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イームズロボティクス株式会社",
+      "corporate_number": "8380001026668",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": 34650880.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルプロセス＆テクノロジー株式会社",
+      "corporate_number": "7011101047237",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任あずさ監査法人",
+      "corporate_number": "3011105000996",
+      "amount": 45000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任あずさ監査法人",
+      "corporate_number": "3011105000996",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム計画研究所",
+      "corporate_number": "1011001010333",
+      "amount": 26400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システム計画研究所",
+      "corporate_number": "1011001010333",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社センシンロボティクス",
+      "corporate_number": "2011001107566",
+      "amount": 25080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社センシンロボティクス",
+      "corporate_number": "2011001107566",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": 201808035.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩスマートドローン株式会社",
+      "corporate_number": "6010401165286",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": 1452000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": 230000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": 178000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "",
+      "amount": 173000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "",
+      "amount": 36000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "",
+      "amount": 36000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "",
+      "amount": 36000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "",
+      "amount": 17000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "",
+      "amount": 17000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社福岡ハイヤーサービス",
+      "corporate_number": "5290001073210",
+      "amount": 111000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社福岡ハイヤーサービス",
+      "corporate_number": "5290001073210",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,444 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20320",
+  "name": "内閣府LAN（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "行政事務の遂行のため、電子メール等の職員向けサービス機能、これらを適切に運用する為のセキュリティ対策等を提供することを目的とする。",
+  "situation": "内閣府LAN（共通システム）は、令和6年3月にデジタル庁が主導するガバメントソリューションサービス（GSS）への移行が完了した。",
+  "overview": "内閣府LAN（共通システム）は、内閣府等職員が政策の企画立案・総合調整等を行う際に、電子メールや電子掲示板、インターネット等を効率的に活用し、情報の収集や分析、情報共有、情報発信等を実施するための基盤システムである。",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "2023",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "三菱倉庫株式会社",
+      "corporate_number": "8010001034947",
+      "amount": 84000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱倉庫株式会社",
+      "corporate_number": "8010001034947",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 121288000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 2391165000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 11075000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "グラビス・アーキテクツ株式会社",
+      "corporate_number": "6430001049574",
+      "amount": 27775000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "グラビス・アーキテクツ株式会社",
+      "corporate_number": "6430001049574",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 280263000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 351000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": 125000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ情報設備",
+      "corporate_number": "5013301018201",
+      "amount": 850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ情報設備",
+      "corporate_number": "5013301018201",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": 532000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターネットイニシアティブ",
+      "corporate_number": "6010001011147",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社幸栄電子",
+      "corporate_number": "8011401002031",
+      "amount": 2937000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社幸栄電子",
+      "corporate_number": "8011401002031",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社幸栄電子",
+      "corporate_number": "8011401002031",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社幸栄電子",
+      "corporate_number": "8011401002031",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社幸栄電子",
+      "corporate_number": "8011401002031",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 314000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＯＫＩクロステック株式会社",
+      "corporate_number": "6010701001991",
+      "amount": 165000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＯＫＩクロステック株式会社",
+      "corporate_number": "6010701001991",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "広友サービス株式会社",
+      "corporate_number": "3010401009875",
+      "amount": 537000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "広友サービス株式会社",
+      "corporate_number": "3010401009875",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "広友サービス株式会社",
+      "corporate_number": "3010401009875",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社創電社",
+      "corporate_number": "4010502006218",
+      "amount": 1079000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社創電社",
+      "corporate_number": "4010502006218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社創電社",
+      "corporate_number": "4010502006218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限会社創電社",
+      "corporate_number": "4010502006218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカモトヤ",
+      "corporate_number": "1010401006180",
+      "amount": 1427000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカモトヤ",
+      "corporate_number": "1010401006180",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社オカモトヤ",
+      "corporate_number": "1010401006180",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノジマ",
+      "corporate_number": "4021001013588",
+      "amount": 159000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ノジマ",
+      "corporate_number": "4021001013588",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": 1820000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社第一文眞堂",
+      "corporate_number": "5010401017488",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "5200001003514",
+      "amount": 986000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算システム",
+      "corporate_number": "5200001003514",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 83483000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ニスコム株式会社",
+      "corporate_number": "3011001026897",
+      "amount": 5720000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ニスコム株式会社",
+      "corporate_number": "3011001026897",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": 2640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インターフュージョン・コンサルティング",
+      "corporate_number": "1010401059138",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーエスエル",
+      "corporate_number": "5010701023558",
+      "amount": 2340000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーエスエル",
+      "corporate_number": "5010701023558",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｓｏｌａ株式会社",
+      "corporate_number": "5010001121335",
+      "amount": 2857000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｓｏｌａ株式会社",
+      "corporate_number": "5010001121335",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

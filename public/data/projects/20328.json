@@ -1,0 +1,278 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20328",
+  "name": "金融モニタリングシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "金融庁における高度なデータ活用に向けた徴求データ等の効率的な収集・管理並びに、金融庁と金融機関間における行政手続きの更なるオンライン化を目的とする。",
+  "situation": "金融モニタリング業務の基盤となる金融庁業務支援統合システムは、運用開始から約10年程度経過している。金融・証券市場を巡る環境が著しく変化している中で、その環境変化に対応し、ITをより一層利活用した金融モニタリング業務を実施するためのシステムを構築する必要がある。",
+  "overview": "金融機関等の検査・監督等の実施にあたり必要となる各種データを金融機関等から効率的かつ効果的に収集・蓄積し、それらを金融庁職員等が利用することを主な機能とする新たなシステムとして金融モニタリングシステム（FIMOS）を構築する。",
+  "category": "前年度事業",
+  "startYear": "2014",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 892110000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": 14519000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "corporate_number": "4010002039073",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "Ｐａｒｋ　Ｐｌａｃｅ　Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｊａｐａｎ合同会社",
+      "corporate_number": "3010003018201",
+      "amount": 513000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｐａｒｋ　Ｐｌａｃｅ　Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｊａｐａｎ合同会社",
+      "corporate_number": "3010003018201",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "テクマトリックス株式会社",
+      "corporate_number": "4010401058467",
+      "amount": 908000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "テクマトリックス株式会社",
+      "corporate_number": "4010401058467",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": 231921000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "セコムトラストシステムズ株式会社",
+      "corporate_number": "4011001040781",
+      "amount": 7410000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "セコムトラストシステムズ株式会社",
+      "corporate_number": "4011001040781",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "セコムトラストシステムズ株式会社",
+      "corporate_number": "4011001040781",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＰＸ総研",
+      "corporate_number": "8010001222989",
+      "amount": 132000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＰＸ総研",
+      "corporate_number": "8010001222989",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": 1196000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 559901000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 63800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": 5737000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": 5280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユニットコム",
+      "corporate_number": "2120001037218",
+      "amount": 792000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユニットコム",
+      "corporate_number": "2120001037218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "金融庁",
+      "corporate_number": "6000012010023",
+      "amount": 892110000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "金融庁",
+      "corporate_number": "6000012010023",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

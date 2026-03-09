@@ -1,0 +1,355 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6568",
+  "name": "個人向け認証アプリケーション（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "マイナンバーカードの電子証明書読み取り機能を共通アプリ化し、組み込みやすい API を提供することで、行政機関及び民間事業者に対して、マイナンバーカードによる本人確認の利活用を促進する。",
+  "situation": "マイナンバーカードの利用者証明用電子証明書については、認証コストの問題により、民間での利活用が進んでいなかった。マイナンバーカードによる本人確認をデジタル公共インフラとして完全無償化して提供するために、令和6（2024)年に、「デジタル認証アプリ」をリリースした。／／「デジタル認証アプリ」のリリース後、見込みを大幅に上回る申込を頂いており、国民の期待の高さを実感している。本事業の更なる推進が見込まれる。／／当初想定よりも大幅に申込を頂いているため、年間の運用費等の削減が困難な状況。サービスの品質を維持しつつ効率的な運用を行えるように、運用設計の見直しを行う。",
+  "overview": "令和6（2024)年に、「デジタル認証アプリ」をリリース。同アプリは、マイナンバーカードを使った本人確認を社会基盤とするためのサービスである。本サービスは、無償のAPIとして提供されるため、行政機関や民間事業者等は、コストを抑え、簡単にマイナンバーカードを使ったデジタル本人確認を組み込むことができる。​",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://services.digital.go.jp/auth-and-sign/",
+  "totalAmount": 100388000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1451042000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 778927966.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 1111738000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 194810000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 111355000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社コスモピア",
+      "corporate_number": "6010001145622",
+      "amount": 14587000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コスモピア",
+      "corporate_number": "6010001145622",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立コンサルティング",
+      "corporate_number": "1010001146848",
+      "amount": 3025000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立コンサルティング",
+      "corporate_number": "1010001146848",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ東日本",
+      "corporate_number": "1370001009911",
+      "amount": 388613000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立ソリューションズ東日本",
+      "corporate_number": "1370001009911",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": 9160000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 2772000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": 1545000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": 990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": 440000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人事業主Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＴＹＺ",
+      "corporate_number": "3011001110024",
+      "amount": 440000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＴＹＺ",
+      "corporate_number": "3011001110024",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルパーク",
+      "corporate_number": "7010001028883",
+      "amount": 332000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルパーク",
+      "corporate_number": "7010001028883",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": 463000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "corporate_number": "8011101028104",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 1540000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": 92000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクレクト",
+      "corporate_number": "2010901041206",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": 30000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "デジタル庁職員Ａ",
+      "corporate_number": "",
+      "amount": 3000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デジタル庁職員Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000430955",
+      "name": "令和６年度GSS運用に係るアプリケーション検査業務",
+      "awardDate": "2024-04-12",
+      "price": 46888000.0,
+      "vendorName": "株式会社ＦＦＲＩセキュリティ",
+      "corporateNumber": "3011101046226",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000516198",
+      "name": "令和７年度GSS運用に係るアプリケーション検査業務",
+      "awardDate": "2025-05-19",
+      "price": 53500000.0,
+      "vendorName": "株式会社ＦＦＲＩセキュリティ",
+      "corporateNumber": "3011101046226",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

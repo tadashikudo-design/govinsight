@@ -1,0 +1,491 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5544",
+  "name": "公共サービスメッシュ（デジタル連携基盤）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "情報連携基盤刷新担当　情報連携基盤刷新班",
+  "purpose": "公共サービスメッシュは、行政が持つデータの活用・連携を迅速にするための情報連携基盤であり、これにより、行政が持つデータを活用・連携することで、住民サービス体験のさらなる向上や、自治体職員の業務の効率化・負担軽減及び民間との一貫した設計の対外接続の実現を目指す。",
+  "situation": "現状、行政サービスについて、住民の利便性の観点においては、自分が利用できるサービスを見つけにくく、また、手続きの際に時間も手間もかかるといった課題がある。また、行政サービスを提供する職員の観点においては、新たなデジタルサービスをリリースするたびにシステム対応のコストが発生し、かつ、時間がかかるといった課題がある。さらに、国全体のコストの観点においては、国や自治体で個別にシステム整備をするとコストが増大するといった課題がある。",
+  "overview": "公共サービスメッシュは、住民系のデータを連携する基盤と事業者系のデータを連携する基盤に大別され、前者については、主に「自治体内の情報活用」、「行政機関間の情報連携」、「公共APIゲートウェイ」の３つの枠組みで、後者については「事業者等情報連携」によりそれぞれ構成されるところ、行政が保有するデータを安全・円滑に活用・連携できるよう、これらを一貫した設計で実現する取組である。「自治体内の情報活用」については、業務横断的なデータ抽出・加工やデータの連携を円滑に実現するための機能を、順次、希望する自治体が利用できるようにするもの。「行政機関間の情報連携」については、マイナンバー制度に基づき、現行の中間サーバ等に相当する共通機能の提供等を通じ、現行インフラの刷新を行うもの。「公共APIゲートウェイ」については、官民フロントサービスとの接続点を集約し、API機能を共通化するとともに、接続経路の一本化により、デジタル庁システム全体のセキュリティガバナンスを強化するもの。「事業者等情報連携」については、ベース・レジストリとして整備した情報等を検索画面やAPI連携によりユーザーに提供するもの。／※ベース・レジストリとは、住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータからなるデータベースであって、整備を行うことで国民の利便性向上や行政運営の効率化等に資するもの。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/public_service_mesh",
+  "totalAmount": 3694135731.0,
+  "vendorCount": 4,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3823526086.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 2083768940.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 1019000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 2068000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フューチャーアーキテクト",
+      "corporate_number": "2010701032272",
+      "amount": 599736500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フューチャーアーキテクト",
+      "corporate_number": "2010701032272",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 397854247.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 206600599.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 179300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "シンプレクス株式会社",
+      "corporate_number": "9010401127151",
+      "amount": 176772750.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "シンプレクス株式会社",
+      "corporate_number": "9010401127151",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": 195000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "パーソルクロステクノロジー株式会社",
+      "corporate_number": "3180001032055",
+      "amount": 4190000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パーソルクロステクノロジー株式会社",
+      "corporate_number": "3180001032055",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社オープンストリーム",
+      "corporate_number": "9010001076542",
+      "amount": 33750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オープンストリーム",
+      "corporate_number": "9010001076542",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケアリッツ・テクノロジーズ",
+      "corporate_number": "1011101098418",
+      "amount": 64415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケアリッツ・テクノロジーズ",
+      "corporate_number": "1011101098418",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 16400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ａｃｃｅｎｔｕｒｅ　Ｓｏｌｕｔｉｏｎｓ　Ｐｖｔ　Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": 97336000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ａｃｃｅｎｔｕｒｅ　Ｓｏｌｕｔｉｏｎｓ　Ｐｖｔ　Ｌｔｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アクシスコンサルティング株式会社",
+      "corporate_number": "5010001078311",
+      "amount": 39574700.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクシスコンサルティング株式会社",
+      "corporate_number": "5010001078311",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ランサーズ株式会社",
+      "corporate_number": "6021001024617",
+      "amount": 379500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ランサーズ株式会社",
+      "corporate_number": "6021001024617",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＡＳＩＮＶＡ",
+      "corporate_number": "9011501027357",
+      "amount": 17424000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＡＳＩＮＶＡ",
+      "corporate_number": "9011501027357",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コクー株式会社",
+      "corporate_number": "3020001129866",
+      "amount": 2475000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コクー株式会社",
+      "corporate_number": "3020001129866",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファクトセンス",
+      "corporate_number": "2010701038534",
+      "amount": 36630000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファクトセンス",
+      "corporate_number": "2010701038534",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｈａｒｉｎｇ　Ｉｎｎｏｖａｔｉｏｎｓ",
+      "corporate_number": "5010601039720",
+      "amount": 7656000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｈａｒｉｎｇ　Ｉｎｎｏｖａｔｉｏｎｓ",
+      "corporate_number": "5010601039720",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 119900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 75361990.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": 7681626.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズールドットネット",
+      "corporate_number": "2010001153331",
+      "amount": 15290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アズールドットネット",
+      "corporate_number": "2010001153331",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社グロップエスシー",
+      "corporate_number": "3260001028680",
+      "amount": 16280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社グロップエスシー",
+      "corporate_number": "3260001028680",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 19288500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヒューマンシステム",
+      "corporate_number": "3010401025303",
+      "amount": 8929800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヒューマンシステム",
+      "corporate_number": "3010401025303",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000453610",
+      "name": "公共サービスメッシュ設計・開発等にかかる工程管理等支援業務（R6ー７）",
+      "awardDate": "2024-07-18",
+      "price": 843933231.0,
+      "vendorName": "ＰｗＣコンサルティング合同会社",
+      "corporateNumber": "1010401023102",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000453611",
+      "name": "プッシュ型サービス実現に関する調査研究および公共サービスメッシュ（自治体内情報活用サービス）にかかる実証事業",
+      "awardDate": "2024-07-18",
+      "price": 545215000.0,
+      "vendorName": "フューチャーアーキテクト株式会社",
+      "corporateNumber": "2010701032272",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000473500",
+      "name": "公共サービスメッシュ （行政機関間の情報連携） における基盤刷新に関する調査研究",
+      "awardDate": "2024-10-28",
+      "price": 160702500.0,
+      "vendorName": "シンプレクス株式会社",
+      "corporateNumber": "9010401127151",
+      "bidMethodName": "8014030"
+    },
+    {
+      "id": "0000000000000495656",
+      "name": "令和7年度公共サービスメッシュ（自治体内情報活用サービス）にかかる設計・開発業務一式",
+      "awardDate": "2025-03-26",
+      "price": 1033635000.0,
+      "vendorName": "フューチャーアーキテクト株式会社",
+      "corporateNumber": "2010701032272",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000496410",
+      "name": "公共サービスメッシュ機関間情報連携サービスの運用・保守業務",
+      "awardDate": "2025-06-26",
+      "price": 988000000.0,
+      "vendorName": "富士ソフト株式会社",
+      "corporateNumber": "2020001043507",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000542825",
+      "name": "令和7年度公共サービスメッシュ（自治体内情報活用サービス）を介した住民情報活用のための調査研究",
+      "awardDate": "2025-10-20",
+      "price": 122650000.0,
+      "vendorName": "フューチャーアーキテクト株式会社",
+      "corporateNumber": "2010701032272",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

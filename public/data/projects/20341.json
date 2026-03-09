@@ -1,0 +1,124 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20341",
+  "name": "国土交通省行政情報基盤システム等（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本事業は、本省及び地方支分部局等（施設等機関、特別の機関、地方支分部局及び外局を指す。以下同じ。）の職員が共通して利用する機能を集約したシステムを提供するものである。",
+  "situation": "国土交通省行政を的確、且つ、円滑に遂行するため、職員が共通して利用する機能を集約し、働き方の変化も踏まえてサービスを提供している。／引き続き、情勢の変化やニーズにあわせ、必要となるサービスや機能の集約化を検討し、実現を図っていく。",
+  "overview": "本事業は、国土交通行政業務を的確、且つ、円滑に遂行するため、国土交通省行政情報基盤システム等の整備、運用及び保守を行うものである。",
+  "category": "前年度事業",
+  "startYear": "2015",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 7516147000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": 7516146859.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国土交通省",
+      "corporate_number": "2000012100001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": 7375804724.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "昭和リース株式会社",
+      "corporate_number": "9010001142187",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "八洲ファシリティサービス株式会社",
+      "corporate_number": "9011801014501",
+      "amount": 124300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "八洲ファシリティサービス株式会社",
+      "corporate_number": "9011801014501",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": 92500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社建設技術研究所",
+      "corporate_number": "7010001042703",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣセキュリティ株式会社",
+      "corporate_number": "3010401094918",
+      "amount": 47717835.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣセキュリティ株式会社",
+      "corporate_number": "3010401094918",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

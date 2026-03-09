@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6552",
+  "name": "データカタログ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "e-Govデータポータルによる行政機関等のオープンデータの提供を通じて、国民等利用者が行政機関等のウェブサイトを探索することなく、横断的・一元的に必要なオープンデータを入手することが可能となるようオープンデータのリポジトリとしての機能を拡充し、国民等利用者の利便性向上を図るとともに、行政機関の諸活動に関する透明性を高め、開かれた行政を実現する。",
+  "situation": "オープンデータを活用しやすい形で登録することやオープンデータを誰もが利用しやすい形でアクセスすることができるように、令和4年度末にオープンデータの内容まで検索可能な全文検索機能の提供等を行ったところ。今後、更なる検索性の向上や活用性の向上を図るほか、地方自治体のオープンデータについても横断的・一元的に検索可能とすることで、オープンデータを利用する国民・行政機関・事業者における積極的なオープンデータの活用を促進する。",
+  "overview": "行政機関が公開しているオープンデータを横断的に検索することができるポータルサイトであるe-Govデータポータルの運営・管理を行っている。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 120725000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 128766000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": 120725000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立社会情報サービス",
+      "corporate_number": "3010601021713",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": 3685000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本システムクリエイター",
+      "corporate_number": "8010601031303",
+      "amount": 13464000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本システムクリエイター",
+      "corporate_number": "8010601031303",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本システムクリエイター",
+      "corporate_number": "8010601031303",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＣ",
+      "corporate_number": "3010701001012",
+      "amount": 9680000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＣ",
+      "corporate_number": "3010701001012",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＣ",
+      "corporate_number": "3010701001012",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

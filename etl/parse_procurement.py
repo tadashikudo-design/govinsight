@@ -1,0 +1,81 @@
+"""
+政府調達ポータル 落札実績 CSV パーサー
+CSV仕様: UTF-8 BOM付き、ヘッダー行なし、8列
+"""
+from __future__ import annotations
+
+from pathlib import Path
+
+import pandas as pd
+
+from config import DIGITAL_AGENCY_CODE
+
+# CSV列定義（ヘッダーなし → 番号で指定）
+COLUMNS = [
+    "procurement_id",   # 調達案件番号（19桁）
+    "name",             # 調達案件名称
+    "award_date",       # 落札決定日（YYYY-MM-DD）
+    "price",            # 落札価格
+    "ministry_code",    # 府省コード
+    "bid_method_code",  # 入札方式コード
+    "vendor_name",      # 商号又は名称
+    "corporate_number", # 法人番号
+]
+
+BID_METHOD_MAP = {
+    "8002010": "一般競争入札・最低価格",
+    "8002040": "一般競争入札・総合評価",
+    "8004030": "随意契約・公募型プロポーザル",
+    "8004020": "随意契約・特定業者",
+    "8004010": "随意契約・少額",
+    "8003010": "指名競争入札",
+}
+
+
+def parse_procurement(csv_path: Path, ministry_filter: str | None = DIGITAL_AGENCY_CODE) -> pd.DataFrame:
+    """落札実績CSVを読み込んでDataFrameを返す。
+
+    Args:
+        csv_path: successful_bid_record_info_all_{year}.csv
+        ministry_filter: None なら全府省庁。デフォルトは 'W1'（デジタル庁）
+
+    Returns:
+        DataFrame with columns: procurement_id, name, award_date, price,
+        ministry_code, bid_method_code, bid_method_name, vendor_name,
+        corporate_number, fiscal_year
+    """
+    df = pd.read_csv(
+        csv_path,
+        encoding="utf-8-sig",
+        header=None,
+        names=COLUMNS,
+        dtype=str,
+    )
+
+    if ministry_filter:
+        df = df[df["ministry_code"] == ministry_filter].copy()
+
+    if df.empty:
+        return df
+
+    # 型変換
+    df["price"] = pd.to_numeric(df["price"], errors="coerce")
+    df["award_date"] = pd.to_datetime(df["award_date"], errors="coerce").dt.strftime("%Y-%m-%d")
+
+    # 入札方式名称を追加
+    df["bid_method_name"] = df["bid_method_code"].map(BID_METHOD_MAP).fillna(df["bid_method_code"])
+
+    # 年度を award_date から推定（4月始まり）
+    df["fiscal_year"] = _to_fiscal_year(df["award_date"])
+
+    # 文字列クリーニング
+    for col in ["name", "vendor_name", "corporate_number"]:
+        df[col] = df[col].fillna("").str.strip()
+
+    return df.reset_index(drop=True)
+
+
+def _to_fiscal_year(award_date_series: pd.Series) -> pd.Series:
+    """落札日から日本の年度（4月始まり）を計算。"""
+    dt = pd.to_datetime(award_date_series, errors="coerce")
+    return dt.apply(lambda d: d.year if (pd.notna(d) and d.month >= 4) else (d.year - 1 if pd.notna(d) else None))

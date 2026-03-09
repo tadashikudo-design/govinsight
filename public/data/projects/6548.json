@@ -1,0 +1,333 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6548",
+  "name": "アドレス・ベース・レジストリ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "ベース・レジストリ担当",
+  "purpose": "国民の利便性向上や行政運営の効率化等を図るため、アドレス・ベース・レジストリとして、住所・所在地関係データベースの整備又は改善を行う。／※ベース・レジストリとは、住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータからなるデータベースであって、整備を行うことで国民の利便性向上や行政運営の効率化等に資するもの",
+  "situation": "住所・所在地に関するデータは、制度横断的に多数の手続で参照されるものの、行政機関等や民間事業者等において、そのデータは十分に利用されていない。",
+  "overview": "制度横断的に多数の手続で参照される住所・所在地関係のデータベースを整備し、行政機関等や民間事業者等による利用を促進する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 111798000.0,
+  "vendorCount": 4,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 240824760.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 373025823.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 416000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 95501000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": 76252000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ経営研究所",
+      "corporate_number": "1010001143390",
+      "amount": 35098800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ経営研究所",
+      "corporate_number": "1010001143390",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社マップル",
+      "corporate_number": "3010001204397",
+      "amount": 17589000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社マップル",
+      "corporate_number": "3010001204397",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社東京地図研究社",
+      "corporate_number": "7012401001123",
+      "amount": 15400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社東京地図研究社",
+      "corporate_number": "7012401001123",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "内外地図株式会社",
+      "corporate_number": "2010001025159",
+      "amount": 875600.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内外地図株式会社",
+      "corporate_number": "2010001025159",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エスロジカル",
+      "corporate_number": "5030001012053",
+      "amount": 107800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エスロジカル",
+      "corporate_number": "5030001012053",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": 15840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ・アイ",
+      "corporate_number": "2011101056358",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミライト・ワン・システムズ",
+      "corporate_number": "2120901016130",
+      "amount": 14960000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミライト・ワン・システムズ",
+      "corporate_number": "2120901016130",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ東北",
+      "corporate_number": "2370001004746",
+      "amount": 4290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ東北",
+      "corporate_number": "2370001004746",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": 2090000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "澪標アナリティクス株式会社",
+      "corporate_number": "2011101070251",
+      "amount": 33800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "澪標アナリティクス株式会社",
+      "corporate_number": "2011101070251",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社東京地図研究社",
+      "corporate_number": "7012401001123",
+      "amount": 2816000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社東京地図研究社",
+      "corporate_number": "7012401001123",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エクスウェア株式会社",
+      "corporate_number": "2010701018552",
+      "amount": 4840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エクスウェア株式会社",
+      "corporate_number": "2010701018552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーワークス",
+      "corporate_number": "2010401044725",
+      "amount": 495000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーワークス",
+      "corporate_number": "2010401044725",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000452099",
+      "name": "アドレス・ベース・レジストリ地方公共団体町字データ確認支援作業",
+      "awardDate": "2024-05-31",
+      "price": 54400000.0,
+      "vendorName": "ＴＩＳ株式会社",
+      "corporateNumber": "2010001134133",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000471280",
+      "name": "アドレス・ベース・レジストリの行政機関での利活用を支援する地図アプリに関する実証",
+      "awardDate": "2024-10-11",
+      "price": 15990000.0,
+      "vendorName": "株式会社マップル",
+      "corporateNumber": "3010001204397",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000475601",
+      "name": "アドレス・ベース・レジストリの利用推進に資する地理空間データ基盤に関する実証",
+      "awardDate": "2024-11-19",
+      "price": 31908000.0,
+      "vendorName": "株式会社ＮＴＴデータ経営研究所",
+      "corporateNumber": "1010001143390",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000536190",
+      "name": "アドレス・ベース・レジストリ（住所・所在地関係データベース）のデータ更新（その１）",
+      "awardDate": "2025-08-20",
+      "price": 9500000.0,
+      "vendorName": "株式会社東京地図研究社",
+      "corporateNumber": "7012401001123",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

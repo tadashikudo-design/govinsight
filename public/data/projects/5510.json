@@ -1,0 +1,184 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5510",
+  "name": "登記事項証明書の添付省略の推進に係る調査事業",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "登記関係システム・業務ＤＸ担当",
+  "purpose": "「デジタル社会の実現に向けた重点計画」（令和７年６月13日閣議決定）において、行政手続のデジタル化によって添付書面の省略を推進することとされているところ、登記情報連携の仕組みを活用することにより、登記事項証明書の添付省略を推進する。",
+  "situation": "国の行政機関においては、登記情報連携の利用が進んでおり、多くの手続で登記事項証明書の添付省略が実現している。地方公共団体においても、2024年度には、21団体において登記情報連携の利用が実現するとともに、2025年度の利用拡大に向けて登記情報連携の利用に係る地方公共団体向け説明会を実施した。今後、登記情報連携の利用対象となる地方公共団体を更に拡大する必要がある。",
+  "overview": "2023年度に実施した登記事項証明書の添付省略の利用規模に関する調査の分析結果及び先行運用の結果を踏まえて添付省略の推進に係る施策の検討・見直しを行ったところ、見直し後の施策に基づき、利用対象となる地方公共団体を拡大する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 1320000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 45535000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 5929000.0,
+      "exec_rate": 0.10966,
+      "total": 54067000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 79200000.0,
+      "exec_rate": 0.66,
+      "total": 120000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 88000000.0,
+      "note": "「重要政策推進枠」20"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社タスクールＰｌｕｓ",
+      "corporate_number": "5180001115849",
+      "amount": 2431749.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社タスクールＰｌｕｓ",
+      "corporate_number": "5180001115849",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": 1974720.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シード・プランニング",
+      "corporate_number": "9010001144299",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｉｇｎ．Ｏ",
+      "corporate_number": "4011001140078",
+      "amount": 880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｉｇｎ．Ｏ",
+      "corporate_number": "4011001140078",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社リバーサルコンセプション",
+      "corporate_number": "7011101058416",
+      "amount": 642510.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リバーサルコンセプション",
+      "corporate_number": "7011101058416",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000445095",
+      "name": "登記事項証明書の添付省略推進に関する協議会運営等支援業務",
+      "awardDate": "2024-04-22",
+      "price": 1320000.0,
+      "vendorName": "株式会社シード・プランニング",
+      "corporateNumber": "9010001144299",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

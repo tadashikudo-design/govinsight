@@ -1,0 +1,100 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5547",
+  "name": "預貯金口座情報提供等業務交付金（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "預貯金口座への付番を円滑に進める仕組み及び公金受取口座の登録の仕組み等の実現",
+  "situation": "整理の結果、2025年度以降は委託業務として公金受取口座登録システムに統合することになったため2024年度をもって本事業は一旦終了とする。／※2025年４月１日より金融機関及び預金保険機構への委託業務開始。",
+  "overview": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和３年法律第38号）及び預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和３年法律第39号）の施行に向けて、預金保険機構が実施する各金融機関等との間における、預貯金口座に係る情報の連絡を行う仕組みや、預貯金者の個人番号等の通知を行う仕組み等の構築に充てるための交付金",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2024",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1573818000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1505899000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 658000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "預金保険機構",
+      "corporate_number": "2010005002591",
+      "amount": 1573818000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "預金保険機構",
+      "corporate_number": "2010005002591",
+      "amount": null,
+      "contract_type": "補助金等交付",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

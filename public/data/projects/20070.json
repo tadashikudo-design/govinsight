@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20070",
+  "name": "日本語学習サイト「つながるひろがるにほんごでのくらし」（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "日本語教室の設置が困難な地域に住む外国人等に対して、生活場面に応じた日本語を自習できるICT教材（「つながる　ひろがる　にほんごでのくらし」（通称：つなひろ））を提供することで外国人が生活のために必要な日本語等を習得できる環境を整備するとともに日本語学習機会の向上を図る。",
+  "situation": "日本語教室が開催されていない市区町村（以下、空白地域）は737である（令和5年11月現在）。その地域に在住する外国人数は141,309人となっており、こうした外国人には日本語学習機会が十分に行き届いていない。そのため、遠隔による日本語教育の機会提供（ICT教材の開発提供）を中心とした支援を行うことにより、空白地域に在住する外国人に日本語学習機会を提供する必要がある。",
+  "overview": "日本語教室の設置が困難な地域に住む外国人等が、生活していく上で必要となる日本語能力を着実に身に付けられるよう、日本語学習教材の充実を図るとともに、当該ウェブサイトの運用を行う。",
+  "category": "新規開始事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "https://tsunagarujp.mext.go.jp/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間事業者",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

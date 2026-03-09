@@ -1,0 +1,124 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20355",
+  "name": "匿名医療保険等関連情報データベース（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "医療費適正化計画の策定等を通じて医療保険事務全体の効率化や国民保健の向上等を図るほか、公衆衛生の向上及び増進に関する研究等に対して、匿名医療保険等関連情報の収集・分析及び提供等を行う。",
+  "situation": "NDBデータの収載・提供については、／1. 医療費適正化計画での利用、国民保健の向上に資する研究利用の目的／2. 個人特定の可能性や、それに対する対応方法等の安全管理措置／3. 収載に要する事務負担・システム整備等の費用／といった視点を踏まえ、専門委員会の意見を聞きつつ、必要な見直しを行っている。／また、規制改革実施計画（令和5年6月16日閣議決定）では、現状390日を要しているNDBデータ提供について、原則7日間での提供を可能とするなど、抜本的な見直し内容が盛り込まれており、中間答申（令和6年12月25日）においては、仮名化情報の利用・提供及び連結解析を可能とすることが求められている。／厚生労働省では、データ利活用者への利便性等の向上に向け、改善に向けた取組を進めている。",
+  "overview": "「高齢者の医療の確保に関する法律」に基づき、レセプト情報・特定健診等情報を適切に収集するとともに、行政機関や医療サービスの質の向上等を目指した研究又は学術の発展に資する目的で行う研究に対して、当該情報の提供を行う。",
+  "category": "前年度事業",
+  "startYear": "2010",
+  "endYear": "",
+  "rsUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/reseputo/index.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 4391784344.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 4391784344.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": 4210012000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "公益社団法人国民健康保険中央会",
+      "corporate_number": "2010005018852",
+      "amount": 94313544.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "公益社団法人国民健康保険中央会",
+      "corporate_number": "2010005018852",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "公益社団法人国民健康保険中央会",
+      "corporate_number": "2010005018852",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 87458800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

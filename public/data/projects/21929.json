@@ -1,0 +1,136 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21929",
+  "name": "府省共通研究開発管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "各府省等が所管する競争的研究費制度を中心とした公募型の研究資金制度について、研究開発管理に係る手続きをオンライン化し、応募受付から実績報告等の一連の業務を支援するとともに、研究者への研究開発経費の不合理な重複や過度の集中を回避する。",
+  "situation": "競争的研究費の公募・実績報告を担う府省共通研究開発管理システム（e-Rad）の機能を強化することを通じて、効果的・効率的な競争的研究費の執行を支援するとともに、システムの安定した運用を確保する。／加えて、競争的研究費制度に係る抜本的なDX を実現すべく、ユーザーの利用動向•利用ニーズ等も踏まえた今後のe-Rad のあるべき姿を予備的調査を通じて定義した上で、最新の不正アクセス対策の実装を含めたシステム機能刷新を目指す。",
+  "overview": "競争的研究費制度を中心とした研究開発管理に係る一連のプロセス（応募受付→採択→採択課題管理→成果報告等）を担うe-Radを運営し、不合理な重複の排除や過度の集中を避けるとともに、業務の効率化を図る。また、科学技術分野のEBPM推進に向け、国立大学、研究開発法人、共同利用機関から、研究事業の概要者の人事情報、予算執行額等を収集し、EBPMの推進に必要な情報の収集システムとしても活用する。／なお、国の競争的研究費制度の増加に伴う全体的な利用者及び申請数の増加に加え、制度改正対応、配分機関の増加等への対応の必要性が生じており、今後もシステムヘの運用的、機能的要求が続くことが見込まれていることから、システムの全面的な更改を行う。",
+  "category": "前年度事業",
+  "startYear": "2019",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "内閣府",
+      "corporate_number": "2000012010019",
+      "amount": 873324000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "内閣府",
+      "corporate_number": "2000012010019",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 64900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 518794000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人リスク戦略総合研究所",
+      "corporate_number": "4040005019994",
+      "amount": 3281000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人リスク戦略総合研究所",
+      "corporate_number": "4040005019994",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 286349000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,353 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "22029",
+  "name": "審査情報解析システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "独占禁止法違反被疑事件の審査において、違反被疑事業者から収集した電子証拠の保全、解析、精査・分析、出力作業等を行う審査情報解析システムを安定的に維持・運用することにより独占禁止法違反行為に厳正かつ迅速に対処する。",
+  "situation": "ＤＸ、ペーパーレス化の進展により収集証拠のほとんどが電子データであることから、審査情報解析システムは審査業務において必要不可欠なシステムである。",
+  "overview": "独占禁止法違反被疑事件の審査業務において、違反行為を立証するために、違反被疑事業者から収集した膨大な電子証拠の保全、解析、精査・分析、出力作業等を行うためのシステムを安定的に維持・運用する。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "公正取引委員会",
+      "corporate_number": "8000012010021",
+      "amount": 212909000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "公正取引委員会",
+      "corporate_number": "8000012010021",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 4827827.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "クオリティネット株式会社",
+      "corporate_number": "7011101029722",
+      "amount": 37687100.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "クオリティネット株式会社",
+      "corporate_number": "7011101029722",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "クオリティネット株式会社",
+      "corporate_number": "7011101029722",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "クオリティネット株式会社",
+      "corporate_number": "7011101029722",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "サン電子株式会社",
+      "corporate_number": "5180001087444",
+      "amount": 6534000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サン電子株式会社",
+      "corporate_number": "5180001087444",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "サン電子株式会社",
+      "corporate_number": "5180001087444",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 115453740.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "加賀ソルネット株式会社",
+      "corporate_number": "1010001087332",
+      "amount": 12963500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "加賀ソルネット株式会社",
+      "corporate_number": "1010001087332",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "加賀ソルネット株式会社",
+      "corporate_number": "1010001087332",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": 8691784.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ソフマップ",
+      "corporate_number": "9010001145446",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": 4029234.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヤマダデンキ",
+      "corporate_number": "2070001036729",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": 6018375.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＢＡ",
+      "corporate_number": "8430001022439",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＡＩデータ株式会社",
+      "corporate_number": "8010401117533",
+      "amount": 704000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＩデータ株式会社",
+      "corporate_number": "8010401117533",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｃｅｌｌｅｂｒｉｔｅ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1010401145441",
+      "amount": 15999500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｃｅｌｌｅｂｒｉｔｅ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1010401145441",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

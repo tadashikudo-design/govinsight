@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20067",
+  "name": "分野横断権利情報検索システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "著作権法の一部を改正する法律（令和 5 年法律第 33 号。令和8年度春施行予定。以下「令和5年改正法」。）により、簡素で一元的な権利処理方策、すなわち、未管理公表著作物等の利用に関する裁定制度が創設された。知的財産推進計画2023において、「分野横断権利情報検索システム」は令和5年改正法の施行にあわせて構築・運用されるよう記載されているところ、分野横断権利情報検索システムの構築・運用により、著作物等の利用の円滑化とクリエイターへの適切な対価還元の両立に資することを目的とする。",
+  "situation": "著作物の２次利用や２次創作の際、著作物の数が多く、様々な分野が複合的であることから権利処理コストが高く、著作物の権利情報集約化が課題となっている。また、令和5年改正法により、未管理著作物裁定制度が創設されたが、本制度においては、集中管理がされておらず、著作物等の利用の可否や条件に関する著作権者等の「意思」が確認できない（「意思の表示」がされていない）著作物等を対象とすることとなっている。この「意思の表示」に関して、分野横断権利情報検索システムへの記載も表示場所の一例として挙げられている。このため、未管理著作物裁定制度からのオプトアウトの意思表示の場としてシステムを提供することが必要である。",
+  "overview": "分野横断権利情報検索システムを構築・運用する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

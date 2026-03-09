@@ -1,0 +1,219 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7634",
+  "name": "標準型電子カルテα版（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "マイナンバーカード利活用の最大のメリットである、医療DXの取組み(特に医療機関間や患者との間の診療情報のデータ連携）を実現するため、電子カルテ導入済医療機関の電カル情報の標準化を進めるとともに、未導入医療機関に対して、「標準型電子カルテ」(標準規格に準拠したクラウドベースの電子カルテ)を提供する。",
+  "situation": "これまでの電子カルテは、民間ベンダー主導で導入が進められており、情報共有を見据えた標準化が行われていないことに加えて、そもそも電子カルテ未導入の医療機関が多いことから、電カル等の診療情報の共有ができていない状況。",
+  "overview": "医療DX工程表においては、遅くとも2030年までに概ねすべての医療機関で標準化された電子カルテの導入を目指すこととされ、令和５年度に厚生労働省において実施する標準型電子カルテの要件定義を踏まえ、令和６年度中にデジタル庁において開発と一部医療機関での試行実施を行う（厚生労働省と連携の上、実施）。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 1674936364.0,
+  "vendorCount": 4,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1252592000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 86000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＦＩＸＥＲ",
+      "corporate_number": "1010401084788",
+      "amount": 935605000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＦＩＸＥＲ",
+      "corporate_number": "1010401084788",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "マッキンゼー・アンド・カンパニー・インコーポレイテッド・ジャパン",
+      "corporate_number": "2700150006311",
+      "amount": 316987000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "マッキンゼー・アンド・カンパニー・インコーポレイテッド・ジャパン",
+      "corporate_number": "2700150006311",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーエスアイ",
+      "corporate_number": "4430001063585",
+      "amount": 77000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シーエスアイ",
+      "corporate_number": "4430001063585",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 15675000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社デジタルデザイン",
+      "corporate_number": "4010401156717",
+      "amount": 14850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社デジタルデザイン",
+      "corporate_number": "4010401156717",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": 6701000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "6011001106696",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社メディエイド",
+      "corporate_number": "5010001091611",
+      "amount": 5088000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社メディエイド",
+      "corporate_number": "5010001091611",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": 2101000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＭＯサイバーセキュリティｂｙイエラエ株式会社",
+      "corporate_number": "8012301009141",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000439481",
+      "name": "標準型電子カルテシステムα版の設計・開発業務",
+      "awardDate": "2024-04-12",
+      "price": 879800000.0,
+      "vendorName": "株式会社ＦＩＸＥＲ",
+      "corporateNumber": "1010401084788",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000439546",
+      "name": "標準型電子カルテシステムα版の設計・開発支援業務",
+      "awardDate": "2024-04-12",
+      "price": 213636364.0,
+      "vendorName": "マッキンゼー・アンド・カンパニー・インコーポレイテッド・ジャパン",
+      "corporateNumber": "",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000506208",
+      "name": "標準型電子カルテの本格展開に向けたα版の改修業務",
+      "awardDate": "2025-04-18",
+      "price": 404500000.0,
+      "vendorName": "フューチャーアーキテクト株式会社",
+      "corporateNumber": "2010701032272",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000506512",
+      "name": "標準型電子カルテに係る支援業務",
+      "awardDate": "2025-04-18",
+      "price": 177000000.0,
+      "vendorName": "フォーティエンスコンサルティング株式会社",
+      "corporateNumber": "9010601030238",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

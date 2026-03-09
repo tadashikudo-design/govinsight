@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20335",
+  "name": "こども性暴力防止法に係るシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "こども性暴力防止法について、施行日（公布日（令和６年６月26日）から２年６月内の政令で定める日）までに、円滑かつ着実な施行準備を行うため、本制度の施行に必要な関連システムの開発等を行う。",
+  "situation": "こども性暴力防止法を施行日までに、円滑かつ着実な施行準備を行うため、必要な情報システムの設計・開発を行うほか、同システムの設計・開発等を期限内に完了させるためにも、進捗管理・業務管理も併せて必要となる。",
+  "overview": "本法においては、民間教育保育等事業者からの認定申請、対象事業者（学校設置者等・認定事業者等）からの犯罪事実確認書の交付申請、対象事業者からの定期報告等に対して、行政が認定・交付・監督を行うこととなる。​／　このため、事業者、行政等においては膨大な事務作業が生ずることとなる一方、こどもの安全確保の仕組みであることや犯罪歴の有無等の極めて機微な情報を取り扱うことから、これを誤りなく正確に処理することが必要となる。また、事業者は犯罪事実確認を行うまでは従事者を対象業務に従事させることができなくなるため、必要な事務を円滑・迅速に処理することも必要であり、これらに対応するための、必要な情報システムの設計・開発を行う。​／　また、本法の施行準備と並行して、情報システムの設計・開発等を期限内に完了させるため、作業計画と実施状況の乖離、日々生じる課題等を的確に把握して、解決策を講じる進捗管理・業務管理が重要である。このため、情報システムの設計・開発等とは別に、こうしたノウハウ・専門的知見を持つ事業者への委託を行う。​",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "2026",
+  "rsUrl": "https://www.cfa.go.jp/policies/child-safety/efforts/koseibouhou",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 29000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "こども家庭庁",
+      "corporate_number": "7000012010039",
+      "amount": 29000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "こども家庭庁",
+      "corporate_number": "7000012010039",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 29000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "22014",
+  "name": "ふるさと住民登録システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "関係人口の規模や地域との関係性を可視化し、地域の担い手確保や地域経済の活性化等につなげる仕組みを実現するためのシステムを構築すること。",
+  "situation": "デジタル化の進展やライフスタイルの多様化により、副業、さらには二地域居住など、住所地以外の地域との関係も広がりを増している。そのため、関係人口を見える化し、地域への継続的な応援を国民運動としていくことが求められている。",
+  "overview": "地方創生の実現に向けて、関係人口の量的拡大・質的向上を図るため、様々な形で地域に継続的に関わる方がアプリで簡単・簡便に登録でき、担い手活動等を通じて地域との関わりを深めるプラットフォームとなるシステムの構築を実施。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

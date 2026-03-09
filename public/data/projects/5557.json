@@ -1,0 +1,891 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5557",
+  "name": "準公共・相互連携分野デジタル化推進費",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "準公共・相互連携担当",
+  "purpose": "各サービス提供者側の事情により、各分野において断片的・画一的なサービス提供となっている準公共分野のデジタル化を推進することにより、個人が複数のサービスを自らのニーズに応じて自由に組合せ、自らの生活に合わせてデザインすることができるようにする。",
+  "situation": "関係者と連携して準公共分野のデジタル化を推進することにより、多様な利用者のニーズに柔軟に対応できる新たなサービスのための基盤を整備する役割を担う。重点計画において、準公共分野として8分野、相互連携分野として2分野が指定されているが、特にデジタル庁の関与の効果が見込まれる「健康・医療・介護」、「教育」、「防災」、「モビリティ」、「デジタルインボイス」、「企業間取引」に注力して取組を進める。準公共分野全体を見た場合、市場が地域分割されている、ベンダと購買者間に情報の非対称性が存在しているといった要因により、ベンダロックインが起こりやすくなるなど、健康な競争環境が作られていないという共通の課題がある。",
+  "overview": "準公共・相互連携分野において、個々のサービス利用時におけるワンスオンリーを実現するため、データの取扱いルールを含めたアーキテクチャを設計した上で、各分野におけるデータ連携基盤の構築等を進める。／各準公共分野において提供されている優れたサービスについて、サービスカタログの形で整理して公表するなどの取組を進め、好事例を横展開していく仕組みとして定着させる。／※ 準公共分野及び相互連携分野として指定する分野は、デジタル社会形成基本法第39条第2項第13号に基づく特定公共分野（サービスの多様化及び質の向上を図るために特に重点的に取り組むべき公共分野）とする。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 285613000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 1529676000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 298773000.0,
+      "expenditure": 1281116000.0,
+      "exec_rate": 0.62199,
+      "total": 2059719000.0,
+      "note": "デジタル社会の実現に向けた重点計画及び各分野のデータ連携の実証、優良事例の横展開に向け実施する調査研究費の増のため"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 437977000.0,
+      "expenditure": 2705671000.0,
+      "exec_rate": 0.53269,
+      "total": 5079240000.0,
+      "note": "デジタルライフライン総合整備計画および優良事例の横展開に向け実施する調査研究費の増のため「重要政策推進枠」247"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 1155000000.0,
+      "expenditure": 6179000000.0,
+      "exec_rate": 0.61815,
+      "total": 9996000000.0,
+      "note": "令和４年度事業で各分野調査研究を進めており、実施する調査研究数が変更となっているため。「重要政策推進枠」172"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": 57815000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 74979000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 60500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ダイトロン株式会社",
+      "corporate_number": "9120001083156",
+      "amount": 1209000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ダイトロン株式会社",
+      "corporate_number": "9120001083156",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 177849000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": 185895000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツファイナンシャルアドバイザリー合同会社",
+      "corporate_number": "3010001076738",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人かたりすと",
+      "corporate_number": "3011105010153",
+      "amount": 847000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人かたりすと",
+      "corporate_number": "3011105010153",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 87545000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": 993000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エモック・エンタープライズ",
+      "corporate_number": "2010401005495",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": 24145000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社サウンズネクスト",
+      "corporate_number": "4010001094689",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シナスタジア",
+      "corporate_number": "4180001124702",
+      "amount": 9999000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シナスタジア",
+      "corporate_number": "4180001124702",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォー",
+      "corporate_number": "8012401012945",
+      "amount": 2299000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォー",
+      "corporate_number": "8012401012945",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 34938000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": 284912000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "corporate_number": "6010001107003",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 50600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｘ",
+      "corporate_number": "9999999999999",
+      "amount": 26820000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｘ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＯｐｅｎＰｅｐｐｏｌ　ＡＩＳＢＬ",
+      "corporate_number": "9999999999999",
+      "amount": 3278000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＯｐｅｎＰｅｐｐｏｌ　ＡＩＳＢＬ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｔｒｉｐｌｏ　Ｍ’ｓ　Ｓ．Ａ．",
+      "corporate_number": "9999999999999",
+      "amount": 196493000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｔｒｉｐｌｏ　Ｍ’ｓ　Ｓ．Ａ．",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｔｒｉｐｌｏ　Ｍ’ｓ　Ｓ．Ａ．",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "フィリグ株式会社",
+      "corporate_number": "5011001134871",
+      "amount": 4070000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フィリグ株式会社",
+      "corporate_number": "5011001134871",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人全国地域情報化推進協会",
+      "corporate_number": "2010405010509",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人全国地域情報化推進協会",
+      "corporate_number": "2010405010509",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 4159000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＣｏｃｒｅＣｏコンサルティング合同会社",
+      "corporate_number": "2140003019344",
+      "amount": 7700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣｏｃｒｅＣｏコンサルティング合同会社",
+      "corporate_number": "2140003019344",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツウェブサービス株式会社",
+      "corporate_number": "4013301031592",
+      "amount": 19800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツウェブサービス株式会社",
+      "corporate_number": "4013301031592",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インター・コア",
+      "corporate_number": "1010401002808",
+      "amount": 12100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インター・コア",
+      "corporate_number": "1010401002808",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ウェブレッジ",
+      "corporate_number": "8010001232360",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ウェブレッジ",
+      "corporate_number": "8010001232360",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＤＴ弁護士法人",
+      "corporate_number": "7010005023583",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＤＴ弁護士法人",
+      "corporate_number": "7010005023583",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＡＲアドバンストテクノロジ株式会社",
+      "corporate_number": "2010001130058",
+      "amount": 5200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＲアドバンストテクノロジ株式会社",
+      "corporate_number": "2010001130058",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＮＳＰＩＲＡＴＩＯＮ　ＰＬＵＳ",
+      "corporate_number": "9320001019172",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＩＮＳＰＩＲＡＴＩＯＮ　ＰＬＵＳ",
+      "corporate_number": "9320001019172",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ウェスト株式会社",
+      "corporate_number": "4020001129452",
+      "amount": 903000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ウェスト株式会社",
+      "corporate_number": "4020001129452",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人教育ＩＣＴ政策支援機構",
+      "corporate_number": "8150005009403",
+      "amount": 550000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人教育ＩＣＴ政策支援機構",
+      "corporate_number": "8150005009403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人日本１ＥｄＴｅｃｈ協会",
+      "corporate_number": "4010005025293",
+      "amount": 2500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人日本１ＥｄＴｅｃｈ協会",
+      "corporate_number": "4010005025293",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＩＣＴ　ＣＯＮＮＥＣＴ　２１",
+      "corporate_number": "6010405015611",
+      "amount": 21780000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＩＣＴ　ＣＯＮＮＥＣＴ　２１",
+      "corporate_number": "6010405015611",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": 12456000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｐｕｂｌｉ",
+      "corporate_number": "3200001039452",
+      "amount": 9900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｐｕｂｌｉ",
+      "corporate_number": "3200001039452",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＢＦＢ",
+      "corporate_number": "9010903008080",
+      "amount": 2750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＢＦＢ",
+      "corporate_number": "9010903008080",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＧＥＳＴ",
+      "corporate_number": "4011101083391",
+      "amount": 4400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＧＥＳＴ",
+      "corporate_number": "4011101083391",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コンピューターライフ株式会社",
+      "corporate_number": "2360001000886",
+      "amount": 800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コンピューターライフ株式会社",
+      "corporate_number": "2360001000886",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "シャープマーケティングジャパン株式会社",
+      "corporate_number": "1040001008905",
+      "amount": 990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "シャープマーケティングジャパン株式会社",
+      "corporate_number": "1040001008905",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大日本図書株式会社",
+      "corporate_number": "8010001049128",
+      "amount": 990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大日本図書株式会社",
+      "corporate_number": "8010001049128",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社シービーエヌ",
+      "corporate_number": "7010601028820",
+      "amount": 1450000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シービーエヌ",
+      "corporate_number": "7010601028820",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＤＵＣＯＭ",
+      "corporate_number": "5180001073790",
+      "amount": 1650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＤＵＣＯＭ",
+      "corporate_number": "5180001073790",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コニカミノルタ株式会社",
+      "corporate_number": "5010001084367",
+      "amount": 504000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コニカミノルタ株式会社",
+      "corporate_number": "5010001084367",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＣＪＫ",
+      "corporate_number": "5030003010410",
+      "amount": 140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＣＪＫ",
+      "corporate_number": "5030003010410",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京書籍株式会社",
+      "corporate_number": "3010001005250",
+      "amount": 504000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京書籍株式会社",
+      "corporate_number": "3010001005250",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｆｕｎ　ａｔ　Ｌｅａｒｎ",
+      "corporate_number": "9999999999999",
+      "amount": 980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｆｕｎ　ａｔ　Ｌｅａｒｎ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社サーベイリサーチセンター",
+      "corporate_number": "6011501006529",
+      "amount": 3500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社サーベイリサーチセンター",
+      "corporate_number": "6011501006529",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヴァル研究所",
+      "corporate_number": "1011301008928",
+      "amount": 9000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヴァル研究所",
+      "corporate_number": "1011301008928",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "楽天インサイト株式会社",
+      "corporate_number": "8010701019594",
+      "amount": 2000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "楽天インサイト株式会社",
+      "corporate_number": "8010701019594",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "西鉄情報システム株式会社",
+      "corporate_number": "2290001009522",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "西鉄情報システム株式会社",
+      "corporate_number": "2290001009522",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アルサーガパートナーズ株式会社",
+      "corporate_number": "1011001109084",
+      "amount": 5500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アルサーガパートナーズ株式会社",
+      "corporate_number": "1011001109084",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ウェルメスパートナーズ株式会社",
+      "corporate_number": "5180001152330",
+      "amount": 700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ウェルメスパートナーズ株式会社",
+      "corporate_number": "5180001152330",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ツナガル株式会社",
+      "corporate_number": "9120001144115",
+      "amount": 2750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ツナガル株式会社",
+      "corporate_number": "9120001144115",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

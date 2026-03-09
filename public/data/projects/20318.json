@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20318",
+  "name": "企業年金総合情報管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本事業は、事業主等から提出される企業年金に関する報告書の提出を電子化することにより、事業主等並びに厚生労働省本省及び地方厚生局の事務を効率化することを目的とする。／また、本事業は、事業主等から電子的に提出された報告書の記載内容のデータベース化を行い、これを元に、企業年金の運用状況等の見える化（情報開示）を行うことにより、事業主や加入者等が、加入者の最善の利益のために、他社や他の運営管理機関との比較の視点も含めて、制度の必要な見直しや、適切に運用の方法を比較・選定を行えるようにすることで、企業年金等の運用力の向上に繋げていくことを目的とする。",
+  "situation": "・事業主等から地方厚生局への企業年金に関する報告書の提出は、郵送等により行っている。これにより事業主等に対し紙への出力、郵送等に伴う事務負担や費用負担が生じている。／・地方厚生局及び厚生労働省本省は、紙媒体で提出された上記の報告書について膨大な書類確認・審査作業を行っており、地方厚生局及び厚生労働省本省の事務的な負担が発生している。／・企業年金等の運用状況等が公開されていない。",
+  "overview": "本事業は、事業主等から提出される企業年金に関する報告書の提出を電子化する。／また、本事業は、事業主等から電子的に提出された報告書の記載内容のデータベース化を行い、これを元に、企業年金の運用状況等の見える化（情報開示）を行う。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20057",
+  "name": "政府統計共同利用システムに係る自動連携及び集計システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「電子政府構築計画」（平成15年7月各府省情報化統括責任者（CIO）連絡会議決定）に基づき、平成18年3月に策定された「統計調査等業務の業務・システム最適化計画」により、政府全体として効率的なシステム投資及びシステム運用業務の効率化並びにオンライン調査の推進を図る。また、取集された統計データについては、「世界最先端IT 国家創造宣言について」（平成25年6月14日閣議決定）及び「公的統計の整備に関する基本的な計画」（令和5年3月28日閣議決定）に基づき、有効活用を図る。",
+  "situation": "本システムは、文部科学省が所掌する４つの基幹統計調査、並びに２つの一般統計調査の実査・集計業務等を行っている。／オンライン調査の実施に必要となる電子調査票については、調査回答者の負担軽減に加え、教育施策の発展に伴う調査内容の見直し・変更等に伴う電子調査票等の改修等の対応が必要となる。また、クラウドサービスを最大限に活用し利用者にとって利便性の高いガバメントクラウドへの移行を含めた次期システムの設計・開発等を行う必要がある。",
+  "overview": "各府省で整備していた統計情報システムを集約した「政府統計共同利用システム」で利用する電子調査票等を整備し、オンライン調査の推進を図るとともに、オンラインで取集した統計データを審査・集計するためのシステムを構築する。また、取集された統計データについては特別集計（調査票情報の二次利用）により有効活用する。",
+  "category": "前年度事業",
+  "startYear": "2008",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 162056000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": 162056000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 121356000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 40700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

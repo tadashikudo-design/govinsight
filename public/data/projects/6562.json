@@ -1,0 +1,112 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6562",
+  "name": "企業保有情報提出に関する導入支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "デジタルを前提としたビジネス転換・組織改革等の取組（DX：デジタル・トランスフォーメーション）が世界的に進行する中、企業が行う社会保険・税に関する我が国の行政手続については、まだまだアナログな部分が多く、課題があり、企業の負担となっている現状がある。／本事業は「企業保有情報の新しい提出方法」を構築することで、社会保険・税手続のオンライン・デジタル化を実現し、企業の負担を軽減し生産性を向上すること等を目的とする。",
+  "situation": "現状は本事業の対象は国税に関する法定調書のみであるため、より企業の負担軽減を見込むために、社会保険や地方税に係る手続への対象拡大が必要である。一方で、これらの手続は多岐にわたり、管轄も省庁横断の縦割りとなっているため、多方面にわたるニーズ調査やヒアリングを重ねたうえで検討を進めることが重要となる。",
+  "overview": "本事業は、民間の認定クラウドを活用して、企業が保有する情報（データ）に対し、各行政機関が参照できるようにすることにより、従来の提出に新しく加わる仕組みを構築する事業である。また、クラウド提出済みのデータの一部について、マイナポータルを通じて確定申告書等作成コーナーと連携させること（＝データポータビリティ）などが可能となっている。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 65307000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 88085000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 65307000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＮＪＫ",
+      "corporate_number": "3013201000954",
+      "amount": 27060000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータＮＪＫ",
+      "corporate_number": "3013201000954",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＸＣＥＥＤ",
+      "corporate_number": "1010001098817",
+      "amount": 12700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＸＣＥＥＤ",
+      "corporate_number": "1010001098817",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,84 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5443",
+  "name": "行政手続等のキャッシュレス対応推進事業",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "政府共通決済基盤担当",
+  "purpose": "政府全体でキャッシュレス納付の推進に向けた取組をより一層進めていく中で、「デジタル社会の実現に向けた重点計画」等において、今後検討を必要とする諸論点が示されていることを踏まえて、国民にとって利便性の高いキャッシュレス納付を実現するため、各府省庁においてキャッシュレス化を効率的・効果的に実施するためのシステムの在り方等について考え方を整理し、各府省庁に対して示していく。",
+  "situation": "各府省庁においてキャッシュレス化を効率的・効果的に実施するためには、各府省庁のキャッシュレス化における課題と対応策を整理する必要がある。",
+  "overview": "以下の事項等について調査研究を実施する。／・関係機関（決済代行業者や政府機関等）へのヒアリング調査（制度・業務・技術面の課題や事例等）／・上記調査を基にした各府省庁等のキャッシュレス化における課題と対応策の整理",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2023",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 30109999.0,
+      "exec_rate": 1.0,
+      "total": 30110000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 30000000.0,
+      "note": "「重要政策推進枠」30"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 30109999.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

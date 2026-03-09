@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20202",
+  "name": "刑事手続関連業務システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "刑事手続のＩＴ化を実現し、検察・裁判所等の関係機関との円滑・迅速な手続の実施等を通じて安全・安心な社会の実現につなげるとともに、関与する国民や事業者の負担軽減等を図ることを目的とする。",
+  "situation": "現在、刑事手続に係る捜査書類は紙で作成し、物理的に検察庁、裁判所等に運搬し送致、令状請求等の刑事手続を行っている。／各種政府方針に刑事手続における情報通信技術の活用（刑事手続のＩＴ化）の実現に向けた取組推進が盛り込まれていることから、刑事手続のＩＴ化を実現する必要がある。",
+  "overview": "刑事手続における書類を電子データで作成・管理し、送致や令状請求等の場面において検察・裁判所等の関係機関との間で円滑かつ安全にその電子データの発受を行うことができる新システムを構築することにより、円滑・迅速な手続を実現する。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1903857000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": 1903857000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 1903857000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,208 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20570",
+  "name": "防衛装備品等調達システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "防衛省デジタル・ガバメント中長期計画、防衛省における調達手続の電子化について（２０１８年（平成３０年）３月１９日　防衛省行政情報化推進委員会決定　一部改正 ２０２１年（令和３年）３月１９日）及び次期中央調達システムにおける地方調達電子入札・開札業務機能等の整備方針（２０２１年（令和３年）６月２日　中央調達の調達手続等のデジタル化推進に関する検討委員会決定）に基づき、業務実態、最新技術動向、システム資源の共通・共有化、中央調達や陸・海・空自衛隊の地方調達の官官間・官民間で行われる調達関連文書の行政手続き、文書管理等をデジタル化することで、防衛省・自衛隊の任務遂行に必要な装備品等に係る調達業務の更なる効率化を図るとともに、費用対効果に優れた情報システムを整備することを目的とする。",
+  "situation": "陸・海・空自衛隊の防衛装備品等調達（地方調達）の調達手続き（電子入札、電子契約等）に係るデジタル化推進に向け整備計画の見直しを実施中である。",
+  "overview": "中央調達の官官間・官民間で行われる調達関連文書の行政手続き、文書管理等のデジタル化に関する情報システム整備は令和６年度に完了し、令和６年度から陸・海・空自衛隊の地方調達の官官間・官民間で行われる調達関連文書の行政手続き、文書管理等をデジタル化する情報システム整備を行う。",
+  "category": "前年度事業",
+  "startYear": "2018",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3054451000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛装備庁",
+      "corporate_number": "9999999999999",
+      "amount": 3054451000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛装備庁",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 2613881000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 142131000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 285709000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社プラスラボ",
+      "corporate_number": "3030001136770",
+      "amount": 12730000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社プラスラボ",
+      "corporate_number": "3030001136770",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20135",
+  "name": "法人ベース・レジストリ（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "ベース・レジストリ担当",
+  "purpose": "国民の利便性向上や行政運営の効率化等を図るため、法人ベース・レジストリ※として、商業・法人登記関係データベースの整備又は改善を行う。 ※ベース・レジストリとは、住所・所在地、法人の名称など、制度横断的に多数の手続で参照されるデータからなるデータベースであって、整備を行うことで国民の利便性向上や行政運営の効率化等に資するもの",
+  "situation": "商業・法人登記に関するデータは、制度横断的に多数の手続で参照されるものの、行政機関等において、そのデータは十分に利用されていない。",
+  "overview": "制度横断的に多数の手続で参照される商業・法人登記関係のデータベースを整備し、行政機関等による利用を促進する。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 508044782.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "キャップジェミニ株式会社",
+      "corporate_number": "4010402035069",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キャップジェミニ株式会社",
+      "corporate_number": "4010402035069",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000458194",
+      "name": "法人ベース・レジストリ及び情報連携機能の構築に向けた調査研究・要件定義業務",
+      "awardDate": "2024-07-18",
+      "price": 127049782.0,
+      "vendorName": "ＰｗＣコンサルティング合同会社",
+      "corporateNumber": "1010401023102",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000486099",
+      "name": "法人ベース・レジストリシステムの設計・開発業務",
+      "awardDate": "2025-03-03",
+      "price": 365485000.0,
+      "vendorName": "キャップジェミニ株式会社",
+      "corporateNumber": "4010402035069",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000509127",
+      "name": "2025年度の支援情報ベース・レジストリシステムの運用保守業務",
+      "awardDate": "2025-03-21",
+      "price": 15510000.0,
+      "vendorName": "株式会社電算システム",
+      "corporateNumber": "5200001003514",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

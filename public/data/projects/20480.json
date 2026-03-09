@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20480",
+  "name": "総務省人事システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「経済財政運営と改革の基本方針2024」（令和6年６月21日閣議決定）において、「国家公務員については、デジタル環境の整備、業務の見直し、男女間給与差異の分析、働く時間や場所の柔軟化等の働き方改革を推進するとともに、魅力の発信による志望者拡大、多様な人材の活用、職員としての成長機会の付与、マネジメント能力向上など人材の確保・育成、本基本方針を踏まえたメリハリある機構・定員管理に取り組む。」とされている。／総務省では、「総務省における女性職員活躍とワークライフバランス推進のための取組計画」（平成28年３月22日総務大臣公害等調整委員会委員長消防庁長官決定）に基づき働き方改革を進めている。現在、令和７年度末までの目標として「タレントマネジメントの更なる推進」を掲げ、職員に関する情報について、分析しやすい形で整理した上でその活用を徹底し、職員個人のキャリア形成や組織の課題を踏まえた戦略的な人材配置・人材育成を図ることを目指しているところ、業務効率化、総務省職員の人材管理・育成の高度化を促進する。",
+  "situation": "人事関連業務について、そのほとんどをExcelとメールで管理・運用していることにより、非効率的な事務や情報管理の煩雑さなどの課題が生じている他、戦略的な人材配置・人材育成の土台となる情報蓄積・情報管理が十分に行えていない。",
+  "overview": "職員情報を体系的に蓄積・管理し、それに付随する業務フローを一括してシステム上で運用するため、SaaS型の人事管理システムを新規導入する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2030",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

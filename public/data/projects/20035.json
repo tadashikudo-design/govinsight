@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20035",
+  "name": "電子カルテ情報等分析関連サービス構築事業（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「規制改革実施計画」（令和５年６月16日閣議決定）等を踏まえ、医学・医療のイノベーションの成果を国民・患者に還元できるよう、医療等情報の二次利用を適切に推進するための環境整備を行う。",
+  "situation": "医療等情報の二次利用については、「医療DXの推進に関する工程表」において取組を進めることとされているほか、「規制改革実施計画」（令和５年６月16日閣議決定）においても、制度・運用の整備及び情報連携基盤の構築等を検討することとされた。これを踏まえ設置された「医療等情報の二次利用に関するワーキンググループ」においては、公的DB等を一元的かつ安全に利用・解析できる情報連携基盤の構築や電子カルテ情報共有サービスで共有される情報の二次利用を可能とすることの必要性が指摘されている。",
+  "overview": "公的DB等を一元的かつ安全に利用・解析できる「情報連携基盤」と「電子カルテ情報データベース」について、システム設計、ソフトウェア設計、プログラミング、各種テスト、評価等のシステム開発及び同開発事業の開発工程管理・成果管理・実行支援事業を行う。また、情報連携基盤等の実効的な運用体制構築を行う。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 600380000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 600380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": 600380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＩＱＶＩＡソリューションズジャパン合同会社",
+      "corporate_number": "7010401069288",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＩＱＶＩＡソリューションズジャパン合同会社",
+      "corporate_number": "7010401069288",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

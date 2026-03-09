@@ -1,0 +1,180 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21010",
+  "name": "予防接種等関連情報データベース（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "令和４年法律第96号による改正後の予防接種法及び「経済財政運営と改革の基本方針2024」（令和６年６月21日閣議決定）等に基づき、予診票・接種券のデジタル化、オンライン資格確認や費用支払い等の効率化に向けた予防接種事務デジタル化等関係システムの構築など、予防接種事務のデジタル化の推進を図ることを目的とする。",
+  "situation": "予防接種法に基づき、市区町村において予防接種が行われているが、接種勧奨や費用請求が紙を用いて行われることにより関係機関における事務負担が大きく、また、厚⽣労働省では、⾃治体が実施する予防接種の実施状況（接種対象者の接種の有無等）を把握することができず、予防接種の有効性及び安全性の向上を図る調査及び研究を実施する上で、必要となる十分な情報を収集する手段がなかった。／上記の改善のため、予防接種事務のデジタル化の取組を進め、接種事務の効率化や、接種対象者の利便性の向上等を図るとともに、予防接種の有効性及び安全性の向上に資する分析に活用できるよう、予防接種記録や副反応疑い報告等の情報を格納した予防接種データベースを構築する必要がある。",
+  "overview": "予防接種のデジタル化の実現に向けて、以下を実施する。／・予防接種関係システムの開発・改修等を計画的に行うためのプロジェクト管理と調達支援／・デジタル化事業の先行実施による課題等の確認／・予防接種の有効性・安全性に関する調査研究を行うため、予防接種の実施状況・副反応疑い報告を集約することのできる匿名データベース（予防接種データベース）の整備",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 870581000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": 870581000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "厚生労働省",
+      "corporate_number": "6000012070001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 375650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "指名競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": 38500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エム・アール・アイリサーチアソシエイツ株式会社",
+      "corporate_number": "7010001012532",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "Ｂ２ＮＥＸＴ株式会社",
+      "corporate_number": "4010001214899",
+      "amount": 6600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｂ２ＮＥＸＴ株式会社",
+      "corporate_number": "4010001214899",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 494931000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＩＣ　Ｔｒｕｓｔ株式会社",
+      "corporate_number": "8300001010381",
+      "amount": 120615000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＩＣ　Ｔｒｕｓｔ株式会社",
+      "corporate_number": "8300001010381",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": 105318000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ミラボ",
+      "corporate_number": "7010001157823",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ロバシステム研究所株式会社",
+      "corporate_number": "5030001119294",
+      "amount": 6600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ロバシステム研究所株式会社",
+      "corporate_number": "5030001119294",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業Ａ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,145 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20221",
+  "name": "気象庁情報システム基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "防災や産業利用など気象情報に関する国民のニーズの多様化や情報技術の進展に伴い、気象庁の情報作成・提供システム数が増加し、コストも肥大化している。そこで本事業では絶えず改善が求められる気象業務の変化に対して柔軟かつ迅速な対応が行えること、気象庁の情報システム全体のライフサイクルコストの更なる削減、情報セキュリティに対する一層の対策などを目的とする。そのため多数の情報システムを仮想化技術により集約統合する気象庁情報システム基盤（プライベートクラウド）の整備を行い、既存情報システムをシステム基盤上のアプリケーションとして搭載する。",
+  "situation": "仮想化技術を用いた仮想マシンの無停止移行、故障等による物理サーバの停止時も業務が継続できるよう、システム集約の際には事前検証、及び搭載する情報システム運用開始前の動作確認試験を十分に行なっている。緊急速報的な情報伝達を行う機能においても集約前のシステムに比べて遅延が生じないよう、検証して対応を進めている。",
+  "overview": "本事業では下記に示す情報システムを統合集約し、効率的な気象データ・情報の提供のための環境整備を図る。／「予報業務」：地上・高層・衛星観測等を含む各種観測資料や数値予報結果等を基に、大雨や暴風等の気象の監視・予測に不可欠な資料や、警報・予報、台風情報等の防災気象情報の作成・発表等の業務。また、長期再解析データおよび地球温暖化予測データを用いて、豪雨、猛暑等の極端現象の変化について地域的特徴を含めて診断する等の業務。／「観測業務」：気象観測データを集信し、品質管理及び計算処理を行った後、データを配信する等の業務。／「地震火山業務」：国内外の地震を観測・監視し、適時的確に緊急地震速報、津波警報や震度に関する情報等を発表する業務。また、全国の活火山の活動を観測・監視し、適時的確に噴火警報等の防災情報を発表する業務。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1515368000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": 1515367820.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 1252753580.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 262614000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

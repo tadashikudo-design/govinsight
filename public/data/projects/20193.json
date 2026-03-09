@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20193",
+  "name": "警察総合捜査情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "本システムは、犯罪捜査活動や地域警察活動等の第一線における様々な警察活動を支えるため、様々な犯罪関連情報の一元的な管理と総合的な分析を可能とするシステムである。",
+  "situation": "警察共通基盤上の他システムと連携し、業務の合理化・効率化を実現するとともにデータを一元管理することで、各都道府県警察に対し広域的・即時的に捜査情報を提供する必要がある。",
+  "overview": "本システムを共通基盤システム上で運用し、データベースの統合、データの標準化、データ連携の強化等を行うことにより、システムの合理化・高度化を図り、もって第一線警察活動の更なる合理化・高度化を推進する。",
+  "category": "前年度事業",
+  "startYear": "2003",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 387346344.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": 387346344.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本アイ・ビー・エム株式会社",
+      "corporate_number": "1010001128061",
+      "amount": 280906560.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本アイ・ビー・エム株式会社",
+      "corporate_number": "1010001128061",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": 79200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーカスシステムズ",
+      "corporate_number": "1010701008901",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 27239784.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,368 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "12",
+  "name": "電子決裁システム（ＥＡＳＹ）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "電子決裁システム担当",
+  "purpose": "各府省等が共通的に行う決裁及び文書管理に係る業務のために、決裁の電子化及び公文書管理制度に基づいた確実かつ効率的な文書管理業務のための機能を具備する府省統一的な情報システムを整備し、これを安定的に管理・運営することを通じて、各府省等における当該業務の適正な実施及び業務効率化を実現する。",
+  "situation": "現行ＥＡＳＹの安定的な管理・運営を維持しつつ、新ＥＡＳＹについて、その整備目的に則り、現状のリソースを踏まえて、システムの整備及び各府省の利用を着実に推進することが課題である。",
+  "overview": "各府省等が共通的に行う決裁及び文書管理に係る業務のために、府省共通情報システムとして整備したＥＡＳＹ（電子決裁機能、行政文書ファイル管理簿の調製機能などを提供するシステム）を、安定的に管理・運営することを通じて、各府省等における当該業務の適正な実施及び業務効率化の維持向上を実現する。／これに加えて、現行ＥＡＳＹに具備されていない行政文書（決裁を取らない行政文書）の整理、保存などに係る新たな機能の追加等により、一連の文書管理業務を、より確実かつ効率的に実施することを可能とするシステム（行政文書の電子的管理システム〈新ＥＡＳＹ・仮称〉）を整備する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 483500000.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 888586000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 536668718.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 1192000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1265000000.0,
+      "exec_rate": 6.29353,
+      "total": 201000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": 223140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": 187108000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": 110388000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": 239250000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 128700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": 82543000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーアイズデザイン",
+      "corporate_number": "7020001084075",
+      "amount": 20075000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーアイズデザイン",
+      "corporate_number": "7020001084075",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エイデイケイ富士システム株式会社",
+      "corporate_number": "8410001000702",
+      "amount": 11278000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エイデイケイ富士システム株式会社",
+      "corporate_number": "8410001000702",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": 30410000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 16157000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社グローバルソフトウェア",
+      "corporate_number": "4030001060202",
+      "amount": 6808000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社グローバルソフトウェア",
+      "corporate_number": "4030001060202",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 5445000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社リンクメディエーション",
+      "corporate_number": "1011503003743",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社リンクメディエーション",
+      "corporate_number": "1011503003743",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": 55000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士アイティ株式会社",
+      "corporate_number": "9012801004500",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機ＩＴソリューション株式会社",
+      "corporate_number": "9010001087242",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・エス・ディ",
+      "corporate_number": "4012801006476",
+      "amount": 1650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・エス・ディ",
+      "corporate_number": "4012801006476",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 8800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000429846",
+      "name": "令和６年度電子決裁システム（EASY）のユーザインタフェース等の改善・要望等対応及び連携機能の拡充に係る設計・開発等業務の請負",
+      "awardDate": "2024-04-12",
+      "price": 178000000.0,
+      "vendorName": "富士電機株式会社",
+      "corporateNumber": "9020001071492",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000445786",
+      "name": "公文書管理のデジタル化に向けた電子決裁システム（EASY）への公文書管理機能の整備に係るプロジェクト管理支援業務の請負",
+      "awardDate": "2024-05-29",
+      "price": 88000000.0,
+      "vendorName": "ＰｗＣコンサルティング合同会社",
+      "corporateNumber": "1010401023102",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000455388",
+      "name": "公文書管理のデジタル化に向けた電子決裁システム（EASY）への公文書管理機能の整備に係るプロトタイプ開発及び機能検証業務の請負",
+      "awardDate": "2024-07-26",
+      "price": 217500000.0,
+      "vendorName": "富士電機株式会社",
+      "corporateNumber": "9020001071492",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

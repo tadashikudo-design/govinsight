@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20068",
+  "name": "国立教育政策研究所及び科学技術・学術政策研究所研究者共通情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "国立教育政策研究所及び科学技術・学術政策研究所の研究者等が安全かつ円滑に調査研究活動をできる環境を提供する。",
+  "situation": "【現状】／　現在稼働している国立教育政策研究所（以下、「国研」という。）情報システム及び科学技術・学術政策研究所（以下、「科政研」という。）情報システムの令和7年12月の契約期間満了に伴い、文部科学省次期行政情報システム（以下「行政システム」という。）への基幹システム部分の統合を行う予定であるが、国研及び科政研の研究用の環境については、別途構築する必要がある。／　文部科学省、国研及び科政研の次期システム更改においては、主に事務職向けシステム（以下、「行政システム」という。）については行政システムに統合する一方で、その他、研究業務で利用するシステムについては「国立教育政策研究所及び科学技術・学術政策研究所研究者共通情報システム（以下、「研究システム」という。）」を独自に構築し、移行する方針とした。／【課題】／　今回のプロジェクトが対象とする事業の全体像及びプロジェクトによる実現範囲は、国研及び科政研における研究業務であり、円滑に実施するために支援する必要があること。",
+  "overview": "１．研究者の多様な研究用途へ対応／　研究者の多様な研究用途に対応するために、共通で必要と考えられる基盤環境を整備した上で、個別のニーズに対してセキュリティポリシーの枠内で弾力的・機動的に対応する。／　Web会議システムの品質向上により、テレワークを活性化するとともに、職員による多様な働き方へのニーズに対応する。​／２．セキュリティ対策​／　高度化・巧妙化する標的型攻撃等のサイバー攻撃から情報資産を防御するため、研究者が個人単位では用意しにくい多層防御の仕組みを提供する。​／　研究環境の統合によりアタックサーフェスのポイントを減らすことで、セキュリティ対策の一元化を行う。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国立教育政策研究所",
+      "corporate_number": "",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "国立教育政策研究所",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "科学技術・学術政策研究所",
+      "corporate_number": "",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "科学技術・学術政策研究所",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

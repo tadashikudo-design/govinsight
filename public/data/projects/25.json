@@ -1,0 +1,209 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "25",
+  "name": "旅費等内部管理業務共通システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "旅費等内部管理業務共通システム担当",
+  "purpose": "各府省等で共通する旅費、謝金・諸手当及び物品管理の各業務を担う府省共通システムとして、現行システム（V3）においては、安定稼働の確保及びUI/UXの改善による旅費業務の更なる効率化を図る。また、次期システム（V4）においては、業務プロセスの改善と抜本的なシステムアーキテクチャの変更により、旅行者の旅費業務の負荷を軽減し、主たる出張業務に集中できる環境の醸成を目指す。",
+  "situation": "旅費業務は、制度・運用による事務の煩雑さからその事務負担の大きさが課題となっており、「旅費業務プロセスの改善方針」（令和5年9月8日旅費業務効率化推進会議決定）において、旅費業務の抜本的な効率化に向けて、旅費法、業務プロセス及び本システムの見直しを進めることとされている。改正旅費法（令和7年4月1日施行）の施行に合わせて現行システム（V3）の改修を実施したものの、引き続き業務を実施するにあたってのマニュアル等は膨大であり、システムの利便性を高める必要がある。／次期システム（V4）については、旅費、謝金・諸手当及び物品管理の各業務が民間の業務と比較的類似性が高いことから、システムについても民間のパッケージ製品等を可能な限りカスタマイズせずに導入することなどによるシステムアーキテクチャの策定や業務改革が求められている。",
+  "overview": "「旅費業務プロセスの改善方針」及びデジタル環境の変化を踏まえ、システムのUI/UXの大幅な改善が必要とされているところ、改正旅費法施行後のシステム安定稼働を図りつつ、生成AIやデジタルアダプションプラットフォーム等を活用し旅費業務の更なる効率化を図る。また、次期システム（V4）の更改に向けては、パッケージ製品等を可能な限りカスタマイズせずに導入することを視野に、新しいシステムアーキテクチャ及び業務プロセス改善案を策定するため、サービス・業務企画工程（業務要件定義）を実施する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 1051052350.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2120686000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1707382000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 1705000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 1142000000.0,
+      "exec_rate": 0.80878,
+      "total": 1412000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 418674000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 194976000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 907303000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 310382000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 289351000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000420323",
+      "name": "令和６年度～令和８年度　旅費等内部管理業務共通システムのプロジェクト管理支援業務",
+      "awardDate": "2024-07-18",
+      "price": 496252350.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000495947",
+      "name": "旅費等内部管理業務共通システムの次期システム（V4）導入に係るサービス・業務企画（業務要件定義）支援",
+      "awardDate": "2025-04-04",
+      "price": 381800000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000511311",
+      "name": "旅費等内部管理業務共通システムへのデジタルアダプションプラットフォーム導入支援業務",
+      "awardDate": "2025-05-16",
+      "price": 68000000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000557262",
+      "name": "令和8年度 旅費等内部管理業務共通システムへのデジタルアダプションプラットフォーム導入支援業務",
+      "awardDate": "2026-03-04",
+      "price": 105000000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

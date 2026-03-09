@@ -1,0 +1,614 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20031",
+  "name": "検察総合情報管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "検察総合情報管理システムは、検察庁における捜査・公判、検務事務に関する情報等を一元的に管理するほか、職員間の情報共有等を行うための基幹システムであり、同システムによって、検察業務の安定的運営を支援し、適正な検察権行使を実現することを目的とする。",
+  "situation": "運用開始から約１５年以上が経過している情報システムであるところ、システム構成の最適化による運用・保守コストの削減等を図りながら、刑事手続ＤＸに対応することによって、検察業務の安定的な運営を支援する必要がある。",
+  "overview": "検察総合情報管理システムの整備及び運用につき、以下のとおり実施する。／　・検察総合情報管理システムの運用、保守経費等の削減／　・検察総合情報管理システムが提供するサービスの拡充等／　・検察総合情報管理システムの安定稼働の実現",
+  "category": "前年度事業",
+  "startYear": "2006",
+  "endYear": "2026",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1854026000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 1854026000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 640871000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 902450000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社オフィスバスターズ",
+      "corporate_number": "8010001096335",
+      "amount": 3729000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オフィスバスターズ",
+      "corporate_number": "8010001096335",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ナレッジクリエーションテクノロジー",
+      "corporate_number": "1010001119093",
+      "amount": 1760000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ナレッジクリエーションテクノロジー",
+      "corporate_number": "1010001119093",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 251064000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "仙台地方検察庁",
+      "corporate_number": "3000012140046",
+      "amount": 1407000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "仙台地方検察庁",
+      "corporate_number": "3000012140046",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "千葉地方検察庁",
+      "corporate_number": "3000012140013",
+      "amount": 3357000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "千葉地方検察庁",
+      "corporate_number": "3000012140013",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "名古屋地方検察庁",
+      "corporate_number": "6000012140027",
+      "amount": 3465000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "名古屋地方検察庁",
+      "corporate_number": "6000012140027",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大阪地方検察庁",
+      "corporate_number": "3000012140021",
+      "amount": 7979000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大阪地方検察庁",
+      "corporate_number": "3000012140021",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "広島地方検察庁",
+      "corporate_number": "8000012140033",
+      "amount": 2263000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "広島地方検察庁",
+      "corporate_number": "8000012140033",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "最高検察庁",
+      "corporate_number": "7000012140001",
+      "amount": 14515000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "最高検察庁",
+      "corporate_number": "7000012140001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "札幌地方検察庁",
+      "corporate_number": "5000012140052",
+      "amount": 3500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "札幌地方検察庁",
+      "corporate_number": "5000012140052",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京地方検察庁",
+      "corporate_number": "6000012140010",
+      "amount": 10523000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京地方検察庁",
+      "corporate_number": "6000012140010",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "横浜地方検察庁",
+      "corporate_number": "5000012140011",
+      "amount": 3374000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "横浜地方検察庁",
+      "corporate_number": "5000012140011",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "福岡地方検察庁",
+      "corporate_number": "3000012140038",
+      "amount": 3018000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "福岡地方検察庁",
+      "corporate_number": "3000012140038",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "高松地方検察庁",
+      "corporate_number": "1000012140056",
+      "amount": 751000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "高松地方検察庁",
+      "corporate_number": "1000012140056",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 3317000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": 12677000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エフサステクノロジーズ株式会社",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ゼロワットパワー株式会社",
+      "corporate_number": "1040001089656",
+      "amount": 14363000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ゼロワットパワー株式会社",
+      "corporate_number": "1040001089656",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ゼロワットパワー株式会社",
+      "corporate_number": "1040001089656",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ゼロワットパワー株式会社",
+      "corporate_number": "1040001089656",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ゼロワットパワー株式会社",
+      "corporate_number": "1040001089656",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "丸紅新電力株式会社",
+      "corporate_number": "9010001137740",
+      "amount": 2221000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "丸紅新電力株式会社",
+      "corporate_number": "9010001137740",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "丸紅新電力株式会社",
+      "corporate_number": "9010001137740",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "丸紅新電力株式会社",
+      "corporate_number": "9010001137740",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠エネクス株式会社",
+      "corporate_number": "9010401078551",
+      "amount": 1296000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "伊藤忠エネクス株式会社",
+      "corporate_number": "9010401078551",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "四国電力株式会社",
+      "corporate_number": "9470001001933",
+      "amount": 621000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "四国電力株式会社",
+      "corporate_number": "9470001001933",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "大和ハウス工業株式会社",
+      "corporate_number": "6120001059662",
+      "amount": 3367000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大和ハウス工業株式会社",
+      "corporate_number": "6120001059662",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 1201000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本エネルギー総合システム株式会社",
+      "corporate_number": "7470001013947",
+      "amount": 2323000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本エネルギー総合システム株式会社",
+      "corporate_number": "7470001013947",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": 637000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフィニティ",
+      "corporate_number": "3250001013460",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": 12129000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "鈴与商事株式会社",
+      "corporate_number": "1080001002318",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

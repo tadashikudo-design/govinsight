@@ -1,0 +1,782 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20107",
+  "name": "農林水産省地理情報共通管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "農業従事者の減少及び高齢化に加え、地方公共団体の農政担当職員等も減少している状況。／このような厳しい環境下であっても、農業の成長産業化に資するべく、本事業を通じて現地確認等の事務負担を軽減することで、農業従事者が経営に、地方公共団体等の職員が農業従事者のサポートに、農林水産省が効果的な政策の企画立案に、それぞれ注力できる環境を整備していく。",
+  "situation": "さらなる農林水産省地理情報共通システム（eMAFF地図）の利用の推進に向け、農業委員会等が実施する農地の現地確認業務を効率化させる現地確認アプリや、農地情報をデジタル地図として公表し検索機能もあるWebサイト（eMAFF農地ナビ）を令和４年度から継続して運用している。",
+  "overview": "デジタル地図を活用して、農地台帳などの位置情報と位置・区画情報をひも付け、農地の利用状況の現地確認等の抜本的な効率化・省力化を図るため、「農林水産省地理情報共通管理システム（eMAFF地図）」の運用を行っている。また、地域計画における目標地図で示された農地利用意向情報の活用・デジタル化の促進や、民間サービスとの連携も含め、eMAFF地図の利活用の向上を図る。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2876844000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 2876844000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 2301588000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 107800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 318362000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＰＷＣコンサルティング会社",
+      "corporate_number": "1010401023102",
+      "amount": 148500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰＷＣコンサルティング会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 594000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "イグニション・ポイント株式会社",
+      "corporate_number": "1011001100423",
+      "amount": 15840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "イグニション・ポイント株式会社",
+      "corporate_number": "1011001100423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": 26400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "レバテック株式会社",
+      "corporate_number": "8011001117766",
+      "amount": 31680000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "レバテック株式会社",
+      "corporate_number": "8011001117766",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社シストリー",
+      "corporate_number": "7010703004595",
+      "amount": 49685000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社シストリー",
+      "corporate_number": "7010703004595",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社みらいワークス",
+      "corporate_number": "4011001072890",
+      "amount": 36710000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社みらいワークス",
+      "corporate_number": "4011001072890",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・エス・ビー",
+      "corporate_number": "4010701000269",
+      "amount": 109384000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・エス・ビー",
+      "corporate_number": "4010701000269",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": 198000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "2011001041245",
+      "amount": 74447000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "2011001041245",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 7894000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＧＳ",
+      "corporate_number": "9013301029467",
+      "amount": 1760000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＧＳ",
+      "corporate_number": "9013301029467",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 1320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＣ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1020001122823",
+      "amount": 63360000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＣ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1020001122823",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "つばさ株式会社",
+      "corporate_number": "2011101084565",
+      "amount": 7150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "つばさ株式会社",
+      "corporate_number": "2011101084565",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 19800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社イーグリッド",
+      "corporate_number": "7280001003166",
+      "amount": 7700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社イーグリッド",
+      "corporate_number": "7280001003166",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社スリーエス",
+      "corporate_number": "2430001019985",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社スリーエス",
+      "corporate_number": "2430001019985",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリンデータコム",
+      "corporate_number": "3010401088779",
+      "amount": 77000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリンデータコム",
+      "corporate_number": "3010401088779",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベリサーブ",
+      "corporate_number": "7011101032123",
+      "amount": 7700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベリサーブ",
+      "corporate_number": "7011101032123",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワイズ",
+      "corporate_number": "9011501005057",
+      "amount": 22000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワイズ",
+      "corporate_number": "9011501005057",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＩＪネクスト",
+      "corporate_number": "8011101045792",
+      "amount": 4400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＣＩＪネクスト",
+      "corporate_number": "8011101045792",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＥＧＡＲＥＡ",
+      "corporate_number": "1011001135667",
+      "amount": 7040000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＥＧＡＲＥＡ",
+      "corporate_number": "1011001135667",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩＣテック",
+      "corporate_number": "5011101018727",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩＣテック",
+      "corporate_number": "5011101018727",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＧＬナビゲーション株式会社",
+      "corporate_number": "1011401015816",
+      "amount": 6545000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＧＬナビゲーション株式会社",
+      "corporate_number": "1011401015816",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＲＣ株式会社",
+      "corporate_number": "8020001145421",
+      "amount": 6534000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＲＣ株式会社",
+      "corporate_number": "8020001145421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": 4400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＩＳ株式会社",
+      "corporate_number": "2010001134133",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイシンク",
+      "corporate_number": "1010401040304",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイシンク",
+      "corporate_number": "1010401040304",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社システナ",
+      "corporate_number": "6010401088867",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社システナ",
+      "corporate_number": "6010401088867",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社トリガ",
+      "corporate_number": "3290001024116",
+      "amount": 4400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トリガ",
+      "corporate_number": "3290001024116",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社シストリー",
+      "corporate_number": "7010703004595",
+      "amount": 1788000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社シストリー",
+      "corporate_number": "7010703004595",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社みらいワークス",
+      "corporate_number": "4011001072890",
+      "amount": 3850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社みらいワークス",
+      "corporate_number": "4011001072890",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・エス・ビー",
+      "corporate_number": "4010701000269",
+      "amount": 22578000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アイ・エス・ビー",
+      "corporate_number": "4010701000269",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社レバテック",
+      "corporate_number": "8011001117766",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社レバテック",
+      "corporate_number": "8011001117766",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＧＳ",
+      "corporate_number": "9013301029467",
+      "amount": 2640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＴＧＳ",
+      "corporate_number": "9013301029467",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社スリーエス",
+      "corporate_number": "2430001019985",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社スリーエス",
+      "corporate_number": "2430001019985",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワイズ",
+      "corporate_number": "9011501005057",
+      "amount": 6122000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ワイズ",
+      "corporate_number": "9011501005057",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＥＧＡＲＥＡ",
+      "corporate_number": "1011001135667",
+      "amount": 528000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＥＧＡＲＥＡ",
+      "corporate_number": "1011001135667",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩＣテック",
+      "corporate_number": "5011101018727",
+      "amount": 3300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＩＣテック",
+      "corporate_number": "5011101018727",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＲＣ株式会社",
+      "corporate_number": "8020001145421",
+      "amount": 545000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＲＣ株式会社",
+      "corporate_number": "8020001145421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社イグニションポイント",
+      "corporate_number": "1011001100423",
+      "amount": 51975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社イグニションポイント",
+      "corporate_number": "1011001100423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社セルプロモート",
+      "corporate_number": "9010401143421",
+      "amount": 13200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セルプロモート",
+      "corporate_number": "9010401143421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": 39595000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンリン",
+      "corporate_number": "5290801002046",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社イーグリッド",
+      "corporate_number": "7280001003166",
+      "amount": 825000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社イーグリッド",
+      "corporate_number": "7280001003166",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイプリルナイツ",
+      "corporate_number": "9011101057085",
+      "amount": 3960000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エイプリルナイツ",
+      "corporate_number": "9011101057085",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社カーネル",
+      "corporate_number": "5130001016829",
+      "amount": 2750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カーネル",
+      "corporate_number": "5130001016829",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "サグリ株式会社",
+      "corporate_number": "6140001110423",
+      "amount": 5500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サグリ株式会社",
+      "corporate_number": "6140001110423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "全国農業協同組合連合会",
+      "corporate_number": "8010005002090",
+      "amount": 1293000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "全国農業協同組合連合会",
+      "corporate_number": "8010005002090",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

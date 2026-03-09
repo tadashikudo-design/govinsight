@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20405",
+  "name": "衛生業務システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "海上幕僚監部衛生企画室が所掌する既存のシステムについて、限られたリソースで業務の効率化・最適化を図る。",
+  "situation": "隊員の健康の維持管理に寄与するため、健康診断業務の支援及び健康診断結果のデータを管理するシステムとして長年改修・整備を続け業務の効率化を図ってきた。しかし、現行の健康管理データ処理装置の業者から、令和８年度末以降の維持管理に係る業務請負の継続が不可であるとの回答を得た。また、他業者による維持管理に係る業務請負も見込まない状況であるため、緊急の情報システム開発を進める必要に迫られている。一方、現行の装置は端末台数に限りがあり、少人数で健診結果のデータ入力作業を行わなければならず、担当者の業務過多となっており、業務が煩雑かつ非効率となっている。",
+  "overview": "海上幕僚監部衛生企画室が所掌する既存のシステムについて、限られたリソースで業務の効率化・最適化を図るために必要な衛生業務システムを整備する。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2031",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "民間企業",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

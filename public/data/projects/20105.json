@@ -1,0 +1,376 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20105",
+  "name": "農林水産省共通申請サービス（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "農業従事者数の減少及び高齢化に加えて、地方公共団体の農政担当職員等も減少している状況。／このような環境下であっても、農林水産業の成長産業化に資するべく、本事業を通じて行政手続の申請・審査に係る労力を軽減することで、農林漁業従事者が経営に、地方公共団体等の職員が農林漁業従事者のサポートに、農林水産省が効果的な政策の企画立案に注力できる環境を整備していく。",
+  "situation": "農林水産省共通申請サービス（eMAFF）を構築し、オンライン申請が可能となったが、システムの利便性や費用対効果に課題がある。​",
+  "overview": "農林水産省が所管する法令や補助金などの行政手続をオンラインで行えるようにする農林水産省共通申請サービス（eMAFF）を 2022 年度から本格運用し、農林水産省所管の約3,300の手続のオンライン化を行ってきた。一方で、申請数の少ない手続を含めてeMAFF に集約したこと、オンライン申請になじみにくい手続が依然として多いことから、利便性や費用対効果に課題があるところ。このため、eMAFFに具備する手続きを総申請件数が一定程度あるものに限定する等の見直し・改善を通じて、運用コストを大幅に低減させ、費用対効果を高めるため、見直しを実施。",
+  "category": "前年度事業",
+  "startYear": "2018",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3434094000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 3434094000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 3283550000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 23996500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ビーウィズ株式会社",
+      "corporate_number": "6011101029715",
+      "amount": 71701300.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ビーウィズ株式会社",
+      "corporate_number": "6011101029715",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": 44000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＰｗＣコンサルティング合同会社",
+      "corporate_number": "1010401023102",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社テイルウィンドシステム",
+      "corporate_number": "8012801006761",
+      "amount": 10846000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社テイルウィンドシステム",
+      "corporate_number": "8012801006761",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "5020001080786",
+      "amount": 40279800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "5020001080786",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": 33946000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京アプリケーションシステム株式会社",
+      "corporate_number": "8110001010525",
+      "amount": 31487500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京アプリケーションシステム株式会社",
+      "corporate_number": "8110001010525",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": 172040000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インテック",
+      "corporate_number": "2230001000255",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "2011001041245",
+      "amount": 121159088.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "2011001041245",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユー・エス・イー",
+      "corporate_number": "6290001049738",
+      "amount": 6600000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユー・エス・イー",
+      "corporate_number": "6290001049738",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社リブゲート",
+      "corporate_number": "5010401090056",
+      "amount": 58894000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リブゲート",
+      "corporate_number": "5010401090056",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 6706656.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社環",
+      "corporate_number": "1011101035940",
+      "amount": 14300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社環",
+      "corporate_number": "1011101035940",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社電縁",
+      "corporate_number": "2010701022158",
+      "amount": 21780000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電縁",
+      "corporate_number": "2010701022158",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＹＳＫｅ－ｃｏｍ",
+      "corporate_number": "1090001002250",
+      "amount": 99330000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＹＳＫｅ－ｃｏｍ",
+      "corporate_number": "1090001002250",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＣ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1020001122823",
+      "amount": 92400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＣＭＣ　Ｊａｐａｎ株式会社",
+      "corporate_number": "1020001122823",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "5020001080786",
+      "amount": 3245000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "5020001080786",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京アプリケーションシステム株式会社",
+      "corporate_number": "8110001010525",
+      "amount": 9680000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京アプリケーションシステム株式会社",
+      "corporate_number": "8110001010525",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフォディオ",
+      "corporate_number": "4010001079467",
+      "amount": 28930000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社インフォディオ",
+      "corporate_number": "4010001079467",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社カナック",
+      "corporate_number": "1010401074054",
+      "amount": 688000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カナック",
+      "corporate_number": "1010401074054",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社コスモエンジニアリング",
+      "corporate_number": "8110001008528",
+      "amount": 688000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コスモエンジニアリング",
+      "corporate_number": "8110001008528",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7640",
+  "name": "事業者手続整理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "事業者が行う手続が、実際にオンラインで行われるようにし、当該システムの構築・更改の成果を最大化するため、事業者側及び行政機関側の実態やニーズを精緻に把握する。その上で、事業者が手続を行う際のポータル（事業者向けポータル）の実証版の構築を実施し、事業者がワンストップで様々な行政サービスにアクセスできる環境整備を実施することで、現在各府省のウェブサイトもしくは各府省の手続申請システムに分散している情報を集約し、事業者における手続・補助金の検索や申請及び添付書類の再活用にかかるコストを大きく削減させ、今後政府が実施する支援の効果を最大化させる。",
+  "situation": "現在、個人が行う手続については、マイナンバー系システムで順次、集約化されている。一方で、事業者が行う手続については、年間に数十万件規模のスケールメリットが望める手続を除けば、各府省庁、各自治体単位でシステムを開発しても費用対効果が合いにくく、依然として紙で行っている実態がある。",
+  "overview": "本事業では、事業者向け行政手続について、(1)各府省庁に調査を行い、GビズIDのような認証基盤の利用状況、その他の共通機能（通知機能、決済機能、署名機能等）のニーズ、汎用的な申請システムの導入状況及び手続類型を調査し、事業者向け行政手続の全体像を整理する。／また、(2)事業者目線で行政手続全体の利用体験全体を整理・検討する。(3)事業者向けポータルについて、正式版の運用を念頭に、e-Govの機能の活用可能性を含めた検討及び実証版の構築を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 149009000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 926000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＪＤＳＣ",
+      "corporate_number": "6010001193638",
+      "amount": 113591500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＤＳＣ",
+      "corporate_number": "6010001193638",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 24999700.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユー・エス・イー",
+      "corporate_number": "6290001049738",
+      "amount": 10417308.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユー・エス・イー",
+      "corporate_number": "6290001049738",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 81444000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": 11000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ネットイヤーグループ株式会社",
+      "corporate_number": "5010401094866",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーザベース",
+      "corporate_number": "1010001230222",
+      "amount": 2200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ユーザベース",
+      "corporate_number": "1010001230222",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

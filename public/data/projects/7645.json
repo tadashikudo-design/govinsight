@@ -1,0 +1,483 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7645",
+  "name": "医療費助成・予防接種・母子保健等に係る情報連携システム基盤の構築事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "マイナンバーカードの利用シーンを拡大し、令和6年12月2日のマイナ保険証を基本とする運用への円滑な移行に向けてマイナンバーカードの利便性を国民に早期に実感いただくために実施するものである。",
+  "situation": "・国公費や地方単独の医療費助成について、医療機関等を受診等する際にマイナンバーカード（マイナ保険証）とは別に、紙の受給者証を持参し提示する必要がある／・予防接種や妊婦健診、乳幼児健診について、予診票・問診票を何度も手書きする必要がある。また、健診結果や接種記録をタイムリーに確認することができない／・介護保険について、被保険者、市町村、事業所等の間で介護保険被保険者証がやり取りされており、効率的な業務となっていない",
+  "overview": "医療費助成・予防接種・母子保健・介護分野における、自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）を活用した情報連携の先行実施事業に当たって、オンライン資格確認をはじめとする関連システムの改修等を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 1328833000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1693326000.0,
+      "exec_rate": 0.53948,
+      "total": 3138833000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 2460000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 190076000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": 41250000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "トーテックアメニティ株式会社",
+      "corporate_number": "7180001038759",
+      "amount": 48939000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "トーテックアメニティ株式会社",
+      "corporate_number": "7180001038759",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "トーテックアメニティ株式会社",
+      "corporate_number": "7180001038759",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": 199739000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電子計算株式会社",
+      "corporate_number": "2010601038584",
+      "amount": 95780000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電子計算株式会社",
+      "corporate_number": "2010601038584",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電子計算株式会社",
+      "corporate_number": "2010601038584",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 33248000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 36080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 54854000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社松阪電子計算センター",
+      "corporate_number": "7190001010568",
+      "amount": 49691000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社松阪電子計算センター",
+      "corporate_number": "7190001010568",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社松阪電子計算センター",
+      "corporate_number": "7190001010568",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算",
+      "corporate_number": "1100001002083",
+      "amount": 44253000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電算",
+      "corporate_number": "1100001002083",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＫＣ",
+      "corporate_number": "5060001002844",
+      "amount": 48840000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＫＣ",
+      "corporate_number": "5060001002844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 636932000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": 137975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": 70776000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": 1645000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "菱洋エレクトロ株式会社",
+      "corporate_number": "8010001060398",
+      "amount": 832000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "菱洋エレクトロ株式会社",
+      "corporate_number": "8010001060398",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": 780000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "corporate_number": "3010405002439",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 964000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": 150000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アトラス情報サービス株式会社",
+      "corporate_number": "7120001073852",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": 162000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キヤノンマーケティングジャパン株式会社",
+      "corporate_number": "5010401008297",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 165000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": 187000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "corporate_number": "5010001006767",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": 8000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本レジストリサービス",
+      "corporate_number": "8010001072212",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

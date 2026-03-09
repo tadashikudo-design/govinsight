@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-gov-blue: #003087;
+  --color-gov-light-blue: #0050b3;
+}
+
+body {
+  font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
+}

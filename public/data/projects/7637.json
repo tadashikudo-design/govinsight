@@ -1,0 +1,238 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7637",
+  "name": "防災分野のデータ連携基盤（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "防災分野のデータ流通促進を図ることで、個々の住民等の防災アプリ等利用時における利便性を大きく向上させるとともに、民間への正確な災害情報の流通により発災時における情報共有体制が強化されることで、住民一人一人の安心・安全向上の実現を目指す。",
+  "situation": "・防災アプリ・サービス間でデータ連携がされておらず、入力に手間がかかると同時に誤字やデータの揺らぎが発生している。／・国、自治体等が保有する正確な災害情報が一部民間へ提供されていない。／・各民間アプリ事業者が情報ごとに異なる提供元からデータを入手しており、データ収集に関する作業負担が大きい。",
+  "overview": "住民支援のためのアプリ開発・利活用の促進を図るため、データ連携促進の取組を進めている。アプリ・サービス間でのデータ連携を図り、多様なアプリの活用機会を広げるとともに、新総合防災情報システム等とのデータ連携に向けた取組を進める。",
+  "category": "前年度事業",
+  "startYear": "2024",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/disaster_prevention/data-collaboration-infrastructure#demonstration-project-2024",
+  "totalAmount": 403098740.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 252229000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 252229000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 136400000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "NECソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 36000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "NECソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": 2900000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アウトソーシングテクノロジー",
+      "corporate_number": "7010001146074",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファインネットコミュニケーション",
+      "corporate_number": "8020001045836",
+      "amount": 5130000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ファインネットコミュニケーション",
+      "corporate_number": "8020001045836",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": 8415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "corporate_number": "6010601062093",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社アスコエパートナーズ",
+      "corporate_number": "9010001130423",
+      "amount": 10868000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アスコエパートナーズ",
+      "corporate_number": "9010001130423",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "合同会社デンキメガネ",
+      "corporate_number": "6021003004170",
+      "amount": 1980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社デンキメガネ",
+      "corporate_number": "6021003004170",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本宇宙フォーラム",
+      "corporate_number": "1010005007996",
+      "amount": 4739000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般財団法人日本宇宙フォーラム",
+      "corporate_number": "1010005007996",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "有限会社トリプルエイ・コミュニケーションズ",
+      "corporate_number": "8010002043749",
+      "amount": 2784000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限会社トリプルエイ・コミュニケーションズ",
+      "corporate_number": "8010002043749",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000462306",
+      "name": "防災分野のデータ連携基盤の実証に関する調査研究",
+      "awardDate": "2024-08-22",
+      "price": 209000000.0,
+      "vendorName": "株式会社三菱総合研究所",
+      "corporateNumber": "6010001030403",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000464981",
+      "name": "防災分野のデータ連携基盤に関する制度及び開発・運用に関する調査研究",
+      "awardDate": "2024-09-05",
+      "price": 68162740.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000542627",
+      "name": "防災分野のデータ連携促進に向けた調査研究",
+      "awardDate": "2025-10-08",
+      "price": 125936000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    }
+  ]
+}

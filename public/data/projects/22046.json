@@ -1,0 +1,220 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "22046",
+  "name": "地方財政決算情報管理システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "地方財政法に基づき地方財政の状況を毎年度国会報告するため、本システムを運用することで、地方財政状況調査等を効率的に実施する。",
+  "situation": "2002年度から運用を開始した本システムは、当初の開発以降、基本的な構成等を変更しておらず、利便性の観点で課題がある。",
+  "overview": "・地方財政状況調査等の調査データの収集、報告書の作成／・次期システムの設計、開発等",
+  "category": "前年度事業",
+  "startYear": "2001",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 230500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": 3692000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "地方公共団体情報システム機構",
+      "corporate_number": "3010005022218",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 6795000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "サンテックサービス株式会社",
+      "corporate_number": "4011401002621",
+      "amount": 30000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サンテックサービス株式会社",
+      "corporate_number": "4011401002621",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三州社",
+      "corporate_number": "5010401011375",
+      "amount": 326000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三州社",
+      "corporate_number": "5010401011375",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日経印刷株式会社",
+      "corporate_number": "1010001112593",
+      "amount": 726000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日経印刷株式会社",
+      "corporate_number": "1010001112593",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": 102300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズエンジニアリングサービス",
+      "corporate_number": "5020001014810",
+      "amount": 66694000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズエンジニアリングサービス",
+      "corporate_number": "5020001014810",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズエンジニアリングサービス",
+      "corporate_number": "5020001014810",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズエンジニアリングサービス",
+      "corporate_number": "5020001014810",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": 5252000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社信興テクノミスト",
+      "corporate_number": "3010701004403",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": 344905000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "総務省",
+      "corporate_number": "2000012020001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

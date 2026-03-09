@@ -1,0 +1,250 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20195",
+  "name": "警察庁ＷＡＮシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "警察庁ＷＡＮシステムは、警察庁における電子メール、電子掲示板、その他の機能による情報の交換若しくは共有又は行政文書の管理を行うためのシステムである。",
+  "situation": "警察庁ＷＡＮシステムはインターネットと論理的に接続していない閉域網で構築されており、職員個人の契約するインターネット回線を用いた自宅型テレワークにおいて、利用できない。",
+  "overview": "事業者閉域網を利用したテレワークの機能を警察庁ＷＡＮシステムに導入することにより、セキュリティの確保された状態での自宅型テレワークを可能とする。",
+  "category": "前年度事業",
+  "startYear": "1996",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1864083454.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": 1864083454.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "警察庁",
+      "corporate_number": "8000012130001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "キャロットソフトウェア株式会社",
+      "corporate_number": "5011101005378",
+      "amount": 10502164.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キャロットソフトウェア株式会社",
+      "corporate_number": "5011101005378",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "キャロットソフトウェア株式会社",
+      "corporate_number": "5011101005378",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 1305886725.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": 82433130.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士電機株式会社",
+      "corporate_number": "9020001071492",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": 12673100.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社セック",
+      "corporate_number": "1010901026918",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社フューチャーイン",
+      "corporate_number": "3180001005325",
+      "amount": 5868500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フューチャーイン",
+      "corporate_number": "3180001005325",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社中松商会",
+      "corporate_number": "4010001025041",
+      "amount": 9999660.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社中松商会",
+      "corporate_number": "4010001025041",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 436720175.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

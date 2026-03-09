@@ -1,0 +1,134 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20352",
+  "name": "各省庁等の行政手続・補助金調査及び共通機能展開支援事業",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "各省庁等の事業者向けの行政手続・補助金申請において、オンライン化状況を適切に把握し、汎用的な電子申請システムであるe-GovやJグランツ等の利用を推進することで、事業者向けの行政手続等の電子申請対応を進めること。／また、各省庁の手続処理システムにおいて、デジタル庁の開発する共通機能の認知を広げ、共通機能の導入を進めること。",
+  "situation": "各省庁等の行政手続・補助金申請においては、年間に数十万件規模のスケールメリットが望める手続を除き、オンライン化が遅れており、依然として紙で申請が行われている実態がある。共通機能についても、十分多くの手続処理システムには利用されておらず、重複した機能開発・運用が行われている。",
+  "overview": "各省庁等の事業者向けの行政手続・補助金申請においては、オンライン化状況の調査を実施し、e-Gov, Jグランツの各省庁等への展開を支援する。また、各省庁の手続処理システムにおいては、共通機能の利用状況やニーズを調査することで、新たな共通機能の導入を検討する。",
+  "category": "前年度事業",
+  "startYear": "2025",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 38660000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 55000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 55000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ＪＤＳＣ",
+      "corporate_number": "6010001193638",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＤＳＣ",
+      "corporate_number": "6010001193638",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ｐｌａｎｘ合同会社",
+      "corporate_number": "7011003020143",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ｐｌａｎｘ合同会社",
+      "corporate_number": "7011003020143",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＥＮＪＩＮ",
+      "corporate_number": "5011503004168",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＥＮＪＩＮ",
+      "corporate_number": "5011503004168",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｋａｓａｎａｒｉ",
+      "corporate_number": "3010001231763",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｋａｓａｎａｒｉ",
+      "corporate_number": "3010001231763",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000516544",
+      "name": "令和７年度　各省庁等の行政手続・補助金調査及び共通機能展開支援",
+      "awardDate": "2025-04-24",
+      "price": 38660000.0,
+      "vendorName": "株式会社ＪＤＳＣ",
+      "corporateNumber": "6010001193638",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

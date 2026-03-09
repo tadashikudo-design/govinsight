@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20219",
+  "name": "在日米軍従業員給与等支払システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "「会計業務の効率化に向けた改善計画」（平成28年7月29日旅費・会計等業務効率化推進会議決定。）、「成長戦略実行計画」（令和3年6月18日閣議決定）等において掲げられた政府方針（国の支払い事務の効率化を図るため「支出官払」への移行、政府小切手の縮減）を実現するため、ADAMSⅡに連接し円滑かつ確実な給与振込を行う機能を備えた情報システムの設計・開発に要する経費を要求するものである。",
+  "situation": "駐留軍等労働者の給与の支払いにあたっては、現在、資金前渡官吏が小切手を用いて支払いを行っているところ。／今般の政府方針において、国の支払い事務の効率化を図るため「支出官払」への移行に取り組むことや、全国手形交換所における手形・小切手の交換枚数をゼロにすること等の方針が掲げられたことから①小切手の廃止（現在は年間で約1,026枚）、②決議書等の作成業務にかかる作業時間の削減（現在は年間で約1,811時間）、③市中銀行への委託に要するコストの削減（現在は年間で約8千万円の委託費用）等の解決が見込まれる。",
+  "overview": "在日米軍従業員給与等支払システムを新たに整備し、ADAMSⅡに連携させることにより、支出官払いに移行することとなり、小切手の廃止等が見込まれる。",
+  "category": "新規開始事業",
+  "startYear": "2025",
+  "endYear": "2031",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,188 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6574",
+  "name": "テクノロジーマップ整備推進ウェブサイト（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "デジタル改革企画２：法制・制度担当",
+  "purpose": "類似の趣旨・目的の規制をまとめた類型とデジタル技術の対応関係を整理したテクノロジーマップ・技術カタログについて、規制所管府省庁、民間企業等が利活用しやすい仕組みを構築することで、アナログ規制の見直しを促進する。",
+  "situation": "法改正による対応が必要なアナログ規制の見直しについて措置するデジタル規制改革推進の一括法が第211回国会で成立したことにより、規制の見直しに当たり必要となる技術に関する情報について公表することとするとともに国の行政機関等は当該情報を活用するよう努めなければならない旨の規定を設けられた。このことを踏まえ、類似の趣旨・目的の規制をまとめた類型とデジタル技術の対応関係を整理したテクノロジーマップの情報について、規制所管府省庁、民間企業等が利活用しやすい仕組みの構築が必要である。",
+  "overview": "AI・ドローン等、デジタル技術が進歩する中、これらを活用した事業活動を念頭に、新たな産業の創出、事業者の生産性向上等を目指すアナログ規制の見直しについて、デジタル庁が整備する類似の趣旨・目的の規制をまとめた類型とデジタル技術の対応関係を整理したテクノロジーマップ・技術カタログについて、規制所管府省庁、規制対象事業者、技術保有企業等が利活用しやすいウェブサイトを構築する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechmap",
+  "totalAmount": 312649400.0,
+  "vendorCount": 2,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 51852000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": "システム運用経費の減"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社博報堂",
+      "corporate_number": "8010401024011",
+      "amount": 51851800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂",
+      "corporate_number": "8010401024011",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂",
+      "corporate_number": "8010401024011",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂プロダクツ",
+      "corporate_number": "4010601035588",
+      "amount": 34551000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂プロダクツ",
+      "corporate_number": "4010601035588",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂プロダクツ",
+      "corporate_number": "4010601035588",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーク",
+      "corporate_number": "3010701013775",
+      "amount": 16500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーク",
+      "corporate_number": "3010701013775",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社フォーク",
+      "corporate_number": "3010701013775",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000455383",
+      "name": "令和６年度テクノロジーマップの整備等に向けた調査研究",
+      "awardDate": "2024-06-24",
+      "price": 115000000.0,
+      "vendorName": "株式会社野村総合研究所",
+      "corporateNumber": "4010001054032",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000459667",
+      "name": "令和６年度テクノロジーマップ整備推進ウェブサイト運用事業",
+      "awardDate": "2024-09-04",
+      "price": 17138000.0,
+      "vendorName": "株式会社博報堂",
+      "corporateNumber": "8010401024011",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000502916",
+      "name": "令和７年度テクノロジーマップの整備等に向けた調査研究のうち広報関係業務",
+      "awardDate": "2025-03-24",
+      "price": 5420000.0,
+      "vendorName": "株式会社博報堂",
+      "corporateNumber": "8010401024011",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000508044",
+      "name": "令和７年度テクノロジーマップ整備推進ウェブサイト整備事業",
+      "awardDate": "2025-04-15",
+      "price": 53140000.0,
+      "vendorName": "株式会社博報堂",
+      "corporateNumber": "8010401024011",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000514390",
+      "name": "令和７年度テクノロジーマップの整備等に向けた調査研究",
+      "awardDate": "2025-04-18",
+      "price": 98000000.0,
+      "vendorName": "株式会社野村総合研究所",
+      "corporateNumber": "4010001054032",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000508150",
+      "name": "令和７年度テクノロジーマップ整備推進ウェブサイト運用事業",
+      "awardDate": "2025-04-24",
+      "price": 23951400.0,
+      "vendorName": "株式会社博報堂",
+      "corporateNumber": "8010401024011",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

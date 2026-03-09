@@ -1,0 +1,214 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "696",
+  "name": "情報システム統一研修運営費",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "人事担当",
+  "purpose": "各府省庁は、政府デジタル人材（IT・セキュリティに関する一定の専門性と、所掌事務に関する十分な知識・経験を有し、政策の企画立案部局や事業実施部局等における DX や、IT ガバナンス、情報システムの開発・運用、サイバーセキュリティ対策、業務改革（BPR）、データの利活用等に中核となって取り組む人材）の計画的な確保・育成を図るため、各府省庁が策定するデジタル人材確保・育成計画（※）等に基づく取組を実施している。デジタル庁は、これらの人材育成の取組に係る支援の一環として、政府デジタル人材の育成等に資するため、情報システム統一研修を実施。／　※各府省庁は、政府機関におけるデジタル化の推進や、情報システムの適切な開発・運用とサイバーセキュリティ対策及びこれらと一体となった業務改革（BPR）等の担い手となる人材の充実を、中長期的な計画の下で進めるため、組織規模や所管する情報システムの実情を踏まえつつ、「デジタル人材確保・育成計画」を策定・改定している。",
+  "situation": "我が国では、デジタル技術の活用が求められる諸課題に対応するために必要な専門性や業務経験を備えた人材が不足しており、政府部内における政府デジタル人材も不足している。／管理職がデジタル改革の推進に向けたリーダーシップを適切に発揮できるような取組や、AI の活用、業務改革（BPR）などを推進する必要がある。　／官民の組織の垣根を超えた人材の行き来の円滑な実施等に向け、技術的な知識を中心とした研修について、より客観的にスキルレベルを評価できるようにすることが必要",
+  "overview": "デジタル庁は、政府の全体方針・計画等を広く普及させるとともに、政府デジタル人材等の効果的かつ効率的な育成及び一般職員のITリテラシーの向上に資するため、情報システム統一研修を行う。また、デジタル庁は、重点計画に基づき、政府デジタル人材の育成に資するため、資格試験の合格に向けた講座の提供等を実施する。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 37721000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 37721000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 38462000.0,
+      "expenditure": 19050000.0,
+      "exec_rate": 0.49529,
+      "total": 38462000.0,
+      "note": "令和６年度から技術的な内容を主とする研修の実施を公的な試験に置き換えており、公的試験の更なる合格に向けて受検料及び当該資格試験の対策講座への補助を推進するため。"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 26000000.0,
+      "expenditure": 13447000.0,
+      "exec_rate": 0.51719,
+      "total": 26000000.0,
+      "note": "現在、情報システム統一研修において実施している技術的な内容を主とする研修について、①技術的な知識面に関しては官民共通でデジタル人材に必要な素養であり、公的な試験やその対策講座が実施されていること、②民間においても活用されている公的な試験の活用により、より客観的なスキルレベルの評価が可能となることを踏まえ、技術的な内容を主とする研修の実施を公的な試験に置き換えることとし、資格試験の受検料及び当該資格試験の対策講座への補助を求めるもの"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 22000000.0,
+      "expenditure": 14000000.0,
+      "exec_rate": 0.63636,
+      "total": 22000000.0,
+      "note": "情報システム統一研修の受講対象となる政府デジタル人材の育成方策の見直しに係る調査研究を実施するため。"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 400000.0,
+      "expenditure": 14000000.0,
+      "exec_rate": 0.65421,
+      "total": 21400000.0,
+      "note": "デジタル庁設置に伴い、業務を移管するため。"
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社　東京リーガルマインド",
+      "corporate_number": "2010001093321",
+      "amount": 5815000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社　東京リーガルマインド",
+      "corporate_number": "2010001093321",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＴＡＣ株式会社",
+      "corporate_number": "3010001022246",
+      "amount": 5427000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＡＣ株式会社",
+      "corporate_number": "3010001022246",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シー・ビー・ティ・ソリューションズ",
+      "corporate_number": "4010001146894",
+      "amount": 4215000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シー・ビー・ティ・ソリューションズ",
+      "corporate_number": "4010001146894",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社　アイ・ラーニング",
+      "corporate_number": "1010001081896",
+      "amount": 2750000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社　アイ・ラーニング",
+      "corporate_number": "1010001081896",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ガバナンスアーキテクト機構",
+      "corporate_number": "2010005014182",
+      "amount": 57000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ガバナンスアーキテクト機構",
+      "corporate_number": "2010005014182",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＪＰＣＥＲＴコーディネーションセンター",
+      "corporate_number": "9010005006504",
+      "amount": 77000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人ＪＰＣＥＲＴコーディネーションセンター",
+      "corporate_number": "9010005006504",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 49000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＵＬＡ　Ｃｏｎｓｕｌｔｉｎｇ合同会社",
+      "corporate_number": "6040003012000",
+      "amount": 660000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＵＬＡ　Ｃｏｎｓｕｌｔｉｎｇ合同会社",
+      "corporate_number": "6040003012000",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

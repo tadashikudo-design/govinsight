@@ -1,0 +1,414 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "27",
+  "name": "補助金申請システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "補助金適正化法で定められた手続に基づき、法人共通認証基盤（GビズID）を活用し、申請に係る一連の手続（公募、交付、実績報告、精算等）の全プロセスを電子化し、申請者のワンストップ・ワンスオンリー及び行政の審査・処理手続の効率化を図るため、汎用的な補助金申請システム（jGrants）の運用・改善等を進める。",
+  "situation": "補助金の申請手続は、事業者にとって煩雑であり、補助金ごとに申請システムが異なるケースも多いため、操作習熟や書類作成に大きな負担を要している。このような現状を踏まえ、申請手続の標準化・共通化を通じて、申請者の利便性を高めるとともに、事務局業務の効率化を図ることが求められている。補助金事務局にjGrantsを利用してもらうことで、①電子化による郵送、来訪コストの削減、②集約による個別補助金システム開発費用の削減等の効果が得られる。／また、「デジタル社会の実現に向けた重点計画(令和6年6月)」において、事業者向け補助金については、2025年度以降、電子申請への対応を原則とする方針を示しており、申請者及び審査者の利便性向上と利用拡大を推進する必要がある。",
+  "overview": "令和３年１月より、利便性をより向上させたjGrants2.0の運用を開始しており、各府省庁や地方公共団体の利用者が増加しつつある。／補助金申請手続は数多の行政機関において広く実施されており、①システムを安定的に稼働させるのための運用保守のほか、②利用者の利便性向上を目的とした機能開発等を実施する。誰にでも使いやすいUIや事務局業務の効率化に向けた機能改善を行うことによって、補助金ごとに異なる業務フローに対応できるようになるため、事務コストやランニング費用の削減が期待される。／また、行政内の審査手続や事後の成果調査等についてもデジタル化を推進し、官民双方の手続の負担軽減を図るほか、申請で得られたデータの活用による効果的な政策立案や、申請データのオープン化による事業者の信頼性評価・ビジネスマッチング等についても実現を目指す。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 3409715854.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1902342000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 1356797354.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 881000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 432000000.0,
+      "exec_rate": 0.48268,
+      "total": 895000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "アクセンチュア株会社",
+      "corporate_number": "7010401001556",
+      "amount": 879765000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 270096000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": 60074000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "corporate_number": "7010401001556",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": 302098000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＳＨＩＦＴ",
+      "corporate_number": "8010401073462",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 390000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケアリッツ・テクノロジーズ",
+      "corporate_number": "1011101098418",
+      "amount": 11712000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ケアリッツ・テクノロジーズ",
+      "corporate_number": "1011101098418",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビジョン・コンサルティング",
+      "corporate_number": "6011001098686",
+      "amount": 3877000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビジョン・コンサルティング",
+      "corporate_number": "6011001098686",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社セラクＣＣＣ",
+      "corporate_number": "3011101085546",
+      "amount": 4976000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セラクＣＣＣ",
+      "corporate_number": "3011101085546",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": 8077000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コムチュアネットワーク株式会社",
+      "corporate_number": "7010701024752",
+      "amount": 4976000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュアネットワーク株式会社",
+      "corporate_number": "7010701024752",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ｆｕｒｕＣＲＭ株式会社",
+      "corporate_number": "4040001107010",
+      "amount": 14080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ｆｕｒｕＣＲＭ株式会社",
+      "corporate_number": "4040001107010",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＲＯＳＣＡ株式会社",
+      "corporate_number": "6070001036519",
+      "amount": 3829000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＲＯＳＣＡ株式会社",
+      "corporate_number": "6070001036519",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エル・ティー・エス",
+      "corporate_number": "8011101053812",
+      "amount": 5280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エル・ティー・エス",
+      "corporate_number": "8011101053812",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニコシス",
+      "corporate_number": "5120001154935",
+      "amount": 2805000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ニコシス",
+      "corporate_number": "5120001154935",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社グラントホープ",
+      "corporate_number": "2011401013661",
+      "amount": 1870000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社グラントホープ",
+      "corporate_number": "2011401013661",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａほか",
+      "corporate_number": "",
+      "amount": 18554000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａほか",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社リブゲート",
+      "corporate_number": "5010401090056",
+      "amount": 98010000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リブゲート",
+      "corporate_number": "5010401090056",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社セールスフォース・ジャパン",
+      "corporate_number": "4010401076766",
+      "amount": 4981000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社セールスフォース・ジャパン",
+      "corporate_number": "4010401076766",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＦＬＵＸ",
+      "corporate_number": "3011001122127",
+      "amount": 8415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＦＬＵＸ",
+      "corporate_number": "3011001122127",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000421438",
+      "name": "令和６年度　補助金申請システムの開発等業務",
+      "awardDate": "2024-07-18",
+      "price": 1102825854.0,
+      "vendorName": "株式会社ＳＨＩＦＴ",
+      "corporateNumber": "8010401073462",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000521305",
+      "name": "令和７年度 補助金申請システムの改修等業務",
+      "awardDate": "2025-03-31",
+      "price": 914545000.0,
+      "vendorName": "ＳＢテクノロジー株式会社",
+      "corporateNumber": "7011101033773",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000497655",
+      "name": "令和７年度 補助金申請システムの改修等業務",
+      "awardDate": "2025-04-02",
+      "price": 914545000.0,
+      "vendorName": "ＳＢテクノロジー株式会社",
+      "corporateNumber": "7011101033773",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000511095",
+      "name": "令和７年度 補助金申請システムの利用促進・調査研究",
+      "awardDate": "2025-04-16",
+      "price": 249920000.0,
+      "vendorName": "株式会社ＪＤＳＣ",
+      "corporateNumber": "6010001193638",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000516537",
+      "name": "令和７年度　補助金申請システムのクラウドサービスライセンス調達",
+      "awardDate": "2025-04-28",
+      "price": 227880000.0,
+      "vendorName": "ＳＢテクノロジー株式会社",
+      "corporateNumber": "7011101033773",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

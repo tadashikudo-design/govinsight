@@ -1,0 +1,278 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6575",
+  "name": "Trusted Web開発等推進事業費",
+  "ministry": "デジタル庁",
+  "dept": "デジタル社会共通機能",
+  "div": "",
+  "purpose": "様々な社会活動のデジタル化が進む一方、特定のプラットフォームによるデータの囲い込みや勝者総取りによる富の偏在、データの取扱いに対する不安が問題となる中、インターネットにおける新たな信頼の枠組みの構築（Trusted Web）に向けて、本事業を通じて、具体的に解決される課題を「見える化」するとともに、さまざまな産業分野におけるユースケースを創出し、 Trusted Webの具現化及び国際標準化、ひいてはDFFT（信頼できる自由なデータ流通）の実現につなげる。",
+  "situation": "2020年6月のデジタル市場競争会議における「デジタル市場競争に係る中期展望レポート」の提言を受け、DFFTの具現化も視野に、2020年10月「Trusted Web推進協議会」が発足し、2021年3月に、内外の様々な関係者と協力・連携していくため、「Trusted Webホワイトペーパーｖｅｒ1.0」がとりまとめられた。その後、事例の机上検討を踏まえてTrusted Webのアーキテクチャーについて検討し、2022年8月に「Trusted Webホワイトペーパーｖｅｒ2.0」へ改訂し、Trusted Webの実現に向けた考え方や論点を発信しているが、そのメリットについて、ユーザーとなる企業等の理解を更に広げていくといった課題がある。また、EUでは分散型で自らの属性データを管理するDigital ID Wallet(DIW)を導入する法案が2022年6月に発表され、2023年2月にDIWのツールボックスが公開されるなど、急速に対応が進められている。",
+  "overview": "本事業では、Trusted Webを2030年（令和12年）頃にインターネット全体で実現していくために、社会的にインパクトのあるメリットの可視化やTrusted webの機能・実装に向けた課題等の抽出に向けて、さまざまな産業分野におけるユースケースを創出するとともに、Digital Identity Wallet(DIW、端末側)における選択的属性開示等の実証、国際的な相互運用性を検証するため、プロトタイプシステム開発等を支援・実施し、成果を分析する。／また、DIWの有識者によるアドバイザリーボードを立ち上げ、欧州及び米国ならびに民間の関連事業者をはじめとする海外の官民コンソーシアムとも連携し、DIW活用の課題等を検討する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "2023",
+  "rsUrl": "https://trustedweb.go.jp/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 733000000.0,
+      "exec_rate": 1.0,
+      "total": 733000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "",
+      "amount": 733000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 522441000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": 14730000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "みずほリサーチ＆テクノロジーズ株式会社",
+      "corporate_number": "9010001027685",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人情報サービス産業協会",
+      "corporate_number": "8010005016669",
+      "amount": 30910000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "一般社団法人情報サービス産業協会",
+      "corporate_number": "8010005016669",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢＩホールディングス株式会社",
+      "corporate_number": "6010401045208",
+      "amount": 30000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢＩホールディングス株式会社",
+      "corporate_number": "6010401045208",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": 23450000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "その他",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "シミック株式会社",
+      "corporate_number": "3010701026059",
+      "amount": 30580000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "シミック株式会社",
+      "corporate_number": "3010701026059",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツサイバー合同会社",
+      "corporate_number": "4010003029619",
+      "amount": 41364000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツサイバー合同会社",
+      "corporate_number": "4010003029619",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": 85000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "パナソニックコネクト株式会社",
+      "corporate_number": "3010001129215",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大日本印刷株式会社",
+      "corporate_number": "5011101012069",
+      "amount": 33510000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大日本印刷株式会社",
+      "corporate_number": "5011101012069",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通国際情報サービス",
+      "corporate_number": "7010401053829",
+      "amount": 33640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通国際情報サービス",
+      "corporate_number": "7010401053829",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤａｔａＳｉｇｎ",
+      "corporate_number": "5011001112794",
+      "amount": 35550000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＤａｔａＳｉｇｎ",
+      "corporate_number": "5011001112794",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＲＰＨＥ",
+      "corporate_number": "7010401114770",
+      "amount": 27190000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＯＲＰＨＥ",
+      "corporate_number": "7010401114770",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｐｉｔｐａ",
+      "corporate_number": "3010401140449",
+      "amount": 13640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｐｉｔｐａ",
+      "corporate_number": "3010401140449",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｉｎｓｔｉｔｕｔｉｏｎ　ｆｏｒ　ａ　Ｇｌｏｂａｌ　Ｓｏｃｉｅｔｙ株式会社",
+      "corporate_number": "8011001065180",
+      "amount": 27280000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｉｎｓｔｉｔｕｔｉｏｎ　ｆｏｒ　ａ　Ｇｌｏｂａｌ　Ｓｏｃｉｅｔｙ株式会社",
+      "corporate_number": "8011001065180",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｏｒｉｇｉｎａｔｏｒ　Ｐｒｏｆｉｌｅ技術研究組合",
+      "corporate_number": "8010005035933",
+      "amount": 45460000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｏｒｉｇｉｎａｔｏｒ　Ｐｒｏｆｉｌｅ技術研究組合",
+      "corporate_number": "8010005035933",
+      "amount": null,
+      "contract_type": "",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

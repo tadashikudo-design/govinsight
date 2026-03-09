@@ -1,0 +1,358 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6558",
+  "name": "共創プラットフォーム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "広報・コミュニケーション担当",
+  "purpose": "本事業は、全国の自治体におけるデジタル改革推進のため、地方公共団体及び政府機関職員を対象に『直接対話型』で意見交換や情報共有などのコミュニケーションを取ることができる場を提供することを通じ、利用者が必要なときに、必要な情報にアクセスができることで、地方公共団体職員が抱える「先行事例や相談先の少なさ」「通知内容の難解さ」等の課題を解決することを目的とする。",
+  "situation": "デジタル社会の実現のためには、政府が自治体にわかりやすく目標・取組・スケジュールなどの段取りを示し、適時・適切に調整しながら政策の形成・実現を図ることで、住民サービスの安定・向上と、自治体業務の円滑化・効率化を実現していくことが必要。しかし従前より、政府と自治体とのコミュニケーションは、メーリングリストや掲示板を利用した情報共有や、特定の地方公共団体職員等との個別のやり取りといった手段に限られており、政府が全国の地方公共団体職員ときめ細やかな対話を行い、適時・適切に、実務に即した課題の特定や情報共有を行いながら政策を検討する場が必要であるため、そのような場としてデジタル改革共創プラットフォームを運用している。本プラットフォームには、2025年３月時点で地方公共団体職員約10,500人、地方公共団体約1,400市区町村が参加しているが、未加入の地方公共団体もあることから活用を一層促進していく必要がある。",
+  "overview": "本事業は、自治体におけるデジタル改革推進のため、全国の地方公共団体職員と政府機関職員のコミュニティ形成をねらいとして、現場の業務や技術面から検討に参加する双方職員の交流の場を設けるものである。主な利用方法として、政策の検討に当たって政府機関職員が議題を設定し、掲示板もしくは特定の参加者間でのビジネスチャット機能等の利用を通じて、現場の業務を知る職員等との適時・適切かつ、自由闊達な意見交換を通じ、政策課題の検討や効果的な政策の実現に活用している。また、地方公共団体職員からの実務に即した課題提起や情報共有、有効事例の共有等に関する投稿を受け付けることにも利用されており、全国の地方公共団体職員の密な相互交流の場として機能している。このようなコミュニティが形成・継続されることで、円滑な情報流通が可能となり、施策の実施にあたっての工夫やインシデントの即時共有等が進み、単独の地方公共団体では解決が困難あるいは解決に時間を要していた課題も素早く適切に解決されるようになる。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/get-involved/co-creation-platform/",
+  "totalAmount": 508485000.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 410630000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 431131800.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 146850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 84304000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 21889000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": 22629000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社トップワンテック",
+      "corporate_number": "1011401018323",
+      "amount": 6072000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社トップワンテック",
+      "corporate_number": "1011401018323",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": 81180000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "corporate_number": "7010001088960",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 25080000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社コロン",
+      "corporate_number": "6011001057725",
+      "amount": 5940000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社コロン",
+      "corporate_number": "6011001057725",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": 23320000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＴＯＰＰＡＮ株式会社",
+      "corporate_number": "8010501050089",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｏｎｅ",
+      "corporate_number": "3011001069046",
+      "amount": 2871000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｏｎｅ",
+      "corporate_number": "3011001069046",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社カイカフィナンシャルホールディングス",
+      "corporate_number": "6010401163637",
+      "amount": 1100000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社カイカフィナンシャルホールディングス",
+      "corporate_number": "6010401163637",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｂａｃｏｏｒ　ｄＡｐｐｓ株式会社",
+      "corporate_number": "2120901038042",
+      "amount": 880000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｂａｃｏｏｒ　ｄＡｐｐｓ株式会社",
+      "corporate_number": "2120901038042",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 74976000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": 4731000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社両備システムズ",
+      "corporate_number": "8260001007077",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": 42615000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "6011101062212",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社先端教育事業",
+      "corporate_number": "1010401166702",
+      "amount": 2300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社先端教育事業",
+      "corporate_number": "1010401166702",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000456639",
+      "name": "令和６年度デジタル改革共創プラットフォームへの参加及び活用促進に関する調査研究",
+      "awardDate": "2024-06-24",
+      "price": 21200000.0,
+      "vendorName": "ＴＯＰＰＡＮ株式会社",
+      "corporateNumber": "8010501050089",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000464240",
+      "name": "令和６年度デジタル改革共創プラットフォームに係る運用保守業務（令和６年10月～令和７年３月）",
+      "awardDate": "2024-09-25",
+      "price": 64800000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000478075",
+      "name": "令和７年度デジタル改革共創プラットフォームに係る運用保守業務",
+      "awardDate": "2025-03-10",
+      "price": 112900000.0,
+      "vendorName": "株式会社ウフル",
+      "corporateNumber": "7010401095879",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000487632",
+      "name": "令和７年度デジタル改革共創プラットフォームに係るライセンスの調達",
+      "awardDate": "2025-03-12",
+      "price": 157005000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000523411",
+      "name": "令和７年度デジタル改革共創プラットフォームへの参加及び 活用促進に関する調査研究",
+      "awardDate": "2025-05-22",
+      "price": 21700000.0,
+      "vendorName": "ＴＯＰＰＡＮ株式会社",
+      "corporateNumber": "8010501050089",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000528428",
+      "name": "令和７年度デジタル改革共創プラットフォームの技術調査研究",
+      "awardDate": "2025-06-30",
+      "price": 31500000.0,
+      "vendorName": "デロイトトーマツコンサルティング合同会社",
+      "corporateNumber": "7010001088960",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000556102",
+      "name": "令和８年度デジタル改革共創プラットフォームに係る運用保守業務",
+      "awardDate": "2026-03-06",
+      "price": 99380000.0,
+      "vendorName": "株式会社ウフル",
+      "corporateNumber": "7010401095879",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

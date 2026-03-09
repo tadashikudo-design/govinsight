@@ -1,0 +1,322 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6550",
+  "name": "第二期政府共通プラットフォーム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "省庁業務サービス",
+  "div": "政府共通プラットフォーム担当",
+  "purpose": "第二期政府共通プラットフォーム（以下「第二期PFという。）は、政府情報システムの統合・集約化や各府省におけるクラウドサービスの利用の集約化を実現するとともに、政府情報システムに必要な共通的機能に関するサービスを提供する。これにより、政府情報システムのITリソースの効率的利用や質の向上に貢献し、政府のITガバナンスを支える基盤としての役割を果たすことを目的とする。",
+  "situation": "政府情報システムの第二期PFへの新規移行を令和４年度までで停止。令和５年度以降は、各利用システムの更改タイミング等を踏まえ、順次、ガバメントクラウド等への移行を推進するものとし、第二期PFの安定的な運用を継続して行うとともに、ガバメントクラウド等への円滑な移行を支援する。",
+  "overview": "○第二期PFの運用／　・クラウドサービスの提供／　・共用領域（各システムが共通的に利用する部分）の運用・保守／　・コロケーション（政府専用ネットワークとクラウド間をつなぐ環境）の運用・保守／　・サービスポータル（各利用システムへの情報提供や各種申請を行うためのポータルサイト）の運用・保守／　・訓練（情報セキュリティ、災害対策）／　・各種問合せ・申請対応／　・継続的サービス改善／　・利用システムの第二期PF利用終了に係る対応／○各府省システムのガバメントクラウド等への移行に向けた支援",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "2028",
+  "rsUrl": "",
+  "totalAmount": 10507824622.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3330348000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 3127303554.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 71166000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": 129726000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "corporate_number": "6010401015821",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": 702800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本電気株式会社",
+      "corporate_number": "7010401022916",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": 145832000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "corporate_number": "9010601021385",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": 2280824000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "6010701025710",
+      "amount": null,
+      "contract_type": "随意契約（不落・不調）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 27095000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通エフサス",
+      "corporate_number": "8010401056384",
+      "amount": 2934000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通エフサス",
+      "corporate_number": "8010401056384",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 20308000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣフィールディング株式会社",
+      "corporate_number": "3010401022977",
+      "amount": 3143000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣフィールディング株式会社",
+      "corporate_number": "3010401022977",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "1011001017717",
+      "amount": 2194135000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "1011001017717",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アマゾンウェブサービスジャパン合同会社",
+      "corporate_number": "1011001017717",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": 1196000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "コムチュア株式会社",
+      "corporate_number": "3010701015193",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社リンクアット・ジャパン",
+      "corporate_number": "5010701020150",
+      "amount": 18248000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リンクアット・ジャパン",
+      "corporate_number": "5010701020150",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": 196417000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣソリューションイノベータ株式会社",
+      "corporate_number": "7010601022674",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＳＷ株式会社",
+      "corporate_number": "1011001017717",
+      "amount": 65322000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＳＷ株式会社",
+      "corporate_number": "1011001017717",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": 37916000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＴＴテクノクロス株式会社",
+      "corporate_number": "5010401056882",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000409473",
+      "name": "第二期政府共通プラットフォームにおけるクラウドサービスの提供等に関する業務（令和６～１０年度）",
+      "awardDate": "2024-04-05",
+      "price": 9479515422.0,
+      "vendorName": "株式会社日立システムズ",
+      "corporateNumber": "6010701025710",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000478108",
+      "name": "第二期政府共通プラットフォームにおける運用管理等提供業務（令和７年度）の請負",
+      "awardDate": "2025-03-03",
+      "price": 887389200.0,
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000478116",
+      "name": "第二期政府共通プラットフォームにおけるプロジェクト管理等支援業務（令和７年度）の請負",
+      "awardDate": "2025-03-03",
+      "price": 140920000.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20581",
+  "name": "自衛隊医療情報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "個人の健康を良好に維持し、部隊の人的戦闘力の維持・増進に寄与するため、隊員の壮健性維持に資する衛生基盤等を整備する。また、多様な任務への対応力を強化するため、自衛隊病院等を拠点化、高機能化し、統合輸送体制、衛生器材等を整備するとともに、医療支援機能を強化する。特に、中央病院医療情報システムを中心にメディカルコントロール体制、病院・医務室間の情報ネットワーク等の構築を図り、質の高い医療サービスを提供する体制を整備し、地域医療に貢献する。",
+  "situation": "病院到着前の治療が救命率を左右することから、第一線から病院に至るまでの間、医療情報等を共有し、適切な治療を継続して行うことで救命率の向上を図る必要がある。自衛隊医療情報システムにおいては、自衛隊中央病院、自衛隊札幌病院、自衛隊福岡病院、自衛隊那覇病院の4病院が電子化カルテを導入されている。　一部病院の電子カルテ化によって、統合ＤＷＨによる医療情報の共有・収集が可能となり、質の高い医療サービス提供が可能となりつつある。しかし、医療情報の共有は限定的であり、診療録の完全な共有や有事における第一線からの医療情報の共有態勢は未確立である。自衛隊医療情報システムの整備は診療の効率化及び有事におけるシームレスな診療体制を実現し、傷病者の救命率向上等に必要不可欠であるため、同システムの整備が急務となっている。",
+  "overview": "自衛隊病院内における診療記録、各種検査依頼等の電子化及び自衛隊病院間における患者等の情報共有機能を整備し、自衛隊における診療基盤の維持・向上に必要なシステムの運用維持・換装等を実施するもの",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 3835380000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 3835380000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 730818000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 2806417000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＤＣ",
+      "corporate_number": "2010001156813",
+      "amount": 99692000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＨＤＣ",
+      "corporate_number": "2010001156813",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通ディフェンス＆ナショナルセキュリティ",
+      "corporate_number": "9020001070098",
+      "amount": 0.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通ディフェンス＆ナショナルセキュリティ",
+      "corporate_number": "9020001070098",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "富士通（株）ナショナルセキュリティ事業部",
+      "corporate_number": "9020001070098",
+      "amount": 97303000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通（株）ナショナルセキュリティ事業部",
+      "corporate_number": "9020001070098",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "富士通（株）ナショナルセキュリティ事業部",
+      "corporate_number": "9020001070098",
+      "amount": 19580000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通（株）ナショナルセキュリティ事業部",
+      "corporate_number": "9020001070098",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": 42897000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "防衛省",
+      "corporate_number": "9000012120001",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": 38673000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "corporate_number": "8010001144647",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

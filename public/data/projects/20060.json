@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20060",
+  "name": "文部科学省ＣＢＴシステム（ＭＥＸＣＢＴ）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "教育DXの推進に向けて、教育データの利活用に必要な知見や成果を共有することができる基盤的ツールとして、児童生徒が学校や家庭において、オンライン上で学習やアセスメントができる公的CBTシステムである文部科学省CBTシステム（MEXCBT：メクビット）の改善・活用推進を行う。",
+  "situation": "「GIGAスクール構想」による「1人1台端末」環境を踏まえ、教育DXを推進することは、個別最適な学びや教員の働き方改革に資するものであり、高い必要性を有している。中でも、教育DXを支える基盤的ツールである文部科学省CBTシステム（MEXCBT：メクビット）については、さらなる利便性向上などを実施し、活用を推進する必要がある。",
+  "overview": "令和２年度に開発した文部科学省CBTシステム(MEXCBT：メクビット)について、希望する全国の小・中・高等学校等で活用できるようにシステムの機能の改善・活用推進を行う。",
+  "category": "前年度事業",
+  "startYear": "2020",
+  "endYear": "",
+  "rsUrl": "https://www.mext.go.jp/a_menu/shotou/zyouhou/mext_00001.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 1041306000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": 1041306000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "文部科学省",
+      "corporate_number": "7000012060001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": 728092000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社内田洋行",
+      "corporate_number": "1010001034730",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネットラーニングホールディングス",
+      "corporate_number": "6011101055067",
+      "amount": 217800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ネットラーニングホールディングス",
+      "corporate_number": "6011101055067",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通総研",
+      "corporate_number": "8010401050783",
+      "amount": 69975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通総研",
+      "corporate_number": "8010401050783",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーコン",
+      "corporate_number": "6010001187648",
+      "amount": 16013000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーコン",
+      "corporate_number": "6010001187648",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社シンプルエデュケーション",
+      "corporate_number": "1010001200670",
+      "amount": 9426000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社シンプルエデュケーション",
+      "corporate_number": "1010001200670",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

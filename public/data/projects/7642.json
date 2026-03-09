@@ -1,0 +1,691 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7642",
+  "name": "デジタル法制推進に必要な経費",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "デジタル改革企画２：法制・制度担当",
+  "purpose": "デジタル改革、規制改革、行政改革に通底する５つの原則からなる「構造改革のためのデジタル原則」（①デジタル完結・自動化原則 、②アジャイルガバナンス原則 、③官民連携原則 、④相互運用性確保原則 、⑤共通基盤利用原則 ）を踏まえ、デジタル時代にふさわしい政府への転換を進めていく。",
+  "situation": "・現在までに、デジタル庁と規制所管府省庁が連携した技術検証、テクノロジーマップ・技術カタログの整備・更新等を実施してきた。デジタル技術の進展等を踏まえた自律的・継続的な規制の見直しを着実に実施するため、テクノロジーマップ・技術カタログの技術情報の一層の充実や利便性の向上が引き続き必要。また、見直しにより活用可能となった技術導入を促進するため、技術の情報・導入事例の情報を、現場に発信すること等が必要。／・これらの情報等も活用し、見直しを進めた結果、７項目のアナログ規制に関する法令及び通知・通達等について、見直し作業が必要とされた8,162件のうち7,983件の見直しが完了（2025年５月時点）。見直しが未了となっている残りの179件の規制についても、着実に見直しがなされるよう、引き続きフォローアップを行っていく。／・社会全体のデジタル化を推進するため、国だけでなく地方公共団体においても、アナログ規制の点検・見直しを一層促進することが必要。",
+  "overview": "・情報通信技術を活用した行政の推進等に関する法律第22条に基づき、整備・公表しているテクノロジーマップ等について、マップ・カタログの技術情報の充実やこれらを掲載するポータルサイトの改善等を通じた効果的な情報提供に継続して取り組む。また、アナログ規制の見直しにより活用可能となった技術の導入促進に向け、導入検討に有用な情報を発信するため、技術の導入検討に有用な情報を調査・発信等を行う。／・デジタル関係制度改革検討会等各種会議を開催し、デジタル原則への適合性の点検・見直しや新規法令のデジタル原則への適合性の確認プロセス・体制構築の検討等を行うほか、アナログ規制の見直しについては、引き続き見直し方針・工程表に沿った見直し作業を進め、見直し方針・工程表に定められたアナログ規制見直しを完了する。／・地方公共団体におけるアナログ規制の見直しの取組を更に促進する観点から、必要な支援を行う。",
+  "category": "前年度事業",
+  "startYear": "2023",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/",
+  "totalAmount": 47800000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 68075000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 260812000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 90568000.0,
+      "expenditure": 151805000.0,
+      "exec_rate": 0.42858,
+      "total": 354201000.0,
+      "note": "・会議等出席謝金の減・会議等構成員への助言等業務依頼費の減"
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 74000000.0,
+      "note": "【主な増減理由】テクノロジーマップ整備事業費（重要政策推進枠）の増。"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": 19844000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ぎょうせい",
+      "corporate_number": "1010001100425",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 126500000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "スターツアセットマネジメント株式会社",
+      "corporate_number": "7010001090371",
+      "amount": 14994000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "スターツアセットマネジメント株式会社",
+      "corporate_number": "7010001090371",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社オーガニック国土計画",
+      "corporate_number": "2030001001629",
+      "amount": 15730000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社オーガニック国土計画",
+      "corporate_number": "2030001001629",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｋｉｍａｍａ",
+      "corporate_number": "4020001151605",
+      "amount": 748000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ｋｉｍａｍａ",
+      "corporate_number": "4020001151605",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＳＳＫファシリティーズ株式会社",
+      "corporate_number": "4430001019983",
+      "amount": 16818000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＳＫファシリティーズ株式会社",
+      "corporate_number": "4430001019983",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東洋検査工業株式会社",
+      "corporate_number": "9170001002292",
+      "amount": 2860000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東洋検査工業株式会社",
+      "corporate_number": "9170001002292",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社マリエッタ",
+      "corporate_number": "7010501025034",
+      "amount": 1359000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社マリエッタ",
+      "corporate_number": "7010501025034",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": 132000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ａ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": 132000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｂ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": 106000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｃ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "9999999999999",
+      "amount": 53000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｄ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "9999999999999",
+      "amount": 75000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｅ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": 158000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｆ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "9999999999999",
+      "amount": 67000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｇ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "9999999999999",
+      "amount": 59000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｈ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｉ",
+      "corporate_number": "9999999999999",
+      "amount": 33000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｉ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｉ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｊ",
+      "corporate_number": "9999999999999",
+      "amount": 169000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｊ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｊ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｊ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｋ",
+      "corporate_number": "9999999999999",
+      "amount": 51000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｋ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｋ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＡ",
+      "corporate_number": "9999999999999",
+      "amount": 16000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＡ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＢ",
+      "corporate_number": "9999999999999",
+      "amount": 16000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＢ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＣ",
+      "corporate_number": "9999999999999",
+      "amount": 16000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＣ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＤ",
+      "corporate_number": "9999999999999",
+      "amount": 16000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人ＡＤ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｌ",
+      "corporate_number": "9999999999999",
+      "amount": 1480000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｌ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｍ",
+      "corporate_number": "9999999999999",
+      "amount": 1014000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｍ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｎ",
+      "corporate_number": "9999999999999",
+      "amount": 575000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｎ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｏ",
+      "corporate_number": "9999999999999",
+      "amount": 146000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｏ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｐ",
+      "corporate_number": "9999999999999",
+      "amount": 140000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｐ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｑ",
+      "corporate_number": "9999999999999",
+      "amount": 77000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｑ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｒ",
+      "corporate_number": "9999999999999",
+      "amount": 57000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｒ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｓ",
+      "corporate_number": "9999999999999",
+      "amount": 40000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｓ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｔ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｔ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｕ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｕ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｖ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｖ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｗ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｗ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｘ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｘ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｙ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｙ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "個人Ｚ",
+      "corporate_number": "9999999999999",
+      "amount": 32000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "個人Ｚ",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000452603",
+      "name": "デジタル社会の推進に必要な指針類に係る調査研究",
+      "awardDate": "2024-05-23",
+      "price": 31800000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000534635",
+      "name": "令和７年度 デジタル社会の推進に必要な指針類に係る支援業務",
+      "awardDate": "2025-08-05",
+      "price": 16000000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

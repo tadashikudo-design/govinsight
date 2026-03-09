@@ -1,0 +1,228 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "6545",
+  "name": "統括・監理支援システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "統括監理担当",
+  "purpose": "「デジタル社会の実現に向けた重点計画」を踏まえて、デジタル庁及び各省が構築するシステムが適切な方向に向かうよう、重点計画等を策定し、レビューや予算の一括計上等を通じて、政府全体の情報システムを統括・監理するための基礎情報を整理する。",
+  "situation": "旧政府情報システム管理データベース（旧ODB）では同様の事業を行っていたが、入力にかかる事務負担が多かったため、未入力データも増え、データ活用ができない課題があった。／政府情報システムを統括・監理するために以下対応を行う必要がある。／・収集する情報量を最小限に絞ると共に、入力負荷軽減となるUIや仕組みを導入すること／・データベース情報を閲覧するビューを整備し、データを活用すること",
+  "overview": "「重点計画」等の全体戦略を企画・立案し、その実現に向けて、政府全体のシステムを統括・監理する機能の整備を行う。／以下の機能を整備した。／・webフォームで入力する機能／・データベース情報を閲覧するビュー",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 268187400.0,
+  "vendorCount": 3,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 332990000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 162887091.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "キャップジェミニ株式会社",
+      "corporate_number": "4010402035069",
+      "amount": 69696000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "キャップジェミニ株式会社",
+      "corporate_number": "4010402035069",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": 134907000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アビームコンサルティング株式会社",
+      "corporate_number": "8010001085296",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": 2035000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフト株式会社",
+      "corporate_number": "2020001043507",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ボストン・コンサルティング・グループ合同会社",
+      "corporate_number": "2010001029085",
+      "amount": 126352000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ボストン・コンサルティング・グループ合同会社",
+      "corporate_number": "2010001029085",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＡＬＵ",
+      "corporate_number": "9011001132509",
+      "amount": 4290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＮＡＬＵ",
+      "corporate_number": "9011001132509",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｙ´ｓ",
+      "corporate_number": "4011101061629",
+      "amount": 3689000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｙ´ｓ",
+      "corporate_number": "4011101061629",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": 11440000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "セルプロモート株式会社",
+      "corporate_number": "9010401143421",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＩＮＴＬＯＯＰ株式会社",
+      "corporate_number": "6010401064612",
+      "amount": 8800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＩＮＴＬＯＯＰ株式会社",
+      "corporate_number": "6010401064612",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000459338",
+      "name": "令和６年度統括・監理支援システムにおけるコスト構造改善等に資するプロジェクト監理の手法等に係る調査研究",
+      "awardDate": "2024-07-26",
+      "price": 95447000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000473372",
+      "name": "令和６年度 統括・監理支援システムの改修業務",
+      "awardDate": "2024-11-08",
+      "price": 63360000.0,
+      "vendorName": "株式会社ビッグツリーテクノロジー＆コンサルティング",
+      "corporateNumber": "2010001193831",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000509402",
+      "name": "令和７年度統括・監理支援システムのライセンス調達（単価）",
+      "awardDate": "2025-03-25",
+      "price": 2080400.0,
+      "vendorName": "富士ソフト株式会社",
+      "corporateNumber": "2020001043507",
+      "bidMethodName": "一般競争入札・最低価格"
+    },
+    {
+      "id": "0000000000000514854",
+      "name": "令和７年度 統括・監理支援システムにおけるコスト構造改善等に資するプロジェクト監理の手法等に係る調査研究",
+      "awardDate": "2025-04-24",
+      "price": 95400000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000539149",
+      "name": "令和７年度　統括・監理支援システムの改修業務",
+      "awardDate": "2025-09-25",
+      "price": 11900000.0,
+      "vendorName": "富士ソフト株式会社",
+      "corporateNumber": "2020001043507",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
+}

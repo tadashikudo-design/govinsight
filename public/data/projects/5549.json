@@ -1,0 +1,357 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "5549",
+  "name": "政府共通ウェブサイト（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "政府ウェブサイトの発信力の向上支援／政府機関による情報発信手段である各省庁ウェブサイトの発信力の向上に継続的に取り組むため、デジタル庁において、ウェブサイトの共通的な機能の整備、省庁ウェブサイト構築に資する基準、参照資料の充実を図るとともに、各省庁のウェブサイト発信力強化のための会議体を設置し、各省庁連携した発信力強化や誰一人取り残されないよう利便性の向上を図る。",
+  "situation": "各省庁のウェブサイトにおいては、障害のあるユーザー等が情報にたどり着きにくい、ウェブサイトにおける情報について、音声読み上げソフトで適切に読み上げられないなど、アクセシビリティに課題を抱えるものが見受けられる。／また、従来、パソコンを使用して省庁ウェブサイトにアクセスし、省庁ウェブサイト内のガイドに沿ってブラウズする形態から、スマートフォンを使用して検索エンジンにアクセスし、検索結果から該当する省庁ウェブサイト内のページを直接ブラウズする形態に変化しているところ、対応状況が不十分なサイトが見受けられる。／そのほか、これまで実施したこども家庭庁ウェブサイトの構築、CIOポータルのアーカイブ化及びプロトタイプとしてのデジタル庁ウェブサイトの構築・運用から、デジタル庁が他省庁のウェブサイトの構築に関与するためには一定のリソースが必要であること、既存コンテンツを新ウェブサイトの仕様に合わせた移行費用が膨大 であること及び省庁ウェブサイトによって求められる要求に制限をかけた統一化が難しいことなどの課題が明らかとなった。",
+  "overview": "情報発信力の向上のため、CMSを始めとするウェブサイトの共通的な機能やデザインシステムの拡充を始めとするリファレンスを整備するとともに、各省庁横断の会議体やコミュニティを設置し、デジタル庁においてこれまでに取り組んだ事業のノウハウや各省庁における課題を共有し、解決を図るための支援を行う。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/",
+  "totalAmount": 40850000.0,
+  "vendorCount": 1,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 273796000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 0.0,
+      "expenditure": 462219360.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 0.0,
+      "expenditure": 319000000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": 79673000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": 53096000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": 29975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社電通デジタル",
+      "corporate_number": "5010001086470",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": 67921000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "有限責任監査法人トーマツ",
+      "corporate_number": "5010405001703",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本デザインセンター",
+      "corporate_number": "1010001062302",
+      "amount": 14995000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本デザインセンター",
+      "corporate_number": "1010001062302",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": 23650000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社野村総合研究所",
+      "corporate_number": "4010001054032",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーツ",
+      "corporate_number": "1010001195457",
+      "amount": 730000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ビーツ",
+      "corporate_number": "1010001195457",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": 1504000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": 1271000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＮＡＩ株式会社",
+      "corporate_number": "7130001056393",
+      "amount": 981000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＮＡＩ株式会社",
+      "corporate_number": "7130001056393",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "インフラレッド合同会社",
+      "corporate_number": "2180003016115",
+      "amount": 4290000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "インフラレッド合同会社",
+      "corporate_number": "2180003016115",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "スタジオ・ウミ株式会社",
+      "corporate_number": "",
+      "amount": 33063000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "スタジオ・ウミ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＮＡＩ株式会社",
+      "corporate_number": "7130001056393",
+      "amount": 21065000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＡＮＮＡＩ株式会社",
+      "corporate_number": "7130001056393",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "インフラレッド合同会社",
+      "corporate_number": "2180003016115",
+      "amount": 3498000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "インフラレッド合同会社",
+      "corporate_number": "2180003016115",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツウェブレッジ株式会社",
+      "corporate_number": "8010001232360",
+      "amount": 6292000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツウェブレッジ株式会社",
+      "corporate_number": "8010001232360",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツリスクアドバイザリー合同会社",
+      "corporate_number": "2010001081417",
+      "amount": 27170000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "デロイトトーマツリスクアドバイザリー合同会社",
+      "corporate_number": "2010001081417",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｎｏｍｕｒａ　Ｒｅｓｅａｒｃｈ　Ｉｎｓｔｉｔｕｔｅ　Ｃｏｎｓｕｌｔｉｎｇ　ａｎｄ　Ｓｏｌｕｔｉｏｎｓ　Ｉｎｄｉａ　Ｐｒｉｖａｔｅ　Ｌｉｍｉｔｅｄ",
+      "corporate_number": "7700150130296",
+      "amount": 2363000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｎｏｍｕｒａ　Ｒｅｓｅａｒｃｈ　Ｉｎｓｔｉｔｕｔｅ　Ｃｏｎｓｕｌｔｉｎｇ　ａｎｄ　Ｓｏｌｕｔｉｏｎｓ　Ｉｎｄｉａ　Ｐｒｉｖａｔｅ　Ｌｉｍｉｔｅｄ",
+      "corporate_number": "7700150130296",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｎｉｐｐｏｎ　Ｄｅｓｉｇｎ　Ｃｅｎｔｅｒ　ＵＳＡ　Ｉｎｃ．",
+      "corporate_number": "9999999999999",
+      "amount": 7000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｎｉｐｐｏｎ　Ｄｅｓｉｇｎ　Ｃｅｎｔｅｒ　ＵＳＡ　Ｉｎｃ．",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": [
+    {
+      "id": "0000000000000460119",
+      "name": "令和6年度 政府共通ウェブサイトに係る連絡会議等事務局運営及び課題解決に向けた調査研究",
+      "awardDate": "2024-07-29",
+      "price": 27250000.0,
+      "vendorName": "株式会社電通デジタル",
+      "corporateNumber": "5010001086470",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000557238",
+      "name": "令和７年度 政府共通ウェブサイトに係る連絡会等事務局運営及び課題解決に向けた調査研究",
+      "awardDate": "2026-01-19",
+      "price": 13600000.0,
+      "vendorName": "株式会社電通デジタル",
+      "corporateNumber": "5010001086470",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
+}

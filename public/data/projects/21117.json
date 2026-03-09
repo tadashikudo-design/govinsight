@@ -1,0 +1,227 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21117",
+  "name": "更生保護トータルネットワークシステム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "円滑かつ適切な更生保護行政の運営を確保するとともに、保護観察処遇等の効率化を図るため、仮釈放審理情報、保護観察情報、生活環境調整情報、犯罪被害者に関する情報、保護司に関する各事務処理に関する情報、協力雇用主に関する情報及び医療観察に関する情報等をコンピュータシステムで管理し、更生保護官署において保護観察処遇等の日々の業務処理を行うことを目的として、「更生保護トータルネットワークシステム」の運用を行っている。",
+  "situation": "更生保護トータルネットワークシステムは、保護局及び全国の更生保護官署を結び、電子メールや共有フォルダ等の業務上不可欠なサービスを提供する広域ネットワーク環境である「更生保護WANシステム」及び保護観察等の事件対象者や犯罪被害者、保護司等の民間関係者に係る情報の管理を担う業務システムである「事件管理システム」から成る、更生保護行政における基幹システムである。／本システムは保護局及び更生保護官署に所属する約2,400名の職員が毎日業務に利用しており、システムの安定的稼働の実現は更生保護行政の事務の円滑かつ適切な実施のために不可欠であり、端末等機器の維持・整備やシステムの運用保守を確保することが課題となっている。／加えて、本システムは昭和62年度から運用を開始し、基盤はオンプレミスのサーバ機であるところ、システムのランニングコストの削減やセキュリティ対策の強化を目的としたクラウドサービス（ガバメントクラウド）への移行や業務の効率化・高度化を実現するための業務システムのUI改善・新機能の搭載等も課題となっている。",
+  "overview": "更生保護官署間の電子メールの利用、共有ドライブの利用、事件情報の管理、統計等の作成等を主要機能として有する業務システムである「更生保護トータルネットワークシステム」を安定稼動させるため、機器等の維持、更新を行なうもの。全国の地方更生保護委員会及び保護観察所においては、最適化を図った当該システムを利用し、保護観察対象者等の処遇・事件情報等の管理・処理を行っている。",
+  "category": "前年度事業",
+  "startYear": "1987",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 554915000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "インフォテック・サービス株式会社",
+      "corporate_number": "3011101034313",
+      "amount": 72074000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "インフォテック・サービス株式会社",
+      "corporate_number": "3011101034313",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "インフォテック・サービス株式会社",
+      "corporate_number": "3011101034313",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "インフォテック・サービス株式会社",
+      "corporate_number": "3011101034313",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": 12461000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "リコージャパン株式会社",
+      "corporate_number": "1010001110829",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": 71203000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "富士テレコム株式会社",
+      "corporate_number": "6011401007346",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヴァル研究所",
+      "corporate_number": "1011301008928",
+      "amount": 483000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ヴァル研究所",
+      "corporate_number": "1011301008928",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": 52331000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社大塚商会",
+      "corporate_number": "1010001012983",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通総研",
+      "corporate_number": "8010401050783",
+      "amount": 90169000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社富士通総研",
+      "corporate_number": "8010401050783",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": 1848000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日本ビジネス開発",
+      "corporate_number": "1010901016860",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": 144456000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "corporate_number": "2010001033475",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": 109890000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＮＥＣネクサソリューションズ株式会社",
+      "corporate_number": "7010401022924",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,264 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20220",
+  "name": "数値解析予報システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "国民の生命・財産を守るための気象の警報・注意報や天気予報の発表のため、特に近年、台風・集中豪雨・突風等による気象災害の防止・軽減及び航空機の安全運航に資するため、防災機関、国民、企業等に提供する特別警報等の防災情報について、一層の改善が強く要請されているところである。 ／そこで、本事業は数値予報処理及び気象衛星データ処理をそれぞれ高度化するとともに両者を密接に連携させ、詳細かつ的確な防災気象情報を防災機関、国民等に提供する。",
+  "situation": "自治体や防災機関による、より早期にエリアを絞った的確な避難指示等の防災対応を可能とする気象資料作成として令和9年度に全球モデルの水平解像度：10kmを実現する。住民自らの「我が事」感を持った適時適切な避難行動、高齢者等の要配慮者の早い時間からの安全な避難を可能とする気象資料作成のため令和9年度に局所モデルの水平解像度：1km、予報時間：１８時間先を実現する。 ／さらに、庁外にデータ提供を行うための官民共用ストレージによって、庁外への大容量データ提供を拡充し、また産学官連携を推進するため、ユーザ数を令和９年度に800人とする。",
+  "overview": "構築システムはスーパーコンピュータシステム（本システム）および線状降水帯予測スーパーコンピュータ（線状降水帯予測スパコン）から成る。本システムの導入により、最新の研究成果・新しい観測データを活用して多くの防災情報の改善を図り、台風・集中豪雨・突風等による気象災害の防止・軽減及び航空機運航の更なる安全確保を実現する。さらに、データ提供サービスにより、庁外への大容量データ提供を拡充し、また産学官連携を推進することにより、高度な気象情報の提供を実現する。また、線状降水帯予測スパコンは、豪雨をもたらす線状降水帯の予測を高度化することにより、防災機関や国民などに提供される防災気象情報の改善をより早期に実現することを目的としている。また、台風の進路予測精度の向上のため、数値予報技術のさらなる高度化に必要なGPU等を用いた技術開発環境をクラウドサービス上に構築する。",
+  "category": "前年度事業",
+  "startYear": "2022",
+  "endYear": "",
+  "rsUrl": "https://www.jma.go.jp/jma/press/2402/21a/press_20240221.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 2040341000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": 2040341108.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "気象庁",
+      "corporate_number": "8000012100004",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": 1877335809.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "富士通株式会社",
+      "corporate_number": "1020001071491",
+      "amount": null,
+      "contract_type": "随意契約（公募）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 72853387.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "東京コンピュータサービス株式会社",
+      "corporate_number": "3010001005226",
+      "amount": 4911720.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京コンピュータサービス株式会社",
+      "corporate_number": "3010001005226",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 5493840.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｌｔテクノロジーサービス株式会社",
+      "corporate_number": "2010401039799",
+      "amount": 1504800.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｃｏｌｔテクノロジーサービス株式会社",
+      "corporate_number": "2010401039799",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＯＫＡＩコミュニケーションズ",
+      "corporate_number": "2080001004346",
+      "amount": 3511200.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＯＫＡＩコミュニケーションズ",
+      "corporate_number": "2080001004346",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アルテリア・ネットワークス株式会社",
+      "corporate_number": "8010401123151",
+      "amount": 2955480.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アルテリア・ネットワークス株式会社",
+      "corporate_number": "8010401123151",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アルテリア・ネットワークス株式会社",
+      "corporate_number": "8010401123151",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "首都圏ソフトウェア協同組合",
+      "corporate_number": "3010405002001",
+      "amount": 65680000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "首都圏ソフトウェア協同組合",
+      "corporate_number": "3010405002001",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "姫路合同貨物自動車株式会社",
+      "corporate_number": "4140001060892",
+      "amount": 544500.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "姫路合同貨物自動車株式会社",
+      "corporate_number": "4140001060892",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＩＴ",
+      "corporate_number": "",
+      "amount": 5550754.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＡＩＴ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

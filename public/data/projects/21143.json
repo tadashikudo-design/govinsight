@@ -1,0 +1,381 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "21143",
+  "name": "農林水産統計システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "農林水産統計業務は、食料・農業・農村基本計画の着実な推進を支える必要な統計データを整備・提供し、日本の農林水産業の実態を把握し実証的な証拠に基づく政策立案や、公共財として国民に活用されることで、農林水産業の将来展望を切り開いていく役割を担っている。／この役割を効率的かつ的確に果たすため、約40本の統計調査プログラムを対象に農林水産統計システムを用いて、調査準備からデータ入力、審査、集計、加工・分析、公表までの業務を実施し、その結果を省内政策部局及び国民に広く提供している。／このような状況の中、農政改革の推進に対応した農林水産統計の見直し等を調査プログラムに適切に反映し、農林水産統計システムを通じて、引き続き効果的・効率的な統計の作成・提供等を実現することを目的とする。",
+  "situation": "第二期政府共通プラットフォーム（AWS）上に構築した農林水産統計システムは、第二期政府共通プラットフォームの運用終了時期（予定）が2029年（令和11年）3月31日までとなっているため、第二期政府共通プラットフォーム（AWS）から別基盤へ移行する必要がある。／このことから、2027年（令和９年）4月から2029年（令和11年）３月までに、ガバメントクラウド等へのシステム移行作業を行うことを予定している。",
+  "overview": "農林水産統計システムは、1987年度から現在に至るまで、統計の的確な作成・提供への対応を行うために整備した情報処理業務システムである。効果的・効率的な統計の作成・提供等を実現するため、同システムの整備及び運用を行っている。",
+  "category": "前年度事業",
+  "startYear": "1987",
+  "endYear": "",
+  "rsUrl": "",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": 1942518000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "農林水産省",
+      "corporate_number": "5000012080001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": 234300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "corporate_number": "6010001030403",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": 86136000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＳＰ",
+      "corporate_number": "1011001014417",
+      "amount": 85800000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＴＳＰ",
+      "corporate_number": "1011001014417",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "日本ソフトウエア株式会社",
+      "corporate_number": "7010001033371",
+      "amount": 32890000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本ソフトウエア株式会社",
+      "corporate_number": "7010001033371",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": 1414558000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "corporate_number": "7010401052137",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": 77726000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "corporate_number": "7011101033773",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＬＥＧＡＬ　ＥＤＧＥ",
+      "corporate_number": "5010003028074",
+      "amount": 15048000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "合同会社ＬＥＧＡＬ　ＥＤＧＥ",
+      "corporate_number": "5010003028074",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "",
+      "amount": 12870000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フォーグローブ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "",
+      "amount": 43327000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ベルウェール渋谷",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "",
+      "amount": 97845000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "",
+      "amount": 281754000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "中央システム株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンク",
+      "corporate_number": "",
+      "amount": 80438000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ゼンク",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクストリーム",
+      "corporate_number": "",
+      "amount": 63395000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エクストリーム",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社パーソンズ",
+      "corporate_number": "",
+      "amount": 63395000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社パーソンズ",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "アヴァント株式会社",
+      "corporate_number": "",
+      "amount": 63395000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "アヴァント株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "Ｍａｒｖｅｌ株式会社",
+      "corporate_number": "",
+      "amount": 63395000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "Ｍａｒｖｅｌ株式会社",
+      "corporate_number": "",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東芝ビジネスエキスパート株式会社",
+      "corporate_number": "7020001071271",
+      "amount": 7484000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東芝ビジネスエキスパート株式会社",
+      "corporate_number": "7020001071271",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エーダブリュエー",
+      "corporate_number": "9430001027528",
+      "amount": 16033000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エーダブリュエー",
+      "corporate_number": "9430001027528",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ツリーベル",
+      "corporate_number": "6011101025078",
+      "amount": 5005000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ツリーベル",
+      "corporate_number": "6011101025078",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "情報技術開発株式会社",
+      "corporate_number": "7011001106943",
+      "amount": 14652000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "情報技術開発株式会社",
+      "corporate_number": "7011001106943",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": 11108000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "日本ビジネスシステムズ株式会社",
+      "corporate_number": "4010401041588",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": 176715000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ株式会社",
+      "corporate_number": "2011101011783",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

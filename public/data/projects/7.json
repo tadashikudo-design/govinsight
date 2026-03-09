@@ -1,0 +1,522 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "7",
+  "name": "マイナンバー制度の推進",
+  "ministry": "デジタル庁",
+  "dept": "国民向けサービス",
+  "div": "",
+  "purpose": "マイナンバー制度は、デジタル社会の基盤として、国民の利便性向上と行政の効率化と併せて、より公平・公正な社会を実現するもの。／安全で安心なデジタル社会を作っていくために、マイナンバー制度において、個人を一意に特定するＩＤであるマイナンバー、オンラインで確実な本人確認を可能とするマイナンバーカード、行政手続のオンライン窓口となるマイナポータル、及び公的給付の支給等の迅速かつ確実な実施が可能となる公金受取口座登録制度の利活用を促進する。併せてマイナンバー制度の利活用の促進のため、「誰一人取り残されない」という観点から、国民に対して丁寧で分かりやすい広報を実施する。",
+  "situation": "これまでは、マイナンバー制度及びマイナンバーカードの普及及び安全性等に関しては、テレビ番組の放送や自治体向け各種リーフレットの配付など、積極的に周知・広報行い、若年層及び高齢者の普及率向上を行うとともに、障がい者、外国人、高齢者等にもわかりやすい広報を行ってきた。また、マイナンバー制度及びマイナンバーカードに加え、公金口受取口座の登録や健康保険証利用の申し込みなどに関する質問等については、マイナンバー総合フリーダイヤル（コールセンター）によって対応を行っている。／今後は、今まで同様の周知・広報を行っていくとともに、利用・活用に関する広報活動を行っていく必要がある。",
+  "overview": "上記の目的を達成するため、広報活動等を行う。具体的には次の取組等を実施する。／／・マイナンバー制度及びマイナンバーカードの普及と利用促進を推進するため、マイナンバーカードの利便性・安全性について、国民の不安を払拭しつつ、正しい認知・理解を得られるよう様々なチャネルにおいて主体的に広報を実施するとともに、各事業所管官庁から関係業界団体等に対して周知するための広報資料の作成や、コールセンターの運営強化などの実施。",
+  "category": "前年度事業",
+  "startYear": "2021",
+  "endYear": "",
+  "rsUrl": "https://www.digital.go.jp/policies/mynumber",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 287680000.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 937680000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 284657000.0,
+      "expenditure": 1075365000.0,
+      "exec_rate": 0.69703,
+      "total": 1542779000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2023,
+      "initial": 277726000.0,
+      "expenditure": 834441000.0,
+      "exec_rate": 0.49848,
+      "total": 1673985000.0,
+      "note": "マイナンバー法等の一部改正及び「デジタル社会の実現に向けた重点計画」（令和５年６月９日閣議決定）に基づく、公金受取口座の登録及び健康保険証廃止を見据えたマイナンバーカードの健康保険証の利用の推進、「オンライン市役所サービス」やマイナンバーカードの「市民カード化」等に係る広報費用の増。「重要政策推進枠」114"
+    },
+    {
+      "budget_year": 2023,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2022,
+      "initial": 472000000.0,
+      "expenditure": 728000000.0,
+      "exec_rate": 0.45614,
+      "total": 1596000000.0,
+      "note": "「デジタル社会の実現に向けた重点計画」（令和４年６月７日閣議決定）に基づく、マイナンバー制度の利活用推進として情報連携の拡大や各種免許等のデジタル化、マイナンバーカード利用推進として運転免許証との一体化等についての広報費用で増額となった。「重要政策推進枠」399"
+    },
+    {
+      "budget_year": 2022,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": 0.0,
+      "expenditure": 322000000.0,
+      "exec_rate": 0.06567,
+      "total": 4903000000.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2021,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": 207119000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "富士ソフトサービスビューロ株式会社",
+      "corporate_number": "1010601027646",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社スコープ",
+      "corporate_number": "2011101010430",
+      "amount": 247563000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社スコープ",
+      "corporate_number": "2011101010430",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "株式会社読売広告社",
+      "corporate_number": "3010401076255",
+      "amount": 598990000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社読売広告社",
+      "corporate_number": "3010401076255",
+      "amount": null,
+      "contract_type": "随意契約（企画競争）",
+      "block": ""
+    },
+    {
+      "name": "三松堂印刷株式会社",
+      "corporate_number": "1010001129704",
+      "amount": 12476000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三松堂印刷株式会社",
+      "corporate_number": "1010001129704",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社丸運",
+      "corporate_number": "5010001141787",
+      "amount": 2710000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社丸運",
+      "corporate_number": "5010001141787",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｉｇｎ．Ｏ",
+      "corporate_number": "4011001140078",
+      "amount": 286000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｓｉｇｎ．Ｏ",
+      "corporate_number": "4011001140078",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "研精堂印刷株式会社",
+      "corporate_number": "7260001002269",
+      "amount": 308000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "研精堂印刷株式会社",
+      "corporate_number": "7260001002269",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ネットエイジア株式会社",
+      "corporate_number": "7010001126258",
+      "amount": 3888000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ネットエイジア株式会社",
+      "corporate_number": "7010001126258",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ビックローブ株式会社",
+      "corporate_number": "2010001146797",
+      "amount": 119000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ビックローブ株式会社",
+      "corporate_number": "2010001146797",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "フォントワークス株式会社",
+      "corporate_number": "7290001010129",
+      "amount": 49000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "フォントワークス株式会社",
+      "corporate_number": "7290001010129",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "メディコプレス株式会社",
+      "corporate_number": "3011801015728",
+      "amount": 576000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "メディコプレス株式会社",
+      "corporate_number": "3011801015728",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ヤマダデンキ株式会社",
+      "corporate_number": "2070001036729",
+      "amount": 426000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ヤマダデンキ株式会社",
+      "corporate_number": "2070001036729",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社アトリエパレット",
+      "corporate_number": "3010701019005",
+      "amount": 327000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社アトリエパレット",
+      "corporate_number": "3010701019005",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "株式会社栄商",
+      "corporate_number": "4020001002691",
+      "amount": 528000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社栄商",
+      "corporate_number": "4020001002691",
+      "amount": null,
+      "contract_type": "随意契約（少額）",
+      "block": ""
+    },
+    {
+      "name": "ストラテジックパートナーズ株式会社",
+      "corporate_number": "1010601043676",
+      "amount": 160382000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ストラテジックパートナーズ株式会社",
+      "corporate_number": "1010601043676",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "大村印刷株式会社",
+      "corporate_number": "7250001001899",
+      "amount": 16720000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "大村印刷株式会社",
+      "corporate_number": "7250001001899",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社エムズカンパニー",
+      "corporate_number": "1010001088256",
+      "amount": 40975000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社エムズカンパニー",
+      "corporate_number": "1010001088256",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハッピージャパン",
+      "corporate_number": "1010101008485",
+      "amount": 700000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ハッピージャパン",
+      "corporate_number": "1010101008485",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社マクロミル",
+      "corporate_number": "9010001157227",
+      "amount": 4000000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社マクロミル",
+      "corporate_number": "9010001157227",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂ＤＹメディアパートナーズ",
+      "corporate_number": "3010401052280",
+      "amount": 333300000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社博報堂ＤＹメディアパートナーズ",
+      "corporate_number": "3010401052280",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社読広クリエイティブスタジオ",
+      "corporate_number": "4010401133179",
+      "amount": 62467000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社読広クリエイティブスタジオ",
+      "corporate_number": "4010401133179",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＯＣＵＳ",
+      "corporate_number": "7011001064654",
+      "amount": 2200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＬＯＣＵＳ",
+      "corporate_number": "7011001064654",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｍｉｌｌｅ－ｆｅｕｉｌｌｅ",
+      "corporate_number": "3011001153808",
+      "amount": 1980000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社Ｍｉｌｌｅ－ｆｅｕｉｌｌｅ",
+      "corporate_number": "3011001153808",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "メディコプレス株式会社",
+      "corporate_number": "3011801015728",
+      "amount": 7447000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "メディコプレス株式会社",
+      "corporate_number": "3011801015728",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社リンクス",
+      "corporate_number": "9200001019713",
+      "amount": 24310000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社リンクス",
+      "corporate_number": "9200001019713",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社満",
+      "corporate_number": "4010401148499",
+      "amount": 2640000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社満",
+      "corporate_number": "4010401148499",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社白組",
+      "corporate_number": "6011001027422",
+      "amount": 24530000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社白組",
+      "corporate_number": "6011001027422",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢＵＳ",
+      "corporate_number": "6010001163839",
+      "amount": 2035000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＢＵＳ",
+      "corporate_number": "6010001163839",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＰＯＣＨ",
+      "corporate_number": "3010401107927",
+      "amount": 3850000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社ＥＰＯＣＨ",
+      "corporate_number": "3010401107927",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "株式会社モニタス",
+      "corporate_number": "7010401004022",
+      "amount": 2856000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社モニタス",
+      "corporate_number": "7010401004022",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

@@ -1,0 +1,215 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20038",
+  "name": "電子認証システム（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "電子認証システムは、電子申請や電子商取引の推進に必要・不可欠な電子政府における唯一の公的な法人認証基盤であるところ、本システムの安定的な運用を図ることにより、電子証明書の発行や電子証明書の有効性の確認を行うなど、国民のニーズに対応した行政サービスを提供することを目的とする。",
+  "situation": "商業登記電子証明書は、会社・法人等が国・地方公共団体等に対して行うオンラインによる申請・届出の手続や電子商取引において利用されているところ、これらのオンライン申請等を更に促進させるため、システムの安定稼働を維持しつつ同証明書の普及を引き続き推進する必要がある。",
+  "overview": "電子認証は、法人の「本人性」、「法人格の存在」及び「代表権限の存在」を確認するための手段として、電子認証登記所の登記官が法人の登記情報に基づき、電子的な証明書（電子証明書）を発行して認証する制度であり、同制度に基づき発行された電子証明書は、電子政府における公的な法人認証基盤として、電子的な申請及び取引において、登記所の登記官が発行する印鑑証明書・資格証明書に代わって利用される証明書である。／本事業は、この電子認証制度の目的を実現するために必要・不可欠な電子認証システムの安定的な運用を実施するものである。",
+  "category": "前年度事業",
+  "startYear": "2000",
+  "endYear": "",
+  "rsUrl": "https://www.moj.go.jp/MINJI/denshininshou.html",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 842314000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": 842314000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "法務省",
+      "corporate_number": "1000012030001",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": 7260000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "東京法務局",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 7260000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": 415000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "corporate_number": "7010001064648",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": 90200000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "サイバートラスト株式会社",
+      "corporate_number": "3010401064771",
+      "amount": null,
+      "contract_type": "一般競争契約（総合評価）",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": 131472000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "corporate_number": "4010001049866",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": 610313000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "株式会社日立製作所",
+      "corporate_number": "7010001008844",
+      "amount": null,
+      "contract_type": "国庫債務負担行為等",
+      "block": ""
+    },
+    {
+      "name": "ｉ－３ｃ株式会社",
+      "corporate_number": "4010001104927",
+      "amount": 1535000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ｉ－３ｃ株式会社",
+      "corporate_number": "4010001104927",
+      "amount": null,
+      "contract_type": "一般競争契約（最低価格）",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": 1119000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "ＫＤＤＩ株式会社",
+      "corporate_number": "9011101031552",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}

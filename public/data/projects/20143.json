@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-03-09T17:13:49Z",
+  "id": "20143",
+  "name": "輸出入・港湾関連情報処理システム（ＮＡＣＣＳ）（税関）（情報通信技術調達等適正・効率化推進費）",
+  "ministry": "デジタル庁",
+  "dept": "戦略・組織",
+  "div": "会計担当",
+  "purpose": "ＮＡＣＣＳを利用することにより、限られた人員の中で、適正かつ公平な税の課税・徴収、国民の安全・安心の確保など税関の使命を的確に果たす。",
+  "situation": "ＮＡＣＣＳを利用し、迅速かつ効率的に税関業務を実施する。",
+  "overview": "NACCSは輸出入・港湾関連情報処理センター株式会社が管理・運営するシステムであり、本事業は、税関職員がNACCSを利用し、税関業務を行うための利用料を支出するものである。／経済のグローバル化に伴い物流、人流及び金流が急拡大する中、貿易の円滑化に資するため、税関その他の関係行政機関のほか、航空会社、船会社、保税蔵置業者、通関業者、損害保険会社、輸出入者等がNACCSに参加し、輸出入申告や関税等の電子納付を実施している。",
+  "category": "前年度事業",
+  "startYear": "1978",
+  "endYear": "",
+  "rsUrl": "https://www.naccs.jp/",
+  "totalAmount": 0.0,
+  "vendorCount": 0,
+  "budgets": [
+    {
+      "budget_year": 2025,
+      "initial": 0.0,
+      "expenditure": 0.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2025,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": 0.0,
+      "expenditure": 4890253000.0,
+      "exec_rate": null,
+      "total": 0.0,
+      "note": ""
+    },
+    {
+      "budget_year": 2024,
+      "initial": null,
+      "expenditure": null,
+      "exec_rate": null,
+      "total": null,
+      "note": ""
+    }
+  ],
+  "rsVendors": [
+    {
+      "name": "税関",
+      "corporate_number": "9999999999999",
+      "amount": 4890253000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "税関",
+      "corporate_number": "9999999999999",
+      "amount": null,
+      "contract_type": "その他",
+      "block": ""
+    },
+    {
+      "name": "輸出入・港湾関連情報処理センター株式会社",
+      "corporate_number": "3020001081423",
+      "amount": 4890253000.0,
+      "contract_type": "",
+      "block": ""
+    },
+    {
+      "name": "輸出入・港湾関連情報処理センター株式会社",
+      "corporate_number": "3020001081423",
+      "amount": null,
+      "contract_type": "随意契約（その他）",
+      "block": ""
+    }
+  ],
+  "procurements": []
+}
