@@ -1,4 +1,4 @@
-import type { Dashboard, Project, Procurement, ProjectDetail } from "./types";
+import type { Dashboard, Project, Procurement, ProjectDetail, VendorRankingItem, VendorAnalysis } from "./types";
 import path from "path";
 import fs from "fs";
 
@@ -31,6 +31,19 @@ export function getProjectDetail(id: string): ProjectDetail | null {
   const filePath = path.join(DATA_DIR, "projects", `${id}.json`);
   if (!fs.existsSync(filePath)) return null;
   return readJson<ProjectDetail>(filePath);
+}
+
+export function getVendors(): VendorRankingItem[] {
+  const data = readJson<{ updatedAt: string; items: VendorRankingItem[] }>(
+    path.join(DATA_DIR, "vendors.json")
+  );
+  return data.items;
+}
+
+export function getVendorAnalysis(): VendorAnalysis | null {
+  const filePath = path.join(DATA_DIR, "vendor_analysis.json");
+  if (!fs.existsSync(filePath)) return null;
+  return readJson<VendorAnalysis>(filePath);
 }
 
 export function formatAmount(yen: number): string {

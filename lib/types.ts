@@ -63,3 +63,67 @@ export interface ProjectDetail extends Project {
   totalAmount: number;
   vendorCount: number;
 }
+
+// ---- ベンダーランキング -----------------------------------------------
+export interface VendorRankingItem {
+  corporateNumber: string | null;
+  name: string;
+  totalAmount: number;
+  count: number;
+  procurementIds: string[];
+}
+
+// ---- ベンダー依存分析 ------------------------------------------------
+export interface CloudPlatform {
+  platform: string;
+  amount: number | null;
+  projectCount: number;
+  share: number | null;
+  vendors: string[];
+}
+
+export interface CategoryBreakdown {
+  category: string;
+  totalAmount: number | null;
+  projectCount: number;
+  share: number | null;
+}
+
+export interface AnalysisVendor {
+  name: string;
+  category: string;
+  cloudPlatform: string | null;
+  totalAmount: number | null;
+  projectCount: number;
+  share: number | null;
+  singleBidRate: number | null;
+}
+
+export interface ProcurementVendor {
+  corporateNumber: string;
+  name: string;
+  category: string;
+  totalAmount: number;
+  count: number;
+  noCompetitionRate: number | null;
+}
+
+export interface ConcentrationMetrics {
+  top3Share: number | null;
+  top5Share: number | null;
+  top10Share: number | null;
+  hhi: number | null;
+  vendorCount: number;
+}
+
+export interface VendorAnalysis {
+  updatedAt: string;
+  totalRsSpend: number | null;
+  totalCloudSpend: number | null;
+  cloudShare: number | null;
+  cloudPlatforms: CloudPlatform[];
+  categoryBreakdown: CategoryBreakdown[];
+  topVendors: AnalysisVendor[];
+  procurementVendors: ProcurementVendor[];
+  concentrationMetrics: ConcentrationMetrics;
+}

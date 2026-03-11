@@ -41,6 +41,18 @@ export default function RootLayout({
               >
                 調達案件
               </a>
+              <a
+                href="/vendors"
+                className="hover:text-blue-200 transition-colors"
+              >
+                ベンダー
+              </a>
+              <a
+                href="/analysis"
+                className="hover:text-blue-200 transition-colors"
+              >
+                依存分析
+              </a>
             </nav>
             <div className="ml-auto text-xs text-white/60">
               データソース: 政府RS情報システム・政府調達ポータル
