@@ -2,6 +2,9 @@
 RSシステム CSV ダウンロード
 rssystem.go.jp の ZIP ファイルを直接 curl（requests）で取得する。
 Playwright 不要 - ファイルは静的配信されており認証なしで取得可能。
+
+フォールバック: ダウンロード失敗時は etl/rs_cache/{year}/ 内のキャッシュZIPを使用。
+GitHub Actions の IP がブロックされた場合でも ETL を継続可能。
 """
 from __future__ import annotations
 
@@ -25,6 +28,9 @@ HEADERS = {
     "Referer": "https://rssystem.go.jp/",
 }
 
+# etl/rs_cache/{year}/{file_id}_RS_{year}_{name_ja}.zip
+_CACHE_DIR = Path(__file__).parent / "rs_cache"
+
 
 def download_rs_year(year: int, output_dir: Path) -> dict[str, Path]:
     """指定年度の RSシステム CSV を全てダウンロードし、解凍して返す。
@@ -39,6 +45,8 @@ def download_rs_year(year: int, output_dir: Path) -> dict[str, Path]:
     for file_id, name_ja in RS_FILES:
         url = rs_file_url(year, file_id, name_ja)
         csv_path = _download_and_extract(url, year_dir, file_id)
+        if csv_path is None:
+            csv_path = _extract_from_cache(year, file_id, name_ja, year_dir)
         if csv_path:
             results[file_id] = csv_path
         else:
@@ -68,6 +76,29 @@ def _download_and_extract(url: str, dest_dir: Path, file_id: str) -> Path | None
             return dest_dir / csv_name
     except zipfile.BadZipFile as e:
         print(f"  [ERROR] ZIPファイル破損: {e}")
+        return None
+
+
+def _extract_from_cache(
+    year: int, file_id: str, name_ja: str, dest_dir: Path
+) -> Path | None:
+    """ローカルキャッシュ (etl/rs_cache/{year}/) から ZIP を解凍して返す。"""
+    zip_name = f"{file_id}_RS_{year}_{name_ja}.zip"
+    cache_zip = _CACHE_DIR / str(year) / zip_name
+    if not cache_zip.exists():
+        return None
+
+    print(f"  [CACHE] {cache_zip.name} を使用")
+    try:
+        with zipfile.ZipFile(cache_zip) as z:
+            csv_names = [n for n in z.namelist() if n.endswith(".csv")]
+            if not csv_names:
+                return None
+            csv_name = csv_names[0]
+            z.extract(csv_name, dest_dir)
+            return dest_dir / csv_name
+    except zipfile.BadZipFile as e:
+        print(f"  [ERROR] キャッシュZIP破損: {e}")
         return None
 
 
