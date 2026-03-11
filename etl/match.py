@@ -45,15 +45,15 @@ def match(
 
     project_ids = projects["project_id"].tolist()
 
-    # RS事業: 事業名 + overview（先頭200字）+ purpose（先頭100字）
+    # RS事業: 事業名のみ（overview/purposeはテキスト長の非対称でコサイン類似度を下げるため除外）
     project_texts = [
-        _build_project_text(row["name"], row.get("overview", ""), row.get("purpose", ""))
+        _normalize_text(str(row["name"]) if row["name"] else "")
         for _, row in projects.iterrows()
     ]
 
     # 調達案件: 「令和X年度」プレフィックスを除去して比較精度向上
     proc_texts = [
-        _normalize_proc_name(n) for n in proc["name"].fillna("").tolist()
+        _normalize_text(_normalize_proc_name(n)) for n in proc["name"].fillna("").tolist()
     ]
 
     # TF-IDF行列を生成
@@ -85,7 +85,10 @@ def match(
     # Step 2: ベンダー名クロスマッチング（TF-IDF未達候補の救済）
     _vendor_secondary_match(proc, projects, project_ids, sim_matrix)
 
-    # Step 3: 手動補正テーブルで上書き
+    # Step 3: overview/purpose テキストによる救済マッチング
+    _overview_secondary_match(proc, projects, project_ids, sim_matrix)
+
+    # Step 4: 手動補正テーブルで上書き
     corrections = _load_corrections(corrections_file)
     for corr in corrections:
         pid = corr.get("project_id")
@@ -107,12 +110,9 @@ def _normalize_proc_name(name: str) -> str:
     return name
 
 
-def _build_project_text(name: str, overview: str, purpose: str = "") -> str:
-    """事業名 + overview先頭200字 + purpose先頭100字を結合してマッチング用テキストを構築する。"""
-    name_str = str(name) if name else ""
-    overview_str = str(overview)[:200] if overview else ""
-    purpose_str = str(purpose)[:100] if purpose else ""
-    return f"{name_str} {overview_str} {purpose_str}".strip()
+def _normalize_text(text: str) -> str:
+    """TF-IDF用テキスト正規化（事業名・調達案件名共通）。"""
+    return str(text).strip() if text else ""
 
 
 def _vendor_secondary_match(
@@ -169,6 +169,68 @@ def _vendor_secondary_match(
         for pid, _ in sorted(candidates, key=lambda x: -x[1]):
             rs_vendors = project_vendor_map.get(pid, [])
             if any(proc_vendor_norm in rv or rv in proc_vendor_norm for rv in rs_vendors):
+                proc.at[idx, "project_id"] = pid
+                break
+
+
+def _overview_secondary_match(
+    proc: pd.DataFrame,
+    projects: pd.DataFrame,
+    project_ids: list,
+    sim_matrix,
+) -> None:
+    """TF-IDF未達案件を overview/purpose テキストで救済マッチングする（in-place）。
+
+    TF-IDF スコアが [0.15, MATCHING_THRESHOLD) の候補に対し、
+    調達案件名のキーワード（4文字以上の単語）が RS 事業の overview または purpose に
+    含まれる場合に採用する。
+    """
+    has_overview = "overview" in projects.columns
+    has_purpose = "purpose" in projects.columns
+    if not has_overview and not has_purpose:
+        return
+
+    # RS事業: project_id → (overview, purpose) のマップを構築
+    project_text_map: dict[str, str] = {}
+    for _, prow in projects.iterrows():
+        overview = str(prow.get("overview") or "")[:300]
+        purpose = str(prow.get("purpose") or "")[:150]
+        combined = jaconv.normalize(overview + " " + purpose, "NFKC").lower()
+        if combined.strip():
+            project_text_map[prow["project_id"]] = combined
+
+    if not project_text_map:
+        return
+
+    lower_threshold = 0.15
+
+    for pos, (idx, row) in enumerate(proc.iterrows()):
+        if row["project_id"] is not None:
+            continue  # 既にマッチ済み
+
+        proc_name = _normalize_proc_name(str(row.get("name") or ""))
+        proc_norm = jaconv.normalize(proc_name, "NFKC").lower()
+        # 4文字以上のキーワードを抽出（日本語では4文字で意味的に十分）
+        keywords = [proc_norm[i:i+4] for i in range(len(proc_norm) - 3)]
+        if not keywords:
+            continue
+
+        sim_row = sim_matrix[pos]
+        candidates = [
+            (project_ids[j], sim_row[j])
+            for j in range(len(project_ids))
+            if lower_threshold <= sim_row[j] < MATCHING_THRESHOLD
+        ]
+        if not candidates:
+            continue
+
+        for pid, _ in sorted(candidates, key=lambda x: -x[1]):
+            proj_text = project_text_map.get(pid, "")
+            if not proj_text:
+                continue
+            # キーワードの過半数が overview/purpose に含まれるか確認
+            matches = sum(1 for kw in keywords if kw in proj_text)
+            if keywords and matches / len(keywords) >= 0.5:
                 proc.at[idx, "project_id"] = pid
                 break
 
