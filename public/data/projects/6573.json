@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "id": "6573",
   "name": "政府共通決済基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,17 @@
   "startYear": "2022",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 1404031350.0,
-  "vendorCount": 6,
+  "totalAmount": 1569031350.0,
+  "vendorCount": 7,
+  "latestExecRate": null,
+  "latestBudget": 0.0,
+  "vendorSummary": {
+    "totalSpend": null,
+    "topVendor": "ＴＩＳ株式会社",
+    "topVendorAmount": null,
+    "concentration": null,
+    "vendorCount": 2
+  },
   "budgets": [
     {
       "budget_year": 2025,
@@ -185,6 +194,15 @@
       "vendorName": "株式会社三菱総合研究所",
       "corporateNumber": "6010001030403",
       "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000543903",
+      "name": "令和８年度 政府共通決済基盤における省庁機能の実装整備事業",
+      "awardDate": "2026-03-10",
+      "price": 165000000.0,
+      "vendorName": "株式会社フォーカスシステムズ",
+      "corporateNumber": "1010701008901",
+      "bidMethodName": "一般競争入札・総合評価"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "id": "20057",
   "name": "政府統計共同利用システムに係る自動連携及び集計システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -14,6 +14,15 @@
   "rsUrl": "",
   "totalAmount": 0.0,
   "vendorCount": 0,
+  "latestExecRate": null,
+  "latestBudget": 0.0,
+  "vendorSummary": {
+    "totalSpend": null,
+    "topVendor": "文部科学省",
+    "topVendorAmount": null,
+    "concentration": null,
+    "vendorCount": 3
+  },
   "budgets": [
     {
       "budget_year": 2025,

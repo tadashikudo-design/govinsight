@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "id": "5559",
   "name": "サイバーセキュリティ対策等事業費",
   "ministry": "デジタル庁",
@@ -14,6 +14,15 @@
   "rsUrl": "",
   "totalAmount": 91712000.0,
   "vendorCount": 3,
+  "latestExecRate": null,
+  "latestBudget": 127555000.0,
+  "vendorSummary": {
+    "totalSpend": null,
+    "topVendor": "株式会社ケイテック",
+    "topVendorAmount": null,
+    "concentration": null,
+    "vendorCount": 13
+  },
   "budgets": [
     {
       "budget_year": 2025,

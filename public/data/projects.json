@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "items": [
     {
       "id": "4",
@@ -10,7 +10,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/development_management/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 457280641000.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "7",
@@ -21,7 +25,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/mynumber",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 287680000.0,
+      "topVendor": "富士ソフトサービスビューロ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "11",
@@ -32,7 +40,11 @@
       "startYear": "2021",
       "endYear": "2025",
       "rsUrl": "https://www.soumu.go.jp/main_content/000211868.pdf",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "東京センチュリー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "12",
@@ -43,7 +55,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "富士電機株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "13",
@@ -54,7 +70,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "14",
@@ -65,7 +85,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.gpki.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "一般社団法人行政情報システム研究所",
+      "totalRsSpend": null
     },
     {
       "id": "15",
@@ -76,7 +100,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "東京センチュリー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "18",
@@ -87,7 +115,11 @@
       "startYear": "2021",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "一般社団法人行政情報システム研究所",
+      "totalRsSpend": null
     },
     {
       "id": "25",
@@ -98,7 +130,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "富士通株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "26",
@@ -109,7 +145,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://gbiz-id.go.jp",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "27",
@@ -120,7 +160,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株会社",
+      "totalRsSpend": null
     },
     {
       "id": "56",
@@ -131,7 +175,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立製作所",
+      "totalRsSpend": null
     },
     {
       "id": "696",
@@ -142,7 +190,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 37721000.0,
+      "topVendor": "株式会社　東京リーガルマインド",
+      "totalRsSpend": null
     },
     {
       "id": "5509",
@@ -153,7 +205,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "https://www.digital.go.jp/policies/account_registration/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "預金保険機構",
+      "totalRsSpend": null
     },
     {
       "id": "5510",
@@ -164,7 +220,11 @@
       "startYear": "2022",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社タスクールＰｌｕｓ",
+      "totalRsSpend": null
     },
     {
       "id": "5542",
@@ -175,7 +235,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "一般社団法人行政情報システム研究所",
+      "totalRsSpend": null
     },
     {
       "id": "5543",
@@ -186,7 +250,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/gov_cloud/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "グーグル・クラウド・ジャパン合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "5544",
@@ -197,7 +265,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/public_service_mesh",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "5545",
@@ -208,7 +280,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＰｗＣコンサルティング合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "5546",
@@ -219,7 +295,11 @@
       "startYear": "2021",
       "endYear": "2027",
       "rsUrl": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/349887b3-b9be-4ed5-b631-42d0ad0359e6/237cd52c/20230330_policies_assessment_outline_07.pdf",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "5547",
@@ -230,7 +310,11 @@
       "startYear": "2021",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "預金保険機構",
+      "totalRsSpend": null
     },
     {
       "id": "5548",
@@ -241,7 +325,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社エヌ・ティ・ティ・データ",
+      "totalRsSpend": null
     },
     {
       "id": "5549",
@@ -252,7 +340,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社電通デジタル",
+      "totalRsSpend": null
     },
     {
       "id": "5550",
@@ -263,7 +355,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.p-portal.go.jp/pps-web-biz/UZA01/OZA0101",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "5551",
@@ -274,7 +370,11 @@
       "startYear": "2021",
       "endYear": "2027",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社エヌ・ティ・ティ・データ",
+      "totalRsSpend": null
     },
     {
       "id": "5552",
@@ -285,7 +385,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "5553",
@@ -296,7 +400,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "5554",
@@ -307,7 +415,11 @@
       "startYear": "2021",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ドリームインキュベータ",
+      "totalRsSpend": null
     },
     {
       "id": "5555",
@@ -318,7 +430,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "三菱電機ソフトウエア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "5556",
@@ -329,7 +445,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "日本電気株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "5557",
@@ -340,7 +460,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 285613000.0,
+      "topVendor": "みずほリサーチ＆テクノロジーズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "5559",
@@ -351,7 +475,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 127555000.0,
+      "topVendor": "株式会社ケイテック",
+      "totalRsSpend": null
     },
     {
       "id": "6545",
@@ -362,7 +490,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "キャップジェミニ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6546",
@@ -373,7 +505,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://myna.go.jp/html/about_mynaportal.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6547",
@@ -384,7 +520,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://myna.go.jp/html/about_mynaportal.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "6548",
@@ -395,7 +535,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "6549",
@@ -406,7 +550,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社エヌ・ティ・ティ・データ",
+      "totalRsSpend": null
     },
     {
       "id": "6550",
@@ -417,7 +565,11 @@
       "startYear": "2021",
       "endYear": "2028",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "日本電気株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6552",
@@ -428,7 +580,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立社会情報サービス",
+      "totalRsSpend": null
     },
     {
       "id": "6553",
@@ -439,7 +595,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社富士通ラーニングメディア",
+      "totalRsSpend": null
     },
     {
       "id": "6554",
@@ -450,7 +610,11 @@
       "startYear": "2021",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "東京センチュリー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6556",
@@ -461,7 +625,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.p-portal.go.jp/pps-web-biz/UZA01/OZA0101",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "6557",
@@ -472,7 +640,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "地方公共団体情報システム機構",
+      "totalRsSpend": null
     },
     {
       "id": "6558",
@@ -483,7 +655,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/get-involved/co-creation-platform/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＳＢテクノロジー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6560",
@@ -494,7 +670,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "さくらインターネット株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6561",
@@ -505,7 +685,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/account_registration/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "日鉄ソリューションズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6562",
@@ -516,7 +700,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "6563",
@@ -527,7 +715,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/digital_promotion_staff/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
+      "totalRsSpend": null
     },
     {
       "id": "6564",
@@ -538,7 +730,11 @@
       "startYear": "2022",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "一般社団法人データ社会推進協議会",
+      "totalRsSpend": null
     },
     {
       "id": "6565",
@@ -549,7 +745,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "一般社団法人データ社会推進協議会",
+      "totalRsSpend": null
     },
     {
       "id": "6566",
@@ -560,7 +760,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://services.digital.go.jp/benefits/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社エヌ・ティ・ティ・データ",
+      "totalRsSpend": null
     },
     {
       "id": "6567",
@@ -571,7 +775,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "6568",
@@ -582,7 +790,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://services.digital.go.jp/auth-and-sign/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立製作所",
+      "totalRsSpend": null
     },
     {
       "id": "6569",
@@ -593,7 +805,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/administrative_procedures_online",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6570",
@@ -604,7 +820,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/security/comprehensive-operational-synthetic-monitoring-system",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立製作所",
+      "totalRsSpend": null
     },
     {
       "id": "6571",
@@ -615,7 +835,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6572",
@@ -626,7 +850,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＳＢテクノロジー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6573",
@@ -637,7 +865,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＴＩＳ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6574",
@@ -648,7 +880,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechmap",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社博報堂",
+      "totalRsSpend": null
     },
     {
       "id": "6580",
@@ -659,7 +895,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アビームコンサルティング株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6581",
@@ -670,7 +910,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ボストン・コンサルティング・グループ合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "6582",
@@ -681,7 +925,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "https://trustedweb.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アビームコンサルティング株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "7632",
@@ -692,7 +940,11 @@
       "startYear": "2023",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＥＬＹＺＡ",
+      "totalRsSpend": null
     },
     {
       "id": "7633",
@@ -703,7 +955,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "7634",
@@ -714,7 +970,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＦＩＸＥＲ",
+      "totalRsSpend": null
     },
     {
       "id": "7635",
@@ -725,7 +985,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "https://www.dmp-official.digital.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "シンプレクス株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "7636",
@@ -736,7 +1000,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/security/crsa",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＰｗＣコンサルティング合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "7637",
@@ -747,7 +1015,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/disaster_prevention/data-collaboration-infrastructure#demonstration-project-2024",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社三菱総合研究所",
+      "totalRsSpend": null
     },
     {
       "id": "7638",
@@ -758,7 +1030,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＪＤＳＣ",
+      "totalRsSpend": null
     },
     {
       "id": "7639",
@@ -769,7 +1045,11 @@
       "startYear": "2023",
       "endYear": "2028",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "7640",
@@ -780,7 +1060,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＪＤＳＣ",
+      "totalRsSpend": null
     },
     {
       "id": "7642",
@@ -791,7 +1075,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 68075000.0,
+      "topVendor": "株式会社ぎょうせい",
+      "totalRsSpend": null
     },
     {
       "id": "7643",
@@ -802,7 +1090,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日本経済社",
+      "totalRsSpend": null
     },
     {
       "id": "7644",
@@ -813,7 +1105,11 @@
       "startYear": "2023",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "パナソニックコネクト株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "7645",
@@ -824,7 +1120,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "その他",
+      "totalRsSpend": null
     },
     {
       "id": "7646",
@@ -835,7 +1135,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "社会保険診療報酬支払基金",
+      "totalRsSpend": null
     },
     {
       "id": "19657",
@@ -846,7 +1150,11 @@
       "startYear": "2023",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": null
     },
     {
       "id": "19662",
@@ -857,7 +1165,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社アトリス",
+      "totalRsSpend": null
     },
     {
       "id": "19668",
@@ -868,7 +1180,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "19681",
@@ -879,7 +1195,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社カオナビ",
+      "totalRsSpend": null
     },
     {
       "id": "19708",
@@ -890,7 +1210,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＳＢテクノロジー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20006",
@@ -901,7 +1225,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "環境省",
+      "totalRsSpend": null
     },
     {
       "id": "20020",
@@ -912,7 +1240,11 @@
       "startYear": "2018",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "出入国在留管理庁",
+      "totalRsSpend": null
     },
     {
       "id": "20022",
@@ -923,7 +1255,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アビームコンサルティング株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20023",
@@ -934,7 +1270,11 @@
       "startYear": "",
       "endYear": "2029",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20024",
@@ -945,7 +1285,11 @@
       "startYear": "2004",
       "endYear": "",
       "rsUrl": "https://www.touki-kyoutaku-online.moj.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20030",
@@ -956,7 +1300,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20031",
@@ -967,7 +1315,11 @@
       "startYear": "2006",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20035",
@@ -978,7 +1330,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20036",
@@ -989,7 +1345,11 @@
       "startYear": "2006",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20037",
@@ -1000,7 +1360,11 @@
       "startYear": "2006",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20038",
@@ -1011,7 +1375,11 @@
       "startYear": "2000",
       "endYear": "",
       "rsUrl": "https://www.moj.go.jp/MINJI/denshininshou.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20040",
@@ -1022,7 +1390,11 @@
       "startYear": "1998",
       "endYear": "",
       "rsUrl": "https://www.moj.go.jp/MINJI/minji06_00154.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20041",
@@ -1033,7 +1405,11 @@
       "startYear": "2018",
       "endYear": "",
       "rsUrl": "https://www.moj.go.jp/MINJI/minji04_00082.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20042",
@@ -1044,7 +1420,11 @@
       "startYear": "2000",
       "endYear": "",
       "rsUrl": "https://www1.touki.or.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20052",
@@ -1055,7 +1435,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20054",
@@ -1066,7 +1450,11 @@
       "startYear": "2020",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20055",
@@ -1077,7 +1465,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20056",
@@ -1088,7 +1480,11 @@
       "startYear": "2006",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20057",
@@ -1099,7 +1495,11 @@
       "startYear": "2008",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20060",
@@ -1110,7 +1510,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "https://www.mext.go.jp/a_menu/shotou/zyouhou/mext_00001.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20067",
@@ -1121,7 +1525,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20068",
@@ -1132,7 +1540,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20069",
@@ -1143,7 +1555,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "https://www.bunka.go.jp/saiteisimulation/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20070",
@@ -1154,7 +1570,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "https://tsunagarujp.mext.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20071",
@@ -1165,7 +1585,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20077",
@@ -1176,7 +1600,11 @@
       "startYear": "1996",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20079",
@@ -1187,7 +1615,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20082",
@@ -1198,7 +1630,11 @@
       "startYear": "2000",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20083",
@@ -1209,7 +1645,11 @@
       "startYear": "2003",
       "endYear": "",
       "rsUrl": "https://www.e-bisc.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20087",
@@ -1220,7 +1660,11 @@
       "startYear": "2005",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20091",
@@ -1231,7 +1675,11 @@
       "startYear": "2021",
       "endYear": "2026",
       "rsUrl": "https://www.mhlw.go.jp/stf/shingi2/0000198094_00037.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20092",
@@ -1242,7 +1690,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20094",
@@ -1253,7 +1705,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20097",
@@ -1264,7 +1720,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "林野庁",
+      "totalRsSpend": null
     },
     {
       "id": "20101",
@@ -1275,7 +1735,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20102",
@@ -1286,7 +1750,11 @@
       "startYear": "2020",
       "endYear": "2028",
       "rsUrl": "https://www.moj.go.jp/content/001416000.pdf",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20103",
@@ -1297,7 +1765,11 @@
       "startYear": "2005",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20105",
@@ -1308,7 +1780,11 @@
       "startYear": "2018",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20106",
@@ -1319,7 +1795,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "20107",
@@ -1330,7 +1810,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20108",
@@ -1341,7 +1825,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20120",
@@ -1352,7 +1840,11 @@
       "startYear": "2004",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20133",
@@ -1363,7 +1855,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20134",
@@ -1374,7 +1870,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20135",
@@ -1385,7 +1885,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "キャップジェミニ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20136",
@@ -1396,7 +1900,11 @@
       "startYear": "2003",
       "endYear": "2028",
       "rsUrl": "https://www.mlit.go.jp/road/tokusya/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20140",
@@ -1407,7 +1915,11 @@
       "startYear": "1977",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "20141",
@@ -1418,7 +1930,11 @@
       "startYear": "2015",
       "endYear": "",
       "rsUrl": "https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/index.htm",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20142",
@@ -1429,7 +1945,11 @@
       "startYear": "1998",
       "endYear": "",
       "rsUrl": "https://www.customs.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "税関",
+      "totalRsSpend": null
     },
     {
       "id": "20143",
@@ -1440,7 +1960,11 @@
       "startYear": "1978",
       "endYear": "",
       "rsUrl": "https://www.naccs.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "税関",
+      "totalRsSpend": null
     },
     {
       "id": "20144",
@@ -1451,7 +1975,11 @@
       "startYear": "1991",
       "endYear": "",
       "rsUrl": "https://www.customs.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "税関",
+      "totalRsSpend": null
     },
     {
       "id": "20147",
@@ -1462,7 +1990,11 @@
       "startYear": "2002",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20148",
@@ -1473,7 +2005,11 @@
       "startYear": "1996",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "20151",
@@ -1484,7 +2020,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "20154",
@@ -1495,7 +2035,11 @@
       "startYear": "1963",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20156",
@@ -1506,7 +2050,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "https://www.river.go.jp/index",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20157",
@@ -1517,7 +2065,11 @@
       "startYear": "2005",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20160",
@@ -1528,7 +2080,11 @@
       "startYear": "2004",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "20164",
@@ -1539,7 +2095,11 @@
       "startYear": "2009",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "20165",
@@ -1550,7 +2110,11 @@
       "startYear": "2025",
       "endYear": "2031",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣官房",
+      "totalRsSpend": null
     },
     {
       "id": "20169",
@@ -1561,7 +2125,11 @@
       "startYear": "2025",
       "endYear": "2026",
       "rsUrl": "https://www.stat.go.jp/data/e-census/2021/index.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20175",
@@ -1572,7 +2140,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/national-and-local-networks",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 2219000.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20182",
@@ -1583,7 +2155,11 @@
       "startYear": "2008",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "20183",
@@ -1594,7 +2170,11 @@
       "startYear": "1997",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20184",
@@ -1605,7 +2185,11 @@
       "startYear": "2013",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20187",
@@ -1616,7 +2200,11 @@
       "startYear": "2007",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20190",
@@ -1627,7 +2215,11 @@
       "startYear": "2009",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20192",
@@ -1638,7 +2230,11 @@
       "startYear": "1973",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20193",
@@ -1649,7 +2245,11 @@
       "startYear": "2003",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20194",
@@ -1660,7 +2260,11 @@
       "startYear": "1982",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20195",
@@ -1671,7 +2275,11 @@
       "startYear": "1996",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20196",
@@ -1682,7 +2290,11 @@
       "startYear": "1997",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20197",
@@ -1693,7 +2305,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20198",
@@ -1704,7 +2320,11 @@
       "startYear": "2018",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20199",
@@ -1715,7 +2335,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20200",
@@ -1726,7 +2350,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20201",
@@ -1737,7 +2365,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20202",
@@ -1748,7 +2380,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "警察庁",
+      "totalRsSpend": null
     },
     {
       "id": "20203",
@@ -1759,7 +2395,11 @@
       "startYear": "2000",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20205",
@@ -1770,7 +2410,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20209",
@@ -1781,7 +2425,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20210",
@@ -1792,7 +2440,11 @@
       "startYear": "1997",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "海上保安庁",
+      "totalRsSpend": null
     },
     {
       "id": "20219",
@@ -1803,7 +2455,11 @@
       "startYear": "2025",
       "endYear": "2031",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20220",
@@ -1814,7 +2470,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.jma.go.jp/jma/press/2402/21a/press_20240221.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "気象庁",
+      "totalRsSpend": null
     },
     {
       "id": "20221",
@@ -1825,7 +2485,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "気象庁",
+      "totalRsSpend": null
     },
     {
       "id": "20224",
@@ -1836,7 +2500,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "気象庁",
+      "totalRsSpend": null
     },
     {
       "id": "20231",
@@ -1847,7 +2515,11 @@
       "startYear": "1994",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "経済産業省",
+      "totalRsSpend": null
     },
     {
       "id": "20235",
@@ -1858,7 +2530,11 @@
       "startYear": "2025",
       "endYear": "2026",
       "rsUrl": "https://www.stat.go.jp/data/shakai/2021/index.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20248",
@@ -1869,7 +2545,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20257",
@@ -1880,7 +2560,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "経済産業省",
+      "totalRsSpend": null
     },
     {
       "id": "20293",
@@ -1891,7 +2575,11 @@
       "startYear": "2021",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20298",
@@ -1902,7 +2590,11 @@
       "startYear": "1997",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20310",
@@ -1913,7 +2605,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20311",
@@ -1924,7 +2620,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "北海道開発局",
+      "totalRsSpend": null
     },
     {
       "id": "20312",
@@ -1935,7 +2635,11 @@
       "startYear": "2026",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣府",
+      "totalRsSpend": null
     },
     {
       "id": "20314",
@@ -1946,7 +2650,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20318",
@@ -1957,7 +2665,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20327",
@@ -1968,7 +2680,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20328",
@@ -1979,7 +2695,11 @@
       "startYear": "2014",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "totalRsSpend": null
     },
     {
       "id": "20335",
@@ -1990,7 +2710,11 @@
       "startYear": "2024",
       "endYear": "2026",
       "rsUrl": "https://www.cfa.go.jp/policies/child-safety/efforts/koseibouhou",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "こども家庭庁",
+      "totalRsSpend": null
     },
     {
       "id": "20341",
@@ -2001,7 +2725,11 @@
       "startYear": "2015",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20346",
@@ -2012,7 +2740,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20352",
@@ -2023,7 +2755,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＪＤＳＣ",
+      "totalRsSpend": null
     },
     {
       "id": "20355",
@@ -2034,7 +2770,11 @@
       "startYear": "2010",
       "endYear": "",
       "rsUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/reseputo/index.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20356",
@@ -2045,7 +2785,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_mn1_000029.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20359",
@@ -2056,7 +2800,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20361",
@@ -2067,7 +2815,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20405",
@@ -2078,7 +2830,11 @@
       "startYear": "2025",
       "endYear": "2031",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20408",
@@ -2089,7 +2845,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "関東財務局ほか",
+      "totalRsSpend": null
     },
     {
       "id": "20415",
@@ -2100,7 +2860,11 @@
       "startYear": "2021",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20423",
@@ -2111,7 +2875,11 @@
       "startYear": "2011",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20453",
@@ -2122,7 +2890,11 @@
       "startYear": "1981",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20461",
@@ -2133,7 +2905,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "20480",
@@ -2144,7 +2920,11 @@
       "startYear": "2025",
       "endYear": "2030",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "20512",
@@ -2155,7 +2935,11 @@
       "startYear": "2025",
       "endYear": "2029",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "20569",
@@ -2166,7 +2950,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20570",
@@ -2177,7 +2965,11 @@
       "startYear": "2018",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛装備庁",
+      "totalRsSpend": null
     },
     {
       "id": "20571",
@@ -2188,7 +2980,11 @@
       "startYear": "2019",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20581",
@@ -2199,7 +2995,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20585",
@@ -2210,7 +3010,11 @@
       "startYear": "2010",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "デロイトトーマツコンサルティング合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "20608",
@@ -2221,7 +3025,11 @@
       "startYear": "2019",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "非公開",
+      "totalRsSpend": null
     },
     {
       "id": "20612",
@@ -2232,7 +3040,11 @@
       "startYear": "2018",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "20613",
@@ -2243,7 +3055,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20837",
@@ -2254,7 +3070,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20841",
@@ -2265,7 +3085,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間企業",
+      "totalRsSpend": null
     },
     {
       "id": "20866",
@@ -2276,7 +3100,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間事業者",
+      "totalRsSpend": null
     },
     {
       "id": "20867",
@@ -2287,7 +3115,11 @@
       "startYear": "2024",
       "endYear": "2027",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "リコージャパン株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20912",
@@ -2298,7 +3130,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間企業",
+      "totalRsSpend": null
     },
     {
       "id": "20913",
@@ -2309,7 +3145,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "独立行政法人情報処理推進機構",
+      "totalRsSpend": null
     },
     {
       "id": "20934",
@@ -2320,7 +3160,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "契約事業者",
+      "totalRsSpend": null
     },
     {
       "id": "20940",
@@ -2331,7 +3175,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20966",
@@ -2342,7 +3190,11 @@
       "startYear": "2024",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣官房",
+      "totalRsSpend": null
     },
     {
       "id": "20969",
@@ -2353,7 +3205,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "20981",
@@ -2364,7 +3220,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "文部科学省",
+      "totalRsSpend": null
     },
     {
       "id": "20994",
@@ -2375,7 +3235,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "20996",
@@ -2386,7 +3250,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "21010",
@@ -2397,7 +3265,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21048",
@@ -2408,7 +3280,11 @@
       "startYear": "2023",
       "endYear": "2028",
       "rsUrl": "https://www.bousai.go.jp/taisaku/soboweb/index.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣府",
+      "totalRsSpend": null
     },
     {
       "id": "21059",
@@ -2419,7 +3295,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "https://www.mhlw.go.jp/stf/birth-navi/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "21092",
@@ -2430,7 +3310,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "21095",
@@ -2441,7 +3325,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国税庁",
+      "totalRsSpend": null
     },
     {
       "id": "21096",
@@ -2452,7 +3340,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 44597000.0,
+      "topVendor": "太陽企画株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "21117",
@@ -2463,7 +3355,11 @@
       "startYear": "1987",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "法務省",
+      "totalRsSpend": null
     },
     {
       "id": "21122",
@@ -2474,7 +3370,11 @@
       "startYear": "2020",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣官房",
+      "totalRsSpend": null
     },
     {
       "id": "21126",
@@ -2485,7 +3385,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "21143",
@@ -2496,7 +3400,11 @@
       "startYear": "1987",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21149",
@@ -2507,7 +3415,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "調査検討業務受注者",
+      "totalRsSpend": null
     },
     {
       "id": "21172",
@@ -2518,7 +3430,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21195",
@@ -2529,7 +3445,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "https://www.cas.go.jp/jp/tokuteihimitsu/index.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "21203",
@@ -2540,7 +3460,11 @@
       "startYear": "2024",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "21217",
@@ -2551,7 +3475,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21221",
@@ -2562,7 +3490,11 @@
       "startYear": "2025",
       "endYear": "2025",
       "rsUrl": "https://trustedweb.go.jp/",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21222",
@@ -2573,7 +3505,11 @@
       "startYear": "2025",
       "endYear": "2032",
       "rsUrl": "https://www.mlit.go.jp/tec/tec_tk_000037.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "国土交通省",
+      "totalRsSpend": null
     },
     {
       "id": "21231",
@@ -2584,7 +3520,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "外務省",
+      "totalRsSpend": null
     },
     {
       "id": "21232",
@@ -2595,7 +3535,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21249",
@@ -2606,7 +3550,11 @@
       "startYear": "2007",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "防衛省",
+      "totalRsSpend": null
     },
     {
       "id": "21259",
@@ -2617,7 +3565,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "こども家庭庁",
+      "totalRsSpend": null
     },
     {
       "id": "21267",
@@ -2628,7 +3580,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21269",
@@ -2639,7 +3595,11 @@
       "startYear": "2024",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21280",
@@ -2650,7 +3610,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.mhlw.go.jp/toukei/list/81-1.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21295",
@@ -2661,7 +3625,11 @@
       "startYear": "1996",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21296",
@@ -2672,7 +3640,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21310",
@@ -2683,7 +3655,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "https://www.maff.go.jp/j/seisaku_tokatu/antei/keiei_antei.html",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "農林水産省",
+      "totalRsSpend": null
     },
     {
       "id": "21318",
@@ -2694,7 +3670,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 198523000.0,
+      "topVendor": "経済協力開発機構",
+      "totalRsSpend": null
     },
     {
       "id": "21328",
@@ -2705,7 +3685,11 @@
       "startYear": "2019",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "21344",
@@ -2716,7 +3700,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 30000000.0,
+      "topVendor": "民間事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21345",
@@ -2727,7 +3715,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "21366",
@@ -2738,7 +3730,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "21386",
@@ -2749,7 +3745,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "消費者庁",
+      "totalRsSpend": null
     },
     {
       "id": "21421",
@@ -2760,7 +3760,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "広報事業受託事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21422",
@@ -2771,7 +3775,11 @@
       "startYear": "2026",
       "endYear": "2028",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "受託事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21424",
@@ -2782,7 +3790,11 @@
       "startYear": "2026",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21425",
@@ -2793,7 +3805,11 @@
       "startYear": "2026",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21426",
@@ -2804,7 +3820,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21427",
@@ -2815,7 +3835,11 @@
       "startYear": "2025",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21437",
@@ -2826,7 +3850,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21893",
@@ -2837,7 +3865,11 @@
       "startYear": "2020",
       "endYear": "2024",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21894",
@@ -2848,7 +3880,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2024.pdf",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 76311000.0,
+      "topVendor": "民間事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21895",
@@ -2859,7 +3895,11 @@
       "startYear": "2014",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/resources/standard_guidelines",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 37400000.0,
+      "topVendor": "アビームコンサルティング株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "21898",
@@ -2870,7 +3910,11 @@
       "startYear": "2022",
       "endYear": "",
       "rsUrl": "https://www.digital.go.jp/policies/moving_onestop_service",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 39781000.0,
+      "topVendor": "富士フイルムシステムサービス株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "21929",
@@ -2881,7 +3925,11 @@
       "startYear": "2019",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣府",
+      "totalRsSpend": null
     },
     {
       "id": "21951",
@@ -2892,7 +3940,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "財務省",
+      "totalRsSpend": null
     },
     {
       "id": "21973",
@@ -2903,7 +3955,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "事業者",
+      "totalRsSpend": null
     },
     {
       "id": "21981",
@@ -2914,7 +3970,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21990",
@@ -2925,7 +3985,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "21991",
@@ -2936,7 +4000,11 @@
       "startYear": "2025",
       "endYear": "2030",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "内閣官房",
+      "totalRsSpend": null
     },
     {
       "id": "22014",
@@ -2947,7 +4015,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間企業Ａ",
+      "totalRsSpend": null
     },
     {
       "id": "22024",
@@ -2958,7 +4030,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22029",
@@ -2969,7 +4045,11 @@
       "startYear": "2020",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "公正取引委員会",
+      "totalRsSpend": null
     },
     {
       "id": "22030",
@@ -2980,7 +4060,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22046",
@@ -2991,7 +4075,11 @@
       "startYear": "2001",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立製作所",
+      "totalRsSpend": null
     },
     {
       "id": "22053",
@@ -3002,7 +4090,11 @@
       "startYear": "2025",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22055",
@@ -3013,7 +4105,11 @@
       "startYear": "2025",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22086",
@@ -3024,7 +4120,11 @@
       "startYear": "2025",
       "endYear": "2029",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22098",
@@ -3035,7 +4135,11 @@
       "startYear": "2023",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "厚生労働省",
+      "totalRsSpend": null
     },
     {
       "id": "22144",
@@ -3046,7 +4150,11 @@
       "startYear": "2025",
       "endYear": "2025",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "22152",
@@ -3057,7 +4165,11 @@
       "startYear": "2009",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2025"
+      "rsYear": "2025",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "総務省",
+      "totalRsSpend": null
     },
     {
       "id": "74",
@@ -3068,7 +4180,11 @@
       "startYear": "2021",
       "endYear": "2023",
       "rsUrl": "https://github.com/gbizconnect/gbizconnect-node",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社日立社会情報サービス",
+      "totalRsSpend": null
     },
     {
       "id": "5421",
@@ -3079,7 +4195,11 @@
       "startYear": "2022",
       "endYear": "2023",
       "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社三菱総合研究所",
+      "totalRsSpend": null
     },
     {
       "id": "5443",
@@ -3090,7 +4210,11 @@
       "startYear": "2022",
       "endYear": "2023",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "デロイトトーマツコンサルティング合同会社",
+      "totalRsSpend": null
     },
     {
       "id": "5560",
@@ -3101,7 +4225,11 @@
       "startYear": "2022",
       "endYear": "2023",
       "rsUrl": "https://www.digital.go.jp/policies/digital_promotion_staff/",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "有限責任監査法人トーマツ",
+      "totalRsSpend": null
     },
     {
       "id": "6555",
@@ -3112,7 +4240,11 @@
       "startYear": "2021",
       "endYear": "2023",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "東京センチュリー株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "6575",
@@ -3123,7 +4255,11 @@
       "startYear": "2022",
       "endYear": "2023",
       "rsUrl": "https://trustedweb.go.jp/",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "ＴＯＰＰＡＮ株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20039",
@@ -3134,7 +4270,11 @@
       "startYear": "",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20045",
@@ -3145,7 +4285,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20047",
@@ -3156,7 +4300,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20051",
@@ -3167,7 +4315,11 @@
       "startYear": "2020",
       "endYear": "2023",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "株式会社ＦＩＸＥＲ",
+      "totalRsSpend": null
     },
     {
       "id": "20080",
@@ -3178,7 +4330,11 @@
       "startYear": "2025",
       "endYear": "2026",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "民間事業者等",
+      "totalRsSpend": null
     },
     {
       "id": "20185",
@@ -3189,7 +4345,11 @@
       "startYear": "2026",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": null,
+      "totalRsSpend": null
     },
     {
       "id": "20320",
@@ -3200,7 +4360,11 @@
       "startYear": "2001",
       "endYear": "2023",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "三菱倉庫株式会社",
+      "totalRsSpend": null
     },
     {
       "id": "20366",
@@ -3211,7 +4375,11 @@
       "startYear": "2025",
       "endYear": "2029",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "システム開発事業者",
+      "totalRsSpend": null
     },
     {
       "id": "20369",
@@ -3222,7 +4390,11 @@
       "startYear": "2025",
       "endYear": "",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "システム開発事業者",
+      "totalRsSpend": null
     },
     {
       "id": "20537",
@@ -3233,7 +4405,11 @@
       "startYear": "",
       "endYear": "2023",
       "rsUrl": "",
-      "rsYear": "2024"
+      "rsYear": "2024",
+      "latestExecRate": null,
+      "latestBudget": 0.0,
+      "topVendor": "日本電気株式会社",
+      "totalRsSpend": null
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "items": [
     {
       "id": "0000000000000424436",
@@ -258,7 +258,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "三菱ＵＦＪリサーチ＆コンサルティング株式会社",
       "corporateNumber": "3010401011971",
-      "projectId": "6565",
+      "projectId": "",
       "fiscalYear": 2024.0
     },
     {
@@ -388,7 +388,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "ＫＰＭＧコンサルティング株式会社",
       "corporateNumber": "8010001144647",
-      "projectId": "22053",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -596,7 +596,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社Ｇ－ｇｅｎ",
       "corporateNumber": "8011101095805",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -726,7 +726,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "合同会社デロイトトーマツ",
       "corporateNumber": "3010001076738",
-      "projectId": "",
+      "projectId": "20182",
       "fiscalYear": 2024.0
     },
     {
@@ -947,7 +947,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "富士通株式会社",
       "corporateNumber": "1020001071491",
-      "projectId": "7636",
+      "projectId": "",
       "fiscalYear": 2024.0
     },
     {
@@ -1246,7 +1246,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "アビームコンサルティング株式会社",
       "corporateNumber": "8010001085296",
-      "projectId": "22053",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -1337,7 +1337,7 @@
       "bidMethodName": "一般競争入札・最低価格",
       "vendorName": "株式会社日立システムズ",
       "corporateNumber": "6010701025710",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -1909,7 +1909,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社ＮＴＴデータ経営研究所",
       "corporateNumber": "1010001143390",
-      "projectId": "7644",
+      "projectId": "5553",
       "fiscalYear": 2024.0
     },
     {
@@ -1987,7 +1987,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "株式会社三菱総合研究所",
       "corporateNumber": "6010001030403",
-      "projectId": "",
+      "projectId": "5544",
       "fiscalYear": 2024.0
     },
     {
@@ -2286,7 +2286,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "株式会社ＮＴＴデータ",
       "corporateNumber": "6010601062093",
-      "projectId": "",
+      "projectId": "20141",
       "fiscalYear": 2024.0
     },
     {
@@ -2312,7 +2312,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "ボストン・コンサルティング・グループ合同会社",
       "corporateNumber": "2010001029085",
-      "projectId": "",
+      "projectId": "4",
       "fiscalYear": 2024.0
     },
     {
@@ -2624,7 +2624,7 @@
       "bidMethodName": "一般競争入札・最低価格",
       "vendorName": "ストーンビートセキュリティ株式会社",
       "corporateNumber": "9010601047835",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -2702,7 +2702,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "富士通株式会社",
       "corporateNumber": "1020001071491",
-      "projectId": "7636",
+      "projectId": "",
       "fiscalYear": 2024.0
     },
     {
@@ -3040,7 +3040,7 @@
       "bidMethodName": "一般競争入札・最低価格",
       "vendorName": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
       "corporateNumber": "5120001238738",
-      "projectId": "5560",
+      "projectId": "6563",
       "fiscalYear": 2024.0
     },
     {
@@ -3079,7 +3079,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社シード・プランニング",
       "corporateNumber": "9010001144299",
-      "projectId": "22053",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -3326,7 +3326,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社日立社会情報サービス",
       "corporateNumber": "3010601021713",
-      "projectId": "",
+      "projectId": "20041",
       "fiscalYear": 2024.0
     },
     {
@@ -3339,7 +3339,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "アビームコンサルティング株式会社",
       "corporateNumber": "8010001085296",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2024.0
     },
     {
@@ -3547,7 +3547,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社ＡＤＫマーケティング・ソリューションズ",
       "corporateNumber": "3010001035099",
-      "projectId": "7646",
+      "projectId": "6557",
       "fiscalYear": 2024.0
     },
     {
@@ -3625,7 +3625,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "デロイトトーマツコンサルティング合同会社",
       "corporateNumber": "7010001088960",
-      "projectId": "20585",
+      "projectId": "20055",
       "fiscalYear": 2025.0
     },
     {
@@ -3755,7 +3755,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "富士通株式会社",
       "corporateNumber": "1020001071491",
-      "projectId": "",
+      "projectId": "20041",
       "fiscalYear": 2025.0
     },
     {
@@ -3807,7 +3807,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "キャップジェミニ株式会社",
       "corporateNumber": "4010402035069",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2025.0
     },
     {
@@ -4483,7 +4483,7 @@
       "bidMethodName": "一般競争入札・最低価格",
       "vendorName": "株式会社日立システムズ",
       "corporateNumber": "6010701025710",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2025.0
     },
     {
@@ -4496,7 +4496,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "日鉄ソリューションズ株式会社",
       "corporateNumber": "9010001045803",
-      "projectId": "",
+      "projectId": "6561",
       "fiscalYear": 2025.0
     },
     {
@@ -4548,7 +4548,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "デロイトトーマツコンサルティング合同会社",
       "corporateNumber": "7010001088960",
-      "projectId": "20585",
+      "projectId": "",
       "fiscalYear": 2025.0
     },
     {
@@ -4613,7 +4613,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社ＮＴＴデータ",
       "corporateNumber": "6010601062093",
-      "projectId": "20585",
+      "projectId": "7638",
       "fiscalYear": 2025.0
     },
     {
@@ -4665,7 +4665,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "有限責任監査法人トーマツ",
       "corporateNumber": "5010405001703",
-      "projectId": "",
+      "projectId": "20022",
       "fiscalYear": 2025.0
     },
     {
@@ -5120,7 +5120,7 @@
       "bidMethodName": "指名競争入札",
       "vendorName": "株式会社ユー・エス・イー",
       "corporateNumber": "6290001049738",
-      "projectId": "",
+      "projectId": "6556",
       "fiscalYear": 2025.0
     },
     {
@@ -5237,7 +5237,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "ＰｗＣコンサルティング合同会社",
       "corporateNumber": "1010401023102",
-      "projectId": "",
+      "projectId": "7637",
       "fiscalYear": 2025.0
     },
     {
@@ -5276,7 +5276,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "株式会社システムサポート",
       "corporateNumber": "6220001026074",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2025.0
     },
     {
@@ -5367,7 +5367,7 @@
       "bidMethodName": "一般競争入札・総合評価",
       "vendorName": "合同会社デロイトトーマツ",
       "corporateNumber": "3010001076738",
-      "projectId": "",
+      "projectId": "7637",
       "fiscalYear": 2025.0
     },
     {
@@ -5965,7 +5965,7 @@
       "bidMethodName": "一般競争入札・最低価格",
       "vendorName": "株式会社日立システムズ",
       "corporateNumber": "6010701025710",
-      "projectId": "",
+      "projectId": "5543",
       "fiscalYear": 2025.0
     },
     {
@@ -6200,6 +6200,97 @@
       "vendorName": "三菱電機ソフトウエア株式会社",
       "corporateNumber": "9010401028746",
       "projectId": "",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000543903",
+      "name": "令和８年度 政府共通決済基盤における省庁機能の実装整備事業",
+      "awardDate": "2026-03-10",
+      "price": 165000000.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002040",
+      "bidMethodName": "一般競争入札・総合評価",
+      "vendorName": "株式会社フォーカスシステムズ",
+      "corporateNumber": "1010701008901",
+      "projectId": "6573",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000552638",
+      "name": "令和８年度住民向け汎用電子申請サービス及びユーザーデータ登録機能の設計・開発等",
+      "awardDate": "2026-03-10",
+      "price": 231525000.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002040",
+      "bidMethodName": "一般競争入札・総合評価",
+      "vendorName": "アクセンチュア株式会社",
+      "corporateNumber": "7010401001556",
+      "projectId": "",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000568544",
+      "name": "令和８年度デジタル認証アプリのテスト支援",
+      "awardDate": "2026-03-10",
+      "price": 58951200.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8004030",
+      "bidMethodName": "随意契約・公募型プロポーザル",
+      "vendorName": "株式会社ＳＨＩＦＴ",
+      "corporateNumber": "8010401073462",
+      "projectId": "6568",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000546651",
+      "name": "第二期政府共通プラットフォームにおけるソフトウェア・サービス（令和８年度）の提供",
+      "awardDate": "2026-03-11",
+      "price": 136026000.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002040",
+      "bidMethodName": "一般競争入札・総合評価",
+      "vendorName": "東京センチュリー株式会社",
+      "corporateNumber": "6010401015821",
+      "projectId": "6550",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000546670",
+      "name": "第二期政府共通プラットフォームにおけるプロジェクト管理等支援業務（令和８年度）の請負",
+      "awardDate": "2026-03-11",
+      "price": 148088400.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002040",
+      "bidMethodName": "一般競争入札・総合評価",
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "projectId": "6550",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000546672",
+      "name": "第二期政府共通プラットフォームにおける運用管理等提供業務（令和８年度）の請負",
+      "awardDate": "2026-03-11",
+      "price": 930831000.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002040",
+      "bidMethodName": "一般競争入札・総合評価",
+      "vendorName": "日本電気株式会社",
+      "corporateNumber": "7010401022916",
+      "projectId": "6550",
+      "fiscalYear": 2025.0
+    },
+    {
+      "id": "0000000000000569311",
+      "name": "デジタル庁内開発情報システム基盤環境におけるR8年度Jiraライセンス調達",
+      "awardDate": "2026-03-11",
+      "price": 39130000.0,
+      "ministryCode": "W1",
+      "bidMethodCode": "8002010",
+      "bidMethodName": "一般競争入札・最低価格",
+      "vendorName": "リックソフト株式会社",
+      "corporateNumber": "1010001124218",
+      "projectId": "6571",
       "fiscalYear": 2025.0
     }
   ]

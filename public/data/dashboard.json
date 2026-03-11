@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-03-11T08:05:28Z",
+  "updatedAt": "2026-03-11T10:59:47Z",
   "summary": {
     "projectCount": 294,
-    "procurementCount": 477,
-    "totalAmount": 167163483176.0,
-    "vendorCount": 174
+    "procurementCount": 484,
+    "totalAmount": 168873034776.0,
+    "vendorCount": 176
   },
   "monthlyAwards": [
     {
@@ -124,25 +124,25 @@
     },
     {
       "month": "2026-03",
-      "count": 16,
-      "amount": 1480705839.0
+      "count": 23,
+      "amount": 3190257439.0
     }
   ],
   "bidMethodSummary": [
     {
       "method": "随意契約・公募型プロポーザル",
-      "count": 200,
-      "amount": 60485189819.0
+      "count": 201,
+      "amount": 60544141019.0
     },
     {
       "method": "一般競争入札・総合評価",
-      "count": 155,
-      "amount": 103371440838.0
+      "count": 160,
+      "amount": 104982911238.0
     },
     {
       "method": "一般競争入札・最低価格",
-      "count": 120,
-      "amount": 3122243359.0
+      "count": 121,
+      "amount": 3161373359.0
     },
     {
       "method": "8014030",
