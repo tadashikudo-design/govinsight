@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6546",
   "name": "情報提供等記録開示システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 13971240076.0,
     "topVendor": "アクセンチュア株式会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 10422864000.0,
+    "concentration": 74.6,
     "vendorCount": 30
   },
   "budgets": [

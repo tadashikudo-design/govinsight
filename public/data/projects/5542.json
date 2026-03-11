@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "5542",
   "name": "ガバメントソリューションサービス（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "一般社団法人行政情報システム研究所",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 66135485000.0,
+    "topVendor": "日本電気株式会社",
+    "topVendorAmount": 12003394000.0,
+    "concentration": 18.1,
     "vendorCount": 63
   },
   "budgets": [

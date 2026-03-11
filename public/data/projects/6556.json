@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6556",
   "name": "調達ポータル（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 598529000.0,
     "topVendor": "株式会社ＮＴＴデータ",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 379113000.0,
+    "concentration": 63.3,
     "vendorCount": 16
   },
   "budgets": [

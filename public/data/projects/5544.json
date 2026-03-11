@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "5544",
   "name": "公共サービスメッシュ（デジタル連携基盤）（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 4211421212.0,
     "topVendor": "アクセンチュア株式会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 2068000000.0,
+    "concentration": 49.1,
     "vendorCount": 24
   },
   "budgets": [

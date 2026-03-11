@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "5557",
   "name": "準公共・相互連携分野デジタル化推進費",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 285613000.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "みずほリサーチ＆テクノロジーズ株式会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 1450542000.0,
+    "topVendor": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+    "topVendorAmount": 284912000.0,
+    "concentration": 19.6,
     "vendorCount": 52
   },
   "budgets": [

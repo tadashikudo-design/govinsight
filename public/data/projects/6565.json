@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6565",
   "name": "生活用データ連携基盤及びＷｅｌｌ－Ｂｅｉｎｇ指標管理システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "一般社団法人データ社会推進協議会",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 616095000.0,
+    "topVendor": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+    "topVendorAmount": 191572000.0,
+    "concentration": 31.1,
     "vendorCount": 21
   },
   "budgets": [

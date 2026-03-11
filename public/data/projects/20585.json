@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "20585",
   "name": "保険医療機関等管理システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "デロイトトーマツコンサルティング合同会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 6157438000.0,
+    "topVendor": "株式会社ＮＴＴデータ",
+    "topVendorAmount": 5198684000.0,
+    "concentration": 84.4,
     "vendorCount": 3
   },
   "budgets": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "20037",
   "name": "登記情報システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 50346172000.0,
     "topVendor": "法務省",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 25137608000.0,
+    "concentration": 49.9,
     "vendorCount": 31
   },
   "budgets": [

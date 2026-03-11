@@ -1,0 +1,532 @@
+{
+  "updatedAt": "2026-03-11T22:55:03Z",
+  "totalRsSpend": 1070988761740.0,
+  "totalCloudSpend": 8064386450.0,
+  "cloudShare": 0.8,
+  "cloudPlatforms": [
+    {
+      "platform": "Azure",
+      "amount": 4224975000.0,
+      "projectCount": 3,
+      "share": 52.4,
+      "vendors": [
+        "日本マイクロソフト株式会社"
+      ]
+    },
+    {
+      "platform": "AWS",
+      "amount": 2305727626.0,
+      "projectCount": 5,
+      "share": 28.6,
+      "vendors": [
+        "アマゾンウェブサービスジャパン合同会社"
+      ]
+    },
+    {
+      "platform": "Oracle Cloud",
+      "amount": 1214825000.0,
+      "projectCount": 1,
+      "share": 15.1,
+      "vendors": [
+        "日本オラクル株式会社"
+      ]
+    },
+    {
+      "platform": "Google Cloud",
+      "amount": 313877824.0,
+      "projectCount": 2,
+      "share": 3.9,
+      "vendors": [
+        "グーグル・クラウド・ジャパン合同会社"
+      ]
+    },
+    {
+      "platform": "Salesforce",
+      "amount": 4981000.0,
+      "projectCount": 1,
+      "share": 0.1,
+      "vendors": [
+        "株式会社セールスフォース・ジャパン"
+      ]
+    }
+  ],
+  "categoryBreakdown": [
+    {
+      "category": "その他",
+      "totalAmount": 761164387867.0,
+      "projectCount": 2059,
+      "share": 71.1
+    },
+    {
+      "category": "国内大手SI",
+      "totalAmount": 246645000123.0,
+      "projectCount": 298,
+      "share": 23.0
+    },
+    {
+      "category": "外資コンサル",
+      "totalAmount": 37716860576.0,
+      "projectCount": 42,
+      "share": 3.5
+    },
+    {
+      "category": "国内通信",
+      "totalAmount": 12310518527.0,
+      "projectCount": 53,
+      "share": 1.1
+    },
+    {
+      "category": "外資クラウド",
+      "totalAmount": 8064386450.0,
+      "projectCount": 12,
+      "share": 0.8
+    },
+    {
+      "category": "国内コンサル・ベンダー",
+      "totalAmount": 5087608197.0,
+      "projectCount": 17,
+      "share": 0.5
+    }
+  ],
+  "topVendors": [
+    {
+      "name": "株式会社ＮＴＴデータ",
+      "category": "国内大手SI",
+      "cloudPlatform": null,
+      "totalAmount": 72480184954.0,
+      "projectCount": 39,
+      "share": 10.7,
+      "singleBidRate": 33.3
+    },
+    {
+      "name": "日本電気株式会社",
+      "category": "国内大手SI",
+      "cloudPlatform": null,
+      "totalAmount": 56974051358.0,
+      "projectCount": 44,
+      "share": 8.41,
+      "singleBidRate": 31.9
+    },
+    {
+      "name": "株式会社日立製作所",
+      "category": "国内大手SI",
+      "cloudPlatform": null,
+      "totalAmount": 42873612308.0,
+      "projectCount": 29,
+      "share": 6.33,
+      "singleBidRate": 42.7
+    },
+    {
+      "name": "富士通株式会社",
+      "category": "国内大手SI",
+      "cloudPlatform": null,
+      "totalAmount": 41930445294.0,
+      "projectCount": 38,
+      "share": 6.19,
+      "singleBidRate": 40.6
+    },
+    {
+      "name": "株式会社ＪＥＣＣ",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 33540170107.0,
+      "projectCount": 22,
+      "share": 4.95,
+      "singleBidRate": 41.8
+    },
+    {
+      "name": "アクセンチュア株式会社",
+      "category": "外資コンサル",
+      "cloudPlatform": null,
+      "totalAmount": 32871847357.0,
+      "projectCount": 17,
+      "share": 4.85,
+      "singleBidRate": 48.1
+    },
+    {
+      "name": "株式会社ビー・エス・デーインフォメーションテクノロジー",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 22177643564.0,
+      "projectCount": 6,
+      "share": 3.27,
+      "singleBidRate": 12.2
+    },
+    {
+      "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 19190774237.0,
+      "projectCount": 27,
+      "share": 2.83,
+      "singleBidRate": 53.1
+    },
+    {
+      "name": "ＮＴＴ・ＴＣリース株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 15971292840.0,
+      "projectCount": 9,
+      "share": 2.36,
+      "singleBidRate": 6.2
+    },
+    {
+      "name": "東日本電信電話株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 15805039269.0,
+      "projectCount": 9,
+      "share": 2.33,
+      "singleBidRate": 25.8
+    },
+    {
+      "name": "税関",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 14593696000.0,
+      "projectCount": 3,
+      "share": 2.15,
+      "singleBidRate": 0.0
+    },
+    {
+      "name": "株式会社日立システムズ",
+      "category": "国内大手SI",
+      "cloudPlatform": null,
+      "totalAmount": 14386202063.0,
+      "projectCount": 18,
+      "share": 2.12,
+      "singleBidRate": 41.2
+    },
+    {
+      "name": "東京センチュリー株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 12297811069.0,
+      "projectCount": 23,
+      "share": 1.82,
+      "singleBidRate": 33.3
+    },
+    {
+      "name": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 11661189000.0,
+      "projectCount": 1,
+      "share": 1.72,
+      "singleBidRate": 50.0
+    },
+    {
+      "name": "株式会社エヌ・ティ・ティ・データ",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 11655816000.0,
+      "projectCount": 5,
+      "share": 1.72,
+      "singleBidRate": 27.3
+    },
+    {
+      "name": "日鉄ソリューションズ株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 10898166000.0,
+      "projectCount": 11,
+      "share": 1.61,
+      "singleBidRate": 18.0
+    },
+    {
+      "name": "東芝デジタルソリューションズ株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 10355348489.0,
+      "projectCount": 14,
+      "share": 1.53,
+      "singleBidRate": 74.2
+    },
+    {
+      "name": "三菱ＨＣキャピタル株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 10078880379.0,
+      "projectCount": 16,
+      "share": 1.49,
+      "singleBidRate": 43.2
+    },
+    {
+      "name": "関東財務局ほか",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 9944026000.0,
+      "projectCount": 1,
+      "share": 1.47,
+      "singleBidRate": 0.0
+    },
+    {
+      "name": "社会保険診療報酬支払基金",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 8591409000.0,
+      "projectCount": 4,
+      "share": 1.27,
+      "singleBidRate": 87.5
+    },
+    {
+      "name": "その他",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 8589542256.0,
+      "projectCount": 27,
+      "share": 1.27,
+      "singleBidRate": 11.5
+    },
+    {
+      "name": "エヌ・ティ・ティ・データ・カスタマサービス株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 8049459682.0,
+      "projectCount": 6,
+      "share": 1.19,
+      "singleBidRate": 42.9
+    },
+    {
+      "name": "昭和リース株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 7723869724.0,
+      "projectCount": 3,
+      "share": 1.14,
+      "singleBidRate": 33.3
+    },
+    {
+      "name": "ＳＢテクノロジー株式会社",
+      "category": "国内通信",
+      "cloudPlatform": null,
+      "totalAmount": 7142092500.0,
+      "projectCount": 8,
+      "share": 1.05,
+      "singleBidRate": 23.1
+    },
+    {
+      "name": "株式会社三菱総合研究所",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 6872426218.0,
+      "projectCount": 16,
+      "share": 1.01,
+      "singleBidRate": 28.6
+    },
+    {
+      "name": "株式会社ＦＩＸＥＲ",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 5824084148.0,
+      "projectCount": 2,
+      "share": 0.86,
+      "singleBidRate": 100.0
+    },
+    {
+      "name": "輸出入・港湾関連情報処理センター株式会社",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 4903244369.0,
+      "projectCount": 3,
+      "share": 0.72,
+      "singleBidRate": 100.0
+    },
+    {
+      "name": "民間企業Ａ",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 4685188000.0,
+      "projectCount": 11,
+      "share": 0.69,
+      "singleBidRate": 30.0
+    },
+    {
+      "name": "日本マイクロソフト株式会社",
+      "category": "外資クラウド",
+      "cloudPlatform": "Azure",
+      "totalAmount": 4224975000.0,
+      "projectCount": 3,
+      "share": 0.62,
+      "singleBidRate": 60.0
+    },
+    {
+      "name": "一般社団法人行政情報システム研究所",
+      "category": "その他",
+      "cloudPlatform": null,
+      "totalAmount": 3819427000.0,
+      "projectCount": 4,
+      "share": 0.56,
+      "singleBidRate": 55.6
+    }
+  ],
+  "procurementVendors": [
+    {
+      "corporateNumber": "7010401022916",
+      "name": "日本電気株式会社",
+      "category": "国内大手SI",
+      "totalAmount": 34780656612.0,
+      "count": 23,
+      "noCompetitionRate": 26.1
+    },
+    {
+      "corporateNumber": "9011101031552",
+      "name": "ＫＤＤＩ株式会社",
+      "category": "国内通信",
+      "totalAmount": 28385500000.0,
+      "count": 5,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "7010401001556",
+      "name": "アクセンチュア株式会社",
+      "category": "外資コンサル",
+      "totalAmount": 17766428000.0,
+      "count": 7,
+      "noCompetitionRate": 71.4
+    },
+    {
+      "corporateNumber": "8011101028104",
+      "name": "ＮＴＴ東日本株式会社",
+      "category": "国内通信",
+      "totalAmount": 14061170700.0,
+      "count": 8,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "6010601062093",
+      "name": "株式会社ＮＴＴデータ",
+      "category": "国内大手SI",
+      "totalAmount": 12162961849.0,
+      "count": 22,
+      "noCompetitionRate": 63.6
+    },
+    {
+      "corporateNumber": "6010701025710",
+      "name": "株式会社日立システムズ",
+      "category": "国内大手SI",
+      "totalAmount": 9518586217.0,
+      "count": 4,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "1020001071491",
+      "name": "富士通株式会社",
+      "category": "国内大手SI",
+      "totalAmount": 3827131000.0,
+      "count": 7,
+      "noCompetitionRate": 85.7
+    },
+    {
+      "corporateNumber": "1010401023102",
+      "name": "ＰｗＣコンサルティング合同会社",
+      "category": "その他",
+      "totalAmount": 2785824369.0,
+      "count": 19,
+      "noCompetitionRate": 52.6
+    },
+    {
+      "corporateNumber": "2010701032272",
+      "name": "フューチャーアーキテクト株式会社",
+      "category": "国内コンサル・ベンダー",
+      "totalAmount": 2460500000.0,
+      "count": 5,
+      "noCompetitionRate": 100.0
+    },
+    {
+      "corporateNumber": "7011101033773",
+      "name": "ＳＢテクノロジー株式会社",
+      "category": "国内通信",
+      "totalAmount": 2317254000.0,
+      "count": 6,
+      "noCompetitionRate": 66.7
+    },
+    {
+      "corporateNumber": "9010401127151",
+      "name": "シンプレクス株式会社",
+      "category": "その他",
+      "totalAmount": 2094502500.0,
+      "count": 4,
+      "noCompetitionRate": 75.0
+    },
+    {
+      "corporateNumber": "6010001011147",
+      "name": "株式会社インターネットイニシアティブ",
+      "category": "その他",
+      "totalAmount": 2048800000.0,
+      "count": 1,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "7010001064648",
+      "name": "ＮＴＴドコモビジネス株式会社",
+      "category": "その他",
+      "totalAmount": 1964051564.0,
+      "count": 7,
+      "noCompetitionRate": 71.4
+    },
+    {
+      "corporateNumber": "8010401073462",
+      "name": "株式会社ＳＨＩＦＴ",
+      "category": "その他",
+      "totalAmount": 1867512674.0,
+      "count": 9,
+      "noCompetitionRate": 88.9
+    },
+    {
+      "corporateNumber": "8010001144647",
+      "name": "ＫＰＭＧコンサルティング株式会社",
+      "category": "その他",
+      "totalAmount": 1826630000.0,
+      "count": 7,
+      "noCompetitionRate": 57.1
+    },
+    {
+      "corporateNumber": "7020001077145",
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "category": "国内大手SI",
+      "totalAmount": 1640000000.0,
+      "count": 1,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "8010001085296",
+      "name": "アビームコンサルティング株式会社",
+      "category": "その他",
+      "totalAmount": 1604376915.0,
+      "count": 18,
+      "noCompetitionRate": 55.6
+    },
+    {
+      "corporateNumber": "7010001088960",
+      "name": "デロイトトーマツコンサルティング合同会社",
+      "category": "外資コンサル",
+      "totalAmount": 1483188562.0,
+      "count": 13,
+      "noCompetitionRate": 61.5
+    },
+    {
+      "corporateNumber": "6010001030403",
+      "name": "株式会社三菱総合研究所",
+      "category": "その他",
+      "totalAmount": 1309750500.0,
+      "count": 11,
+      "noCompetitionRate": 81.8
+    },
+    {
+      "corporateNumber": "9010005005761",
+      "name": "一般社団法人行政情報システム研究所",
+      "category": "その他",
+      "totalAmount": 1279428100.0,
+      "count": 3,
+      "noCompetitionRate": 66.7
+    }
+  ],
+  "concentrationMetrics": {
+    "top3Share": 25.4,
+    "top5Share": 36.6,
+    "top10Share": 52.2,
+    "hhi": 384,
+    "vendorCount": 1250
+  }
+}

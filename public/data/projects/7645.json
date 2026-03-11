@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "7645",
   "name": "医療費助成・予防接種・母子保健等に係る情報連携システム基盤の構築事業",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "その他",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 1693326000.0,
+    "topVendor": "アクセンチュア株式会社",
+    "topVendorAmount": 636932000.0,
+    "concentration": 37.6,
     "vendorCount": 19
   },
   "budgets": [

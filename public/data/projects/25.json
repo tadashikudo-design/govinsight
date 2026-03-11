@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "25",
   "name": "旅費等内部管理業務共通システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 2120686000.0,
     "topVendor": "富士通株式会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 1520953000.0,
+    "concentration": 71.7,
     "vendorCount": 3
   },
   "budgets": [

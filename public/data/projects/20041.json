@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "20041",
   "name": "戸籍情報連携システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 25242679000.0,
     "topVendor": "法務省",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 12615244000.0,
+    "concentration": 50.0,
     "vendorCount": 16
   },
   "budgets": [

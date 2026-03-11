@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6567",
   "name": "職員ＩＤ基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 1955172720.0,
     "topVendor": "株式会社ＮＴＴデータ",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 934825000.0,
+    "concentration": 47.8,
     "vendorCount": 30
   },
   "budgets": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "5510",
   "name": "登記事項証明書の添付省略の推進に係る調査事業",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 5928979.0,
     "topVendor": "株式会社タスクールＰｌｕｓ",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 2431749.0,
+    "concentration": 41.0,
     "vendorCount": 4
   },
   "budgets": [

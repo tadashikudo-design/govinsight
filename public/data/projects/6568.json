@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6568",
   "name": "個人向け認証アプリケーション（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
+    "totalSpend": 1842925000.0,
     "topVendor": "株式会社日立製作所",
-    "topVendorAmount": null,
-    "concentration": null,
+    "topVendorAmount": 1111738000.0,
+    "concentration": 60.3,
     "vendorCount": 15
   },
   "budgets": [

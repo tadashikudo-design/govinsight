@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "20608",
   "name": "在外経理統合システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "非公開",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 2193413000.0,
+    "topVendor": "外務省",
+    "topVendorAmount": 1096707000.0,
+    "concentration": 50.0,
     "vendorCount": 10
   },
   "budgets": [

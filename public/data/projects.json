@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "items": [
     {
       "id": "4",
@@ -28,8 +28,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 287680000.0,
-      "topVendor": "富士ソフトサービスビューロ株式会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社読売広告社",
+      "totalRsSpend": 1765757000.0
     },
     {
       "id": "11",
@@ -44,7 +44,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "東京センチュリー株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 9811933297.0
     },
     {
       "id": "12",
@@ -59,7 +59,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "富士電機株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 1141052000.0
     },
     {
       "id": "13",
@@ -73,8 +73,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "法務省",
-      "totalRsSpend": null
+      "topVendor": "株式会社コンフィック",
+      "totalRsSpend": 1575868500.0
     },
     {
       "id": "14",
@@ -89,7 +89,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "一般社団法人行政情報システム研究所",
-      "totalRsSpend": null
+      "totalRsSpend": 2047065000.0
     },
     {
       "id": "15",
@@ -103,8 +103,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "東京センチュリー株式会社",
-      "totalRsSpend": null
+      "topVendor": "富士通株式会社",
+      "totalRsSpend": 4964966000.0
     },
     {
       "id": "18",
@@ -119,7 +119,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "一般社団法人行政情報システム研究所",
-      "totalRsSpend": null
+      "totalRsSpend": 319650045.0
     },
     {
       "id": "25",
@@ -134,7 +134,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "富士通株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 2120686000.0
     },
     {
       "id": "26",
@@ -149,7 +149,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 3157141000.0
     },
     {
       "id": "27",
@@ -164,7 +164,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アクセンチュア株会社",
-      "totalRsSpend": null
+      "totalRsSpend": 2093475000.0
     },
     {
       "id": "56",
@@ -179,7 +179,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日立製作所",
-      "totalRsSpend": null
+      "totalRsSpend": 999151000.0
     },
     {
       "id": "696",
@@ -194,7 +194,7 @@
       "latestExecRate": null,
       "latestBudget": 37721000.0,
       "topVendor": "株式会社　東京リーガルマインド",
-      "totalRsSpend": null
+      "totalRsSpend": 19050000.0
     },
     {
       "id": "5509",
@@ -209,7 +209,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "預金保険機構",
-      "totalRsSpend": null
+      "totalRsSpend": 80179000.0
     },
     {
       "id": "5510",
@@ -224,7 +224,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社タスクールＰｌｕｓ",
-      "totalRsSpend": null
+      "totalRsSpend": 5928979.0
     },
     {
       "id": "5542",
@@ -238,8 +238,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "一般社団法人行政情報システム研究所",
-      "totalRsSpend": null
+      "topVendor": "日本電気株式会社",
+      "totalRsSpend": 66135485000.0
     },
     {
       "id": "5543",
@@ -253,8 +253,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "グーグル・クラウド・ジャパン合同会社",
-      "totalRsSpend": null
+      "topVendor": "Ａｍａｚｏｎ　Ｗｅｂ　Ｓｅｒｖｉｃｅｓ，Ｉｎｃ．",
+      "totalRsSpend": 19324173000.0
     },
     {
       "id": "5544",
@@ -269,7 +269,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アクセンチュア株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 4211421212.0
     },
     {
       "id": "5545",
@@ -284,7 +284,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "ＰｗＣコンサルティング合同会社",
-      "totalRsSpend": null
+      "totalRsSpend": 416445630.0
     },
     {
       "id": "5546",
@@ -299,7 +299,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 634074701.0
     },
     {
       "id": "5547",
@@ -314,7 +314,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "預金保険機構",
-      "totalRsSpend": null
+      "totalRsSpend": 1573818000.0
     },
     {
       "id": "5548",
@@ -329,7 +329,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社エヌ・ティ・ティ・データ",
-      "totalRsSpend": null
+      "totalRsSpend": 3947827000.0
     },
     {
       "id": "5549",
@@ -344,7 +344,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社電通デジタル",
-      "totalRsSpend": null
+      "totalRsSpend": 378537000.0
     },
     {
       "id": "5550",
@@ -359,7 +359,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 2590998000.0
     },
     {
       "id": "5551",
@@ -374,7 +374,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社エヌ・ティ・ティ・データ",
-      "totalRsSpend": null
+      "totalRsSpend": 555291000.0
     },
     {
       "id": "5552",
@@ -389,7 +389,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 341222000.0
     },
     {
       "id": "5553",
@@ -404,7 +404,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 14632122136.0
     },
     {
       "id": "5554",
@@ -419,7 +419,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ドリームインキュベータ",
-      "totalRsSpend": null
+      "totalRsSpend": 383088000.0
     },
     {
       "id": "5555",
@@ -433,8 +433,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "三菱電機ソフトウエア株式会社",
-      "totalRsSpend": null
+      "topVendor": "富士通株式会社",
+      "totalRsSpend": 8087685570.0
     },
     {
       "id": "5556",
@@ -449,7 +449,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "日本電気株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 73811000.0
     },
     {
       "id": "5557",
@@ -463,8 +463,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 285613000.0,
-      "topVendor": "みずほリサーチ＆テクノロジーズ株式会社",
-      "totalRsSpend": null
+      "topVendor": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "totalRsSpend": 1450542000.0
     },
     {
       "id": "5559",
@@ -478,8 +478,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 127555000.0,
-      "topVendor": "株式会社ケイテック",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": 107276248.0
     },
     {
       "id": "6545",
@@ -493,8 +493,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "キャップジェミニ株式会社",
-      "totalRsSpend": null
+      "topVendor": "アビームコンサルティング株式会社",
+      "totalRsSpend": 361209000.0
     },
     {
       "id": "6546",
@@ -509,7 +509,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アクセンチュア株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 13971240076.0
     },
     {
       "id": "6547",
@@ -524,7 +524,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 5271920488.0
     },
     {
       "id": "6548",
@@ -539,7 +539,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 319955200.0
     },
     {
       "id": "6549",
@@ -554,7 +554,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社エヌ・ティ・ティ・データ",
-      "totalRsSpend": null
+      "totalRsSpend": 16407075000.0
     },
     {
       "id": "6550",
@@ -568,8 +568,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "日本電気株式会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社日立システムズ",
+      "totalRsSpend": 5897062000.0
     },
     {
       "id": "6552",
@@ -584,7 +584,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日立社会情報サービス",
-      "totalRsSpend": null
+      "totalRsSpend": 147554000.0
     },
     {
       "id": "6553",
@@ -599,7 +599,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社富士通ラーニングメディア",
-      "totalRsSpend": null
+      "totalRsSpend": 28798000.0
     },
     {
       "id": "6554",
@@ -614,7 +614,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "東京センチュリー株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 20100000.0
     },
     {
       "id": "6556",
@@ -629,7 +629,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 598529000.0
     },
     {
       "id": "6557",
@@ -644,7 +644,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "地方公共団体情報システム機構",
-      "totalRsSpend": null
+      "totalRsSpend": 24452982000.0
     },
     {
       "id": "6558",
@@ -659,7 +659,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "ＳＢテクノロジー株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 546737000.0
     },
     {
       "id": "6560",
@@ -673,8 +673,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "さくらインターネット株式会社",
-      "totalRsSpend": null
+      "topVendor": "民間事業者Ｂ",
+      "totalRsSpend": 522785076.0
     },
     {
       "id": "6561",
@@ -688,8 +688,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "日鉄ソリューションズ株式会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": 2735875374.0
     },
     {
       "id": "6562",
@@ -704,7 +704,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 105067000.0
     },
     {
       "id": "6563",
@@ -719,7 +719,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴマーケティングアクトＰｒｏＣＸ",
-      "totalRsSpend": null
+      "totalRsSpend": 104227000.0
     },
     {
       "id": "6564",
@@ -733,8 +733,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "一般社団法人データ社会推進協議会",
-      "totalRsSpend": null
+      "topVendor": "一般社団法人京都スマートシティ推進協議会",
+      "totalRsSpend": 844345000.0
     },
     {
       "id": "6565",
@@ -748,8 +748,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "一般社団法人データ社会推進協議会",
-      "totalRsSpend": null
+      "topVendor": "ＥＹストラテジー・アンド・コンサルティング株式会社",
+      "totalRsSpend": 616095000.0
     },
     {
       "id": "6566",
@@ -764,7 +764,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社エヌ・ティ・ティ・データ",
-      "totalRsSpend": null
+      "totalRsSpend": 1016266000.0
     },
     {
       "id": "6567",
@@ -779,7 +779,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 1955172720.0
     },
     {
       "id": "6568",
@@ -794,7 +794,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日立製作所",
-      "totalRsSpend": null
+      "totalRsSpend": 1842925000.0
     },
     {
       "id": "6569",
@@ -809,7 +809,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アクセンチュア株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 2023502000.0
     },
     {
       "id": "6570",
@@ -824,7 +824,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日立製作所",
-      "totalRsSpend": null
+      "totalRsSpend": 838850374.0
     },
     {
       "id": "6571",
@@ -839,7 +839,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 366693604.0
     },
     {
       "id": "6572",
@@ -853,8 +853,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "ＳＢテクノロジー株式会社",
-      "totalRsSpend": null
+      "topVendor": "デロイトトーマツコンサルティング合同会社",
+      "totalRsSpend": 86908000.0
     },
     {
       "id": "6573",
@@ -868,8 +868,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "ＴＩＳ株式会社",
-      "totalRsSpend": null
+      "topVendor": "ヤマトシステム開発株式会社",
+      "totalRsSpend": 22398000.0
     },
     {
       "id": "6574",
@@ -884,7 +884,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社博報堂",
-      "totalRsSpend": null
+      "totalRsSpend": 102902800.0
     },
     {
       "id": "6580",
@@ -899,7 +899,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アビームコンサルティング株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 39600000.0
     },
     {
       "id": "6581",
@@ -914,7 +914,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "ボストン・コンサルティング・グループ合同会社",
-      "totalRsSpend": null
+      "totalRsSpend": 47964000.0
     },
     {
       "id": "6582",
@@ -929,7 +929,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アビームコンサルティング株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 62018000.0
     },
     {
       "id": "7632",
@@ -944,7 +944,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＥＬＹＺＡ",
-      "totalRsSpend": null
+      "totalRsSpend": 370963000.0
     },
     {
       "id": "7633",
@@ -959,7 +959,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アクセンチュア株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 573275000.0
     },
     {
       "id": "7634",
@@ -974,7 +974,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＦＩＸＥＲ",
-      "totalRsSpend": null
+      "totalRsSpend": 1374007000.0
     },
     {
       "id": "7635",
@@ -989,7 +989,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "シンプレクス株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 571326000.0
     },
     {
       "id": "7636",
@@ -1003,8 +1003,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "ＰｗＣコンサルティング合同会社",
-      "totalRsSpend": null
+      "topVendor": "富士通株式会社",
+      "totalRsSpend": 700636440.0
     },
     {
       "id": "7637",
@@ -1019,7 +1019,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社三菱総合研究所",
-      "totalRsSpend": null
+      "totalRsSpend": 461445000.0
     },
     {
       "id": "7638",
@@ -1034,7 +1034,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＪＤＳＣ",
-      "totalRsSpend": null
+      "totalRsSpend": 89903000.0
     },
     {
       "id": "7639",
@@ -1049,7 +1049,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 655746000.0
     },
     {
       "id": "7640",
@@ -1064,7 +1064,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＪＤＳＣ",
-      "totalRsSpend": null
+      "totalRsSpend": 243652508.0
     },
     {
       "id": "7642",
@@ -1078,8 +1078,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 68075000.0,
-      "topVendor": "株式会社ぎょうせい",
-      "totalRsSpend": null
+      "topVendor": "株式会社野村総合研究所",
+      "totalRsSpend": 203705000.0
     },
     {
       "id": "7643",
@@ -1094,7 +1094,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日本経済社",
-      "totalRsSpend": null
+      "totalRsSpend": 89086000.0
     },
     {
       "id": "7644",
@@ -1109,7 +1109,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "パナソニックコネクト株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 29793000.0
     },
     {
       "id": "7645",
@@ -1123,8 +1123,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "その他",
-      "totalRsSpend": null
+      "topVendor": "アクセンチュア株式会社",
+      "totalRsSpend": 1693326000.0
     },
     {
       "id": "7646",
@@ -1139,7 +1139,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "社会保険診療報酬支払基金",
-      "totalRsSpend": null
+      "totalRsSpend": 4166354000.0
     },
     {
       "id": "19657",
@@ -1154,7 +1154,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＮＴＴデータ",
-      "totalRsSpend": null
+      "totalRsSpend": 212300000.0
     },
     {
       "id": "19662",
@@ -1169,7 +1169,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社アトリス",
-      "totalRsSpend": null
+      "totalRsSpend": 30822000.0
     },
     {
       "id": "19668",
@@ -1198,8 +1198,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "株式会社カオナビ",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＨＥＲＰ",
+      "totalRsSpend": 51626000.0
     },
     {
       "id": "19708",
@@ -1214,7 +1214,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "ＳＢテクノロジー株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 116127000.0
     },
     {
       "id": "20006",
@@ -1229,7 +1229,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "環境省",
-      "totalRsSpend": null
+      "totalRsSpend": 6244540000.0
     },
     {
       "id": "20020",
@@ -1244,7 +1244,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "出入国在留管理庁",
-      "totalRsSpend": null
+      "totalRsSpend": 42485715000.0
     },
     {
       "id": "20022",
@@ -1259,7 +1259,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "アビームコンサルティング株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 402105000.0
     },
     {
       "id": "20023",
@@ -1274,7 +1274,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "文部科学省",
-      "totalRsSpend": null
+      "totalRsSpend": 6153188000.0
     },
     {
       "id": "20024",
@@ -1289,7 +1289,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 7424412000.0
     },
     {
       "id": "20030",
@@ -1304,7 +1304,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 1706009000.0
     },
     {
       "id": "20031",
@@ -1319,7 +1319,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 3762204000.0
     },
     {
       "id": "20035",
@@ -1334,7 +1334,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 1200760000.0
     },
     {
       "id": "20036",
@@ -1349,7 +1349,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 8241594000.0
     },
     {
       "id": "20037",
@@ -1364,7 +1364,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 50346172000.0
     },
     {
       "id": "20038",
@@ -1379,7 +1379,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 1691888000.0
     },
     {
       "id": "20040",
@@ -1394,7 +1394,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 1369241000.0
     },
     {
       "id": "20041",
@@ -1409,7 +1409,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 25242679000.0
     },
     {
       "id": "20042",
@@ -1424,7 +1424,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 2024064000.0
     },
     {
       "id": "20052",
@@ -1454,7 +1454,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 131120000.0
     },
     {
       "id": "20055",
@@ -1469,7 +1469,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 5504598000.0
     },
     {
       "id": "20056",
@@ -1484,7 +1484,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 5321170000.0
     },
     {
       "id": "20057",
@@ -1499,7 +1499,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "文部科学省",
-      "totalRsSpend": null
+      "totalRsSpend": 324112000.0
     },
     {
       "id": "20060",
@@ -1514,7 +1514,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "文部科学省",
-      "totalRsSpend": null
+      "totalRsSpend": 2082612000.0
     },
     {
       "id": "20067",
@@ -1604,7 +1604,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 2695946000.0
     },
     {
       "id": "20079",
@@ -1619,7 +1619,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 130536032488.0
     },
     {
       "id": "20082",
@@ -1649,7 +1649,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 4494108000.0
     },
     {
       "id": "20087",
@@ -1664,7 +1664,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 12930760000.0
     },
     {
       "id": "20091",
@@ -1679,7 +1679,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 1364647690.0
     },
     {
       "id": "20092",
@@ -1694,7 +1694,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 18099967000.0
     },
     {
       "id": "20094",
@@ -1724,7 +1724,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "林野庁",
-      "totalRsSpend": null
+      "totalRsSpend": 724084900.0
     },
     {
       "id": "20101",
@@ -1739,7 +1739,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 30824000.0
     },
     {
       "id": "20102",
@@ -1754,7 +1754,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 6507376000.0
     },
     {
       "id": "20103",
@@ -1769,7 +1769,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 13391261438.0
     },
     {
       "id": "20105",
@@ -1784,7 +1784,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 7610341844.0
     },
     {
       "id": "20106",
@@ -1799,7 +1799,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 2695824000.0
     },
     {
       "id": "20107",
@@ -1814,7 +1814,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 6752586000.0
     },
     {
       "id": "20108",
@@ -1844,7 +1844,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 22885362338.0
     },
     {
       "id": "20133",
@@ -1874,7 +1874,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 3833372368.0
     },
     {
       "id": "20135",
@@ -1904,7 +1904,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 3458434000.0
     },
     {
       "id": "20140",
@@ -1919,7 +1919,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 7065287000.0
     },
     {
       "id": "20141",
@@ -1934,7 +1934,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 6174121003.0
     },
     {
       "id": "20142",
@@ -1949,7 +1949,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "税関",
-      "totalRsSpend": null
+      "totalRsSpend": 12671869987.0
     },
     {
       "id": "20143",
@@ -1964,7 +1964,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "税関",
-      "totalRsSpend": null
+      "totalRsSpend": 9780506000.0
     },
     {
       "id": "20144",
@@ -1979,7 +1979,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "税関",
-      "totalRsSpend": null
+      "totalRsSpend": 7336383601.0
     },
     {
       "id": "20147",
@@ -1994,7 +1994,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 9419524644.0
     },
     {
       "id": "20148",
@@ -2009,7 +2009,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 2808907000.0
     },
     {
       "id": "20151",
@@ -2024,7 +2024,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 6811582000.0
     },
     {
       "id": "20154",
@@ -2039,7 +2039,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "外務省",
-      "totalRsSpend": null
+      "totalRsSpend": 3345837805.0
     },
     {
       "id": "20156",
@@ -2054,7 +2054,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 3875820000.0
     },
     {
       "id": "20157",
@@ -2069,7 +2069,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 1792336504.0
     },
     {
       "id": "20160",
@@ -2084,7 +2084,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国税庁",
-      "totalRsSpend": null
+      "totalRsSpend": 21791035546.0
     },
     {
       "id": "20164",
@@ -2099,7 +2099,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 1800999286.0
     },
     {
       "id": "20165",
@@ -2159,7 +2159,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 847204000.0
     },
     {
       "id": "20183",
@@ -2174,7 +2174,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 2173764000.0
     },
     {
       "id": "20184",
@@ -2189,7 +2189,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 2037990000.0
     },
     {
       "id": "20187",
@@ -2204,7 +2204,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "外務省",
-      "totalRsSpend": null
+      "totalRsSpend": 593884000.0
     },
     {
       "id": "20190",
@@ -2219,7 +2219,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 13820546000.0
     },
     {
       "id": "20192",
@@ -2234,7 +2234,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 600587680.0
     },
     {
       "id": "20193",
@@ -2249,7 +2249,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 774692688.0
     },
     {
       "id": "20194",
@@ -2264,7 +2264,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 6921261884.0
     },
     {
       "id": "20195",
@@ -2279,7 +2279,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 3728166908.0
     },
     {
       "id": "20196",
@@ -2294,7 +2294,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 266138128.0
     },
     {
       "id": "20197",
@@ -2309,7 +2309,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 10320438104.0
     },
     {
       "id": "20198",
@@ -2323,8 +2323,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
-      "totalRsSpend": null
+      "topVendor": "東芝デジタルソリューションズ株式会社",
+      "totalRsSpend": 3765608000.0
     },
     {
       "id": "20199",
@@ -2339,7 +2339,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 26371423800.0
     },
     {
       "id": "20200",
@@ -2354,7 +2354,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 403439400.0
     },
     {
       "id": "20201",
@@ -2369,7 +2369,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 1142914300.0
     },
     {
       "id": "20202",
@@ -2384,7 +2384,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "警察庁",
-      "totalRsSpend": null
+      "totalRsSpend": 3807714000.0
     },
     {
       "id": "20203",
@@ -2399,7 +2399,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 20961134000.0
     },
     {
       "id": "20205",
@@ -2414,7 +2414,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 1901104000.0
     },
     {
       "id": "20209",
@@ -2428,8 +2428,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＮＴＴデータ・スマートソーシング",
+      "totalRsSpend": 387339000.0
     },
     {
       "id": "20210",
@@ -2443,8 +2443,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "海上保安庁",
-      "totalRsSpend": null
+      "topVendor": "国土交通省",
+      "totalRsSpend": 1477135174.0
     },
     {
       "id": "20219",
@@ -2474,7 +2474,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "気象庁",
-      "totalRsSpend": null
+      "totalRsSpend": 4080682598.0
     },
     {
       "id": "20221",
@@ -2489,7 +2489,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "気象庁",
-      "totalRsSpend": null
+      "totalRsSpend": 3030735400.0
     },
     {
       "id": "20224",
@@ -2504,7 +2504,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "気象庁",
-      "totalRsSpend": null
+      "totalRsSpend": 3609763727.0
     },
     {
       "id": "20231",
@@ -2519,7 +2519,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "経済産業省",
-      "totalRsSpend": null
+      "totalRsSpend": 7978526903.0
     },
     {
       "id": "20235",
@@ -2549,7 +2549,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 3546022134.0
     },
     {
       "id": "20257",
@@ -2579,7 +2579,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 3674682589.0
     },
     {
       "id": "20298",
@@ -2594,7 +2594,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 15356210000.0
     },
     {
       "id": "20310",
@@ -2624,7 +2624,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "北海道開発局",
-      "totalRsSpend": null
+      "totalRsSpend": 3757422000.0
     },
     {
       "id": "20312",
@@ -2654,7 +2654,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 2633120000.0
     },
     {
       "id": "20318",
@@ -2684,7 +2684,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 2094551648.0
     },
     {
       "id": "20328",
@@ -2698,8 +2698,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "株式会社ビー・エス・デーインフォメーションテクノロジー",
-      "totalRsSpend": null
+      "topVendor": "金融庁",
+      "totalRsSpend": 1784219000.0
     },
     {
       "id": "20335",
@@ -2714,7 +2714,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "こども家庭庁",
-      "totalRsSpend": null
+      "totalRsSpend": 58000000.0
     },
     {
       "id": "20341",
@@ -2729,7 +2729,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 15032293718.0
     },
     {
       "id": "20346",
@@ -2744,7 +2744,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 2927269728.0
     },
     {
       "id": "20352",
@@ -2774,7 +2774,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 8783568688.0
     },
     {
       "id": "20356",
@@ -2804,7 +2804,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 2026436132.0
     },
     {
       "id": "20361",
@@ -2819,7 +2819,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "文部科学省",
-      "totalRsSpend": null
+      "totalRsSpend": 205480000.0
     },
     {
       "id": "20405",
@@ -2849,7 +2849,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "関東財務局ほか",
-      "totalRsSpend": null
+      "totalRsSpend": 19888055000.0
     },
     {
       "id": "20415",
@@ -2864,7 +2864,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "総務省",
-      "totalRsSpend": null
+      "totalRsSpend": 11568723000.0
     },
     {
       "id": "20423",
@@ -2879,7 +2879,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "外務省",
-      "totalRsSpend": null
+      "totalRsSpend": 16533814000.0
     },
     {
       "id": "20453",
@@ -2894,7 +2894,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 2775558000.0
     },
     {
       "id": "20461",
@@ -2909,7 +2909,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "国土交通省",
-      "totalRsSpend": null
+      "totalRsSpend": 2029542942.0
     },
     {
       "id": "20480",
@@ -2954,7 +2954,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 3658346000.0
     },
     {
       "id": "20570",
@@ -2969,7 +2969,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛装備庁",
-      "totalRsSpend": null
+      "totalRsSpend": 6108902000.0
     },
     {
       "id": "20571",
@@ -2984,7 +2984,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 2090258000.0
     },
     {
       "id": "20581",
@@ -2999,7 +2999,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 7670760000.0
     },
     {
       "id": "20585",
@@ -3013,8 +3013,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "デロイトトーマツコンサルティング合同会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＮＴＴデータ",
+      "totalRsSpend": 6157438000.0
     },
     {
       "id": "20608",
@@ -3028,8 +3028,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "非公開",
-      "totalRsSpend": null
+      "topVendor": "外務省",
+      "totalRsSpend": 2193413000.0
     },
     {
       "id": "20612",
@@ -3044,7 +3044,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 450978000.0
     },
     {
       "id": "20613",
@@ -3059,7 +3059,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "外務省",
-      "totalRsSpend": null
+      "totalRsSpend": 7910360000.0
     },
     {
       "id": "20837",
@@ -3119,7 +3119,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "リコージャパン株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 70000.0
     },
     {
       "id": "20912",
@@ -3209,7 +3209,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "外務省",
-      "totalRsSpend": null
+      "totalRsSpend": 34100000.0
     },
     {
       "id": "20981",
@@ -3269,7 +3269,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 2018795000.0
     },
     {
       "id": "21048",
@@ -3284,7 +3284,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "内閣府",
-      "totalRsSpend": null
+      "totalRsSpend": 3882984000.0
     },
     {
       "id": "21059",
@@ -3359,7 +3359,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "法務省",
-      "totalRsSpend": null
+      "totalRsSpend": 1109830000.0
     },
     {
       "id": "21122",
@@ -3374,7 +3374,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "内閣官房",
-      "totalRsSpend": null
+      "totalRsSpend": 1842250000.0
     },
     {
       "id": "21126",
@@ -3404,7 +3404,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 4889787000.0
     },
     {
       "id": "21149",
@@ -3539,7 +3539,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 854852000.0
     },
     {
       "id": "21249",
@@ -3554,7 +3554,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "防衛省",
-      "totalRsSpend": null
+      "totalRsSpend": 228606000.0
     },
     {
       "id": "21259",
@@ -3614,7 +3614,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 165000000.0
     },
     {
       "id": "21295",
@@ -3629,7 +3629,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 4395482000.0
     },
     {
       "id": "21296",
@@ -3659,7 +3659,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "農林水産省",
-      "totalRsSpend": null
+      "totalRsSpend": 1044078000.0
     },
     {
       "id": "21318",
@@ -3689,7 +3689,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "財務省",
-      "totalRsSpend": null
+      "totalRsSpend": 1154504000.0
     },
     {
       "id": "21344",
@@ -3899,7 +3899,7 @@
       "latestExecRate": null,
       "latestBudget": 37400000.0,
       "topVendor": "アビームコンサルティング株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 34980000.0
     },
     {
       "id": "21898",
@@ -3914,7 +3914,7 @@
       "latestExecRate": null,
       "latestBudget": 39781000.0,
       "topVendor": "富士フイルムシステムサービス株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 15497000.0
     },
     {
       "id": "21929",
@@ -3929,7 +3929,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "内閣府",
-      "totalRsSpend": null
+      "totalRsSpend": 1746648000.0
     },
     {
       "id": "21951",
@@ -4049,7 +4049,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "公正取引委員会",
-      "totalRsSpend": null
+      "totalRsSpend": 425818060.0
     },
     {
       "id": "22030",
@@ -4078,8 +4078,8 @@
       "rsYear": "2025",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "株式会社日立製作所",
-      "totalRsSpend": null
+      "topVendor": "総務省",
+      "totalRsSpend": 761220000.0
     },
     {
       "id": "22053",
@@ -4139,7 +4139,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "厚生労働省",
-      "totalRsSpend": null
+      "totalRsSpend": 231440000.0
     },
     {
       "id": "22144",
@@ -4169,7 +4169,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "総務省",
-      "totalRsSpend": null
+      "totalRsSpend": 146040000.0
     },
     {
       "id": "74",
@@ -4184,7 +4184,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社日立社会情報サービス",
-      "totalRsSpend": null
+      "totalRsSpend": 278298000.0
     },
     {
       "id": "5421",
@@ -4199,7 +4199,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社三菱総合研究所",
-      "totalRsSpend": null
+      "totalRsSpend": 5763588397.0
     },
     {
       "id": "5443",
@@ -4214,7 +4214,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "デロイトトーマツコンサルティング合同会社",
-      "totalRsSpend": null
+      "totalRsSpend": 30109999.0
     },
     {
       "id": "5560",
@@ -4229,7 +4229,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "有限責任監査法人トーマツ",
-      "totalRsSpend": null
+      "totalRsSpend": 234946000.0
     },
     {
       "id": "6555",
@@ -4243,8 +4243,8 @@
       "rsYear": "2024",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "東京センチュリー株式会社",
-      "totalRsSpend": null
+      "topVendor": "富士通株式会社",
+      "totalRsSpend": 106854000.0
     },
     {
       "id": "6575",
@@ -4259,7 +4259,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "ＴＯＰＰＡＮ株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 1727745000.0
     },
     {
       "id": "20039",
@@ -4319,7 +4319,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "株式会社ＦＩＸＥＲ",
-      "totalRsSpend": null
+      "totalRsSpend": 5057712591.0
     },
     {
       "id": "20080",
@@ -4363,8 +4363,8 @@
       "rsYear": "2024",
       "latestExecRate": null,
       "latestBudget": 0.0,
-      "topVendor": "三菱倉庫株式会社",
-      "totalRsSpend": null
+      "topVendor": "株式会社ＪＥＣＣ",
+      "totalRsSpend": 2939972000.0
     },
     {
       "id": "20366",
@@ -4409,7 +4409,7 @@
       "latestExecRate": null,
       "latestBudget": 0.0,
       "topVendor": "日本電気株式会社",
-      "totalRsSpend": null
+      "totalRsSpend": 5670046000.0
     }
   ]
 }

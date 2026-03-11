@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T10:59:47Z",
+  "updatedAt": "2026-03-11T22:55:03Z",
   "id": "6573",
   "name": "政府共通決済基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -17,10 +17,10 @@
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
-    "totalSpend": null,
-    "topVendor": "ＴＩＳ株式会社",
-    "topVendorAmount": null,
-    "concentration": null,
+    "totalSpend": 22398000.0,
+    "topVendor": "ヤマトシステム開発株式会社",
+    "topVendorAmount": 12301000.0,
+    "concentration": 54.9,
     "vendorCount": 2
   },
   "budgets": [
