@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T08:22:29Z",
+  "updatedAt": "2026-03-12T08:34:34Z",
   "summary": {
     "totalAmount": 168873034776.0,
     "noCompAmount": 60544141019.0,
@@ -297,7 +297,7 @@
       "price": 15400000000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-06-06",
-      "projectId": "6546",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "外資コンサル"
     },
@@ -330,7 +330,7 @@
       "price": 1389000000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-05-07",
-      "projectId": "5543",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -374,7 +374,7 @@
       "price": 1033635000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-26",
-      "projectId": "5544",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内コンサル・ベンダー"
     },
@@ -385,7 +385,7 @@
       "price": 999930000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-14",
-      "projectId": "20041",
+      "projectId": "7645",
       "fiscalYear": 2025,
       "category": "国内大手SI"
     },
@@ -440,7 +440,7 @@
       "price": 843933231.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-07-18",
-      "projectId": "5544",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -495,7 +495,7 @@
       "price": 636119200.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2026-03-02",
-      "projectId": "6573",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "国内大手SI"
     },
@@ -528,7 +528,7 @@
       "price": 545215000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-07-18",
-      "projectId": "5544",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内コンサル・ベンダー"
     },
@@ -550,7 +550,7 @@
       "price": 470470920.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-07-07",
-      "projectId": "5543",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "その他"
     },
@@ -572,7 +572,7 @@
       "price": 453381000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-05-30",
-      "projectId": "6573",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "国内大手SI"
     },
@@ -594,7 +594,7 @@
       "price": 447454650.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-12-27",
-      "projectId": "5543",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内通信"
     },
@@ -605,7 +605,7 @@
       "price": 436361000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-31",
-      "projectId": "6557",
+      "projectId": "5554",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -638,7 +638,7 @@
       "price": 408080000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-07-01",
-      "projectId": "",
+      "projectId": "7636",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -649,7 +649,7 @@
       "price": 404500000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-18",
-      "projectId": "7634",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "国内コンサル・ベンダー"
     },
@@ -660,7 +660,7 @@
       "price": 399998500.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-15",
-      "projectId": "14",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "その他"
     },
@@ -693,7 +693,7 @@
       "price": 381800000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-07-10",
-      "projectId": "7638",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "国内大手SI"
     },
@@ -704,7 +704,7 @@
       "price": 375400000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-06-13",
-      "projectId": "20182",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "外資コンサル"
     },
@@ -726,7 +726,7 @@
       "price": 365485000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-03",
-      "projectId": "20135",
+      "projectId": "5545",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -748,7 +748,7 @@
       "price": 318181818.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-05-20",
-      "projectId": "",
+      "projectId": "20175",
       "fiscalYear": 2025,
       "category": "その他"
     },
@@ -770,7 +770,7 @@
       "price": 281800000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-26",
-      "projectId": "20041",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -803,7 +803,7 @@
       "price": 272574000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-08-23",
-      "projectId": "18",
+      "projectId": "5542",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -814,7 +814,7 @@
       "price": 270000000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-11",
-      "projectId": "6567",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "外資コンサル"
     },
