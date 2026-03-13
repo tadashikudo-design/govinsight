@@ -4,11 +4,19 @@ CSV仕様: UTF-8 BOM付き、ヘッダー行なし、8列
 """
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 import pandas as pd
 
 from config import DIGITAL_AGENCY_CODE
+
+# RS事業と無関係な調達案件を除外するパターン（施設管理・消耗品・庁内管理）
+_NON_RS_PATTERNS = re.compile(
+    r"ビル設備機器|照明.*変更作業|空気調和装置|庁舎警備業務|レイアウト変更|産業廃棄物"
+    r"|什器|文房具|コピー用紙|トナー.*消耗品"
+    r"|健康診断|翻訳業務|速記業務|自動車運行管理|廃棄物の収集|清掃業務"
+)
 
 # CSV列定義（ヘッダーなし → 番号で指定）
 COLUMNS = [
@@ -54,6 +62,9 @@ def parse_procurement(csv_path: Path, ministry_filter: str | None = DIGITAL_AGEN
 
     if ministry_filter:
         df = df[df["ministry_code"] == ministry_filter].copy()
+
+    # RS事業と無関係な案件を除外（施設管理・消耗品・庁内管理）
+    df = df[~df["name"].fillna("").str.contains(_NON_RS_PATTERNS)].copy()
 
     if df.empty:
         return df
