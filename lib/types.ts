@@ -79,6 +79,7 @@ export interface CloudPlatform {
   amount: number | null;
   projectCount: number;
   share: number | null;
+  countShare: number | null;
   vendors: string[];
 }
 
@@ -87,6 +88,7 @@ export interface CategoryBreakdown {
   totalAmount: number | null;
   projectCount: number;
   share: number | null;
+  countShare: number | null;
 }
 
 export interface AnalysisVendor {

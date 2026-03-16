@@ -36,6 +36,10 @@ _CLOUD_PLATFORMS: dict[str, list[str]] = {
     "SAP": ["sap ジャパン", "sap japan"],
 }
 
+# GSSはMicrosoft 365ベース（Office/Teams/SharePoint等）であり
+# Azure IaaS/PaaSとは別物。プロジェクト名で判定して分離する。
+_GSS_PROJECT_PATTERN = re.compile(r"ガバメントソリューションサービス|ＧＳＳ|GSS")
+
 # ベンダーカテゴリ → 検索パターン（小文字）
 _VENDOR_CATEGORIES: list[tuple[str, list[str]]] = [
     ("外資クラウド", ["アマゾンウェブサービス", "グーグル・クラウド", "グーグル合同", "日本マイクロソフト", "日本オラクル", "セールスフォース", "sap ジャパン"]),
@@ -292,25 +296,32 @@ def _build_vendor_analysis(projects: pd.DataFrame, procurements: pd.DataFrame, u
     for _, row in projects.iterrows():
         vendors = row.get("vendors") or []
         pid = str(row.get("project_id") or "")
+        pname = str(row.get("name") or "")
         for v in vendors:
             vname = (v.get("name") or "").strip()
             if not vname:
                 continue
             amt = _safe_float(v.get("amount"))
-            if vname not in rs_by_vendor:
-                rs_by_vendor[vname] = {
+            # Microsoft のうち GSS 事業（M365 基盤）は Azure と分離して集計
+            cloud_platform = _classify_cloud_platform(vname)
+            if cloud_platform == "Azure" and _GSS_PROJECT_PATTERN.search(pname):
+                cloud_platform = "Microsoft 365 (GSS)"
+            # rs_by_vendor のキー: 通常はベンダー名、GSS配下はプラットフォーム名で分離
+            key = vname if cloud_platform != "Microsoft 365 (GSS)" else f"{vname}__GSS"
+            if key not in rs_by_vendor:
+                rs_by_vendor[key] = {
                     "name": vname,
                     "amount": 0.0,
                     "project_ids": set(),
                     "contract_types": [],
-                    "cloud_platform": _classify_cloud_platform(vname),
+                    "cloud_platform": cloud_platform,
                     "category": _classify_vendor_category(vname),
                 }
-            rs_by_vendor[vname]["amount"] += amt
-            rs_by_vendor[vname]["project_ids"].add(pid)
+            rs_by_vendor[key]["amount"] += amt
+            rs_by_vendor[key]["project_ids"].add(pid)
             ct = v.get("contract_type") or ""
             if ct:
-                rs_by_vendor[vname]["contract_types"].append(ct)
+                rs_by_vendor[key]["contract_types"].append(ct)
 
     total_rs_spend = sum(v["amount"] for v in rs_by_vendor.values())
 
@@ -354,6 +365,7 @@ def _build_vendor_analysis(projects: pd.DataFrame, procurements: pd.DataFrame, u
         cloud_by_platform[p]["vendors"].append(v["name"])
 
     total_cloud = sum(v["amount"] for v in cloud_by_platform.values())
+    total_cloud_count = sum(v["count"] for v in cloud_by_platform.values())
     cloud_platforms = []
     for p in sorted(cloud_by_platform.values(), key=lambda x: x["amount"], reverse=True):
         cloud_platforms.append({
@@ -361,6 +373,7 @@ def _build_vendor_analysis(projects: pd.DataFrame, procurements: pd.DataFrame, u
             "amount": p["amount"] if p["amount"] > 0 else None,
             "projectCount": p["count"],
             "share": round(p["amount"] / total_cloud * 100, 1) if total_cloud > 0 else None,
+            "countShare": round(p["count"] / total_cloud_count * 100, 1) if total_cloud_count > 0 else None,
             "vendors": list(set(p["vendors"])),
         })
 
@@ -372,13 +385,16 @@ def _build_vendor_analysis(projects: pd.DataFrame, procurements: pd.DataFrame, u
         cat_totals[cat] = cat_totals.get(cat, 0.0) + v["amount"]
         cat_counts[cat] = cat_counts.get(cat, 0) + len(v["project_ids"])
 
+    total_cat_count = sum(cat_counts.values())
     category_breakdown = []
     for cat, amt in sorted(cat_totals.items(), key=lambda x: x[1], reverse=True):
+        cnt = cat_counts.get(cat, 0)
         category_breakdown.append({
             "category": cat,
             "totalAmount": amt if amt > 0 else None,
-            "projectCount": cat_counts.get(cat, 0),
+            "projectCount": cnt,
             "share": round(amt / total_rs_spend * 100, 1) if total_rs_spend > 0 else None,
+            "countShare": round(cnt / total_cat_count * 100, 1) if total_cat_count > 0 else None,
         })
 
     # ── 集中度指標 ──────────────────────────────────────────────

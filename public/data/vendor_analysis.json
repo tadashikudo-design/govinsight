@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-03-16T11:31:59Z",
+  "updatedAt": "2026-03-16T11:40:47Z",
   "totalRsSpend": 1070988761740.0,
   "totalCloudSpend": 8064386450.0,
   "cloudShare": 0.8,
   "cloudPlatforms": [
     {
-      "platform": "Azure",
-      "amount": 4224975000.0,
-      "projectCount": 3,
-      "share": 52.4,
+      "platform": "Microsoft 365 (GSS)",
+      "amount": 4105405000.0,
+      "projectCount": 1,
+      "share": 50.9,
+      "countShare": 8.3,
       "vendors": [
         "日本マイクロソフト株式会社"
       ]
@@ -18,6 +19,7 @@
       "amount": 2305727626.0,
       "projectCount": 5,
       "share": 28.6,
+      "countShare": 41.7,
       "vendors": [
         "アマゾンウェブサービスジャパン合同会社"
       ]
@@ -27,6 +29,7 @@
       "amount": 1214825000.0,
       "projectCount": 1,
       "share": 15.1,
+      "countShare": 8.3,
       "vendors": [
         "日本オラクル株式会社"
       ]
@@ -36,8 +39,19 @@
       "amount": 313877824.0,
       "projectCount": 2,
       "share": 3.9,
+      "countShare": 16.7,
       "vendors": [
         "グーグル・クラウド・ジャパン合同会社"
+      ]
+    },
+    {
+      "platform": "Azure",
+      "amount": 119570000.0,
+      "projectCount": 2,
+      "share": 1.5,
+      "countShare": 16.7,
+      "vendors": [
+        "日本マイクロソフト株式会社"
       ]
     },
     {
@@ -45,6 +59,7 @@
       "amount": 4981000.0,
       "projectCount": 1,
       "share": 0.1,
+      "countShare": 8.3,
       "vendors": [
         "株式会社セールスフォース・ジャパン"
       ]
@@ -55,37 +70,43 @@
       "category": "その他",
       "totalAmount": 761164387867.0,
       "projectCount": 2059,
-      "share": 71.1
+      "share": 71.1,
+      "countShare": 83.0
     },
     {
       "category": "国内大手SI",
       "totalAmount": 246645000123.0,
       "projectCount": 298,
-      "share": 23.0
+      "share": 23.0,
+      "countShare": 12.0
     },
     {
       "category": "外資コンサル",
       "totalAmount": 37716860576.0,
       "projectCount": 42,
-      "share": 3.5
+      "share": 3.5,
+      "countShare": 1.7
     },
     {
       "category": "国内通信",
       "totalAmount": 12310518527.0,
       "projectCount": 53,
-      "share": 1.1
+      "share": 1.1,
+      "countShare": 2.1
     },
     {
       "category": "外資クラウド",
       "totalAmount": 8064386450.0,
       "projectCount": 12,
-      "share": 0.8
+      "share": 0.8,
+      "countShare": 0.5
     },
     {
       "category": "国内コンサル・ベンダー",
       "totalAmount": 5087608197.0,
       "projectCount": 17,
-      "share": 0.5
+      "share": 0.5,
+      "countShare": 0.7
     }
   ],
   "topVendors": [
@@ -344,11 +365,11 @@
     {
       "name": "日本マイクロソフト株式会社",
       "category": "外資クラウド",
-      "cloudPlatform": "Azure",
-      "totalAmount": 4224975000.0,
-      "projectCount": 3,
-      "share": 0.62,
-      "singleBidRate": 60.0
+      "cloudPlatform": "Microsoft 365 (GSS)",
+      "totalAmount": 4105405000.0,
+      "projectCount": 1,
+      "share": 0.61,
+      "singleBidRate": 100.0
     },
     {
       "name": "一般社団法人行政情報システム研究所",
@@ -527,6 +548,6 @@
     "top5Share": 36.6,
     "top10Share": 52.2,
     "hhi": 384,
-    "vendorCount": 1250
+    "vendorCount": 1251
   }
 }
