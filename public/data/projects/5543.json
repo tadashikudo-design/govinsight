@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "5543",
   "name": "ガバメントクラウド（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/policies/gov_cloud/",
-  "totalAmount": 4314113287.0,
-  "vendorCount": 23,
+  "totalAmount": 4169381287.0,
+  "vendorCount": 21,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -1268,15 +1268,6 @@
       "bidMethodName": "一般競争入札・最低価格"
     },
     {
-      "id": "0000000000000473374",
-      "name": "令和6年度 各府省におけるガバメントクラウドへの移行の加速化のための調査研究",
-      "awardDate": "2024-10-18",
-      "price": 90852000.0,
-      "vendorName": "ＥＹストラテジー・アンド・コンサルティング株式会社",
-      "corporateNumber": "6010001107003",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
       "id": "0000000000000481780",
       "name": "ガバメントクラウド（AWS環境）に係る緊急用臨時ユーザーアカウント発行機能及び当該アカウントの監視機能の開発業務等",
       "awardDate": "2024-12-26",
@@ -1455,15 +1446,6 @@
       "vendorName": "クラウドエース株式会社",
       "corporateNumber": "1010001179419",
       "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000547795",
-      "name": "e-Govデータポータルサービスのガバメントクラウド移行に関する調査研究",
-      "awardDate": "2025-11-19",
-      "price": 53880000.0,
-      "vendorName": "富士通株式会社",
-      "corporateNumber": "1020001071491",
-      "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {
       "id": "0000000000000550862",

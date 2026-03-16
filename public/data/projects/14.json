@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "14",
   "name": "政府認証基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "https://www.gpki.go.jp/",
-  "totalAmount": 1359078600.0,
-  "vendorCount": 5,
+  "totalAmount": 1370718600.0,
+  "vendorCount": 6,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -282,13 +282,13 @@
       "bidMethodName": "一般競争入札・最低価格"
     },
     {
-      "id": "0000000000000540292",
-      "name": "令和７年度教育分野の認証基盤に関する調査研究",
-      "awardDate": "2025-09-30",
-      "price": 15000000.0,
-      "vendorName": "ＥＹストラテジー・アンド・コンサルティング株式会社",
-      "corporateNumber": "6010001107003",
-      "bidMethodName": "一般競争入札・総合評価"
+      "id": "0000000000000558661",
+      "name": "政府認証基盤のWebTrust for CA認定取得支援の請負",
+      "awardDate": "2026-03-13",
+      "price": 26640000.0,
+      "vendorName": "有限責任あずさ監査法人",
+      "corporateNumber": "3011105000996",
+      "bidMethodName": "一般競争入札・最低価格"
     }
   ]
 }

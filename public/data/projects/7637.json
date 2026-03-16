@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "7637",
   "name": "防災分野のデータ連携基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2024",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/policies/disaster_prevention/data-collaboration-infrastructure#demonstration-project-2024",
-  "totalAmount": 673860240.0,
-  "vendorCount": 6,
+  "totalAmount": 0.0,
+  "vendorCount": 0,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -225,69 +225,5 @@
       "reflect_status": ""
     }
   ],
-  "procurements": [
-    {
-      "id": "0000000000000458641",
-      "name": "防災ＤＸ分野の官民連携の高度化のための調査研究",
-      "awardDate": "2024-07-19",
-      "price": 31761500.0,
-      "vendorName": "株式会社三菱総合研究所",
-      "corporateNumber": "6010001030403",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000462306",
-      "name": "防災分野のデータ連携基盤の実証に関する調査研究",
-      "awardDate": "2024-08-22",
-      "price": 209000000.0,
-      "vendorName": "株式会社三菱総合研究所",
-      "corporateNumber": "6010001030403",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000464981",
-      "name": "防災分野のデータ連携基盤に関する制度及び開発・運用に関する調査研究",
-      "awardDate": "2024-09-05",
-      "price": 68162740.0,
-      "vendorName": "アビームコンサルティング株式会社",
-      "corporateNumber": "8010001085296",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000497947",
-      "name": "令和７年度教育関連データのデータ連携の実現に向けた実証調査研究",
-      "awardDate": "2025-03-19",
-      "price": 181000000.0,
-      "vendorName": "富士ソフト株式会社",
-      "corporateNumber": "2020001043507",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000542627",
-      "name": "防災分野のデータ連携促進に向けた調査研究",
-      "awardDate": "2025-10-08",
-      "price": 125936000.0,
-      "vendorName": "株式会社ＮＴＴデータ",
-      "corporateNumber": "6010601062093",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000543337",
-      "name": "令和７年度地方創生・社会課題解決型のデータ連携基盤の在り方に関する調査研究",
-      "awardDate": "2025-10-17",
-      "price": 42000000.0,
-      "vendorName": "ＰｗＣコンサルティング合同会社",
-      "corporateNumber": "1010401023102",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000545333",
-      "name": "防災分野におけるデータ利活用に向けた調査研究",
-      "awardDate": "2025-10-31",
-      "price": 16000000.0,
-      "vendorName": "合同会社デロイトトーマツ",
-      "corporateNumber": "3010001076738",
-      "bidMethodName": "一般競争入札・総合評価"
-    }
-  ]
+  "procurements": []
 }

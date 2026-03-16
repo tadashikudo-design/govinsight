@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "21426",
   "name": "窓口BPRアドバイザー派遣事業",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2026",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 48547599.0,
-  "vendorCount": 2,
+  "totalAmount": 594000.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -54,15 +54,6 @@
   ],
   "procurements": [
     {
-      "id": "0000000000000499652",
-      "name": "令和７年度窓口DXの推進に向けた派遣型窓口BPRアドバイザー活用策に係る調査研究",
-      "awardDate": "2025-02-26",
-      "price": 20997900.0,
-      "vendorName": "株式会社シード・プランニング",
-      "corporateNumber": "9010001144299",
-      "bidMethodName": "一般競争入札・最低価格"
-    },
-    {
       "id": "0000000000000550895",
       "name": "令和 7 年度窓口DXの推進に向けた派遣型窓口BPRアドバイザー事業の広報動画作成",
       "awardDate": "2025-11-28",
@@ -70,15 +61,6 @@
       "vendorName": "株式会社リバコン",
       "corporateNumber": "7011101058416",
       "bidMethodName": "一般競争入札・最低価格"
-    },
-    {
-      "id": "0000000000000567846",
-      "name": "令和８年度窓口DXの推進に向けた派遣型窓口BPRアドバイザー活用策に係る調査研究",
-      "awardDate": "2026-03-04",
-      "price": 26955699.0,
-      "vendorName": "株式会社シード・プランニング",
-      "corporateNumber": "9010001144299",
-      "bidMethodName": "一般競争入札・総合評価"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "7642",
   "name": "デジタル法制推進に必要な経費",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2023",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/",
-  "totalAmount": 71706660.0,
+  "totalAmount": 39906660.0,
   "vendorCount": 2,
   "latestExecRate": null,
   "latestBudget": 68075000.0,
@@ -688,15 +688,6 @@
     }
   ],
   "procurements": [
-    {
-      "id": "0000000000000452603",
-      "name": "デジタル社会の推進に必要な指針類に係る調査研究",
-      "awardDate": "2024-05-23",
-      "price": 31800000.0,
-      "vendorName": "アビームコンサルティング株式会社",
-      "corporateNumber": "8010001085296",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
     {
       "id": "0000000000000534635",
       "name": "令和７年度 デジタル社会の推進に必要な指針類に係る支援業務",

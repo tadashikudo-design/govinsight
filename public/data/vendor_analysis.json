@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "totalRsSpend": 1070988761740.0,
   "totalCloudSpend": 8064386450.0,
   "cloudShare": 0.8,
@@ -365,9 +365,9 @@
       "corporateNumber": "7010401022916",
       "name": "日本電気株式会社",
       "category": "国内大手SI",
-      "totalAmount": 34780656612.0,
-      "count": 23,
-      "noCompetitionRate": 26.1
+      "totalAmount": 34654898612.0,
+      "count": 20,
+      "noCompetitionRate": 20.0
     },
     {
       "corporateNumber": "9011101031552",
@@ -381,9 +381,9 @@
       "corporateNumber": "7010401001556",
       "name": "アクセンチュア株式会社",
       "category": "外資コンサル",
-      "totalAmount": 17766428000.0,
-      "count": 7,
-      "noCompetitionRate": 71.4
+      "totalAmount": 17946428000.0,
+      "count": 8,
+      "noCompetitionRate": 62.5
     },
     {
       "corporateNumber": "8011101028104",
@@ -397,9 +397,9 @@
       "corporateNumber": "6010601062093",
       "name": "株式会社ＮＴＴデータ",
       "category": "国内大手SI",
-      "totalAmount": 12162961849.0,
-      "count": 22,
-      "noCompetitionRate": 63.6
+      "totalAmount": 11988348154.0,
+      "count": 20,
+      "noCompetitionRate": 60.0
     },
     {
       "corporateNumber": "6010701025710",
@@ -413,25 +413,17 @@
       "corporateNumber": "1020001071491",
       "name": "富士通株式会社",
       "category": "国内大手SI",
-      "totalAmount": 3827131000.0,
-      "count": 7,
-      "noCompetitionRate": 85.7
+      "totalAmount": 3773251000.0,
+      "count": 6,
+      "noCompetitionRate": 83.3
     },
     {
       "corporateNumber": "1010401023102",
       "name": "ＰｗＣコンサルティング合同会社",
       "category": "その他",
-      "totalAmount": 2785824369.0,
-      "count": 19,
-      "noCompetitionRate": 52.6
-    },
-    {
-      "corporateNumber": "2010701032272",
-      "name": "フューチャーアーキテクト株式会社",
-      "category": "国内コンサル・ベンダー",
-      "totalAmount": 2460500000.0,
-      "count": 5,
-      "noCompetitionRate": 100.0
+      "totalAmount": 2413585969.0,
+      "count": 10,
+      "noCompetitionRate": 50.0
     },
     {
       "corporateNumber": "7011101033773",
@@ -442,14 +434,6 @@
       "noCompetitionRate": 66.7
     },
     {
-      "corporateNumber": "9010401127151",
-      "name": "シンプレクス株式会社",
-      "category": "その他",
-      "totalAmount": 2094502500.0,
-      "count": 4,
-      "noCompetitionRate": 75.0
-    },
-    {
       "corporateNumber": "6010001011147",
       "name": "株式会社インターネットイニシアティブ",
       "category": "その他",
@@ -458,12 +442,12 @@
       "noCompetitionRate": 0.0
     },
     {
-      "corporateNumber": "7010001064648",
-      "name": "ＮＴＴドコモビジネス株式会社",
+      "corporateNumber": "9010401127151",
+      "name": "シンプレクス株式会社",
       "category": "その他",
-      "totalAmount": 1964051564.0,
-      "count": 7,
-      "noCompetitionRate": 71.4
+      "totalAmount": 1933800000.0,
+      "count": 3,
+      "noCompetitionRate": 100.0
     },
     {
       "corporateNumber": "8010401073462",
@@ -474,12 +458,28 @@
       "noCompetitionRate": 88.9
     },
     {
+      "corporateNumber": "7010001064648",
+      "name": "ＮＴＴドコモビジネス株式会社",
+      "category": "その他",
+      "totalAmount": 1835415200.0,
+      "count": 5,
+      "noCompetitionRate": 60.0
+    },
+    {
       "corporateNumber": "8010001144647",
       "name": "ＫＰＭＧコンサルティング株式会社",
       "category": "その他",
       "totalAmount": 1826630000.0,
       "count": 7,
       "noCompetitionRate": 57.1
+    },
+    {
+      "corporateNumber": "2010701032272",
+      "name": "フューチャーアーキテクト株式会社",
+      "category": "国内コンサル・ベンダー",
+      "totalAmount": 1792635000.0,
+      "count": 3,
+      "noCompetitionRate": 100.0
     },
     {
       "corporateNumber": "7020001077145",
@@ -490,36 +490,36 @@
       "noCompetitionRate": 0.0
     },
     {
-      "corporateNumber": "8010001085296",
-      "name": "アビームコンサルティング株式会社",
-      "category": "その他",
-      "totalAmount": 1604376915.0,
-      "count": 18,
-      "noCompetitionRate": 55.6
-    },
-    {
-      "corporateNumber": "7010001088960",
-      "name": "デロイトトーマツコンサルティング合同会社",
-      "category": "外資コンサル",
-      "totalAmount": 1483188562.0,
-      "count": 13,
-      "noCompetitionRate": 61.5
-    },
-    {
-      "corporateNumber": "6010001030403",
-      "name": "株式会社三菱総合研究所",
-      "category": "その他",
-      "totalAmount": 1309750500.0,
-      "count": 11,
-      "noCompetitionRate": 81.8
-    },
-    {
       "corporateNumber": "9010005005761",
       "name": "一般社団法人行政情報システム研究所",
       "category": "その他",
       "totalAmount": 1279428100.0,
       "count": 3,
       "noCompetitionRate": 66.7
+    },
+    {
+      "corporateNumber": "6010001030403",
+      "name": "株式会社三菱総合研究所",
+      "category": "その他",
+      "totalAmount": 1201807000.0,
+      "count": 9,
+      "noCompetitionRate": 88.9
+    },
+    {
+      "corporateNumber": "3010401022977",
+      "name": "ＮＥＣフィールディング株式会社",
+      "category": "国内大手SI",
+      "totalAmount": 1150000000.0,
+      "count": 1,
+      "noCompetitionRate": 0.0
+    },
+    {
+      "corporateNumber": "8010001085296",
+      "name": "アビームコンサルティング株式会社",
+      "category": "その他",
+      "totalAmount": 1139967190.0,
+      "count": 9,
+      "noCompetitionRate": 55.6
     }
   ],
   "concentrationMetrics": {

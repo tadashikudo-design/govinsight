@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "6573",
   "name": "政府共通決済基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2022",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 1569031350.0,
+  "totalAmount": 1602788850.0,
   "vendorCount": 7,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -202,6 +202,15 @@
       "price": 165000000.0,
       "vendorName": "株式会社フォーカスシステムズ",
       "corporateNumber": "1010701008901",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000549513",
+      "name": "令和８年度 政府共通決済基盤のサービス事務及びシステム運用保守に係る委託業務",
+      "awardDate": "2026-03-12",
+      "price": 33757500.0,
+      "vendorName": "ヤマトシステム開発株式会社",
+      "corporateNumber": "9010601029263",
       "bidMethodName": "一般競争入札・総合評価"
     }
   ]

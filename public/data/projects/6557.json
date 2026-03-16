@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "6557",
   "name": "マイナンバーカード関係システム事業費補助金（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 606346364.0,
-  "vendorCount": 5,
+  "totalAmount": 532710000.0,
+  "vendorCount": 4,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -125,15 +125,6 @@
       "price": 51700000.0,
       "vendorName": "株式会社ドリームインキュベータ",
       "corporateNumber": "6010001141902",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000540933",
-      "name": "マイナンバーカードを用いた災害時の被災者情報把握に関する調査研究",
-      "awardDate": "2025-10-06",
-      "price": 73636364.0,
-      "vendorName": "ＮＴＴドコモビジネス株式会社",
-      "corporateNumber": "7010001064648",
       "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {

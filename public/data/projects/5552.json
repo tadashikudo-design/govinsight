@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "5552",
   "name": "ＶｉｓｉｔＪａｐａｎＷｅｂ（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 357489246.0,
+  "totalAmount": 697611551.0,
   "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -205,6 +205,15 @@
       "name": "令和７年度Visit Japan Web（フェイズ２）の運用・保守",
       "awardDate": "2025-03-14",
       "price": 357489246.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000547154",
+      "name": "令和８年度Visit Japan Web（フェイズ２）の運用・保守",
+      "awardDate": "2026-03-12",
+      "price": 340122305.0,
       "vendorName": "株式会社ＮＴＴデータ",
       "corporateNumber": "6010601062093",
       "bidMethodName": "一般競争入札・総合評価"

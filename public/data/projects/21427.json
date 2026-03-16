@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T00:43:17Z",
+  "updatedAt": "2026-03-16T11:31:59Z",
   "id": "21427",
   "name": "Visit Japan Webの利用促進のための周知等に係る経費",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2025",
   "endYear": "2026",
   "rsUrl": "",
-  "totalAmount": 0.0,
-  "vendorCount": 0,
+  "totalAmount": 2210681.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -52,5 +52,15 @@
       "reflect_status": "現状通り"
     }
   ],
-  "procurements": []
+  "procurements": [
+    {
+      "id": "0000000000000490970",
+      "name": "登記情報連携の利用促進のための地方公共団体向けセミナーに係る会場設営等業務の調達",
+      "awardDate": "2025-02-07",
+      "price": 2210681.0,
+      "vendorName": "株式会社タスクールＰｌｕｓ",
+      "corporateNumber": "5180001115849",
+      "bidMethodName": "一般競争入札・最低価格"
+    }
+  ]
 }
