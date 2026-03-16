@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-03-16T11:44:59Z",
+  "updatedAt": "2026-03-16T12:08:56Z",
   "byYear": [
     {
       "year": 2024,
-      "totalAmount": 107891956197.0,
-      "count": 194,
+      "totalAmount": 107887541197.0,
+      "count": 192,
       "noCompAmount": 42098775907.0,
       "noCompCount": 94,
       "noCompRate": 39.0,
-      "avgContractSize": 55614,
-      "vendorCount": 106,
+      "avgContractSize": 56191,
+      "vendorCount": 104,
       "hhi": 1337,
       "topVendors": [
         {
@@ -56,8 +56,8 @@
     {
       "year": 2024,
       "method": "一般競争入札・最低価格",
-      "count": 49,
-      "amount": 1331015162.0,
+      "count": 47,
+      "amount": 1326600162.0,
       "isNoComp": false
     },
     {
@@ -107,8 +107,8 @@
     {
       "year": 2024,
       "category": "その他",
-      "count": 127,
-      "amount": 19750036364.0
+      "count": 125,
+      "amount": 19745621364.0
     },
     {
       "year": 2024,
@@ -173,8 +173,8 @@
     },
     {
       "month": "2024-05",
-      "count": 15,
-      "amount": 3023449370.0
+      "count": 14,
+      "amount": 3022569370.0
     },
     {
       "month": "2024-06",
@@ -193,8 +193,8 @@
     },
     {
       "month": "2024-09",
-      "count": 15,
-      "amount": 2081684366.0
+      "count": 14,
+      "amount": 2078149366.0
     },
     {
       "month": "2024-10",

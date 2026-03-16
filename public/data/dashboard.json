@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-03-16T11:44:59Z",
+  "updatedAt": "2026-03-16T12:08:56Z",
   "summary": {
     "projectCount": 294,
-    "procurementCount": 340,
-    "totalAmount": 162149560084.0,
-    "vendorCount": 141
+    "procurementCount": 338,
+    "totalAmount": 162145145084.0,
+    "vendorCount": 139
   },
   "monthlyAwards": [
     {
@@ -14,8 +14,8 @@
     },
     {
       "month": "2024-05",
-      "count": 15,
-      "amount": 3023449370.0
+      "count": 14,
+      "amount": 3022569370.0
     },
     {
       "month": "2024-06",
@@ -34,8 +34,8 @@
     },
     {
       "month": "2024-09",
-      "count": 15,
-      "amount": 2081684366.0
+      "count": 14,
+      "amount": 2078149366.0
     },
     {
       "month": "2024-10",
@@ -141,8 +141,8 @@
     },
     {
       "method": "一般競争入札・最低価格",
-      "count": 76,
-      "amount": 2445029944.0
+      "count": 74,
+      "amount": 2440614944.0
     },
     {
       "method": "指名競争入札",

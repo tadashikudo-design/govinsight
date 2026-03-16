@@ -1,15 +1,16 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import type { VendorAnalysis } from "@/lib/types";
 
-const CLOUD_COLORS: Record<string, string> = {
-  AWS:           "bg-orange-400",
-  "Google Cloud": "bg-blue-500",
-  Azure:         "bg-cyan-500",
-  "Oracle Cloud": "bg-red-500",
-  Salesforce:    "bg-sky-400",
-  SAP:           "bg-green-500",
+const CLOUD_COLORS: Record<string, { bar: string; text: string; bg: string }> = {
+  AWS:            { bar: "bg-orange-400", text: "text-orange-700", bg: "bg-orange-50" },
+  "Google Cloud": { bar: "bg-blue-500",   text: "text-blue-700",   bg: "bg-blue-50" },
+  Azure:          { bar: "bg-cyan-500",   text: "text-cyan-700",   bg: "bg-cyan-50" },
+  "Oracle Cloud": { bar: "bg-red-500",    text: "text-red-700",    bg: "bg-red-50" },
+  Salesforce:     { bar: "bg-sky-400",    text: "text-sky-700",    bg: "bg-sky-50" },
+  SAP:            { bar: "bg-green-500",  text: "text-green-700",  bg: "bg-green-50" },
 };
 
 const CATEGORY_COLORS: Record<string, string> = {
@@ -19,6 +20,32 @@ const CATEGORY_COLORS: Record<string, string> = {
   "国内コンサル・ベンダー": "bg-teal-500",
   "外資クラウド":        "bg-orange-400",
   "その他":              "bg-gray-400",
+};
+
+// RS 5-1 支出先データからクラウド別の事業IDを静的マッピング
+// （vendor_analysis.json では事業リストが含まれないため、projects/{id}.json から集約した情報）
+const CLOUD_PROJECT_MAP: Record<string, { id: string; name: string }[]> = {
+  AWS: [
+    { id: "5543", name: "ガバメントクラウド" },
+    { id: "5544", name: "公共サービスメッシュ（デジタル連携基盤）" },
+    { id: "6549", name: "情報提供ネットワークシステム" },
+    { id: "6550", name: "第二期政府共通プラットフォーム" },
+    { id: "7634", name: "標準型電子カルテα版" },
+  ],
+  "Google Cloud": [
+    { id: "5543", name: "ガバメントクラウド" },
+    { id: "6570", name: "総合運用・監視システム（COSMOS）" },
+  ],
+  Azure: [
+    { id: "13",   name: "共通情報検索システム" },
+    { id: "5543", name: "ガバメントクラウド" },
+  ],
+  "Oracle Cloud": [
+    { id: "5543", name: "ガバメントクラウド" },
+  ],
+  Salesforce: [
+    { id: "27", name: "補助金申請システム" },
+  ],
 };
 
 function formatAmount(yen: number | null): string {
@@ -59,6 +86,8 @@ export default function AnalysisPage() {
   const [data, setData] = useState<VendorAnalysis | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<"cloud" | "category" | "vendors" | "procurement">("cloud");
+  const [cloudMetric, setCloudMetric] = useState<"amount" | "count">("count");
+  const [expandedCloud, setExpandedCloud] = useState<string | null>(null);
 
   useEffect(() => {
     fetch("/data/vendor_analysis.json")
@@ -157,40 +186,105 @@ export default function AnalysisPage() {
       {activeTab === "cloud" && (
         <section className="space-y-4">
           <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
-            <h2 className="mb-1 text-base font-semibold text-gray-800">クラウドプラットフォーム依存度</h2>
-            <p className="mb-4 text-xs text-gray-500">
-              総支出 {formatAmount(data.totalRsSpend)} のうち クラウド {formatAmount(data.totalCloudSpend)}（{data.cloudShare?.toFixed(1)}%）
-            </p>
+            {/* ヘッダー + メトリクス切り替え */}
+            <div className="mb-4 flex items-center justify-between flex-wrap gap-3">
+              <div>
+                <h2 className="text-base font-semibold text-gray-800">クラウドプラットフォーム依存度</h2>
+                <p className="mt-0.5 text-xs text-gray-500">
+                  RS 5-1 支出先データ（デジタル庁が直接契約しているクラウドのみ）
+                </p>
+              </div>
+              <div className="flex rounded-lg border border-gray-200 overflow-hidden text-xs font-medium">
+                <button
+                  onClick={() => setCloudMetric("count")}
+                  className={`px-3 py-1.5 transition-colors ${cloudMetric === "count" ? "bg-gov-blue text-white" : "bg-white text-gray-600 hover:bg-gray-50"}`}
+                >
+                  件数ベース
+                </button>
+                <button
+                  onClick={() => setCloudMetric("amount")}
+                  className={`px-3 py-1.5 transition-colors ${cloudMetric === "amount" ? "bg-gov-blue text-white" : "bg-white text-gray-600 hover:bg-gray-50"}`}
+                >
+                  金額ベース
+                </button>
+              </div>
+            </div>
 
-            {/* クラウド比率 棒グラフ */}
-            <div className="space-y-3">
-              {data.cloudPlatforms.map((p) => (
-                <div key={p.platform} className="space-y-1">
-                  <div className="flex justify-between items-center">
-                    <div className="flex items-center gap-2">
-                      <span className={`inline-block w-3 h-3 rounded-full ${CLOUD_COLORS[p.platform] ?? "bg-gray-400"}`} />
-                      <span className="text-sm font-medium text-gray-800">{p.platform}</span>
-                      {p.platform === "AWS" && (
-                        <span className="rounded bg-orange-50 px-1.5 py-0.5 text-xs font-semibold text-orange-600">
-                          最大シェア
-                        </span>
-                      )}
-                    </div>
-                    <span className="text-sm font-mono text-gray-700">
-                      {formatAmount(p.amount)} <span className="text-gray-400">({p.share?.toFixed(1)}%)</span>
-                    </span>
+            {/* サマリー行 */}
+            <div className="mb-4 flex gap-4 text-xs text-gray-500">
+              <span>対象事業数: <strong className="text-gray-800">{data.cloudPlatforms.reduce((s, p) => s + p.projectCount, 0)}件</strong></span>
+              <span>クラウド総支出: <strong className="text-gray-800">{formatAmount(data.totalCloudSpend)}</strong></span>
+              <span>RS支出全体比: <strong className="text-gray-800">{data.cloudShare?.toFixed(1)}%</strong></span>
+            </div>
+
+            {/* クラウドプラットフォーム棒グラフ */}
+            <div className="space-y-4">
+              {data.cloudPlatforms.map((p) => {
+                const color = CLOUD_COLORS[p.platform] ?? { bar: "bg-gray-400", text: "text-gray-700", bg: "bg-gray-50" };
+                const shareValue = cloudMetric === "count" ? (p.countShare ?? 0) : (p.share ?? 0);
+                const shareLabel = cloudMetric === "count"
+                  ? `${p.projectCount}件 (${p.countShare?.toFixed(1)}%)`
+                  : `${formatAmount(p.amount)} (${p.share?.toFixed(1)}%)`;
+                const isExpanded = expandedCloud === p.platform;
+                const projects = CLOUD_PROJECT_MAP[p.platform] ?? [];
+
+                return (
+                  <div key={p.platform} className={`rounded-lg border transition-colors ${isExpanded ? "border-gray-300" : "border-transparent"}`}>
+                    <button
+                      className="w-full text-left"
+                      onClick={() => setExpandedCloud(isExpanded ? null : p.platform)}
+                    >
+                      <div className="space-y-1.5 px-3 pt-3 pb-2">
+                        <div className="flex justify-between items-center">
+                          <div className="flex items-center gap-2">
+                            <span className={`inline-block w-3 h-3 rounded-full ${color.bar}`} />
+                            <span className="text-sm font-semibold text-gray-800">{p.platform}</span>
+                            {/* 件数と金額を両方表示 */}
+                            <span className={`rounded-full px-2 py-0.5 text-xs font-medium ${color.bg} ${color.text}`}>
+                              {p.projectCount}事業
+                            </span>
+                          </div>
+                          <div className="flex items-center gap-3">
+                            <span className="text-sm font-mono text-gray-700">{shareLabel}</span>
+                            <span className={`text-xs text-gray-400 transition-transform ${isExpanded ? "rotate-180" : ""}`}>▼</span>
+                          </div>
+                        </div>
+                        {/* バー */}
+                        <div className="rounded-full bg-gray-100 h-5 overflow-hidden">
+                          <div
+                            className={`h-full rounded-full ${color.bar} opacity-80 transition-all`}
+                            style={{ width: `${shareValue}%` }}
+                          />
+                        </div>
+                        {/* 件数/金額サブ表示 */}
+                        <div className="flex gap-4 text-xs text-gray-400">
+                          <span>件数シェア: {p.countShare?.toFixed(1) ?? "—"}%</span>
+                          <span>金額シェア: {p.share?.toFixed(1) ?? "—"}%</span>
+                          <span>{formatAmount(p.amount)}</span>
+                        </div>
+                      </div>
+                    </button>
+
+                    {/* 展開: 関連事業リスト */}
+                    {isExpanded && projects.length > 0 && (
+                      <div className={`mx-3 mb-3 rounded-lg ${color.bg} px-3 py-2`}>
+                        <p className="mb-1.5 text-xs font-medium text-gray-600">関連事業</p>
+                        <div className="flex flex-wrap gap-2">
+                          {projects.map((proj) => (
+                            <Link
+                              key={proj.id}
+                              href={`/projects/${proj.id}`}
+                              className={`rounded-full border px-3 py-1 text-xs font-medium transition-colors hover:opacity-80 ${color.text} border-current`}
+                            >
+                              {proj.name} →
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
-                  <div className="rounded-full bg-gray-100 h-5 overflow-hidden">
-                    <div
-                      className={`h-full rounded-full ${CLOUD_COLORS[p.platform] ?? "bg-gray-400"} opacity-80`}
-                      style={{ width: `${p.share ?? 0}%` }}
-                    />
-                  </div>
-                  <div className="text-xs text-gray-400 truncate">
-                    {p.vendors.slice(0, 3).join("、")}
-                  </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
 
             {data.cloudPlatforms.length === 0 && (
@@ -198,11 +292,18 @@ export default function AnalysisPage() {
             )}
           </div>
 
+          {/* MS365 注記 */}
+          <div className="rounded-xl border border-blue-100 bg-blue-50 p-4 text-xs text-blue-700">
+            <strong>ℹ️ Microsoft 365 (GSS) について:</strong>{" "}
+            ガバメントソリューションサービス（GSS）の日本マイクロソフト支出（約41億円）はOffice/Teams等のSaaS利用であり、
+            IaaS/PaaSのAzureとは別に集計しています。GSSはSIerを通じた間接調達のため上記には含まれません。
+          </div>
+
           {/* AWS 依存リスク注記 */}
-          {(data.cloudPlatforms[0]?.share ?? 0) >= 80 && (
+          {(data.cloudPlatforms[0]?.countShare ?? 0) >= 40 && (
             <div className="rounded-xl border border-orange-200 bg-orange-50 p-4 text-sm text-orange-800">
-              <strong>⚠️ AWS 単一依存リスク:</strong> クラウド支出の{data.cloudPlatforms[0]?.share?.toFixed(0)}%がAWSに集中しています。
-              マルチクラウド化やガバメントクラウドの複数採択を検討する必要があります。
+              <strong>⚠️ AWS 集中:</strong> 直接契約事業の{data.cloudPlatforms[0]?.countShare?.toFixed(0)}%（件数ベース）がAWSです。
+              ただしSIer経由のクラウド利用は非表示のため、実際の依存度はさらに高い可能性があります。
             </div>
           )}
         </section>
@@ -305,7 +406,7 @@ export default function AnalysisPage() {
           <div className="px-6 pt-4 pb-2">
             <h2 className="text-base font-semibold text-gray-800">調達ポータル ベンダー統計</h2>
             <p className="text-xs text-gray-500 mt-1">
-              デジタル庁 落札データより。競争性のない随意契約・一者応札の割合が高いほどロックインリスク大。
+              デジタル庁 落札データより。ベンダー名をクリックすると落札案件一覧へ移動します。
             </p>
           </div>
           <div className="overflow-x-auto">
@@ -321,8 +422,15 @@ export default function AnalysisPage() {
               </thead>
               <tbody className="divide-y divide-gray-50">
                 {data.procurementVendors.map((v) => (
-                  <tr key={v.corporateNumber} className="hover:bg-gray-50 transition-colors">
-                    <td className="px-4 py-3 font-medium text-gray-900">{v.name}</td>
+                  <tr key={v.corporateNumber} className="hover:bg-blue-50 transition-colors">
+                    <td className="px-4 py-3">
+                      <Link
+                        href={`/procurements?vendor=${encodeURIComponent(v.name)}`}
+                        className="font-medium text-gov-blue hover:underline"
+                      >
+                        {v.name}
+                      </Link>
+                    </td>
                     <td className="px-4 py-3">
                       <span className={`inline-flex rounded-full px-2 py-0.5 text-xs font-medium ${
                         v.category === "国内大手SI" ? "bg-blue-100 text-blue-700" :

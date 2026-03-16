@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T11:44:59Z",
+  "updatedAt": "2026-03-16T12:08:56Z",
   "items": [
     {
       "corporateNumber": "7010401022916",
@@ -1370,15 +1370,6 @@
       ]
     },
     {
-      "corporateNumber": "7010001126258",
-      "name": "ネットエイジア株式会社",
-      "totalAmount": 3535000.0,
-      "count": 1,
-      "procurementIds": [
-        "0000000000000468755"
-      ]
-    },
-    {
       "corporateNumber": "5010001141787",
       "name": "株式会社丸運",
       "totalAmount": 2464000.0,
@@ -1458,15 +1449,6 @@
       "count": 1,
       "procurementIds": [
         "0000000000000467499"
-      ]
-    },
-    {
-      "corporateNumber": "1010701039459",
-      "name": "株式会社ＩＴグローバルブレイン",
-      "totalAmount": 880000.0,
-      "count": 1,
-      "procurementIds": [
-        "0000000000000451458"
       ]
     }
   ]

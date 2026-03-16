@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T11:44:59Z",
+  "updatedAt": "2026-03-16T12:08:56Z",
   "items": [
     {
       "id": "0000000000000424436",
@@ -363,19 +363,6 @@
       "vendorName": "株式会社ＤＮＰデータテクノ",
       "corporateNumber": "1050001028118",
       "projectId": "6561",
-      "fiscalYear": 2024.0
-    },
-    {
-      "id": "0000000000000451458",
-      "name": "業務改革（BPR）に関する研修コンテンツ作成の請負",
-      "awardDate": "2024-05-15",
-      "price": 880000.0,
-      "ministryCode": "W1",
-      "bidMethodCode": "8002010",
-      "bidMethodName": "一般競争入札・最低価格",
-      "vendorName": "株式会社ＩＴグローバルブレイン",
-      "corporateNumber": "1010701039459",
-      "projectId": "",
       "fiscalYear": 2024.0
     },
     {
@@ -1146,19 +1133,6 @@
       "fiscalYear": 2024.0
     },
     {
-      "id": "0000000000000468755",
-      "name": "令和６年度マイナンバーカードの普及と利活用の状況に関するインターネットによるアンケート調査",
-      "awardDate": "2024-09-27",
-      "price": 3535000.0,
-      "ministryCode": "W1",
-      "bidMethodCode": "8002010",
-      "bidMethodName": "一般競争入札・最低価格",
-      "vendorName": "ネットエイジア株式会社",
-      "corporateNumber": "7010001126258",
-      "projectId": "5554",
-      "fiscalYear": 2024.0
-    },
-    {
       "id": "0000000000000471691",
       "name": "地方公共団体のガバメントクラウド早期移行団体検証事業におけるハードウェア認証デバイスの調達",
       "awardDate": "2024-09-27",
@@ -1285,7 +1259,7 @@
       "bidMethodName": "随意契約・公募型プロポーザル",
       "vendorName": "株式会社ＮＴＴデータ経営研究所",
       "corporateNumber": "1010001143390",
-      "projectId": "5554",
+      "projectId": "7646",
       "fiscalYear": 2024.0
     },
     {
