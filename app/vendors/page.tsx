@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState, useMemo } from "react";
+import Link from "next/link";
 import type { VendorRankingItem } from "@/lib/types";
 
 const CATEGORY_BADGE: Record<string, { label: string; color: string }> = {
@@ -156,10 +157,22 @@ export default function VendorsPage() {
                 const avg = v.count > 0 ? v.totalAmount / v.count : 0;
                 const badge = CATEGORY_BADGE[v.category] ?? CATEGORY_BADGE["その他"];
                 return (
-                  <tr key={v.corporateNumber ?? v.name} className="hover:bg-gray-50 transition-colors">
+                  <tr
+                    key={v.corporateNumber ?? v.name}
+                    className="hover:bg-blue-50 transition-colors cursor-pointer"
+                    onClick={() => {
+                      window.location.href = `/procurements?vendor=${encodeURIComponent(v.name)}`;
+                    }}
+                  >
                     <td className="px-4 py-3 text-center text-xs text-gray-400 font-mono">{i + 1}</td>
                     <td className="px-4 py-3">
-                      <span className="font-medium text-gray-900">{v.name}</span>
+                      <Link
+                        href={`/procurements?vendor=${encodeURIComponent(v.name)}`}
+                        className="font-medium text-gov-blue hover:underline"
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        {v.name}
+                      </Link>
                     </td>
                     <td className="px-4 py-3">
                       <span className={`inline-flex rounded-full px-2 py-0.5 text-xs font-medium ${badge.color}`}>
