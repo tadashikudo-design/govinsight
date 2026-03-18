@@ -8,10 +8,20 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 from pathlib import Path
 
 import pandas as pd
+
+# ETL .env を自動ロード（XAI_API_KEY 等）
+_env_file = Path(__file__).parent / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _v = _line.split("=", 1)
+            os.environ.setdefault(_k.strip(), _v.strip())
 
 from config import DIGITAL_AGENCY_CODE, DIGITAL_AGENCY_NAME
 from fetch_procurement import fetch_all as fetch_procurement_all

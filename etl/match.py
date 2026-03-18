@@ -5,7 +5,9 @@ RS事業 × 落札案件 マッチングロジック
 from __future__ import annotations
 
 import json
+import os
 import re
+import time
 from pathlib import Path
 
 import jaconv
@@ -14,6 +16,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from config import CORRECTIONS_FILE, MATCHING_THRESHOLD, SECONDARY_LOWER_THRESHOLD
+
+# Grok API（xAI）設定 — 環境変数 XAI_API_KEY が必要
+_GROK_API_URL = "https://api.x.ai/v1/chat/completions"
+_GROK_MODEL = "grok-4-1-fast-non-reasoning"   # 安価・高速
+_GROK_CACHE_FILE = Path(__file__).parent / "grok_match_cache.json"
+_GROK_MATCH_LIMIT = int(os.environ.get("GROK_MATCH_LIMIT", "50"))  # 1回の実行上限
 
 
 def match(
@@ -99,7 +107,13 @@ def match(
     # Step 3: overview/purpose テキスト + スクレイピングテキストによる救済マッチング
     _overview_secondary_match(proc, projects, project_ids, sim_matrix, page_descriptions)
 
-    # Step 4: 手動補正テーブルで上書き
+    # Step 4: Grok API によるLLM判定（XAI_API_KEY が設定されている場合のみ実行）
+    if os.environ.get("XAI_API_KEY"):
+        _grok_tertiary_match(proc, projects, project_ids, sim_matrix)
+    else:
+        print("[Match] XAI_API_KEY 未設定 → Grok マッチングをスキップ")
+
+    # Step 5: 手動補正テーブルで上書き
     corrections = _load_corrections(corrections_file)
     for corr in corrections:
         pid = corr.get("project_id")
@@ -265,6 +279,133 @@ def _overview_secondary_match(
             if keywords and matches / len(keywords) >= 0.5:
                 proc.at[idx, "project_id"] = pid
                 break
+
+
+def _grok_tertiary_match(
+    proc: pd.DataFrame,
+    projects: pd.DataFrame,
+    project_ids: list,
+    sim_matrix,
+) -> None:
+    """TF-IDF + 二次マッチでも未解決の案件を Grok API で判定する（in-place）。
+
+    XAI_API_KEY が必要。実行上限は _GROK_MATCH_LIMIT 件（デフォルト50）。
+    結果は grok_match_cache.json にキャッシュし、再実行時は API を呼ばない。
+    """
+    import requests as _req
+
+    api_key = os.environ.get("XAI_API_KEY", "")
+    if not api_key:
+        return
+
+    # キャッシュ読み込み（procurement_id → project_id or null）
+    cache: dict[str, str | None] = {}
+    if _GROK_CACHE_FILE.exists():
+        try:
+            cache = json.loads(_GROK_CACHE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, IOError):
+            cache = {}
+
+    # RS事業の辞書（project_id → {name, overview, purpose}）
+    proj_lookup: dict[str, dict] = {}
+    for _, prow in projects.iterrows():
+        pid = str(prow.get("project_id") or "")
+        proj_lookup[pid] = {
+            "name": str(prow.get("name") or ""),
+            "overview": str(prow.get("overview") or "")[:150],
+            "purpose": str(prow.get("purpose") or "")[:100],
+        }
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+
+    called = 0
+    cache_hits = 0
+
+    for pos, (idx, row) in enumerate(proc.iterrows()):
+        if row["project_id"] is not None:
+            continue  # 既マッチ
+
+        proc_id = str(row.get("procurement_id") or idx)
+        proc_name = str(row.get("name") or "")
+
+        # キャッシュヒット
+        if proc_id in cache:
+            matched_pid = cache[proc_id]
+            if matched_pid:
+                proc.at[idx, "project_id"] = matched_pid
+            cache_hits += 1
+            continue
+
+        # 上限チェック
+        if called >= _GROK_MATCH_LIMIT:
+            break
+
+        # top-3 候補を取得（スコア問わず上位3件）
+        sim_row = sim_matrix[pos]
+        top_indices = sim_row.argsort()[::-1][:3]
+        candidates = [
+            (project_ids[j], float(sim_row[j]), proj_lookup.get(str(project_ids[j]), {}))
+            for j in top_indices
+        ]
+
+        # 候補が全員スコア0なら Grok 不要
+        if all(score == 0.0 for _, score, _ in candidates):
+            cache[proc_id] = None
+            continue
+
+        # Grok プロンプト構築
+        cand_lines = "\n".join(
+            f"  [{i+1}] ID={pid} スコア={score:.3f}\n"
+            f"      事業名: {info.get('name','')}\n"
+            f"      概要: {info.get('overview','')}"
+            for i, (pid, score, info) in enumerate(candidates)
+        )
+        prompt = (
+            f"以下は日本のデジタル庁の調達案件です。\n"
+            f"調達案件名: 「{proc_name}」\n\n"
+            f"以下のRS事業（行政事業レビューシステム登録事業）の中で、\n"
+            f"この調達案件が属する事業を1つ選んでください。\n"
+            f"どれも該当しない場合は「なし」と答えてください。\n\n"
+            f"候補:\n{cand_lines}\n\n"
+            f"回答形式: 番号のみ（例: 1）または「なし」"
+        )
+
+        try:
+            resp = _req.post(
+                _GROK_API_URL,
+                headers=headers,
+                json={
+                    "model": _GROK_MODEL,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "max_tokens": 10,
+                    "temperature": 0,
+                },
+                timeout=30,
+            )
+            resp.raise_for_status()
+            answer = resp.json()["choices"][0]["message"]["content"].strip()
+            called += 1
+
+            matched_pid = None
+            if answer.isdigit():
+                choice = int(answer) - 1
+                if 0 <= choice < len(candidates):
+                    matched_pid = str(candidates[choice][0])
+                    proc.at[idx, "project_id"] = matched_pid
+
+            cache[proc_id] = matched_pid
+            time.sleep(0.3)  # レート制限対策
+
+        except Exception as e:
+            print(f"[Grok] API エラー (proc_id={proc_id}): {e}")
+            cache[proc_id] = None
+
+    # キャッシュ保存
+    _GROK_CACHE_FILE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"[Match][Grok] 呼出={called}件 キャッシュヒット={cache_hits}件 / 上限={_GROK_MATCH_LIMIT}件")
 
 
 def _char_ngram_analyzer(text: str) -> list[str]:
