@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "summary": {
-    "totalAmount": 162145145084.0,
+    "totalAmount": 166967337486.0,
     "noCompAmount": 55973555629.0,
-    "compAmount": 106171589455.0,
-    "noCompRate": 34.5,
+    "compAmount": 110993781857.0,
+    "noCompRate": 33.5,
     "noCompCount": 152,
-    "compCount": 186,
-    "totalCount": 338,
+    "compCount": 195,
+    "totalCount": 347,
     "bigNoCompCount": 87,
     "bigNoCompAmount": 52344805910.0,
     "maxLockInScore": 14855.7
@@ -113,17 +113,6 @@
       "lockInScore": 1325.3
     },
     {
-      "corporateNumber": "3010001076738",
-      "name": "合同会社デロイトトーマツ",
-      "category": "外資コンサル",
-      "noCompAmount": 936306000.0,
-      "noCompRate": 100.0,
-      "totalAmount": 936306000.0,
-      "noCompCount": 4,
-      "totalCount": 4,
-      "lockInScore": 936.3
-    },
-    {
       "corporateNumber": "1010401084788",
       "name": "株式会社ＦＩＸＥＲ",
       "category": "その他",
@@ -144,6 +133,17 @@
       "noCompCount": 8,
       "totalCount": 9,
       "lockInScore": 874.7
+    },
+    {
+      "corporateNumber": "3010001076738",
+      "name": "合同会社デロイトトーマツ",
+      "category": "外資コンサル",
+      "noCompAmount": 936306000.0,
+      "noCompRate": 83.9,
+      "totalAmount": 1116306000.0,
+      "noCompCount": 4,
+      "totalCount": 5,
+      "lockInScore": 785.6
     },
     {
       "corporateNumber": "9010001087242",
@@ -245,17 +245,6 @@
       "lockInScore": 395.5
     },
     {
-      "corporateNumber": "9010005005761",
-      "name": "一般社団法人行政情報システム研究所",
-      "category": "その他",
-      "noCompAmount": 641998500.0,
-      "noCompRate": 50.2,
-      "totalAmount": 1279428100.0,
-      "noCompCount": 2,
-      "totalCount": 3,
-      "lockInScore": 322.3
-    },
-    {
       "corporateNumber": "3010601021713",
       "name": "株式会社日立社会情報サービス",
       "category": "国内大手SI",
@@ -265,6 +254,17 @@
       "noCompCount": 2,
       "totalCount": 4,
       "lockInScore": 292.3
+    },
+    {
+      "corporateNumber": "9010005005761",
+      "name": "一般社団法人行政情報システム研究所",
+      "category": "その他",
+      "noCompAmount": 641998500.0,
+      "noCompRate": 43.4,
+      "totalAmount": 1479428100.0,
+      "noCompCount": 2,
+      "totalCount": 4,
+      "lockInScore": 278.6
     },
     {
       "corporateNumber": "4011005007414",
@@ -308,7 +308,7 @@
       "price": 3266636364.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-04-05",
-      "projectId": "6569",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -352,7 +352,7 @@
       "price": 1204800000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-04-05",
-      "projectId": "6569",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -385,7 +385,7 @@
       "price": 999930000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-14",
-      "projectId": "20041",
+      "projectId": "7645",
       "fiscalYear": 2025,
       "category": "国内大手SI"
     },
@@ -401,17 +401,6 @@
       "category": "国内大手SI"
     },
     {
-      "id": "0000000000000521305",
-      "name": "令和７年度 補助金申請システムの改修等業務",
-      "vendorName": "ＳＢテクノロジー株式会社",
-      "price": 914545000.0,
-      "bidMethodName": "随意契約・公募型プロポーザル",
-      "awardDate": "2025-03-31",
-      "projectId": "27",
-      "fiscalYear": 2024,
-      "category": "国内通信"
-    },
-    {
       "id": "0000000000000497655",
       "name": "令和７年度 補助金申請システムの改修等業務",
       "vendorName": "ＳＢテクノロジー株式会社",
@@ -420,6 +409,17 @@
       "awardDate": "2025-04-02",
       "projectId": "27",
       "fiscalYear": 2025,
+      "category": "国内通信"
+    },
+    {
+      "id": "0000000000000521305",
+      "name": "令和７年度 補助金申請システムの改修等業務",
+      "vendorName": "ＳＢテクノロジー株式会社",
+      "price": 914545000.0,
+      "bidMethodName": "随意契約・公募型プロポーザル",
+      "awardDate": "2025-03-31",
+      "projectId": "27",
+      "fiscalYear": 2024,
       "category": "国内通信"
     },
     {
@@ -462,7 +462,7 @@
       "price": 757000000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-04-25",
-      "projectId": "",
+      "projectId": "12",
       "fiscalYear": 2025,
       "category": "その他"
     },
@@ -484,7 +484,7 @@
       "price": 646360000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-04-05",
-      "projectId": "",
+      "projectId": "6566",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -583,7 +583,7 @@
       "price": 447454650.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-12-27",
-      "projectId": "5543",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内通信"
     },
@@ -594,7 +594,7 @@
       "price": 436361000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-31",
-      "projectId": "6557",
+      "projectId": "7644",
       "fiscalYear": 2024,
       "category": "その他"
     },
@@ -627,7 +627,7 @@
       "price": 408080000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-07-01",
-      "projectId": "",
+      "projectId": "7636",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -682,7 +682,7 @@
       "price": 375400000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-06-13",
-      "projectId": "20182",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "外資コンサル"
     },
@@ -715,7 +715,7 @@
       "price": 354500000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-07-09",
-      "projectId": "20912",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "国内コンサル・ベンダー"
     },
@@ -737,7 +737,7 @@
       "price": 302727000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-05-21",
-      "projectId": "20105",
+      "projectId": "",
       "fiscalYear": 2025,
       "category": "外資コンサル"
     },
@@ -748,7 +748,7 @@
       "price": 281800000.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2025-03-26",
-      "projectId": "20041",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -759,7 +759,7 @@
       "price": 279090900.0,
       "bidMethodName": "随意契約・公募型プロポーザル",
       "awardDate": "2024-09-13",
-      "projectId": "20585",
+      "projectId": "",
       "fiscalYear": 2024,
       "category": "国内大手SI"
     },
@@ -844,8 +844,8 @@
   "methodSummary": [
     {
       "method": "一般競争入札・総合評価",
-      "count": 111,
-      "amount": 103707067851.0,
+      "count": 118,
+      "amount": 108520184653.0,
       "isNoComp": false
     },
     {
@@ -856,8 +856,8 @@
     },
     {
       "method": "一般競争入札・最低価格",
-      "count": 74,
-      "amount": 2440614944.0,
+      "count": 76,
+      "amount": 2449690544.0,
       "isNoComp": false
     },
     {

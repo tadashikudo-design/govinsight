@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "6571",
   "name": "デジタル庁内開発情報システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2022",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 293191400.0,
-  "vendorCount": 4,
+  "totalAmount": 113361400.0,
+  "vendorCount": 3,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -262,15 +262,6 @@
       "vendorName": "株式会社ノースサンド",
       "corporateNumber": "6010601048200",
       "bidMethodName": "一般競争入札・最低価格"
-    },
-    {
-      "id": "0000000000000448416",
-      "name": "デジタル庁内開発情報システム基盤環境の評価及び再設計並びに端末の調達",
-      "awardDate": "2024-06-03",
-      "price": 179830000.0,
-      "vendorName": "ＮＴＴドコモビジネス株式会社",
-      "corporateNumber": "7010001064648",
-      "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {
       "id": "0000000000000549998",

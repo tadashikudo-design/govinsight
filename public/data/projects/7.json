@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "7",
   "name": "マイナンバー制度の推進",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/policies/mynumber",
-  "totalAmount": 588248420.0,
-  "vendorCount": 1,
+  "totalAmount": 0.0,
+  "vendorCount": 0,
   "latestExecRate": null,
   "latestBudget": 287680000.0,
   "vendorSummary": {
@@ -537,15 +537,5 @@
       "reflect_status": "現状通り"
     }
   ],
-  "procurements": [
-    {
-      "id": "0000000000000547621",
-      "name": "マイナンバー総合フリーダイヤルの設置運営業務",
-      "awardDate": "2026-02-12",
-      "price": 588248420.0,
-      "vendorName": "富士ソフトサービスビューロ株式会社",
-      "corporateNumber": "1010601027646",
-      "bidMethodName": "一般競争入札・総合評価"
-    }
-  ]
+  "procurements": []
 }

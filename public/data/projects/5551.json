@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "5551",
   "name": "電子契約システム（工事・業務）（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "2027",
   "rsUrl": "",
-  "totalAmount": 423598000.0,
-  "vendorCount": 2,
+  "totalAmount": 377278000.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -210,15 +210,6 @@
       "vendorName": "株式会社ＮＴＴデータ",
       "corporateNumber": "6010601062093",
       "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000562807",
-      "name": "電子契約システム（工事・業務）の工程管理支援業務（令和８年度）",
-      "awardDate": "2026-03-05",
-      "price": 46320000.0,
-      "vendorName": "ＧＭＯコネクト株式会社",
-      "corporateNumber": "7011001095682",
-      "bidMethodName": "随意契約・公募型プロポーザル"
     }
   ]
 }

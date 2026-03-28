@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "totalRsSpend": 1070988761740.0,
   "totalCloudSpend": 3958981450.0,
   "cloudShare": 0.4,
@@ -376,9 +376,9 @@
       "corporateNumber": "7010401022916",
       "name": "日本電気株式会社",
       "category": "国内大手SI",
-      "totalAmount": 34654898612.0,
-      "count": 20,
-      "noCompetitionRate": 20.0
+      "totalAmount": 38710398612.0,
+      "count": 21,
+      "noCompetitionRate": 19.0
     },
     {
       "corporateNumber": "9011101031552",
@@ -504,9 +504,9 @@
       "corporateNumber": "9010005005761",
       "name": "一般社団法人行政情報システム研究所",
       "category": "その他",
-      "totalAmount": 1279428100.0,
-      "count": 3,
-      "noCompetitionRate": 66.7
+      "totalAmount": 1479428100.0,
+      "count": 4,
+      "noCompetitionRate": 50.0
     },
     {
       "corporateNumber": "6010001030403",

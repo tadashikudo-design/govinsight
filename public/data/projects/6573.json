@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "6573",
   "name": "政府共通決済基盤（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2022",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 1602788850.0,
+  "totalAmount": 1610588850.0,
   "vendorCount": 7,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -211,6 +211,15 @@
       "price": 33757500.0,
       "vendorName": "ヤマトシステム開発株式会社",
       "corporateNumber": "9010601029263",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000566490",
+      "name": "令和８年度 政府共通決済基盤における国庫納付機能の開発に伴う情報セキュリティ確保",
+      "awardDate": "2026-03-18",
+      "price": 7800000.0,
+      "vendorName": "ＴＩＳ株式会社",
+      "corporateNumber": "2010001134133",
       "bidMethodName": "一般競争入札・総合評価"
     }
   ]

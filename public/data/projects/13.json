@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "13",
   "name": "共通情報検索システム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 948245000.0,
+  "totalAmount": 1039145000.0,
   "vendorCount": 4,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -493,6 +493,15 @@
       "price": 100000000.0,
       "vendorName": "ＥＹストラテジー・アンド・コンサルティング株式会社",
       "corporateNumber": "6010001107003",
+      "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000515062",
+      "name": "正確かつ最新の法令データの迅速な提供、ベースレジストリの拡充、法制事務の効率化及び将来像等に関する技術検証",
+      "awardDate": "2025-05-15",
+      "price": 90900000.0,
+      "vendorName": "株式会社ぎょうせい",
+      "corporateNumber": "1010001100425",
       "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {

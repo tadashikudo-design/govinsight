@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "20135",
   "name": "法人ベース・レジストリ（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2024",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 380995000.0,
-  "vendorCount": 2,
+  "totalAmount": 365485000.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -92,15 +92,6 @@
       "vendorName": "キャップジェミニ株式会社",
       "corporateNumber": "4010402035069",
       "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000509127",
-      "name": "2025年度の支援情報ベース・レジストリシステムの運用保守業務",
-      "awardDate": "2025-03-21",
-      "price": 15510000.0,
-      "vendorName": "株式会社電算システム",
-      "corporateNumber": "5200001003514",
-      "bidMethodName": "一般競争入札・最低価格"
     }
   ]
 }

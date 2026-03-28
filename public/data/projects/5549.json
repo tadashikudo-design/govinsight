@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "5549",
   "name": "政府共通ウェブサイト（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/",
-  "totalAmount": 201951004.0,
+  "totalAmount": 289555306.0,
   "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -380,6 +380,15 @@
       "vendorName": "株式会社電通デジタル",
       "corporateNumber": "5010001086470",
       "bidMethodName": "随意契約・公募型プロポーザル"
+    },
+    {
+      "id": "0000000000000567851",
+      "name": "令和８年度デジタル庁ウェブサイト運用保守及び共通CMSの機能改善等業務",
+      "awardDate": "2026-03-19",
+      "price": 87604302.0,
+      "vendorName": "株式会社電通デジタル",
+      "corporateNumber": "5010001086470",
+      "bidMethodName": "一般競争入札・総合評価"
     }
   ]
 }

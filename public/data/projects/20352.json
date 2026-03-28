@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "20352",
   "name": "各省庁等の行政手続・補助金調査及び共通機能展開支援事業",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2025",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 38660000.0,
+  "totalAmount": 100872500.0,
   "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -145,6 +145,15 @@
       "name": "令和７年度　各省庁等の行政手続・補助金調査及び共通機能展開支援",
       "awardDate": "2025-04-24",
       "price": 38660000.0,
+      "vendorName": "株式会社ＪＤＳＣ",
+      "corporateNumber": "6010001193638",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000579665",
+      "name": "令和８年度各省庁等の行政手続・補助金調査及び共通機能展開支援業務",
+      "awardDate": "2026-03-19",
+      "price": 62212500.0,
       "vendorName": "株式会社ＪＤＳＣ",
       "corporateNumber": "6010001193638",
       "bidMethodName": "一般競争入札・総合評価"

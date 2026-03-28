@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "21427",
   "name": "Visit Japan Webの利用促進のための周知等に係る経費",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2025",
   "endYear": "2026",
   "rsUrl": "",
-  "totalAmount": 2210681.0,
+  "totalAmount": 697611551.0,
   "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -54,13 +54,22 @@
   ],
   "procurements": [
     {
-      "id": "0000000000000490970",
-      "name": "登記情報連携の利用促進のための地方公共団体向けセミナーに係る会場設営等業務の調達",
-      "awardDate": "2025-02-07",
-      "price": 2210681.0,
-      "vendorName": "株式会社タスクールＰｌｕｓ",
-      "corporateNumber": "5180001115849",
-      "bidMethodName": "一般競争入札・最低価格"
+      "id": "0000000000000475787",
+      "name": "令和７年度Visit Japan Web（フェイズ２）の運用・保守",
+      "awardDate": "2025-03-14",
+      "price": 357489246.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000547154",
+      "name": "令和８年度Visit Japan Web（フェイズ２）の運用・保守",
+      "awardDate": "2026-03-12",
+      "price": 340122305.0,
+      "vendorName": "株式会社ＮＴＴデータ",
+      "corporateNumber": "6010601062093",
+      "bidMethodName": "一般競争入札・総合評価"
     }
   ]
 }

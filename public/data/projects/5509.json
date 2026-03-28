@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "5509",
   "name": "公金受取口座登録業務支援経費",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2023",
   "endYear": "2024",
   "rsUrl": "https://www.digital.go.jp/policies/account_registration/",
-  "totalAmount": 16100000.0,
+  "totalAmount": 68458860.0,
   "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -187,13 +187,13 @@
   ],
   "procurements": [
     {
-      "id": "0000000000000530300",
-      "name": "口座登録法及び口座管理法に基づく金融機関連携業務の業務支援",
-      "awardDate": "2025-06-30",
-      "price": 16100000.0,
-      "vendorName": "日鉄ソリューションズ株式会社",
-      "corporateNumber": "9010001045803",
-      "bidMethodName": "一般競争入札・総合評価"
+      "id": "0000000000000444650",
+      "name": "公金受取口座登録等通知書印刷印字加工・返戻対応業務",
+      "awardDate": "2024-05-08",
+      "price": 68458860.0,
+      "vendorName": "株式会社ＤＮＰデータテクノ",
+      "corporateNumber": "1050001028118",
+      "bidMethodName": "一般競争入札・最低価格"
     }
   ]
 }

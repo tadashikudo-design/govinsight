@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "byYear": [
     {
       "year": 2024,
@@ -28,14 +28,14 @@
     },
     {
       "year": 2025,
-      "totalAmount": 54257603887.0,
-      "count": 146,
+      "totalAmount": 59079796289.0,
+      "count": 155,
       "noCompAmount": 13874779722.0,
       "noCompCount": 58,
-      "noCompRate": 25.6,
-      "avgContractSize": 37163,
-      "vendorCount": 85,
-      "hhi": 1477,
+      "noCompRate": 23.5,
+      "avgContractSize": 38116,
+      "vendorCount": 89,
+      "hhi": 1423,
       "topVendors": [
         {
           "name": "ＫＤＤＩ株式会社",
@@ -47,7 +47,7 @@
         },
         {
           "name": "日本電気株式会社",
-          "amount": 5543403232.0
+          "amount": 9598903232.0
         }
       ]
     }
@@ -77,15 +77,15 @@
     {
       "year": 2025,
       "method": "一般競争入札・最低価格",
-      "count": 27,
-      "amount": 1114014782.0,
+      "count": 29,
+      "amount": 1123090382.0,
       "isNoComp": false
     },
     {
       "year": 2025,
       "method": "一般競争入札・総合評価",
-      "count": 60,
-      "amount": 39244902723.0,
+      "count": 67,
+      "amount": 44058019525.0,
       "isNoComp": false
     },
     {
@@ -137,20 +137,20 @@
     {
       "year": 2025,
       "category": "その他",
-      "count": 100,
-      "amount": 10168239881.0
+      "count": 106,
+      "amount": 10534932283.0
     },
     {
       "year": 2025,
       "category": "国内コンサル・ベンダー",
-      "count": 3,
-      "amount": 822551400.0
+      "count": 4,
+      "amount": 1042551400.0
     },
     {
       "year": 2025,
       "category": "国内大手SI",
-      "count": 22,
-      "amount": 12582489794.0
+      "count": 23,
+      "amount": 16637989794.0
     },
     {
       "year": 2025,
@@ -161,8 +161,8 @@
     {
       "year": 2025,
       "category": "外資コンサル",
-      "count": 10,
-      "amount": 1999619562.0
+      "count": 11,
+      "amount": 2179619562.0
     }
   ],
   "monthly": [
@@ -283,8 +283,8 @@
     },
     {
       "month": "2026-03",
-      "count": 25,
-      "amount": 3842558400.0
+      "count": 34,
+      "amount": 8664750802.0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "6568",
   "name": "個人向け認証アプリケーション（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2022",
   "endYear": "",
   "rsUrl": "https://services.digital.go.jp/auth-and-sign/",
-  "totalAmount": 678091200.0,
-  "vendorCount": 4,
+  "totalAmount": 352255200.0,
+  "vendorCount": 2,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -353,15 +353,6 @@
   ],
   "procurements": [
     {
-      "id": "0000000000000430955",
-      "name": "令和６年度GSS運用に係るアプリケーション検査業務",
-      "awardDate": "2024-04-12",
-      "price": 46888000.0,
-      "vendorName": "株式会社ＦＦＲＩセキュリティ",
-      "corporateNumber": "3011101046226",
-      "bidMethodName": "一般競争入札・最低価格"
-    },
-    {
       "id": "0000000000000455468",
       "name": "令和６年度ＧＳＳ情報ポータルのアプリケーション開発等の支援（品質保証）",
       "awardDate": "2024-06-28",
@@ -389,15 +380,6 @@
       "bidMethodName": "一般競争入札・総合評価"
     },
     {
-      "id": "0000000000000486185",
-      "name": "デジタル認証アプリのヘルプデスク業務（令和７年度）",
-      "awardDate": "2025-02-28",
-      "price": 29880000.0,
-      "vendorName": "アディッシュプラス株式会社",
-      "corporateNumber": "5360001015948",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
       "id": "0000000000000518924",
       "name": "令和７年度デジタル認証アプリのテスト支援",
       "awardDate": "2025-05-09",
@@ -405,33 +387,6 @@
       "vendorName": "株式会社ＳＨＩＦＴ",
       "corporateNumber": "8010401073462",
       "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000516198",
-      "name": "令和７年度GSS運用に係るアプリケーション検査業務",
-      "awardDate": "2025-05-19",
-      "price": 53500000.0,
-      "vendorName": "株式会社ＦＦＲＩセキュリティ",
-      "corporateNumber": "3011101046226",
-      "bidMethodName": "一般競争入札・最低価格"
-    },
-    {
-      "id": "0000000000000525704",
-      "name": "令和７年度マイナポータルアプリ及び統合アプリのテスト支援",
-      "awardDate": "2025-06-23",
-      "price": 138412000.0,
-      "vendorName": "株式会社ＳＨＩＦＴ",
-      "corporateNumber": "8010401073462",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    },
-    {
-      "id": "0000000000000559978",
-      "name": "令和８年度デジタル認証アプリのヘルプデスク業務",
-      "awardDate": "2026-03-02",
-      "price": 57156000.0,
-      "vendorName": "アディッシュプラス株式会社",
-      "corporateNumber": "5360001015948",
-      "bidMethodName": "一般競争入札・総合評価"
     },
     {
       "id": "0000000000000568544",

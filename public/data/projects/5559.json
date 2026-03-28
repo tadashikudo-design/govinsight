@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "5559",
   "name": "サイバーセキュリティ対策等事業費",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 96712000.0,
-  "vendorCount": 3,
+  "totalAmount": 0.0,
+  "vendorCount": 0,
   "latestExecRate": null,
   "latestBudget": 127555000.0,
   "vendorSummary": {
@@ -367,33 +367,5 @@
       "reflect_status": "現状通り"
     }
   ],
-  "procurements": [
-    {
-      "id": "0000000000000454826",
-      "name": "情報セキュリティ内部監査一式",
-      "awardDate": "2024-09-18",
-      "price": 20940000.0,
-      "vendorName": "株式会社ケイテック",
-      "corporateNumber": "7021001009856",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000519728",
-      "name": "令和７年度　情報セキュリティ内部監査一式",
-      "awardDate": "2025-06-26",
-      "price": 19000000.0,
-      "vendorName": "有限責任監査法人トーマツ",
-      "corporateNumber": "5010405001703",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
-      "id": "0000000000000531495",
-      "name": "スマートフォン端末のセキュリティ診断に係る業務委託",
-      "awardDate": "2025-09-08",
-      "price": 56772000.0,
-      "vendorName": "株式会社ラック",
-      "corporateNumber": "7010001134137",
-      "bidMethodName": "随意契約・公募型プロポーザル"
-    }
-  ]
+  "procurements": []
 }

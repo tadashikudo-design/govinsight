@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "20108",
   "name": "地域福利増進事業等のための住民基本台帳ネットワークシステム（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2025",
   "endYear": "",
   "rsUrl": "",
-  "totalAmount": 0.0,
-  "vendorCount": 0,
+  "totalAmount": 220000000.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -111,5 +111,15 @@
       "reflect_status": ""
     }
   ],
-  "procurements": []
+  "procurements": [
+    {
+      "id": "0000000000000553201",
+      "name": "口座登録法に基づく口座情報登録・連携システムによる住民基本台帳ネットワークシステムの利用環境の更改・運用保守業務",
+      "awardDate": "2026-03-19",
+      "price": 220000000.0,
+      "vendorName": "株式会社野村総合研究所",
+      "corporateNumber": "4010001054032",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
 }

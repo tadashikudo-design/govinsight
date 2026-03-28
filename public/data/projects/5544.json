@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "5544",
   "name": "公共サービスメッシュ（デジタル連携基盤）（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2021",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/policies/public_service_mesh",
-  "totalAmount": 3204918231.0,
-  "vendorCount": 4,
+  "totalAmount": 3115868231.0,
+  "vendorCount": 5,
   "latestExecRate": null,
   "latestBudget": 0.0,
   "vendorSummary": {
@@ -471,15 +471,6 @@
       "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {
-      "id": "0000000000000474545",
-      "name": "令和６年度利用者起点及びＥＢＰＭに基づく公共サービスに関する調査・支援事業",
-      "awardDate": "2024-11-01",
-      "price": 176350000.0,
-      "vendorName": "株式会社三菱総合研究所",
-      "corporateNumber": "6010001030403",
-      "bidMethodName": "一般競争入札・総合評価"
-    },
-    {
       "id": "0000000000000495656",
       "name": "令和7年度公共サービスメッシュ（自治体内情報活用サービス）にかかる設計・開発業務一式",
       "awardDate": "2025-03-26",
@@ -495,6 +486,15 @@
       "price": 988000000.0,
       "vendorName": "富士ソフト株式会社",
       "corporateNumber": "2020001043507",
+      "bidMethodName": "一般競争入札・総合評価"
+    },
+    {
+      "id": "0000000000000549817",
+      "name": "公共APIゲートウェイに係る運用・保守業務一式",
+      "awardDate": "2025-12-23",
+      "price": 87300000.0,
+      "vendorName": "株式会社ＳＨＩＦＴ",
+      "corporateNumber": "8010401073462",
       "bidMethodName": "一般競争入札・総合評価"
     }
   ]

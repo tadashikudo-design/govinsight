@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "21895",
   "name": "デジタル社会推進標準ガイドラインの改定",
   "ministry": "デジタル庁",
@@ -12,8 +12,8 @@
   "startYear": "2014",
   "endYear": "",
   "rsUrl": "https://www.digital.go.jp/resources/standard_guidelines",
-  "totalAmount": 0.0,
-  "vendorCount": 0,
+  "totalAmount": 16000000.0,
+  "vendorCount": 1,
   "latestExecRate": null,
   "latestBudget": 37400000.0,
   "vendorSummary": {
@@ -67,5 +67,15 @@
       "reflect_status": "現状通り"
     }
   ],
-  "procurements": []
+  "procurements": [
+    {
+      "id": "0000000000000534635",
+      "name": "令和７年度 デジタル社会の推進に必要な指針類に係る支援業務",
+      "awardDate": "2025-08-05",
+      "price": 16000000.0,
+      "vendorName": "アビームコンサルティング株式会社",
+      "corporateNumber": "8010001085296",
+      "bidMethodName": "一般競争入札・総合評価"
+    }
+  ]
 }

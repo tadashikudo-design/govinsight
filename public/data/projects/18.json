@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T12:08:56Z",
+  "updatedAt": "2026-03-28T21:55:59Z",
   "id": "18",
   "name": "政府共通ネットワーク（情報通信技術調達等適正・効率化推進費）",
   "ministry": "デジタル庁",
@@ -12,7 +12,7 @@
   "startYear": "2021",
   "endYear": "2024",
   "rsUrl": "",
-  "totalAmount": 279074000.0,
+  "totalAmount": 472574000.0,
   "vendorCount": 2,
   "latestExecRate": null,
   "latestBudget": 0.0,
@@ -296,13 +296,13 @@
       "bidMethodName": "随意契約・公募型プロポーザル"
     },
     {
-      "id": "0000000000000487148",
-      "name": "「学校ネットワーク」自治体ピッチの開催に向けた運用支援業務",
-      "awardDate": "2025-01-17",
-      "price": 6500000.0,
-      "vendorName": "株式会社サウンズネクスト",
-      "corporateNumber": "4010001094689",
-      "bidMethodName": "一般競争入札・最低価格"
+      "id": "0000000000000551380",
+      "name": "令和8年度ガバメントクラウド利用政府情報システムのネットワーク接続支援に係る役務等",
+      "awardDate": "2026-03-19",
+      "price": 200000000.0,
+      "vendorName": "一般社団法人行政情報システム研究所",
+      "corporateNumber": "9010005005761",
+      "bidMethodName": "一般競争入札・総合評価"
     }
   ]
 }
